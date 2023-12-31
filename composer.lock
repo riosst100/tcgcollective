@@ -20831,7 +20831,7 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:riosst100/m2-core-marketplace.git",
-                "reference": "389e3a07a2ff162f598581b95c299237aee6b22b"
+                "reference": "35e75b8f305071fe270195ef11ab19c887dc89ea"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -20852,10 +20852,12 @@
                     "src/module-lof-all/registration.php",
                     "src/module-lof-marketplace/registration.php",
                     "src/module-lof-marketplace-graphql/registration.php",
+                    "src/module-lof-marketplace-product-bundle/registration.php",
                     "src/module-lof-marketplace-product-configurable/registration.php",
                     "src/module-lof-marketplace-product-downloadable/registration.php",
                     "src/module-lof-marketplace-theme/registration.php",
                     "src/module-lof-seller-community/registration.php",
+                    "src/module-lof-setup/registration.php",
                     "src/module-lofmp-page-builder/registration.php",
                     "src/module-lofmp-ui/registration.php"
                 ],
@@ -20893,7 +20895,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2023-12-31T08:23:56+00:00"
+            "time": "2023-12-31T10:33:14+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
