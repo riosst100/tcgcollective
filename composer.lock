@@ -5332,53 +5332,6 @@
             "time": "2023-11-24T13:56:19+00:00"
         },
         {
-            "name": "landofcoder/module-all",
-            "version": "1.0.5",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/landofcoder/module-all.git",
-                "reference": "8d0bc2ca26fed5abb9cb859b09d6805df482c5b4"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/landofcoder/module-all/zipball/8d0bc2ca26fed5abb9cb859b09d6805df482c5b4",
-                "reference": "8d0bc2ca26fed5abb9cb859b09d6805df482c5b4",
-                "shasum": ""
-            },
-            "type": "magento2-module",
-            "autoload": {
-                "files": [
-                    "registration.php"
-                ],
-                "psr-4": {
-                    "Lof\\All\\": ""
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "OSL-3.0",
-                "AFL-3.0"
-            ],
-            "authors": [
-                {
-                    "name": "Landofcoder",
-                    "email": "landofcoder@gmail.com",
-                    "role": "Magento 2 Lof All Extension"
-                }
-            ],
-            "description": "Lof All Extension - config enable/disable common js, css files which were used on all venus extensions. For example: bootstrap, owlcarousel, colorbox, fancybox",
-            "keywords": [
-                "landofcoder",
-                "landofcoder all",
-                "landofcoder core extension"
-            ],
-            "support": {
-                "issues": "https://github.com/landofcoder/module-all/issues",
-                "source": "https://github.com/landofcoder/module-all/tree/1.0.5"
-            },
-            "time": "2022-07-29T02:19:04+00:00"
-        },
-        {
             "name": "league/flysystem",
             "version": "2.5.0",
             "source": {
@@ -20878,15 +20831,14 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:riosst100/m2-core-marketplace.git",
-                "reference": "bf1e1e8cbcb08d80336713e898ebc375763988fd"
+                "reference": "389e3a07a2ff162f598581b95c299237aee6b22b"
             },
             "require": {
                 "abraham/twitteroauth": "*",
                 "geoip2/geoip2": "^2.9.0",
                 "google/apiclient": "^2.10",
                 "hybridauth/hybridauth": "*",
-                "janu-software/facebook-php-sdk": "^0.1",
-                "landofcoder/module-all": "1.*"
+                "janu-software/facebook-php-sdk": "^0.1"
             },
             "default-branch": true,
             "type": "magento2-module",
@@ -20897,9 +20849,15 @@
                     "src/module-category-importexport/registration.php",
                     "src/module-geoip/registration.php",
                     "src/module-geoip-graphql/registration.php",
-                    "src/module-lof-payment-fee/registration.php",
-                    "src/module-payment-fee-graphql/registration.php",
-                    "src/module-lof-social-login/registration.php"
+                    "src/module-lof-all/registration.php",
+                    "src/module-lof-marketplace/registration.php",
+                    "src/module-lof-marketplace-graphql/registration.php",
+                    "src/module-lof-marketplace-product-configurable/registration.php",
+                    "src/module-lof-marketplace-product-downloadable/registration.php",
+                    "src/module-lof-marketplace-theme/registration.php",
+                    "src/module-lof-seller-community/registration.php",
+                    "src/module-lofmp-page-builder/registration.php",
+                    "src/module-lofmp-ui/registration.php"
                 ],
                 "psr-4": {
                     "CoreMarketplace\\SellerRegistration\\": "src/module-seller-registration",
@@ -20907,9 +20865,16 @@
                     "Webcastle\\CategoryImportExport\\": "src/module-category-importexport",
                     "Magefan\\GeoIp\\": "src/module-geoip",
                     "CoreMarketplace\\GeoIpGraphQl\\": "src/module-geoip-graphql",
-                    "Lof\\Paymentfee\\": "src/module-lof-payment-fee",
-                    "CoreMarketplace\\PaymentfeeGraphQl\\": "src/module-payment-fee-graphql",
-                    "Lof\\SocialLogin\\": "src/module-lof-social-login"
+                    "Lof\\All\\": "src/module-lof-all",
+                    "Lof\\MarketPlace\\": "src/module-lof-marketplace",
+                    "Lof\\MarketplaceGraphQl\\": "src/module-lof-marketplace-graphql",
+                    "Lof\\MarketProductBundle\\": "src/module-lof-marketplace-product-bundle",
+                    "Lof\\MarketProductConfigurable\\": "src/module-lof-marketplace-product-configurable",
+                    "Lof\\MarketProductDownloadable\\": "src/module-lof-marketplace-product-downloadable",
+                    "Lof\\SellerCommunity\\": "src/module-lof-seller-community",
+                    "Lof\\Setup\\": "src/module-lof-setup",
+                    "Lofmp\\PageBuilder\\": "src/module-lofmp-page-builder",
+                    "Lofmp\\Ui\\": "src/module-lofmp-ui"
                 }
             },
             "license": [
@@ -20928,7 +20893,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2023-12-23T13:54:35+00:00"
+            "time": "2023-12-31T08:23:56+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
