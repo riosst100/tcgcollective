@@ -79,13 +79,13 @@
     "minimum-stability": "stable",
     "prefer-stable": true,
     "repositories": {
-        "riosst100-m2-core-marketplace": {
-            "type": "git",
-            "url": "git@github.com:riosst100/m2-core-marketplace.git"
-        },
         "0": {
             "type": "composer",
             "url": "https://repo.magento.com/"
+        },
+        "1": {
+            "type": "vcs",
+            "url": "https://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@github.com/riosst100/m2-core-marketplace.git"
         }
     },
     "extra": {
