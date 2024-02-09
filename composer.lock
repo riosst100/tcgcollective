@@ -21312,7 +21312,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "2ae5e1e4bc2a1de8d3fb20a367a03e0e2ae61177"
+                "reference": "38498142b260e5304b8a806c2ca5306ce9598724"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21471,7 +21471,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2024-02-09T03:11:02+00:00"
+            "time": "2024-02-09T04:58:35+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
