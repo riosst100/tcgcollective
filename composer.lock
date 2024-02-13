@@ -53,16 +53,16 @@
         },
         {
             "name": "abraham/twitteroauth",
-            "version": "6.2.0",
+            "version": "7.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/abraham/twitteroauth.git",
-                "reference": "e6fc2e0c30371ce68427d547bdeb19725868db30"
+                "reference": "a8622680f954d0c4f54fd80bedebe00c756ed7aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/abraham/twitteroauth/zipball/e6fc2e0c30371ce68427d547bdeb19725868db30",
-                "reference": "e6fc2e0c30371ce68427d547bdeb19725868db30",
+                "url": "https://api.github.com/repos/abraham/twitteroauth/zipball/a8622680f954d0c4f54fd80bedebe00c756ed7aa",
+                "reference": "a8622680f954d0c4f54fd80bedebe00c756ed7aa",
                 "shasum": ""
             },
             "require": {
@@ -111,7 +111,7 @@
                 "issues": "https://github.com/abraham/twitteroauth/issues",
                 "source": "https://github.com/abraham/twitteroauth"
             },
-            "time": "2023-10-28T20:17:00+00:00"
+            "time": "2024-02-11T18:58:08+00:00"
         },
         {
             "name": "adobe-commerce/adobe-ims-metapackage",
@@ -227,16 +227,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.298.6",
+            "version": "3.298.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "0afccba68a96c0cbc10f6fc5b08c5a0e09774220"
+                "reference": "9d123669b14ccd0f87f7f7de77ace7e5d8fe9d13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/0afccba68a96c0cbc10f6fc5b08c5a0e09774220",
-                "reference": "0afccba68a96c0cbc10f6fc5b08c5a0e09774220",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/9d123669b14ccd0f87f7f7de77ace7e5d8fe9d13",
+                "reference": "9d123669b14ccd0f87f7f7de77ace7e5d8fe9d13",
                 "shasum": ""
             },
             "require": {
@@ -316,9 +316,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.298.6"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.298.8"
             },
-            "time": "2024-02-08T19:03:23+00:00"
+            "time": "2024-02-12T19:07:29+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -1048,16 +1048,16 @@
         },
         {
             "name": "composer/composer",
-            "version": "2.7.0",
+            "version": "2.7.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/composer.git",
-                "reference": "96d107e2bfe61bb9eafe55a9d45bd7faed1dd461"
+                "reference": "aaf6ed5ccd27c23f79a545e351b4d7842a99d0bc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/composer/zipball/96d107e2bfe61bb9eafe55a9d45bd7faed1dd461",
-                "reference": "96d107e2bfe61bb9eafe55a9d45bd7faed1dd461",
+                "url": "https://api.github.com/repos/composer/composer/zipball/aaf6ed5ccd27c23f79a545e351b4d7842a99d0bc",
+                "reference": "aaf6ed5ccd27c23f79a545e351b4d7842a99d0bc",
                 "shasum": ""
             },
             "require": {
@@ -1142,7 +1142,7 @@
                 "irc": "ircs://irc.libera.chat:6697/composer",
                 "issues": "https://github.com/composer/composer/issues",
                 "security": "https://github.com/composer/composer/security/policy",
-                "source": "https://github.com/composer/composer/tree/2.7.0"
+                "source": "https://github.com/composer/composer/tree/2.7.1"
             },
             "funding": [
                 {
@@ -1158,7 +1158,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-02-08T14:09:19+00:00"
+            "time": "2024-02-09T14:26:28+00:00"
         },
         {
             "name": "composer/metadata-minifier",
@@ -2344,16 +2344,16 @@
         },
         {
             "name": "google/apiclient-services",
-            "version": "v0.334.0",
+            "version": "v0.335.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/googleapis/google-api-php-client-services.git",
-                "reference": "5d2ebd6199b34b4b207eff2118bb783ae7b6f413"
+                "reference": "3e6cea8f43066378babdf00e718f01c7c55233fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/5d2ebd6199b34b4b207eff2118bb783ae7b6f413",
-                "reference": "5d2ebd6199b34b4b207eff2118bb783ae7b6f413",
+                "url": "https://api.github.com/repos/googleapis/google-api-php-client-services/zipball/3e6cea8f43066378babdf00e718f01c7c55233fd",
+                "reference": "3e6cea8f43066378babdf00e718f01c7c55233fd",
                 "shasum": ""
             },
             "require": {
@@ -2382,9 +2382,9 @@
             ],
             "support": {
                 "issues": "https://github.com/googleapis/google-api-php-client-services/issues",
-                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.334.0"
+                "source": "https://github.com/googleapis/google-api-php-client-services/tree/v0.335.0"
             },
-            "time": "2024-02-04T01:06:40+00:00"
+            "time": "2024-02-12T01:08:15+00:00"
         },
         {
             "name": "google/auth",
@@ -19591,6 +19591,92 @@
             "time": "2020-10-15T08:29:30+00:00"
         },
         {
+            "name": "paragonie/sodium_compat",
+            "version": "v1.20.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/paragonie/sodium_compat.git",
+                "reference": "e592a3e06d1fa0d43988c7c7d9948ca836f644b6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/paragonie/sodium_compat/zipball/e592a3e06d1fa0d43988c7c7d9948ca836f644b6",
+                "reference": "e592a3e06d1fa0d43988c7c7d9948ca836f644b6",
+                "shasum": ""
+            },
+            "require": {
+                "paragonie/random_compat": ">=1",
+                "php": "^5.2.4|^5.3|^5.4|^5.5|^5.6|^7|^8"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^3|^4|^5|^6|^7|^8|^9"
+            },
+            "suggest": {
+                "ext-libsodium": "PHP < 7.0: Better performance, password hashing (Argon2i), secure memory management (memzero), and better security.",
+                "ext-sodium": "PHP >= 7.0: Better performance, password hashing (Argon2i), secure memory management (memzero), and better security."
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "autoload.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "ISC"
+            ],
+            "authors": [
+                {
+                    "name": "Paragon Initiative Enterprises",
+                    "email": "security@paragonie.com"
+                },
+                {
+                    "name": "Frank Denis",
+                    "email": "jedisct1@pureftpd.org"
+                }
+            ],
+            "description": "Pure PHP implementation of libsodium; uses the PHP extension if it exists",
+            "keywords": [
+                "Authentication",
+                "BLAKE2b",
+                "ChaCha20",
+                "ChaCha20-Poly1305",
+                "Chapoly",
+                "Curve25519",
+                "Ed25519",
+                "EdDSA",
+                "Edwards-curve Digital Signature Algorithm",
+                "Elliptic Curve Diffie-Hellman",
+                "Poly1305",
+                "Pure-PHP cryptography",
+                "RFC 7748",
+                "RFC 8032",
+                "Salpoly",
+                "Salsa20",
+                "X25519",
+                "XChaCha20-Poly1305",
+                "XSalsa20-Poly1305",
+                "Xchacha20",
+                "Xsalsa20",
+                "aead",
+                "cryptography",
+                "ecdh",
+                "elliptic curve",
+                "elliptic curve cryptography",
+                "encryption",
+                "libsodium",
+                "php",
+                "public-key cryptography",
+                "secret-key cryptography",
+                "side-channel resistant"
+            ],
+            "support": {
+                "issues": "https://github.com/paragonie/sodium_compat/issues",
+                "source": "https://github.com/paragonie/sodium_compat/tree/v1.20.0"
+            },
+            "time": "2023-04-30T00:54:53+00:00"
+        },
+        {
             "name": "paypal/module-braintree",
             "version": "4.5.0-p1",
             "dist": {
@@ -21312,7 +21398,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "38498142b260e5304b8a806c2ca5306ce9598724"
+                "reference": "18d1ea110c39687117314e239229d09c59ef2794"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21336,6 +21422,7 @@
                     "src/module-marketplace-graphql/registration.php",
                     "src/module-seller-identification-approval/registration.php",
                     "src/module-seller-membership/registration.php",
+                    "src/module-marketplace-theme/registration.php",
                     "src/module-lof-all/registration.php",
                     "src/module-lof-marketplace/registration.php",
                     "src/module-lof-marketplace-graphql/registration.php",
@@ -21388,7 +21475,10 @@
                     "src/module-lofmp-split-order-paypal/registration.php",
                     "src/module-lofmp-store-locator/registration.php",
                     "src/module-lofmp-table-rate-shipping/registration.php",
-                    "src/module-lofmp-time-discount/registration.php"
+                    "src/module-lofmp-time-discount/registration.php",
+                    "src/module-ves-all/registration.php",
+                    "src/module-ves-brand/registration.php",
+                    "src/module-ves-setup/registration.php"
                 ],
                 "psr-4": {
                     "CoreMarketplace\\SellerRegistration\\": "src/module-seller-registration",
@@ -21400,6 +21490,7 @@
                     "Webcastle\\CategoryImportExport\\": "src/module-category-importexport",
                     "Magefan\\GeoIp\\": "src/module-geoip",
                     "CoreMarketplace\\GeoIpGraphQl\\": "src/module-geoip-graphql",
+                    "CoreMarketplace\\MarketTheme\\": "src/module-marketplace-theme",
                     "Lof\\All\\": "src/module-lof-all",
                     "Lof\\MarketPlace\\": "src/module-lof-marketplace",
                     "Lof\\MarketplaceGraphQl\\": "src/module-lof-marketplace-graphql",
@@ -21452,7 +21543,10 @@
                     "Lofmp\\SplitOrderPaypal\\": "src/module-lofmp-split-order-paypal",
                     "Lofmp\\StoreLocator\\": "src/module-lofmp-store-locator",
                     "Lofmp\\TableRateShipping\\": "src/module-lofmp-table-rate-shipping",
-                    "Lofmp\\TimeDiscount\\": "src/module-lofmp-time-discount"
+                    "Lofmp\\TimeDiscount\\": "src/module-lofmp-time-discount",
+                    "Ves\\All\\": "src/module-ves-all",
+                    "Ves\\Brand\\": "src/module-ves-brand",
+                    "Ves\\Setup\\": "src/module-ves-setup"
                 }
             },
             "license": [
@@ -21471,7 +21565,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2024-02-09T04:58:35+00:00"
+            "time": "2024-02-13T17:03:07+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
@@ -24662,16 +24756,16 @@
         },
         {
             "name": "web-token/jwt-framework",
-            "version": "3.2.9",
+            "version": "3.2.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/web-token/jwt-framework.git",
-                "reference": "679ab72706fedc9ab72794ccc13133b5f7b58250"
+                "reference": "3f8f893270bc2a7fe3562dda6f421b2761e4238e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/web-token/jwt-framework/zipball/679ab72706fedc9ab72794ccc13133b5f7b58250",
-                "reference": "679ab72706fedc9ab72794ccc13133b5f7b58250",
+                "url": "https://api.github.com/repos/web-token/jwt-framework/zipball/3f8f893270bc2a7fe3562dda6f421b2761e4238e",
+                "reference": "3f8f893270bc2a7fe3562dda6f421b2761e4238e",
                 "shasum": ""
             },
             "require": {
@@ -24681,6 +24775,7 @@
                 "ext-openssl": "*",
                 "ext-sodium": "*",
                 "paragonie/constant_time_encoding": "^2.6",
+                "paragonie/sodium_compat": "^1.20",
                 "php": ">=8.1",
                 "psr/clock": "^1.0",
                 "psr/event-dispatcher": "^1.0",
@@ -24858,7 +24953,7 @@
             ],
             "support": {
                 "issues": "https://github.com/web-token/jwt-framework/issues",
-                "source": "https://github.com/web-token/jwt-framework/tree/3.2.9"
+                "source": "https://github.com/web-token/jwt-framework/tree/3.2.10"
             },
             "funding": [
                 {
@@ -24870,7 +24965,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2024-01-04T15:42:08+00:00"
+            "time": "2024-02-12T21:58:26+00:00"
         },
         {
             "name": "webimpress/safe-writer",
@@ -27080,16 +27175,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.10.57",
+            "version": "1.10.58",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "1627b1d03446904aaa77593f370c5201d2ecc34e"
+                "reference": "a23518379ec4defd9e47cbf81019526861623ec2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/1627b1d03446904aaa77593f370c5201d2ecc34e",
-                "reference": "1627b1d03446904aaa77593f370c5201d2ecc34e",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/a23518379ec4defd9e47cbf81019526861623ec2",
+                "reference": "a23518379ec4defd9e47cbf81019526861623ec2",
                 "shasum": ""
             },
             "require": {
@@ -27138,7 +27233,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-01-24T11:51:34+00:00"
+            "time": "2024-02-12T20:02:57+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
