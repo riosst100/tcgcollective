@@ -227,16 +227,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.298.9",
+            "version": "3.299.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "db225c3a1c5dabfbb5071349cfb7e4c396c3d9ec"
+                "reference": "a0f87b8e8bfb9afd0ffd702fcda556b465eee457"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/db225c3a1c5dabfbb5071349cfb7e4c396c3d9ec",
-                "reference": "db225c3a1c5dabfbb5071349cfb7e4c396c3d9ec",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/a0f87b8e8bfb9afd0ffd702fcda556b465eee457",
+                "reference": "a0f87b8e8bfb9afd0ffd702fcda556b465eee457",
                 "shasum": ""
             },
             "require": {
@@ -316,9 +316,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.298.9"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.299.1"
             },
-            "time": "2024-02-13T19:08:16+00:00"
+            "time": "2024-02-16T19:08:34+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -4826,16 +4826,16 @@
         },
         {
             "name": "laminas/laminas-session",
-            "version": "2.17.0",
+            "version": "2.18.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laminas/laminas-session.git",
-                "reference": "2f255f1b4349a9f330ba1a26dcf4e2773a6a8226"
+                "reference": "da3d651f0f7d5350cefd6b160761651b35fc3cde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laminas/laminas-session/zipball/2f255f1b4349a9f330ba1a26dcf4e2773a6a8226",
-                "reference": "2f255f1b4349a9f330ba1a26dcf4e2773a6a8226",
+                "url": "https://api.github.com/repos/laminas/laminas-session/zipball/da3d651f0f7d5350cefd6b160761651b35fc3cde",
+                "reference": "da3d651f0f7d5350cefd6b160761651b35fc3cde",
                 "shasum": ""
             },
             "require": {
@@ -4848,16 +4848,16 @@
                 "zendframework/zend-session": "*"
             },
             "require-dev": {
-                "laminas/laminas-cache": "^3.10.1",
+                "laminas/laminas-cache": "^3.12.0",
                 "laminas/laminas-cache-storage-adapter-memory": "^2.3",
                 "laminas/laminas-coding-standard": "~2.5.0",
                 "laminas/laminas-db": "^2.18.0",
-                "laminas/laminas-http": "^2.18",
-                "laminas/laminas-validator": "^2.30.1",
-                "mongodb/mongodb": "~1.16.0",
-                "phpunit/phpunit": "^9.6.13",
+                "laminas/laminas-http": "^2.19",
+                "laminas/laminas-validator": "^2.46.0",
+                "mongodb/mongodb": "~1.16.1",
+                "phpunit/phpunit": "^9.6.15",
                 "psalm/plugin-phpunit": "^0.18.4",
-                "vimeo/psalm": "^5.15"
+                "vimeo/psalm": "^5.18"
             },
             "suggest": {
                 "laminas/laminas-cache": "Laminas\\Cache component",
@@ -4903,7 +4903,7 @@
                     "type": "community_bridge"
                 }
             ],
-            "time": "2023-11-10T12:20:40+00:00"
+            "time": "2024-02-14T10:46:39+00:00"
         },
         {
             "name": "laminas/laminas-soap",
@@ -21398,7 +21398,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "aad10e936ebf6d4cf48c1fe84d056f6a9edd4ad0"
+                "reference": "2e1a462142b344d1c5c86b038d9e4fb87ebb42ef"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21423,6 +21423,8 @@
                     "src/module-seller-identification-approval/registration.php",
                     "src/module-seller-membership/registration.php",
                     "src/module-marketplace-theme/registration.php",
+                    "src/module-store-locator/registration.php",
+                    "src/module-store-locator-graphql/registration.php",
                     "src/module-lof-all/registration.php",
                     "src/module-lof-marketplace/registration.php",
                     "src/module-lof-marketplace-graphql/registration.php",
@@ -21491,6 +21493,8 @@
                     "Magefan\\GeoIp\\": "src/module-geoip",
                     "CoreMarketplace\\GeoIpGraphQl\\": "src/module-geoip-graphql",
                     "CoreMarketplace\\MarketTheme\\": "src/module-marketplace-theme",
+                    "CoreMarketplace\\StoreLocator\\": "src/module-store-locator",
+                    "CoreMarketplace\\StoreLocatorGraphQl\\": "src/module-store-locator-graphql",
                     "Lof\\All\\": "src/module-lof-all",
                     "Lof\\MarketPlace\\": "src/module-lof-marketplace",
                     "Lof\\MarketplaceGraphQl\\": "src/module-lof-marketplace-graphql",
@@ -21565,20 +21569,20 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2024-02-14T07:58:25+00:00"
+            "time": "2024-02-17T03:04:35+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
-            "version": "8.5.0",
+            "version": "v8.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/MyIntervals/PHP-CSS-Parser.git",
-                "reference": "4e9a54c2a368fcd73ecc6b45f98c7714b54a7db0"
+                "reference": "4a3d572b0f8b28bb6fd016ae8bbfc445facef152"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/MyIntervals/PHP-CSS-Parser/zipball/4e9a54c2a368fcd73ecc6b45f98c7714b54a7db0",
-                "reference": "4e9a54c2a368fcd73ecc6b45f98c7714b54a7db0",
+                "url": "https://api.github.com/repos/MyIntervals/PHP-CSS-Parser/zipball/4a3d572b0f8b28bb6fd016ae8bbfc445facef152",
+                "reference": "4a3d572b0f8b28bb6fd016ae8bbfc445facef152",
                 "shasum": ""
             },
             "require": {
@@ -21586,7 +21590,6 @@
                 "php": ">=5.6.20"
             },
             "require-dev": {
-                "codacy/coverage": "^1.4.3",
                 "phpunit/phpunit": "^5.7.27"
             },
             "suggest": {
@@ -21595,7 +21598,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "9.0.x-dev"
+                    "dev-main": "9.0.x-dev"
                 }
             },
             "autoload": {
@@ -21610,6 +21613,14 @@
             "authors": [
                 {
                     "name": "Raphael Schweikert"
+                },
+                {
+                    "name": "Oliver Klee",
+                    "email": "github@oliverklee.de"
+                },
+                {
+                    "name": "Jake Hotson",
+                    "email": "jake.github@qzdesign.co.uk"
                 }
             ],
             "description": "Parser for CSS Files written in PHP",
@@ -21621,9 +21632,9 @@
             ],
             "support": {
                 "issues": "https://github.com/MyIntervals/PHP-CSS-Parser/issues",
-                "source": "https://github.com/MyIntervals/PHP-CSS-Parser/tree/8.5.0"
+                "source": "https://github.com/MyIntervals/PHP-CSS-Parser/tree/v8.5.1"
             },
-            "time": "2024-02-01T00:40:08+00:00"
+            "time": "2024-02-15T16:41:13+00:00"
         },
         {
             "name": "seld/jsonlint",
@@ -28815,16 +28826,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.8.1",
+            "version": "3.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "14f5fff1e64118595db5408e946f3a22c75807f7"
+                "reference": "d63cee4890a8afaf86a22e51ad4d97c91dd4579b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/14f5fff1e64118595db5408e946f3a22c75807f7",
-                "reference": "14f5fff1e64118595db5408e946f3a22c75807f7",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/d63cee4890a8afaf86a22e51ad4d97c91dd4579b",
+                "reference": "d63cee4890a8afaf86a22e51ad4d97c91dd4579b",
                 "shasum": ""
             },
             "require": {
@@ -28891,7 +28902,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2024-01-11T20:47:48+00:00"
+            "time": "2024-02-16T15:06:51+00:00"
         },
         {
             "name": "symfony/dotenv",
