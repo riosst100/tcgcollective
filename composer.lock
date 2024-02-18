@@ -21398,7 +21398,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "2e1a462142b344d1c5c86b038d9e4fb87ebb42ef"
+                "reference": "1fd65892adc728153eaa8015e9d94377d441de52"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21425,6 +21425,8 @@
                     "src/module-marketplace-theme/registration.php",
                     "src/module-store-locator/registration.php",
                     "src/module-store-locator-graphql/registration.php",
+                    "src/module-auction/registration.php",
+                    "src/module-preorder/registration.php",
                     "src/module-lof-all/registration.php",
                     "src/module-lof-marketplace/registration.php",
                     "src/module-lof-marketplace-graphql/registration.php",
@@ -21495,6 +21497,8 @@
                     "CoreMarketplace\\MarketTheme\\": "src/module-marketplace-theme",
                     "CoreMarketplace\\StoreLocator\\": "src/module-store-locator",
                     "CoreMarketplace\\StoreLocatorGraphQl\\": "src/module-store-locator-graphql",
+                    "CoreMarketplace\\Auction\\": "src/module-auction",
+                    "CoreMarketplace\\PreOrder\\": "src/module-preorder",
                     "Lof\\All\\": "src/module-lof-all",
                     "Lof\\MarketPlace\\": "src/module-lof-marketplace",
                     "Lof\\MarketplaceGraphQl\\": "src/module-lof-marketplace-graphql",
@@ -21569,7 +21573,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2024-02-17T03:04:35+00:00"
+            "time": "2024-02-18T05:22:24+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
