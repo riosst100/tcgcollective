@@ -25,6 +25,7 @@
         "magento/pwa": "^0.6.2",
         "magento/upward": "*",
         "php-http/guzzle7-adapter": "^1.0",
+        "php-http/message-factory": "^1.1",
         "riosst100/m2-core-marketplace": "dev-develop",
         "swissup/module-upward-connector": "^1.1"
     },
