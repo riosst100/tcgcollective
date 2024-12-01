@@ -21512,7 +21512,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "441d846146b3758dcc8c94a532e8921e6f26bcd6"
+                "reference": "7b57a7124d7c8f9ca1e3049c72b18440c0e71b34"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21594,9 +21594,11 @@
                     "src/module-lofmp-store-locator/registration.php",
                     "src/module-lofmp-table-rate-shipping/registration.php",
                     "src/module-lofmp-time-discount/registration.php",
+                    "src/module-lofmp-cash-on-delivery/registration.php",
                     "src/module-ves-all/registration.php",
                     "src/module-ves-brand/registration.php",
-                    "src/module-ves-setup/registration.php"
+                    "src/module-ves-setup/registration.php",
+                    "src/theme-frontend-tcg/registration.php"
                 ],
                 "psr-4": {
                     "CoreMarketplace\\SellerRegistration\\": "src/module-seller-registration",
@@ -21666,6 +21668,7 @@
                     "Lofmp\\TableRateShipping\\": "src/module-lofmp-table-rate-shipping",
                     "Lofmp\\TimeDiscount\\": "src/module-lofmp-time-discount",
                     "Lofmp\\StoreLocator\\": "src/module-lofmp-store-locator",
+                    "Lofmp\\CashOnDelivery\\": "src/module-lofmp-cash-on-delivery",
                     "Ves\\All\\": "src/module-ves-all",
                     "Ves\\Brand\\": "src/module-ves-brand",
                     "Ves\\Setup\\": "src/module-ves-setup"
@@ -21687,7 +21690,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2024-02-27T04:56:02+00:00"
+            "time": "2024-12-01T11:14:37+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
