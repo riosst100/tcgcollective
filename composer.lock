@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3d19b8f36ac1c211cf4bfef883644356",
+    "content-hash": "51f1e3f1286df56944bf3993c3cac360",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -5546,6 +5546,65 @@
                 }
             ],
             "time": "2024-01-28T23:22:08+00:00"
+        },
+        {
+            "name": "lillik/magento2-price-decimal",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lillik/magento2-price-decimal.git",
+                "reference": "449398f2c2bd7e6b5bcaaf13d5f7f904273b663f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lillik/magento2-price-decimal/zipball/449398f2c2bd7e6b5bcaaf13d5f7f904273b663f",
+                "reference": "449398f2c2bd7e6b5bcaaf13d5f7f904273b663f",
+                "shasum": ""
+            },
+            "require": {
+                "magento/framework": "*",
+                "php": "~5.6.0|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0"
+            },
+            "default-branch": true,
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Lillik\\PriceDecimal\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "LillikPro",
+                    "email": "support@lillik.pro",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Magento 2 Price Decimal Precision",
+            "keywords": [
+                "magento2"
+            ],
+            "support": {
+                "issues": "https://github.com/lillik/magento2-price-decimal/issues",
+                "source": ""
+            },
+            "funding": [
+                {
+                    "url": "https://www.paypal.com/donate/?hosted_button_id=LKAG7L4HWMVSL",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/lillik",
+                    "type": "github"
+                }
+            ],
+            "time": "2023-08-30T15:01:47+00:00"
         },
         {
             "name": "magento/adobe-stock-integration",
@@ -29465,11 +29524,12 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "lillik/magento2-price-decimal": 20,
         "riosst100/m2-core-marketplace": 20
     },
     "prefer-stable": true,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
+    "platform": {},
+    "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }

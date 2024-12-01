@@ -13,6 +13,3 @@ php bin/magento setup:static-content:deploy -f
 echo "clear cache"
 php bin/magento cache:clean
 echo "Deployment done" 
-chmod -R 777 var/ pub/ generated/
-echo "Permissons done"
-

@@ -18,6 +18,7 @@
     },
     "version": "2.4.6-p3",
     "require": {
+        "lillik/magento2-price-decimal": "dev-master",
         "magento/composer-dependency-version-audit-plugin": "~0.1",
         "magento/composer-root-update-plugin": "~2.0",
         "magento/module-upward-connector": "*",
