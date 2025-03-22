@@ -24,6 +24,13 @@ HTML;
     exit(1);
 }
 
+// Check for maintenance mode
+$maintenanceFile = __DIR__ . '/../../var/.maintenance.flag';
+if (file_exists($maintenanceFile)) {
+    require_once __DIR__ . '/../errors/503.php';
+    exit;
+}
+
 $params = $_SERVER;
 $params[\Magento\Store\Model\StoreManager::PARAM_RUN_CODE] = 'id';
 $params[\Magento\Store\Model\StoreManager::PARAM_RUN_TYPE] = 'website';

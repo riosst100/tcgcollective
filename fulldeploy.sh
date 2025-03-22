@@ -1,4 +1,5 @@
 #!/bin/bash
+php bin/magento maintenance:enable
 rm -rf var/di var/generation/ var/page_cache/ var/report/ var/view_preprocessed var/cache/ var/tmp/ var/generation generated/
 echo "starting deployment"
 php bin/magento setup:upgrade
@@ -13,3 +14,4 @@ php bin/magento setup:static-content:deploy -f
 echo "clear cache"
 php bin/magento cache:clean
 echo "Deployment done" 
+php bin/magento maintenance:disable

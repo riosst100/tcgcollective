@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>We'll Be Back Soon</title>
+    <style>
+        /* Inline CSS for simplicity */
+        body {
+            background-color: #f3f4f6;
+            color: #333;
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #1a202c;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            color: #4a5568;
+        }
+        .logo {
+            width: 200px;
+            margin-bottom: 10px;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #718096;
+        }
+        .footer a {
+            color: #3182ce;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://seller-dev.tcgcollective.co/media/logo/default/FullLogo_Transparent_NoBuffer_14_.png" alt="Logo" class="logo">
+        <h1>We're Temporarily Offline</h1>
+        <img src="https://seller-dev.tcgcollective.co/media/maintenance.webp" alt="Logo" class="logo">
+        <p>
+            Our website is currently undergoing scheduled maintenance. <br>
+            We should be back shortly. Thank you for your patience.
+        </p>
+        <div class="footer">
+            &copy; <span id="year"></span> TCG Collective. All rights reserved. |
+            <a href="mailto:support@yourdomain.com">Contact Support</a>
+        </div>
+    </div>
+
+    <script>
+        // Update the year dynamically
+        document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+</body>
+</html>
