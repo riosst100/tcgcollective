@@ -387,7 +387,7 @@ return [
         'Lofmp_CouponCode' => 1,
         'Lofmp_CouponCodeGraphQl' => 1,
         'Lofmp_DeliverySlot' => 0,
-        'Lofmp_DeliverySlotGraphQl' => 1,
+        'Lofmp_DeliverySlotGraphQl' => 0,
         'Lofmp_Faq' => 1,
         'Lofmp_FavoriteSeller' => 1,
         'Lofmp_FeaturedProducts' => 0,
