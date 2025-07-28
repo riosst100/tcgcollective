@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d38c506cc8e28fe791129e3edd4e7d0f",
+    "content-hash": "1723278c3584b117f3c0061772f92cae",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -21511,8 +21511,8 @@
             "version": "dev-develop",
             "source": {
                 "type": "git",
-                "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "160a15192929a76a2d114585d16d4dc6c9341baa"
+                "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
+                "reference": "ea27edfe28db671e58f50fcafc3f755a383ec3ac"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21719,7 +21719,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2025-06-03T08:10:02+00:00"
+            "time": "2025-07-28T02:29:13+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
@@ -29602,7 +29602,7 @@
     },
     "prefer-stable": true,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
-    "plugin-api-version": "2.3.0"
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }
