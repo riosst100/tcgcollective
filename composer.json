@@ -22,8 +22,9 @@
         "magento/composer-dependency-version-audit-plugin": "~0.1",
         "magento/composer-root-update-plugin": "~2.0",
         "magento/module-upward-connector": "*",
-        "magento/product-community-edition": "2.4.6-p3",
+        "magento/product-community-edition": "2.4.8-p1",
         "magento/pwa": "^0.6.2",
+        "magento/quality-patches": "^1.1",
         "magento/upward": "*",
         "php-http/guzzle7-adapter": "^1.0",
         "php-http/message-factory": "^1.1",
@@ -53,7 +54,6 @@
         }
     },
     "require-dev": {
-        "allure-framework/allure-phpunit": "^2",
         "dealerdirect/phpcodesniffer-composer-installer": "^0.7",
         "dg/bypass-finals": "^1.4",
         "friendsofphp/php-cs-fixer": "^3.8",
@@ -65,9 +65,7 @@
         "phpstan/phpstan": "^1.9",
         "phpunit/phpunit": "^9.5",
         "sebastian/comparator": "<=4.0.6",
-        "sebastian/phpcpd": "^6.0",
-        "symfony/finder": "^5.4",
-        "symfony/process": "<=v5.4.23"
+        "sebastian/phpcpd": "^6.0"
     },
     "conflict": {
         "gene/bluefoot": "*"
