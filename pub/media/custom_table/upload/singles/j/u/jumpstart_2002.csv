@@ -1,0 +1,836 @@
+﻿entity_id,images,card_name,card_rarity,card_type,card_artist,language,card_feature,card_manufacturer,card_number,release_date,card_foil,release_year
+5277,j22-1-agrus-kos-eternal-soldier.jpg,"Agrus Kos, Eternal Soldier",Rare,Lgd. Creature,Victor Adame Minguez,English,New Cards,Wizards of the Coast,1,12/02/2022,,2022
+5278,j22-2-angelic-cub.jpg,Angelic Cub,Uncommon,Creature,Miranda Meeks,English,New Cards,Wizards of the Coast,2,12/02/2022,,2022
+5279,j22-3-chains-of-custody.jpg,Chains of Custody,Common,Enchantment,Bruno Biazotto,English,New Cards,Wizards of the Coast,3,12/02/2022,,2022
+5280,j22-4-distinguished-conjurer.jpg,Distinguished Conjurer,Uncommon,Creature,Nils Hamm,English,New Cards,Wizards of the Coast,4,12/02/2022,,2022
+5281,j22-5-ingenious-leonin.jpg,Ingenious Leonin,Uncommon,Creature,Eric Deschamps,English,New Cards,Wizards of the Coast,5,12/02/2022,,2022
+5282,j22-6-lita-mechanical-engineer.jpg,"Lita, Mechanical Engineer",Mythic,Lgd. Artifact Creature,Bartek Fedyczak,English,New Cards,Wizards of the Coast,6,12/02/2022,,2022
+5283,j22-7-magnanimous-magistrate.jpg,Magnanimous Magistrate,Uncommon,Creature,Marie Magny,English,New Cards,Wizards of the Coast,7,12/02/2022,,2022
+5284,j22-8-preston-the-vanisher.jpg,"Preston, the Vanisher",Rare,Lgd. Creature,Christina Kraus,English,New Cards,Wizards of the Coast,8,12/02/2022,,2022
+5285,j22-9-alandra-sky-dreamer.jpg,"Alandra, Sky Dreamer",Rare,Lgd. Creature,Caroline Gariba,English,New Cards,Wizards of the Coast,9,12/02/2022,,2022
+5286,j22-10-biblioplex-kraken.jpg,Biblioplex Kraken,Uncommon,Creature,Caio Monteiro,English,New Cards,Wizards of the Coast,10,12/02/2022,,2022
+5287,j22-11-hold-for-questioning.jpg,Hold for Questioning,Uncommon,Enchantment,Samuel Perin,English,New Cards,Wizards of the Coast,11,12/02/2022,,2022
+5288,j22-12-isu-the-abominable.jpg,Isu the Abominable,Mythic,Lgd. Snow Creature,Victor Adame Minguez,English,New Cards,Wizards of the Coast,12,12/02/2022,,2022
+5289,j22-13-kenessos-priest-of-thassa.jpg,"Kenessos, Priest of Thassa",Rare,Lgd. Creature,Joshua Raphael,English,New Cards,Wizards of the Coast,13,12/02/2022,,2022
+5290,j22-14-launch-mishap.jpg,Launch Mishap,Uncommon,Instant,Kim Sokol,English,New Cards,Wizards of the Coast,14,12/02/2022,,2022
+5291,j22-15-merfolk-pupil.jpg,Merfolk Pupil,Common,Creature,Caroline Gariba,English,New Cards,Wizards of the Coast,15,12/02/2022,,2022
+5292,j22-16-pirated-copy.jpg,Pirated Copy,Mythic,Creature,Daarken,English,New Cards,Wizards of the Coast,16,12/02/2022,,2022
+5293,j22-17-soul-read.jpg,Soul Read,Common,Instant,Drew Tucker,English,New Cards,Wizards of the Coast,17,12/02/2022,,2022
+5294,j22-18-synchronized-eviction.jpg,Synchronized Eviction,Uncommon,Instant,Nicholas Gregory,English,New Cards,Wizards of the Coast,18,12/02/2022,,2022
+5295,j22-19-ashcoat-of-the-shadow-swarm.jpg,Ashcoat of the Shadow Swarm,Mythic,Lgd. Creature,Christina Kraus,English,New Cards,Wizards of the Coast,19,12/02/2022,,2022
+5296,j22-20-conductor-of-cacophony.jpg,Conductor of Cacophony,Uncommon,Creature,Jason A. Engle,English,New Cards,Wizards of the Coast,20,12/02/2022,,2022
+5297,j22-21-creeping-bloodsucker.jpg,Creeping Bloodsucker,Common,Creature,Antonio José Manzanedo,English,New Cards,Wizards of the Coast,21,12/02/2022,,2022
+5298,j22-22-deadly-plot.jpg,Deadly Plot,Uncommon,Instant,Peter Polach,English,New Cards,Wizards of the Coast,22,12/02/2022,,2022
+5299,j22-23-disciple-of-perdition.jpg,Disciple of Perdition,Uncommon,Creature,Alix Branwyn,English,New Cards,Wizards of the Coast,23,12/02/2022,,2022
+5300,j22-24-ossuary-rats.jpg,Ossuary Rats,Common,Creature,Ralph Horsley,English,New Cards,Wizards of the Coast,24,12/02/2022,,2022
+5301,j22-25-rodolf-duskbringer.jpg,Rodolf Duskbringer,Rare,Lgd. Creature,Billy Christian,English,New Cards,Wizards of the Coast,25,12/02/2022,,2022
+5302,j22-26-skullslither-worm.jpg,Skullslither Worm,Uncommon,Creature,Uriah Voth,English,New Cards,Wizards of the Coast,26,12/02/2022,,2022
+5303,j22-27-suspicious-shambler.jpg,Suspicious Shambler,Common,Creature,Javier Charro,English,New Cards,Wizards of the Coast,27,12/02/2022,,2022
+5304,j22-28-termination-facilitator.jpg,Termination Facilitator,Rare,Creature,Justine Cruz,English,New Cards,Wizards of the Coast,28,12/02/2022,,2022
+5305,j22-29-ardoz-cobbler-of-war.jpg,"Ardoz, Cobbler of War",Rare,Lgd. Creature,Kev Walker,English,New Cards,Wizards of the Coast,29,12/02/2022,,2022
+5306,j22-30-auntie-blyte-bad-influence.jpg,"Auntie Blyte, Bad Influence",Mythic,Lgd. Creature,Tatiana Kirgetova,English,New Cards,Wizards of the Coast,30,12/02/2022,,2022
+5307,j22-31-brazen-cannonade.jpg,Brazen Cannonade,Rare,Enchantment,Ralph Horsley,English,New Cards,Wizards of the Coast,31,12/02/2022,,2022
+5308,j22-32-coalborn-entity.jpg,Coalborn Entity,Uncommon,Creature,Liiga Smilshkalne,English,New Cards,Wizards of the Coast,32,12/02/2022,,2022
+5309,j22-33-daring-piracy.jpg,Daring Piracy,Uncommon,Enchantment,Manuel Castañón,English,New Cards,Wizards of the Coast,33,12/02/2022,,2022
+5310,j22-34-goblin-researcher.jpg,Goblin Researcher,Common,Creature,Izzy,English,New Cards,Wizards of the Coast,34,12/02/2022,,2022
+5311,j22-35-mizzix-replica-rider.jpg,"Mizzix, Replica Rider",Rare,Lgd. Creature,Zoltan Boros,English,New Cards,Wizards of the Coast,35,12/02/2022,,2022
+5312,j22-36-ogre-battlecaster.jpg,Ogre Battlecaster,Rare,Creature,Javier Charro,English,New Cards,Wizards of the Coast,36,12/02/2022,,2022
+5313,j22-37-plundering-predator.jpg,Plundering Predator,Common,Creature,Lucas Graciano,English,New Cards,Wizards of the Coast,37,12/02/2022,,2022
+5314,j22-38-benevolent-hydra.jpg,Benevolent Hydra,Rare,Creature,Eric Deschamps,English,New Cards,Wizards of the Coast,38,12/02/2022,,2022
+5315,j22-39-giant-ladybug.jpg,Giant Ladybug,Common,Creature,Marta Nael,English,New Cards,Wizards of the Coast,39,12/02/2022,,2022
+5316,j22-40-kibo-uktabi-prince.jpg,"Kibo, Uktabi Prince",Mythic,Lgd. Creature,Zoltan Boros,English,New Cards,Wizards of the Coast,40,12/02/2022,,2022
+5317,j22-41-mild-mannered-librarian.jpg,Mild-Mannered Librarian,Uncommon,Creature,Justyna Dura,English,New Cards,Wizards of the Coast,41,12/02/2022,,2022
+5318,j22-42-primeval-herald.jpg,Primeval Herald,Uncommon,Creature,Tatiana Kirgetova,English,New Cards,Wizards of the Coast,42,12/02/2022,,2022
+5319,j22-43-rampaging-growth.jpg,Rampaging Growth,Uncommon,Instant,Mike Jordana,English,New Cards,Wizards of the Coast,43,12/02/2022,,2022
+5320,j22-44-runadi-behemoth-caller.jpg,"Runadi, Behemoth Caller",Rare,Lgd. Creature,Billy Christian,English,New Cards,Wizards of the Coast,44,12/02/2022,,2022
+5321,j22-45-spectral-hunt-caller.jpg,Spectral Hunt-Caller,Common,Creature,Uriah Voth,English,New Cards,Wizards of the Coast,45,12/02/2022,,2022
+5322,j22-46-towering-gibbon.jpg,Towering Gibbon,Uncommon,Creature,Chris Seaman,English,New Cards,Wizards of the Coast,46,12/02/2022,,2022
+5323,j22-47-zask-skittering-swarmlord.jpg,"Zask, Skittering Swarmlord",Rare,Lgd. Creature,Alexander Ostrowski,English,New Cards,Wizards of the Coast,47,12/02/2022,,2022
+5324,j22-48-dutiful-replicator.jpg,Dutiful Replicator,Common,Artifact Creature,Alexander Forssberg,English,New Cards,Wizards of the Coast,48,12/02/2022,,2022
+5325,j22-49-infernal-idol.jpg,Infernal Idol,Common,Artifact,Drew Tucker,English,New Cards,Wizards of the Coast,49,12/02/2022,,2022
+5326,j22-50-instruments-of-war.jpg,Instruments of War,Uncommon,Artifact,Drew Tucker,English,New Cards,Wizards of the Coast,50,12/02/2022,,2022
+5327,j22-51-planar-atlas.jpg,Planar Atlas,Uncommon,Artifact,Alexander Forssberg,English,New Cards,Wizards of the Coast,51,12/02/2022,,2022
+5328,j22-52-arrest.jpg,Arrest,Uncommon,Enchantment,Canata Katana,English,,Wizards of the Coast,52,12/02/2022,,2022
+5329,j22-53-balan-wandering-knight.jpg,"Balan, Wandering Knight",Rare,Lgd. Creature,Mai Okuma,English,,Wizards of the Coast,53,12/02/2022,,2022
+5330,j22-54-eidolon-of-rhetoric.jpg,Eidolon of Rhetoric,Uncommon,Enchantment Creature,Yakotakos,English,,Wizards of the Coast,54,12/02/2022,,2022
+5331,j22-55-emancipation-angel.jpg,Emancipation Angel,Uncommon,Creature,Hisashi Momose,English,,Wizards of the Coast,55,12/02/2022,,2022
+5332,j22-56-flicker-of-fate.jpg,Flicker of Fate,Common,Instant,Sila,English,,Wizards of the Coast,56,12/02/2022,,2022
+5333,j22-57-king-of-the-pride.jpg,King of the Pride,Uncommon,Creature,Inuchiyo Meimaru,English,,Wizards of the Coast,57,12/02/2022,,2022
+5334,j22-58-sage-s-reverie.jpg,Sage's Reverie,Uncommon,Enchantment,Hiromu,English,,Wizards of the Coast,58,12/02/2022,,2022
+5335,j22-59-valorous-stance.jpg,Valorous Stance,Uncommon,Instant,Susumu Kuroi,English,,Wizards of the Coast,59,12/02/2022,,2022
+5336,j22-60-kasmina-enigmatic-mentor.jpg,"Kasmina, Enigmatic Mentor",Uncommon,Lgd. Planeswalker,Ayuko,English,,Wizards of the Coast,60,12/02/2022,,2022
+5337,j22-61-merrow-reejerey.jpg,Merrow Reejerey,Uncommon,Creature,Penguu,English,,Wizards of the Coast,61,12/02/2022,,2022
+5338,j22-62-mirror-image.jpg,Mirror Image,Uncommon,Creature,Yuchi Yuki,English,,Wizards of the Coast,62,12/02/2022,,2022
+5339,j22-63-preordain.jpg,Preordain,Common,Sorcery,Ayuko,English,,Wizards of the Coast,63,12/02/2022,,2022
+5340,j22-64-spectral-sailor.jpg,Spectral Sailor,Uncommon,Creature,Fuzichoco,English,,Wizards of the Coast,64,12/02/2022,,2022
+5341,j22-65-spellstutter-sprite.jpg,Spellstutter Sprite,Common,Creature,Sila,English,,Wizards of the Coast,65,12/02/2022,,2022
+5342,j22-66-whirler-rogue.jpg,Whirler Rogue,Uncommon,Creature,I☆LA,English,,Wizards of the Coast,66,12/02/2022,,2022
+5343,j22-67-diabolic-edict.jpg,Diabolic Edict,Common,Instant,Tetsu Kurosawa,English,,Wizards of the Coast,67,12/02/2022,,2022
+5344,j22-68-feast-on-the-fallen.jpg,Feast on the Fallen,Uncommon,Enchantment,zizero,English,,Wizards of the Coast,68,12/02/2022,,2022
+5345,j22-69-lord-of-the-accursed.jpg,Lord of the Accursed,Uncommon,Creature,Yuichi Murakami,English,,Wizards of the Coast,69,12/02/2022,,2022
+5346,j22-70-oathsworn-vampire.jpg,Oathsworn Vampire,Uncommon,Creature,Border,English,,Wizards of the Coast,70,12/02/2022,,2022
+5347,j22-71-ogre-slumlord.jpg,Ogre Slumlord,Rare,Creature,Woonak,English,,Wizards of the Coast,71,12/02/2022,,2022
+5348,j22-72-plaguecrafter.jpg,Plaguecrafter,Uncommon,Creature,zizero,English,,Wizards of the Coast,72,12/02/2022,,2022
+5349,j22-73-stitcher-s-supplier.jpg,Stitcher's Supplier,Uncommon,Creature,Canata Katana,English,,Wizards of the Coast,73,12/02/2022,,2022
+5350,j22-74-tragic-slip.jpg,Tragic Slip,Common,Instant,Yuichi Murakami,English,,Wizards of the Coast,74,12/02/2022,,2022
+5351,j22-75-tree-of-perdition.jpg,Tree of Perdition,Mythic,Creature,Yuchi Yuki,English,,Wizards of the Coast,75,12/02/2022,,2022
+5352,j22-76-dragon-fodder.jpg,Dragon Fodder,Common,Sorcery,Yoshiya,English,,Wizards of the Coast,76,12/02/2022,,2022
+5353,j22-77-dragon-mage.jpg,Dragon Mage,Uncommon,Creature,M.Matsumoto,English,,Wizards of the Coast,77,12/02/2022,,2022
+5354,j22-78-drannith-stinger.jpg,Drannith Stinger,Common,Creature,Daisuke Tatsuma,English,,Wizards of the Coast,78,12/02/2022,,2022
+5355,j22-79-kiki-jiki-mirror-breaker.jpg,"Kiki-Jiki, Mirror Breaker",Mythic,Lgd. Creature,Ishikawa Kenta,English,,Wizards of the Coast,79,12/02/2022,,2022
+5356,j22-80-rapacious-dragon.jpg,Rapacious Dragon,Uncommon,Creature,Yumi Ozuno,English,,Wizards of the Coast,80,12/02/2022,,2022
+5357,j22-81-rigging-runner.jpg,Rigging Runner,Uncommon,Creature,MiDQN,English,,Wizards of the Coast,81,12/02/2022,,2022
+5358,j22-82-spear-spewer.jpg,Spear Spewer,Common,Creature,Ryuichi Sakuma,English,,Wizards of the Coast,82,12/02/2022,,2022
+5359,j22-83-thermo-alchemist.jpg,Thermo-Alchemist,Common,Creature,Azutaro,English,,Wizards of the Coast,83,12/02/2022,,2022
+5360,j22-84-thrill-of-possibility.jpg,Thrill of Possibility,Common,Instant,Daisuke Tatsuma,English,,Wizards of the Coast,84,12/02/2022,,2022
+5361,j22-85-arlinn-voice-of-the-pack.jpg,"Arlinn, Voice of the Pack",Uncommon,Lgd. Planeswalker,Hisashi Momose,English,,Wizards of the Coast,85,12/02/2022,,2022
+5362,j22-86-caustic-caterpillar.jpg,Caustic Caterpillar,Common,Creature,Ai Nanahira,English,,Wizards of the Coast,86,12/02/2022,,2022
+5363,j22-87-colossal-majesty.jpg,Colossal Majesty,Uncommon,Enchantment,Tetsu Kurosawa,English,,Wizards of the Coast,87,12/02/2022,,2022
+5364,j22-88-elvish-rejuvenator.jpg,Elvish Rejuvenator,Common,Creature,Shiramine,English,,Wizards of the Coast,88,12/02/2022,,2022
+5365,j22-89-hydra-s-growth.jpg,Hydra's Growth,Uncommon,Enchantment,Inuchiyo Meimaru,English,,Wizards of the Coast,89,12/02/2022,,2022
+5366,j22-90-khalni-heart-expedition.jpg,Khalni Heart Expedition,Common,Enchantment,Ayuko,English,,Wizards of the Coast,90,12/02/2022,,2022
+5367,j22-91-ram-through.jpg,Ram Through,Common,Instant,Moopic,English,,Wizards of the Coast,91,12/02/2022,,2022
+5368,j22-92-thrashing-brontodon.jpg,Thrashing Brontodon,Uncommon,Creature,Kemonomichi,English,,Wizards of the Coast,92,12/02/2022,,2022
+5369,j22-93-world-breaker.jpg,World Breaker,Mythic,Creature,Kemonomichi,English,,Wizards of the Coast,93,12/02/2022,,2022
+5370,j22-94-coldsteel-heart.jpg,Coldsteel Heart,Uncommon,Snow Artifact,I☆LA,English,,Wizards of the Coast,94,12/02/2022,,2022
+5371,j22-95-magnifying-glass.jpg,Magnifying Glass,Uncommon,Artifact,Yukihiro Maruo,English,,Wizards of the Coast,95,12/02/2022,,2022
+5372,j22-96-peacewalker-colossus.jpg,Peacewalker Colossus,Rare,Artifact,Hisashi Momose,English,,Wizards of the Coast,96,12/02/2022,,2022
+5373,j22-97-karn-liberated.jpg,Karn Liberated,Mythic,Lgd. Planeswalker,Dai-XT,English,,Wizards of the Coast,97,12/02/2022,,2022
+5374,j22-98-plains.jpg,Plains,Common,Basic Land,John Avon,English,,Wizards of the Coast,98,12/02/2022,,2022
+5375,j22-99-plains.jpg,Plains,Common,Basic Land,Alayna Danner,English,,Wizards of the Coast,99,12/02/2022,,2022
+5376,j22-100-plains.jpg,Plains,Common,Basic Land,Daniel Ljunggren,English,,Wizards of the Coast,100,12/02/2022,,2022
+5377,j22-101-island.jpg,Island,Common,Basic Land,Cliff Childs,English,,Wizards of the Coast,101,12/02/2022,,2022
+5378,j22-102-island.jpg,Island,Common,Basic Land,Alayna Danner,English,,Wizards of the Coast,102,12/02/2022,,2022
+5379,j22-103-island.jpg,Island,Common,Basic Land,Piotr Dura,English,,Wizards of the Coast,103,12/02/2022,,2022
+5380,j22-104-swamp.jpg,Swamp,Common,Basic Land,Mike Bierek,English,,Wizards of the Coast,104,12/02/2022,,2022
+5381,j22-105-swamp.jpg,Swamp,Common,Basic Land,Jonas De Ro,English,,Wizards of the Coast,105,12/02/2022,,2022
+5382,j22-106-swamp.jpg,Swamp,Common,Basic Land,Alexander Forssberg,English,,Wizards of the Coast,106,12/02/2022,,2022
+5383,j22-107-mountain.jpg,Mountain,Common,Basic Land,Sam Burley,English,,Wizards of the Coast,107,12/02/2022,,2022
+5384,j22-108-mountain.jpg,Mountain,Common,Basic Land,Piotr Dura,English,,Wizards of the Coast,108,12/02/2022,,2022
+5385,j22-109-mountain.jpg,Mountain,Common,Basic Land,Andreas Rocha,English,,Wizards of the Coast,109,12/02/2022,,2022
+5386,j22-110-forest.jpg,Forest,Common,Basic Land,Volkan Baǵa,English,,Wizards of the Coast,110,12/02/2022,,2022
+5387,j22-111-forest.jpg,Forest,Common,Basic Land,Steven Belledin,English,,Wizards of the Coast,111,12/02/2022,,2022
+5388,j22-112-forest.jpg,Forest,Common,Basic Land,Jim Nelson,English,,Wizards of the Coast,112,12/02/2022,,2022
+5389,j22-113-task-force.jpg,Task Force,Common,Creature,Brian Valeza,English,New Art,Wizards of the Coast,113,12/02/2022,,2022
+5390,j22-114-rhystic-study.jpg,Rhystic Study,Rare,Enchantment,Tatiana Kirgetova,English,New Art,Wizards of the Coast,114,12/02/2022,,2022
+5391,j22-115-tragic-lesson.jpg,Tragic Lesson,Common,Instant,Olena Richards,English,New Art,Wizards of the Coast,115,12/02/2022,,2022
+5392,j22-116-wizard-mentor.jpg,Wizard Mentor,Common,Creature,Ernanda Souza,English,New Art,Wizards of the Coast,116,12/02/2022,,2022
+5393,j22-117-blood-artist.jpg,Blood Artist,Uncommon,Creature,Julie Dillon,English,New Art,Wizards of the Coast,117,12/02/2022,,2022
+5394,j22-118-feast-of-blood.jpg,Feast of Blood,Uncommon,Sorcery,Irina Nordsol,English,New Art,Wizards of the Coast,118,12/02/2022,,2022
+5395,j22-119-festering-evil.jpg,Festering Evil,Uncommon,Enchantment,Samuel Araya,English,New Art,Wizards of the Coast,119,12/02/2022,,2022
+5396,j22-120-ghoul-s-feast.jpg,Ghoul's Feast,Common,Instant,Ovidio Cartagena,English,New Art,Wizards of the Coast,120,12/02/2022,,2022
+5397,j22-121-morkrut-banshee.jpg,Morkrut Banshee,Uncommon,Creature,Jodie Muir,English,New Art,Wizards of the Coast,121,12/02/2022,,2022
+5398,j22-122-nezumi-bone-reader.jpg,Nezumi Bone-Reader,Uncommon,Creature,Leonardo Santanna,English,New Art,Wizards of the Coast,122,12/02/2022,,2022
+5399,j22-123-phyrexian-plaguelord.jpg,Phyrexian Plaguelord,Rare,Creature,Raf Kayupov,English,New Art,Wizards of the Coast,123,12/02/2022,,2022
+5400,j22-124-phyrexian-reclamation.jpg,Phyrexian Reclamation,Uncommon,Enchantment,Irina Nordsol,English,New Art,Wizards of the Coast,124,12/02/2022,,2022
+5401,j22-125-reassembling-skeleton.jpg,Reassembling Skeleton,Uncommon,Creature,Bruno Biazotto,English,New Art,Wizards of the Coast,125,12/02/2022,,2022
+5402,j22-126-renegade-demon.jpg,Renegade Demon,Common,Creature,Alexandre Honoré,English,New Art,Wizards of the Coast,126,12/02/2022,,2022
+5403,j22-127-swarm-of-bloodflies.jpg,Swarm of Bloodflies,Uncommon,Creature,Ralph Horsley,English,New Art,Wizards of the Coast,127,12/02/2022,,2022
+5404,j22-128-wakedancer.jpg,Wakedancer,Common,Creature,Mila Pesic,English,New Art,Wizards of the Coast,128,12/02/2022,,2022
+5405,j22-129-aftershock.jpg,Aftershock,Common,Sorcery,Drew Tucker,English,New Art,Wizards of the Coast,129,12/02/2022,,2022
+5406,j22-130-fireslinger.jpg,Fireslinger,Common,Creature,Steve Argyle,English,New Art,Wizards of the Coast,130,12/02/2022,,2022
+5407,j22-131-flameblade-adept.jpg,Flameblade Adept,Uncommon,Creature,Gabor Szikszai,English,New Art,Wizards of the Coast,131,12/02/2022,,2022
+5408,j22-132-ruin-in-their-wake.jpg,Ruin in Their Wake,Uncommon,Sorcery,Armand Baltazar,English,New Art,Wizards of the Coast,132,12/02/2022,,2022
+5409,j22-133-uktabi-orangutan.jpg,Uktabi Orangutan,Uncommon,Creature,Milivoj Ćeran,English,New Art,Wizards of the Coast,133,12/02/2022,,2022
+5410,j22-134-wicked-wolf.jpg,Wicked Wolf,Rare,Creature,Steve Ellis,English,New Art,Wizards of the Coast,134,12/02/2022,,2022
+5411,j22-135-clockwork-hydra.jpg,Clockwork Hydra,Uncommon,Artifact Creature,Brian Snõddy,English,New Art,Wizards of the Coast,135,12/02/2022,,2022
+5412,j22-136-spawning-pit.jpg,Spawning Pit,Uncommon,Artifact,Steve Ellis,English,New Art,Wizards of the Coast,136,12/02/2022,,2022
+5413,j22-137-leechridden-swamp.jpg,Leechridden Swamp,Uncommon,Land,Drew Tucker,English,New Art,Wizards of the Coast,137,12/02/2022,,2022
+5414,j22-138-acrobatic-maneuver.jpg,Acrobatic Maneuver,Common,Instant,Winona Nelson,English,Reprints,Wizards of the Coast,138,12/02/2022,,2022
+5415,j22-139-aerial-modification.jpg,Aerial Modification,Uncommon,Enchantment,Jung Park,English,Reprints,Wizards of the Coast,139,12/02/2022,,2022
+5416,j22-140-aethershield-artificer.jpg,Aethershield Artificer,Uncommon,Creature,Izzy,English,Reprints,Wizards of the Coast,140,12/02/2022,,2022
+5417,j22-141-ajani-strength-of-the-pride.jpg,"Ajani, Strength of the Pride",Mythic,Lgd. Planeswalker,Chris Rallis,English,Reprints,Wizards of the Coast,141,12/02/2022,,2022
+5418,j22-142-ajani-s-pridemate.jpg,Ajani's Pridemate,Uncommon,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,142,12/02/2022,,2022
+5419,j22-143-alseid-of-life-s-bounty.jpg,Alseid of Life's Bounty,Uncommon,Enchantment Creature,Magali Villeneuve,English,Reprints,Wizards of the Coast,143,12/02/2022,,2022
+5420,j22-144-angel-of-flight-alabaster.jpg,Angel of Flight Alabaster,Rare,Creature,Howard Lyon,English,Reprints,Wizards of the Coast,144,12/02/2022,,2022
+5421,j22-145-angelic-edict.jpg,Angelic Edict,Common,Sorcery,Trevor Claxton,English,Reprints,Wizards of the Coast,145,12/02/2022,,2022
+5422,j22-146-angelic-page.jpg,Angelic Page,Common,Creature,Chris Rahn,English,Reprints,Wizards of the Coast,146,12/02/2022,,2022
+5423,j22-147-angelic-protector.jpg,Angelic Protector,Uncommon,Creature,DiTerlizzi,English,Reprints,Wizards of the Coast,147,12/02/2022,,2022
+5424,j22-148-anointer-of-valor.jpg,Anointer of Valor,Common,Creature,Antonio José Manzanedo,English,Reprints,Wizards of the Coast,148,12/02/2022,,2022
+5425,j22-149-apothecary-geist.jpg,Apothecary Geist,Common,Creature,Franz Vohwinkel,English,Reprints,Wizards of the Coast,149,12/02/2022,,2022
+5426,j22-150-archon-of-justice.jpg,Archon of Justice,Rare,Creature,Jason Chan,English,Reprints,Wizards of the Coast,150,12/02/2022,,2022
+5427,j22-151-archon-of-sun-s-grace.jpg,Archon of Sun's Grace,Rare,Creature,Matt Stewart,English,Reprints,Wizards of the Coast,151,12/02/2022,,2022
+5428,j22-152-attended-healer.jpg,Attended Healer,Uncommon,Creature,Wisnu Tan,English,Reprints,Wizards of the Coast,152,12/02/2022,,2022
+5429,j22-153-auramancer.jpg,Auramancer,Common,Creature,Rebecca Guay,English,Reprints,Wizards of the Coast,153,12/02/2022,,2022
+5430,j22-154-basri-s-acolyte.jpg,Basri's Acolyte,Common,Creature,Leesha Hannigan,English,Reprints,Wizards of the Coast,154,12/02/2022,,2022
+5431,j22-155-benalish-honor-guard.jpg,Benalish Honor Guard,Common,Creature,Ryan Pancoast,English,Reprints,Wizards of the Coast,155,12/02/2022,,2022
+5432,j22-156-blessed-defiance.jpg,Blessed Defiance,Common,Instant,Kim Sokol,English,Reprints,Wizards of the Coast,156,12/02/2022,,2022
+5433,j22-157-blessed-sanctuary.jpg,Blessed Sanctuary,Rare,Enchantment,Anastasia Ovchinnikova,English,Reprints,Wizards of the Coast,157,12/02/2022,,2022
+5434,j22-158-blessed-spirits.jpg,Blessed Spirits,Uncommon,Creature,Anna Steinbauer,English,Reprints,Wizards of the Coast,158,12/02/2022,,2022
+5435,j22-159-brightmare.jpg,Brightmare,Uncommon,Creature,Steven Belledin,English,Reprints,Wizards of the Coast,159,12/02/2022,,2022
+5436,j22-160-bring-to-trial.jpg,Bring to Trial,Common,Sorcery,Victor Adame Minguez,English,Reprints,Wizards of the Coast,160,12/02/2022,,2022
+5437,j22-161-built-to-last.jpg,Built to Last,Common,Instant,Svetlin Velinov,English,Reprints,Wizards of the Coast,161,12/02/2022,,2022
+5438,j22-162-cage-of-hands.jpg,Cage of Hands,Common,Enchantment,Mark Tedin,English,Reprints,Wizards of the Coast,162,12/02/2022,,2022
+5439,j22-163-captivating-unicorn.jpg,Captivating Unicorn,Common,Creature,Emrah Elmasli,English,Reprints,Wizards of the Coast,163,12/02/2022,,2022
+5440,j22-164-caught-in-the-brights.jpg,Caught in the Brights,Common,Enchantment,Kieran Yanner,English,Reprints,Wizards of the Coast,164,12/02/2022,,2022
+5441,j22-165-cavalry-drillmaster.jpg,Cavalry Drillmaster,Common,Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,165,12/02/2022,,2022
+5442,j22-166-the-circle-of-loyalty.jpg,The Circle of Loyalty,Mythic,Lgd. Artifact,Bastien L. Deharme,English,Reprints,Wizards of the Coast,166,12/02/2022,,2022
+5443,j22-167-combat-professor.jpg,Combat Professor,Common,Creature,Andrey Kuzinskiy,English,Reprints,Wizards of the Coast,167,12/02/2022,,2022
+5444,j22-168-danitha-capashen-paragon.jpg,"Danitha Capashen, Paragon",Uncommon,Lgd. Creature,Chris Rallis,English,Reprints,Wizards of the Coast,168,12/02/2022,,2022
+5445,j22-169-dawn-of-hope.jpg,Dawn of Hope,Rare,Enchantment,Sung Choi,English,Reprints,Wizards of the Coast,169,12/02/2022,,2022
+5446,j22-170-dawning-angel.jpg,Dawning Angel,Common,Creature,Yongjae Choi,English,Reprints,Wizards of the Coast,170,12/02/2022,,2022
+5447,j22-171-daybreak-chaplain.jpg,Daybreak Chaplain,Common,Creature,Volkan Baǵa,English,Reprints,Wizards of the Coast,171,12/02/2022,,2022
+5448,j22-172-daybreak-charger.jpg,Daybreak Charger,Common,Creature,Forrest Imel,English,Reprints,Wizards of the Coast,172,12/02/2022,,2022
+5449,j22-173-decree-of-justice.jpg,Decree of Justice,Rare,Sorcery,Lius Lasahido,English,Reprints,Wizards of the Coast,173,12/02/2022,,2022
+5450,j22-174-defy-death.jpg,Defy Death,Uncommon,Sorcery,Karl Kopinski,English,Reprints,Wizards of the Coast,174,12/02/2022,,2022
+5451,j22-175-devouring-light.jpg,Devouring Light,Uncommon,Instant,Slawomir Maniak,English,Reprints,Wizards of the Coast,175,12/02/2022,,2022
+5452,j22-176-divine-arrow.jpg,Divine Arrow,Common,Instant,Slawomir Maniak,English,Reprints,Wizards of the Coast,176,12/02/2022,,2022
+5453,j22-177-divine-verdict.jpg,Divine Verdict,Common,Instant,Kev Walker,English,Reprints,Wizards of the Coast,177,12/02/2022,,2022
+5454,j22-178-doomed-traveler.jpg,Doomed Traveler,Common,Creature,Lars Grant-West,English,Reprints,Wizards of the Coast,178,12/02/2022,,2022
+5455,j22-179-dreadful-apathy.jpg,Dreadful Apathy,Common,Enchantment,Mark Zug,English,Reprints,Wizards of the Coast,179,12/02/2022,,2022
+5456,j22-180-emiel-the-blessed.jpg,Emiel the Blessed,Mythic,Lgd. Creature,Antonio José Manzanedo,English,Reprints,Wizards of the Coast,180,12/02/2022,,2022
+5457,j22-181-faith-s-fetters.jpg,Faith's Fetters,Uncommon,Enchantment,Kev Walker,English,Reprints,Wizards of the Coast,181,12/02/2022,,2022
+5458,j22-182-favored-of-iroas.jpg,Favored of Iroas,Uncommon,Creature,John Severin Brassell,English,Reprints,Wizards of the Coast,182,12/02/2022,,2022
+5459,j22-183-felidar-cub.jpg,Felidar Cub,Common,Creature,Steve Prescott,English,Reprints,Wizards of the Coast,183,12/02/2022,,2022
+5460,j22-184-felidar-retreat.jpg,Felidar Retreat,Rare,Enchantment,Ralph Horsley,English,Reprints,Wizards of the Coast,184,12/02/2022,,2022
+5461,j22-185-forced-worship.jpg,Forced Worship,Common,Enchantment,Karl Kopinski,English,Reprints,Wizards of the Coast,185,12/02/2022,,2022
+5462,j22-186-gallant-cavalry.jpg,Gallant Cavalry,Common,Creature,Craig J Spearing,English,Reprints,Wizards of the Coast,186,12/02/2022,,2022
+5463,j22-187-gallows-warden.jpg,Gallows Warden,Uncommon,Creature,Dan Scott,English,Reprints,Wizards of the Coast,187,12/02/2022,,2022
+5464,j22-188-giant-ox.jpg,Giant Ox,Common,Creature,Joe Slucher,English,Reprints,Wizards of the Coast,188,12/02/2022,,2022
+5465,j22-189-gideon-champion-of-justice.jpg,"Gideon, Champion of Justice",Mythic,Lgd. Planeswalker,David Rapoza,English,Reprints,Wizards of the Coast,189,12/02/2022,,2022
+5466,j22-190-gideon-s-lawkeeper.jpg,Gideon's Lawkeeper,Common,Creature,Steve Prescott,English,Reprints,Wizards of the Coast,190,12/02/2022,,2022
+5467,j22-191-glory-bearers.jpg,Glory Bearers,Common,Enchantment Creature,Tyler Walpole,English,Reprints,Wizards of the Coast,191,12/02/2022,,2022
+5468,j22-192-goldnight-commander.jpg,Goldnight Commander,Uncommon,Creature,Chris Rahn,English,Reprints,Wizards of the Coast,192,12/02/2022,,2022
+5469,j22-193-hotshot-mechanic.jpg,Hotshot Mechanic,Uncommon,Artifact Creature,Julio Reyna,English,Reprints,Wizards of the Coast,193,12/02/2022,,2022
+5470,j22-194-hour-of-reckoning.jpg,Hour of Reckoning,Rare,Sorcery,Joseph Meehan,English,Reprints,Wizards of the Coast,194,12/02/2022,,2022
+5471,j22-195-impeccable-timing.jpg,Impeccable Timing,Common,Instant,Chris Rallis,English,Reprints,Wizards of the Coast,195,12/02/2022,,2022
+5472,j22-196-imperial-aerosaur.jpg,Imperial Aerosaur,Uncommon,Creature,Jesper Ejsing,English,Reprints,Wizards of the Coast,196,12/02/2022,,2022
+5473,j22-197-imperial-recovery-unit.jpg,Imperial Recovery Unit,Uncommon,Artifact,Steve Prescott,English,Reprints,Wizards of the Coast,197,12/02/2022,,2022
+5474,j22-198-infantry-veteran.jpg,Infantry Veteran,Common,Creature,Zoltan Boros,English,Reprints,Wizards of the Coast,198,12/02/2022,,2022
+5475,j22-199-inspiring-cleric.jpg,Inspiring Cleric,Uncommon,Creature,Randy Gallegos,English,Reprints,Wizards of the Coast,199,12/02/2022,,2022
+5476,j22-200-inspiring-overseer.jpg,Inspiring Overseer,Common,Creature,Irina Nordsol,English,Reprints,Wizards of the Coast,200,12/02/2022,,2022
+5477,j22-201-isamaru-hound-of-konda.jpg,"Isamaru, Hound of Konda",Rare,Lgd. Creature,Christopher Moeller,English,Reprints,Wizards of the Coast,201,12/02/2022,,2022
+5478,j22-202-justiciar-s-portal.jpg,Justiciar's Portal,Common,Instant,Micah Epstein,English,Reprints,Wizards of the Coast,202,12/02/2022,,2022
+5479,j22-203-kami-of-ancient-law.jpg,Kami of Ancient Law,Common,Creature,Mark Tedin,English,Reprints,Wizards of the Coast,203,12/02/2022,,2022
+5480,j22-204-kitsune-ace.jpg,Kitsune Ace,Common,Creature,Joseph Weston,English,Reprints,Wizards of the Coast,204,12/02/2022,,2022
+5481,j22-205-kwende-pride-of-femeref.jpg,"Kwende, Pride of Femeref",Uncommon,Lgd. Creature,Daarken,English,Reprints,Wizards of the Coast,205,12/02/2022,,2022
+5482,j22-206-law-rune-enforcer.jpg,Law-Rune Enforcer,Common,Creature,Eric Deschamps,English,Reprints,Wizards of the Coast,206,12/02/2022,,2022
+5483,j22-207-leonin-snarecaster.jpg,Leonin Snarecaster,Common,Creature,Kev Walker,English,Reprints,Wizards of the Coast,207,12/02/2022,,2022
+5484,j22-208-leonin-warleader.jpg,Leonin Warleader,Rare,Creature,Jakub Kasper,English,Reprints,Wizards of the Coast,208,12/02/2022,,2022
+5485,j22-209-light-of-hope.jpg,Light of Hope,Common,Instant,Kimonas Theodossiou,English,Reprints,Wizards of the Coast,209,12/02/2022,,2022
+5486,j22-210-lyra-dawnbringer.jpg,Lyra Dawnbringer,Mythic,Lgd. Creature,Chris Rahn,English,Reprints,Wizards of the Coast,210,12/02/2022,,2022
+5487,j22-211-make-a-stand.jpg,Make a Stand,Uncommon,Instant,Magali Villeneuve,English,Reprints,Wizards of the Coast,211,12/02/2022,,2022
+5488,j22-212-martyr-s-soul.jpg,Martyr's Soul,Common,Creature,Mila Pesic,English,Reprints,Wizards of the Coast,212,12/02/2022,,2022
+5489,j22-213-mausoleum-guard.jpg,Mausoleum Guard,Uncommon,Creature,David Palumbo,English,Reprints,Wizards of the Coast,213,12/02/2022,,2022
+5490,j22-214-mesa-lynx.jpg,Mesa Lynx,Common,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,214,12/02/2022,,2022
+5491,j22-215-michiko-konda-truth-seeker.jpg,"Michiko Konda, Truth Seeker",Rare,Lgd. Creature,Christopher Moeller,English,Reprints,Wizards of the Coast,215,12/02/2022,,2022
+5492,j22-216-midnight-guard.jpg,Midnight Guard,Common,Creature,Jason A. Engle,English,Reprints,Wizards of the Coast,216,12/02/2022,,2022
+5493,j22-217-miraculous-recovery.jpg,Miraculous Recovery,Uncommon,Instant,Mark Winters,English,Reprints,Wizards of the Coast,217,12/02/2022,,2022
+5494,j22-218-moment-of-triumph.jpg,Moment of Triumph,Common,Instant,Steven Belledin,English,Reprints,Wizards of the Coast,218,12/02/2022,,2022
+5495,j22-219-murder-investigation.jpg,Murder Investigation,Uncommon,Enchantment,Igor Kieryluk,English,Reprints,Wizards of the Coast,219,12/02/2022,,2022
+5496,j22-220-nightguard-patrol.jpg,Nightguard Patrol,Common,Creature,Dany Orizio,English,Reprints,Wizards of the Coast,220,12/02/2022,,2022
+5497,j22-221-ninth-bridge-patrol.jpg,Ninth Bridge Patrol,Common,Creature,Ryan Alexander Lee,English,Reprints,Wizards of the Coast,221,12/02/2022,,2022
+5498,j22-222-not-forgotten.jpg,Not Forgotten,Uncommon,Sorcery,Darek Zabrocki,English,Reprints,Wizards of the Coast,222,12/02/2022,,2022
+5499,j22-223-order-of-the-golden-cricket.jpg,Order of the Golden Cricket,Common,Creature,Mark Zug,English,Reprints,Wizards of the Coast,223,12/02/2022,,2022
+5500,j22-224-phalanx-tactics.jpg,Phalanx Tactics,Uncommon,Instant,Bayard Wu,English,Reprints,Wizards of the Coast,224,12/02/2022,,2022
+5501,j22-225-pilgrim-of-the-ages.jpg,Pilgrim of the Ages,Common,Creature,JiHun Lee,English,Reprints,Wizards of the Coast,225,12/02/2022,,2022
+5502,j22-226-pillardrop-rescuer.jpg,Pillardrop Rescuer,Common,Creature,Jason A. Engle,English,Reprints,Wizards of the Coast,226,12/02/2022,,2022
+5503,j22-227-pious-wayfarer.jpg,Pious Wayfarer,Common,Creature,Mark Zug,English,Reprints,Wizards of the Coast,227,12/02/2022,,2022
+5504,j22-228-pouncing-lynx.jpg,Pouncing Lynx,Common,Creature,Sidharth Chaturvedi,English,Reprints,Wizards of the Coast,228,12/02/2022,,2022
+5505,j22-229-prowling-felidar.jpg,Prowling Felidar,Common,Creature,Ilse Gort,English,Reprints,Wizards of the Coast,229,12/02/2022,,2022
+5506,j22-230-radiant-s-judgment.jpg,Radiant's Judgment,Common,Instant,Greg Staples,English,Reprints,Wizards of the Coast,230,12/02/2022,,2022
+5507,j22-231-rambunctious-mutt.jpg,Rambunctious Mutt,Common,Creature,Campbell White,English,Reprints,Wizards of the Coast,231,12/02/2022,,2022
+5508,j22-232-regal-caracal.jpg,Regal Caracal,Rare,Creature,Filip Burburan,English,Reprints,Wizards of the Coast,232,12/02/2022,,2022
+5509,j22-233-restoration-angel.jpg,Restoration Angel,Rare,Creature,Jake Murray,English,Reprints,Wizards of the Coast,233,12/02/2022,,2022
+5510,j22-234-righteous-valkyrie.jpg,Righteous Valkyrie,Rare,Creature,Chris Rahn,English,Reprints,Wizards of the Coast,234,12/02/2022,,2022
+5511,j22-235-righteousness.jpg,Righteousness,Uncommon,Instant,Wayne England,English,Reprints,Wizards of the Coast,235,12/02/2022,,2022
+5512,j22-236-sanctum-gargoyle.jpg,Sanctum Gargoyle,Common,Artifact Creature,Shelly Wan,English,Reprints,Wizards of the Coast,236,12/02/2022,,2022
+5513,j22-237-savannah-lions.jpg,Savannah Lions,Uncommon,Creature,Winona Nelson,English,Reprints,Wizards of the Coast,237,12/02/2022,,2022
+5514,j22-238-savannah-sage.jpg,Savannah Sage,Common,Creature,Bayard Wu,English,Reprints,Wizards of the Coast,238,12/02/2022,,2022
+5515,j22-239-selfless-spirit.jpg,Selfless Spirit,Rare,Creature,Seb McKinnon,English,Reprints,Wizards of the Coast,239,12/02/2022,,2022
+5516,j22-240-seller-of-songbirds.jpg,Seller of Songbirds,Common,Creature,Christopher Moeller,English,Reprints,Wizards of the Coast,240,12/02/2022,,2022
+5517,j22-241-serene-steward.jpg,Serene Steward,Uncommon,Creature,Magali Villeneuve,English,Reprints,Wizards of the Coast,241,12/02/2022,,2022
+5518,j22-242-settle-beyond-reality.jpg,Settle Beyond Reality,Common,Sorcery,Anthony Palumbo,English,Reprints,Wizards of the Coast,242,12/02/2022,,2022
+5519,j22-243-shining-armor.jpg,Shining Armor,Common,Artifact,Eric Deschamps,English,Reprints,Wizards of the Coast,243,12/02/2022,,2022
+5520,j22-244-sigil-of-the-empty-throne.jpg,Sigil of the Empty Throne,Rare,Enchantment,Cyril Van Der Haegen,English,Reprints,Wizards of the Coast,244,12/02/2022,,2022
+5521,j22-245-skyhunter-patrol.jpg,Skyhunter Patrol,Common,Creature,Matt Cavotta,English,Reprints,Wizards of the Coast,245,12/02/2022,,2022
+5522,j22-246-skyhunter-prowler.jpg,Skyhunter Prowler,Common,Creature,Vance Kovacs,English,Reprints,Wizards of the Coast,246,12/02/2022,,2022
+5523,j22-247-spectral-steel.jpg,Spectral Steel,Uncommon,Enchantment,Johannes Voss,English,Reprints,Wizards of the Coast,247,12/02/2022,,2022
+5524,j22-248-spirited-companion.jpg,Spirited Companion,Common,Enchantment Creature,Ilse Gort,English,Reprints,Wizards of the Coast,248,12/02/2022,,2022
+5525,j22-249-stalwart-valkyrie.jpg,Stalwart Valkyrie,Common,Creature,Jason Rainville,English,Reprints,Wizards of the Coast,249,12/02/2022,,2022
+5526,j22-250-starnheim-aspirant.jpg,Starnheim Aspirant,Uncommon,Creature,Kieran Yanner,English,Reprints,Wizards of the Coast,250,12/02/2022,,2022
+5527,j22-251-steppe-lynx.jpg,Steppe Lynx,Common,Creature,Nic Klein,English,Reprints,Wizards of the Coast,251,12/02/2022,,2022
+5528,j22-252-syr-alin-the-lion-s-claw.jpg,"Syr Alin, the Lion's Claw",Uncommon,Lgd. Creature,Paul Scott Canavan,English,Reprints,Wizards of the Coast,252,12/02/2022,,2022
+5529,j22-253-taranika-akroan-veteran.jpg,"Taranika, Akroan Veteran",Rare,Lgd. Creature,Eric Deschamps,English,Reprints,Wizards of the Coast,253,12/02/2022,,2022
+5530,j22-254-tempered-veteran.jpg,Tempered Veteran,Uncommon,Creature,Izzy,English,Reprints,Wizards of the Coast,254,12/02/2022,,2022
+5531,j22-255-thraben-inspector.jpg,Thraben Inspector,Common,Creature,Matt Stewart,English,Reprints,Wizards of the Coast,255,12/02/2022,,2022
+5532,j22-256-trained-caracal.jpg,Trained Caracal,Common,Creature,James Ryman,English,Reprints,Wizards of the Coast,256,12/02/2022,,2022
+5533,j22-257-transcendent-envoy.jpg,Transcendent Envoy,Common,Enchantment Creature,Zezhou Chen,English,Reprints,Wizards of the Coast,257,12/02/2022,,2022
+5534,j22-258-triplicate-spirits.jpg,Triplicate Spirits,Common,Sorcery,Izzy,English,Reprints,Wizards of the Coast,258,12/02/2022,,2022
+5535,j22-259-trove-warden.jpg,Trove Warden,Rare,Creature,Lars Grant-West,English,Reprints,Wizards of the Coast,259,12/02/2022,,2022
+5536,j22-260-unquestioned-authority.jpg,Unquestioned Authority,Uncommon,Enchantment,Alex Horley-Orlandelli,English,Reprints,Wizards of the Coast,260,12/02/2022,,2022
+5537,j22-261-valkyrie-harbinger.jpg,Valkyrie Harbinger,Rare,Creature,Tran Nguyen,English,Reprints,Wizards of the Coast,261,12/02/2022,,2022
+5538,j22-262-valor-in-akros.jpg,Valor in Akros,Uncommon,Enchantment,Chris Rallis,English,Reprints,Wizards of the Coast,262,12/02/2022,,2022
+5539,j22-263-valorous-stance.jpg,Valorous Stance,Uncommon,Instant,Victor Adame Minguez,English,Reprints,Wizards of the Coast,263,12/02/2022,,2022
+5540,j22-264-valorous-steed.jpg,Valorous Steed,Common,Creature,Donato Giancola,English,Reprints,Wizards of the Coast,264,12/02/2022,,2022
+5541,j22-265-weight-of-conscience.jpg,Weight of Conscience,Common,Enchantment,Heather Hudson,English,Reprints,Wizards of the Coast,265,12/02/2022,,2022
+5542,j22-266-wispweaver-angel.jpg,Wispweaver Angel,Uncommon,Creature,James Ryman,English,Reprints,Wizards of the Coast,266,12/02/2022,,2022
+5543,j22-267-academy-journeymage.jpg,Academy Journeymage,Common,Creature,Magali Villeneuve,English,Reprints,Wizards of the Coast,267,12/02/2022,,2022
+5544,j22-268-aeronaut-tinkerer.jpg,Aeronaut Tinkerer,Common,Creature,Willian Murai,English,Reprints,Wizards of the Coast,268,12/02/2022,,2022
+5545,j22-269-amoeboid-changeling.jpg,Amoeboid Changeling,Common,Creature,Nils Hamm,English,Reprints,Wizards of the Coast,269,12/02/2022,,2022
+5546,j22-270-anchor-to-the-aether.jpg,Anchor to the Aether,Uncommon,Sorcery,Zoltan Boros,English,Reprints,Wizards of the Coast,270,12/02/2022,,2022
+5547,j22-271-aquatic-incursion.jpg,Aquatic Incursion,Uncommon,Enchantment,Jason Rainville,English,Reprints,Wizards of the Coast,271,12/02/2022,,2022
+5548,j22-272-artificer-s-epiphany.jpg,Artificer's Epiphany,Common,Instant,Kieran Yanner,English,Reprints,Wizards of the Coast,272,12/02/2022,,2022
+5549,j22-273-augury-owl.jpg,Augury Owl,Common,Creature,Jim Nelson,English,Reprints,Wizards of the Coast,273,12/02/2022,,2022
+5550,j22-274-avalanche-caller.jpg,Avalanche Caller,Uncommon,Snow Creature,Mathias Kollros,English,Reprints,Wizards of the Coast,274,12/02/2022,,2022
+5551,j22-275-aviation-pioneer.jpg,Aviation Pioneer,Common,Creature,Lake Hurwitz,English,Reprints,Wizards of the Coast,275,12/02/2022,,2022
+5552,j22-276-barrin-tolarian-archmage.jpg,"Barrin, Tolarian Archmage",Rare,Lgd. Creature,Ryan Pancoast,English,Reprints,Wizards of the Coast,276,12/02/2022,,2022
+5553,j22-277-berg-strider.jpg,Berg Strider,Common,Snow Creature,Filip Burburan,English,Reprints,Wizards of the Coast,277,12/02/2022,,2022
+5554,j22-278-brineborn-cutthroat.jpg,Brineborn Cutthroat,Uncommon,Creature,Caio Monteiro,English,Reprints,Wizards of the Coast,278,12/02/2022,,2022
+5555,j22-279-bury-in-books.jpg,Bury in Books,Common,Instant,Zoltan Boros,English,Reprints,Wizards of the Coast,279,12/02/2022,,2022
+5556,j22-280-chillerpillar.jpg,Chillerpillar,Common,Snow Creature,Suzanne Helmigh,English,Reprints,Wizards of the Coast,280,12/02/2022,,2022
+5557,j22-281-chilling-trap.jpg,Chilling Trap,Common,Instant,Johann Bodin,English,Reprints,Wizards of the Coast,281,12/02/2022,,2022
+5558,j22-282-condescend.jpg,Condescend,Uncommon,Instant,Kieran Yanner,English,Reprints,Wizards of the Coast,282,12/02/2022,,2022
+5559,j22-283-crashing-tide.jpg,Crashing Tide,Common,Sorcery,Carmen Sinek,English,Reprints,Wizards of the Coast,283,12/02/2022,,2022
+5560,j22-284-crippling-chill.jpg,Crippling Chill,Common,Instant,Torstein Nordstrand,English,Reprints,Wizards of the Coast,284,12/02/2022,,2022
+5561,j22-285-cryptic-serpent.jpg,Cryptic Serpent,Uncommon,Creature,Lius Lasahido,English,Reprints,Wizards of the Coast,285,12/02/2022,,2022
+5562,j22-286-dismiss.jpg,Dismiss,Uncommon,Instant,Donato Giancola,English,Reprints,Wizards of the Coast,286,12/02/2022,,2022
+5563,j22-287-djinn-of-wishes.jpg,Djinn of Wishes,Rare,Creature,Kev Walker,English,Reprints,Wizards of the Coast,287,12/02/2022,,2022
+5564,j22-288-drag-under.jpg,Drag Under,Common,Sorcery,Tianhua X,English,Reprints,Wizards of the Coast,288,12/02/2022,,2022
+5565,j22-289-drownyard-explorers.jpg,Drownyard Explorers,Common,Creature,Anthony Palumbo,English,Reprints,Wizards of the Coast,289,12/02/2022,,2022
+5566,j22-290-elite-instructor.jpg,Elite Instructor,Common,Creature,Mike Sass,English,Reprints,Wizards of the Coast,290,12/02/2022,,2022
+5567,j22-291-erdwal-illuminator.jpg,Erdwal Illuminator,Uncommon,Creature,Seb McKinnon,English,Reprints,Wizards of the Coast,291,12/02/2022,,2022
+5568,j22-292-eternity-snare.jpg,Eternity Snare,Uncommon,Enchantment,Min Yum,English,Reprints,Wizards of the Coast,292,12/02/2022,,2022
+5569,j22-293-eyekite.jpg,Eyekite,Common,Creature,Dan Scott,English,Reprints,Wizards of the Coast,293,12/02/2022,,2022
+5570,j22-294-faerie-formation.jpg,Faerie Formation,Rare,Creature,Ryan Yee,English,Reprints,Wizards of the Coast,294,12/02/2022,,2022
+5571,j22-295-faerie-seer.jpg,Faerie Seer,Common,Creature,Colin Boyer,English,Reprints,Wizards of the Coast,295,12/02/2022,,2022
+5572,j22-296-faerie-vandal.jpg,Faerie Vandal,Uncommon,Creature,Paul Scott Canavan,English,Reprints,Wizards of the Coast,296,12/02/2022,,2022
+5573,j22-297-fallowsage.jpg,Fallowsage,Uncommon,Creature,Paolo Parente,English,Reprints,Wizards of the Coast,297,12/02/2022,,2022
+5574,j22-298-filigree-attendant.jpg,Filigree Attendant,Uncommon,Artifact Creature,Igor Kieryluk,English,Reprints,Wizards of the Coast,298,12/02/2022,,2022
+5575,j22-299-fleeting-distraction.jpg,Fleeting Distraction,Common,Instant,Ryan Yee,English,Reprints,Wizards of the Coast,299,12/02/2022,,2022
+5576,j22-300-floodhound.jpg,Floodhound,Common,Creature,Lius Lasahido,English,Reprints,Wizards of the Coast,300,12/02/2022,,2022
+5577,j22-301-frostpeak-yeti.jpg,Frostpeak Yeti,Common,Snow Creature,Chris Rahn,English,Reprints,Wizards of the Coast,301,12/02/2022,,2022
+5578,j22-302-gearseeker-serpent.jpg,Gearseeker Serpent,Common,Creature,Filip Burburan,English,Reprints,Wizards of the Coast,302,12/02/2022,,2022
+5579,j22-303-gearsmith-prodigy.jpg,Gearsmith Prodigy,Common,Creature,Deruchenko Alexander,English,Reprints,Wizards of the Coast,303,12/02/2022,,2022
+5580,j22-304-gigantoplasm.jpg,Gigantoplasm,Rare,Creature,Kev Walker,English,Reprints,Wizards of the Coast,304,12/02/2022,,2022
+5581,j22-305-glen-elendra-pranksters.jpg,Glen Elendra Pranksters,Uncommon,Creature,Omar Rayyan,English,Reprints,Wizards of the Coast,305,12/02/2022,,2022
+5582,j22-306-harbinger-of-the-tides.jpg,Harbinger of the Tides,Rare,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,306,12/02/2022,,2022
+5583,j22-307-hieroglyphic-illumination.jpg,Hieroglyphic Illumination,Common,Instant,Raoul Vitale,English,Reprints,Wizards of the Coast,307,12/02/2022,,2022
+5584,j22-308-icebind-pillar.jpg,Icebind Pillar,Uncommon,Snow Artifact,Wisnu Tan,English,Reprints,Wizards of the Coast,308,12/02/2022,,2022
+5585,j22-309-interpret-the-signs.jpg,Interpret the Signs,Uncommon,Sorcery,Cynthia Sheppard,English,Reprints,Wizards of the Coast,309,12/02/2022,,2022
+5586,j22-310-jace-arcane-strategist.jpg,"Jace, Arcane Strategist",Mythic,Lgd. Planeswalker,Kieran Yanner,English,Reprints,Wizards of the Coast,310,12/02/2022,,2022
+5587,j22-311-jace-s-scrutiny.jpg,Jace's Scrutiny,Common,Instant,Slawomir Maniak,English,Reprints,Wizards of the Coast,311,12/02/2022,,2022
+5588,j22-312-lay-claim.jpg,Lay Claim,Uncommon,Enchantment,Chris Rallis,English,Reprints,Wizards of the Coast,312,12/02/2022,,2022
+5589,j22-313-leave-in-the-dust.jpg,Leave in the Dust,Common,Instant,Vincent Proce,English,Reprints,Wizards of the Coast,313,12/02/2022,,2022
+5590,j22-314-library-larcenist.jpg,Library Larcenist,Common,Creature,Mila Pesic,English,Reprints,Wizards of the Coast,314,12/02/2022,,2022
+5591,j22-315-littjara-kinseekers.jpg,Littjara Kinseekers,Common,Creature,Tyler Walpole,English,Reprints,Wizards of the Coast,315,12/02/2022,,2022
+5592,j22-316-lookout-s-dispersal.jpg,Lookout's Dispersal,Uncommon,Instant,Ryan Yee,English,Reprints,Wizards of the Coast,316,12/02/2022,,2022
+5593,j22-317-lumengrid-sentinel.jpg,Lumengrid Sentinel,Uncommon,Creature,Scott M. Fischer,English,Reprints,Wizards of the Coast,317,12/02/2022,,2022
+5594,j22-318-mantle-of-tides.jpg,Mantle of Tides,Common,Artifact,Lie Setiawan,English,Reprints,Wizards of the Coast,318,12/02/2022,,2022
+5595,j22-319-marit-lage-s-slumber.jpg,Marit Lage's Slumber,Rare,Lgd. Snow Enchantment,Randy Vargas,English,Reprints,Wizards of the Coast,319,12/02/2022,,2022
+5596,j22-320-mechanized-production.jpg,Mechanized Production,Mythic,Enchantment,Adam Paquette,English,Reprints,Wizards of the Coast,320,12/02/2022,,2022
+5597,j22-321-merfolk-sovereign.jpg,Merfolk Sovereign,Rare,Creature,Jesper Ejsing,English,Reprints,Wizards of the Coast,321,12/02/2022,,2022
+5598,j22-322-military-intelligence.jpg,Military Intelligence,Uncommon,Enchantment,Craig J Spearing,English,Reprints,Wizards of the Coast,322,12/02/2022,,2022
+5599,j22-323-mistwalker.jpg,Mistwalker,Common,Creature,Steve Prescott,English,Reprints,Wizards of the Coast,323,12/02/2022,,2022
+5600,j22-324-moonfolk-puzzlemaker.jpg,Moonfolk Puzzlemaker,Common,Artifact Creature,Miguel Mercado,English,Reprints,Wizards of the Coast,324,12/02/2022,,2022
+5601,j22-325-multiple-choice.jpg,Multiple Choice,Rare,Sorcery,Campbell White,English,Reprints,Wizards of the Coast,325,12/02/2022,,2022
+5602,j22-326-mystic-skyfish.jpg,Mystic Skyfish,Common,Creature,Alayna Danner,English,Reprints,Wizards of the Coast,326,12/02/2022,,2022
+5603,j22-327-neutralize.jpg,Neutralize,Uncommon,Instant,Yongjae Choi,English,Reprints,Wizards of the Coast,327,12/02/2022,,2022
+5604,j22-328-no-escape.jpg,No Escape,Common,Instant,G-host Lee,English,Reprints,Wizards of the Coast,328,12/02/2022,,2022
+5605,j22-329-octoprophet.jpg,Octoprophet,Common,Creature,Grzegorz Rutkowski,English,Reprints,Wizards of the Coast,329,12/02/2022,,2022
+5606,j22-330-one-with-the-wind.jpg,One With the Wind,Common,Enchantment,Naomi Baker,English,Reprints,Wizards of the Coast,330,12/02/2022,,2022
+5607,j22-331-oneirophage.jpg,Oneirophage,Uncommon,Creature,Martina Pilcerova,English,Reprints,Wizards of the Coast,331,12/02/2022,,2022
+5608,j22-332-opt.jpg,Opt,Common,Instant,Dan Scott,English,Reprints,Wizards of the Coast,332,12/02/2022,,2022
+5609,j22-333-overwhelmed-apprentice.jpg,Overwhelmed Apprentice,Uncommon,Creature,Jason Rainville,English,Reprints,Wizards of the Coast,333,12/02/2022,,2022
+5610,j22-334-perilous-voyage.jpg,Perilous Voyage,Uncommon,Instant,Wesley Burt,English,Reprints,Wizards of the Coast,334,12/02/2022,,2022
+5611,j22-335-pestermite.jpg,Pestermite,Common,Creature,Christopher Moeller,English,Reprints,Wizards of the Coast,335,12/02/2022,,2022
+5612,j22-336-pilfering-hawk.jpg,Pilfering Hawk,Common,Snow Creature,Dan Scott,English,Reprints,Wizards of the Coast,336,12/02/2022,,2022
+5613,j22-337-press-for-answers.jpg,Press for Answers,Common,Sorcery,Steve Prescott,English,Reprints,Wizards of the Coast,337,12/02/2022,,2022
+5614,j22-338-renowned-weaponsmith.jpg,Renowned Weaponsmith,Uncommon,Creature,Eric Deschamps,English,Reprints,Wizards of the Coast,338,12/02/2022,,2022
+5615,j22-339-river-sneak.jpg,River Sneak,Uncommon,Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,339,12/02/2022,,2022
+5616,j22-340-sage-of-the-falls.jpg,Sage of the Falls,Uncommon,Creature,Nicholas Gregory,English,Reprints,Wizards of the Coast,340,12/02/2022,,2022
+5617,j22-341-sage-s-row-savant.jpg,Sage's Row Savant,Common,Creature,Bastien L. Deharme,English,Reprints,Wizards of the Coast,341,12/02/2022,,2022
+5618,j22-342-saltwater-stalwart.jpg,Saltwater Stalwart,Common,Creature,Sam Burley,English,Reprints,Wizards of the Coast,342,12/02/2022,,2022
+5619,j22-343-seafloor-oracle.jpg,Seafloor Oracle,Rare,Creature,Simon Dominic,English,Reprints,Wizards of the Coast,343,12/02/2022,,2022
+5620,j22-344-sentinels-of-glen-elendra.jpg,Sentinels of Glen Elendra,Common,Creature,Howard Lyon,English,Reprints,Wizards of the Coast,344,12/02/2022,,2022
+5621,j22-345-serum-visions.jpg,Serum Visions,Uncommon,Sorcery,Izzy,English,Reprints,Wizards of the Coast,345,12/02/2022,,2022
+5622,j22-346-shaper-apprentice.jpg,Shaper Apprentice,Common,Creature,Yongjae Choi,English,Reprints,Wizards of the Coast,346,12/02/2022,,2022
+5623,j22-347-shimmer-dragon.jpg,Shimmer Dragon,Rare,Creature,Lie Setiawan,English,Reprints,Wizards of the Coast,347,12/02/2022,,2022
+5624,j22-348-skilled-animator.jpg,Skilled Animator,Uncommon,Creature,Jason A. Engle,English,Reprints,Wizards of the Coast,348,12/02/2022,,2022
+5625,j22-349-so-tiny.jpg,So Tiny,Common,Enchantment,Randy Vargas,English,Reprints,Wizards of the Coast,349,12/02/2022,,2022
+5626,j22-350-startling-development.jpg,Startling Development,Common,Instant,Simon Dominic,English,Reprints,Wizards of the Coast,350,12/02/2022,,2022
+5627,j22-351-steelgaze-griffin.jpg,Steelgaze Griffin,Common,Creature,J.P. Targete,English,Reprints,Wizards of the Coast,351,12/02/2022,,2022
+5628,j22-352-stinging-lionfish.jpg,Stinging Lionfish,Uncommon,Enchantment Creature,Christopher Burdett,English,Reprints,Wizards of the Coast,352,12/02/2022,,2022
+5629,j22-353-stolen-by-the-fae.jpg,Stolen by the Fae,Rare,Sorcery,Ryan Alexander Lee,English,Reprints,Wizards of the Coast,353,12/02/2022,,2022
+5630,j22-354-stonybrook-angler.jpg,Stonybrook Angler,Common,Creature,Larry MacDougall,English,Reprints,Wizards of the Coast,354,12/02/2022,,2022
+5631,j22-355-storm-sculptor.jpg,Storm Sculptor,Common,Creature,Sidharth Chaturvedi,English,Reprints,Wizards of the Coast,355,12/02/2022,,2022
+5632,j22-356-svyelun-of-sea-and-sky.jpg,Svyelun of Sea and Sky,Mythic,Lgd. Creature,Seb McKinnon,English,Reprints,Wizards of the Coast,356,12/02/2022,,2022
+5633,j22-357-syr-elenora-the-discerning.jpg,"Syr Elenora, the Discerning",Uncommon,Lgd. Creature,Mila Pesic,English,Reprints,Wizards of the Coast,357,12/02/2022,,2022
+5634,j22-358-tamiyo-the-moon-sage.jpg,"Tamiyo, the Moon Sage",Mythic,Lgd. Planeswalker,Eric Deschamps,English,Reprints,Wizards of the Coast,358,12/02/2022,,2022
+5635,j22-359-teferi-s-protege.jpg,Teferi's Protege,Common,Creature,Bram Sels,English,Reprints,Wizards of the Coast,359,12/02/2022,,2022
+5636,j22-360-tezzeret-artifice-master.jpg,"Tezzeret, Artifice Master",Mythic,Lgd. Planeswalker,Josh Hass,English,Reprints,Wizards of the Coast,360,12/02/2022,,2022
+5637,j22-361-thopter-spy-network.jpg,Thopter Spy Network,Rare,Enchantment,Jung Park,English,Reprints,Wizards of the Coast,361,12/02/2022,,2022
+5638,j22-362-tolarian-kraken.jpg,Tolarian Kraken,Uncommon,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,362,12/02/2022,,2022
+5639,j22-363-tolarian-sentinel.jpg,Tolarian Sentinel,Common,Creature,Thomas M. Baxa,English,Reprints,Wizards of the Coast,363,12/02/2022,,2022
+5640,j22-364-tome-anima.jpg,Tome Anima,Common,Creature,Johannes Voss,English,Reprints,Wizards of the Coast,364,12/02/2022,,2022
+5641,j22-365-triton-shorestalker.jpg,Triton Shorestalker,Common,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,365,12/02/2022,,2022
+5642,j22-366-undersea-invader.jpg,Undersea Invader,Common,Creature,Lorenzo Mastroianni,English,Reprints,Wizards of the Coast,366,12/02/2022,,2022
+5643,j22-367-vedalken-engineer.jpg,Vedalken Engineer,Common,Creature,Lars Grant-West,English,Reprints,Wizards of the Coast,367,12/02/2022,,2022
+5644,j22-368-vendilion-clique.jpg,Vendilion Clique,Mythic,Lgd. Creature,Willian Murai,English,Reprints,Wizards of the Coast,368,12/02/2022,,2022
+5645,j22-369-wake-thrasher.jpg,Wake Thrasher,Rare,Creature,Jesper Ejsing,English,Reprints,Wizards of the Coast,369,12/02/2022,,2022
+5646,j22-370-watertrap-weaver.jpg,Watertrap Weaver,Common,Creature,Josu Hernaiz,English,Reprints,Wizards of the Coast,370,12/02/2022,,2022
+5647,j22-371-wavebreak-hippocamp.jpg,Wavebreak Hippocamp,Rare,Enchantment Creature,Caio Monteiro,English,Reprints,Wizards of the Coast,371,12/02/2022,,2022
+5648,j22-372-weldfast-wingsmith.jpg,Weldfast Wingsmith,Common,Creature,Dan Scott,English,Reprints,Wizards of the Coast,372,12/02/2022,,2022
+5649,j22-373-windrider-patrol.jpg,Windrider Patrol,Uncommon,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,373,12/02/2022,,2022
+5650,j22-374-winter-s-rest.jpg,Winter's Rest,Common,Snow Enchantment,Mila Pesic,English,Reprints,Wizards of the Coast,374,12/02/2022,,2022
+5651,j22-375-alley-strangler.jpg,Alley Strangler,Common,Creature,Efflam Mercier,English,Reprints,Wizards of the Coast,375,12/02/2022,,2022
+5652,j22-376-ancient-craving.jpg,Ancient Craving,Uncommon,Sorcery,Rob Alexander,English,Reprints,Wizards of the Coast,376,12/02/2022,,2022
+5653,j22-377-black-cat.jpg,Black Cat,Common,Creature,David Palumbo,English,Reprints,Wizards of the Coast,377,12/02/2022,,2022
+5654,j22-378-blight-keeper.jpg,Blight Keeper,Common,Creature,Ben Wootten,English,Reprints,Wizards of the Coast,378,12/02/2022,,2022
+5655,j22-379-blood-price.jpg,Blood Price,Common,Sorcery,Antonio José Manzanedo,English,Reprints,Wizards of the Coast,379,12/02/2022,,2022
+5656,j22-380-bloodbond-vampire.jpg,Bloodbond Vampire,Uncommon,Creature,Anna Steinbauer,English,Reprints,Wizards of the Coast,380,12/02/2022,,2022
+5657,j22-381-bloodthirsty-aerialist.jpg,Bloodthirsty Aerialist,Uncommon,Creature,Igor Kieryluk,English,Reprints,Wizards of the Coast,381,12/02/2022,,2022
+5658,j22-382-bloodtracker.jpg,Bloodtracker,Rare,Creature,Magali Villeneuve,English,Reprints,Wizards of the Coast,382,12/02/2022,,2022
+5659,j22-383-bone-picker.jpg,Bone Picker,Uncommon,Creature,Yeong-Hao Han,English,Reprints,Wizards of the Coast,383,12/02/2022,,2022
+5660,j22-384-burglar-rat.jpg,Burglar Rat,Common,Creature,Tyler Walpole,English,Reprints,Wizards of the Coast,384,12/02/2022,,2022
+5661,j22-385-cemetery-recruitment.jpg,Cemetery Recruitment,Common,Sorcery,Kieran Yanner,English,Reprints,Wizards of the Coast,385,12/02/2022,,2022
+5662,j22-386-certain-death.jpg,Certain Death,Common,Sorcery,Kev Walker,English,Reprints,Wizards of the Coast,386,12/02/2022,,2022
+5663,j22-387-chittering-rats.jpg,Chittering Rats,Common,Creature,Yeong-Hao Han,English,Reprints,Wizards of the Coast,387,12/02/2022,,2022
+5664,j22-388-consign-to-the-pit.jpg,Consign to the Pit,Common,Sorcery,Colin Boyer,English,Reprints,Wizards of the Coast,388,12/02/2022,,2022
+5665,j22-389-corpse-churn.jpg,Corpse Churn,Common,Instant,Magali Villeneuve,English,Reprints,Wizards of the Coast,389,12/02/2022,,2022
+5666,j22-390-crow-of-dark-tidings.jpg,Crow of Dark Tidings,Common,Creature,Tianhua X,English,Reprints,Wizards of the Coast,390,12/02/2022,,2022
+5667,j22-391-cruel-sadist.jpg,Cruel Sadist,Rare,Creature,Min Yum,English,Reprints,Wizards of the Coast,391,12/02/2022,,2022
+5668,j22-392-crypt-rats.jpg,Crypt Rats,Uncommon,Creature,Matt Cavotta,English,Reprints,Wizards of the Coast,392,12/02/2022,,2022
+5669,j22-393-dead-weight.jpg,Dead Weight,Common,Enchantment,Lake Hurwitz,English,Reprints,Wizards of the Coast,393,12/02/2022,,2022
+5670,j22-394-death-wind.jpg,Death Wind,Uncommon,Instant,Nils Hamm,English,Reprints,Wizards of the Coast,394,12/02/2022,,2022
+5671,j22-395-deathbloom-thallid.jpg,Deathbloom Thallid,Common,Creature,Mike Burns,English,Reprints,Wizards of the Coast,395,12/02/2022,,2022
+5672,j22-396-deathbringer-regent.jpg,Deathbringer Regent,Rare,Creature,Adam Paquette,English,Reprints,Wizards of the Coast,396,12/02/2022,,2022
+5673,j22-397-demon-of-catastrophes.jpg,Demon of Catastrophes,Rare,Creature,Sidharth Chaturvedi,English,Reprints,Wizards of the Coast,397,12/02/2022,,2022
+5674,j22-398-demonic-gifts.jpg,Demonic Gifts,Common,Instant,Kekai Kotaki,English,Reprints,Wizards of the Coast,398,12/02/2022,,2022
+5675,j22-399-demon-s-disciple.jpg,Demon's Disciple,Uncommon,Creature,Kieran Yanner,English,Reprints,Wizards of the Coast,399,12/02/2022,,2022
+5676,j22-400-demon-s-grasp.jpg,Demon's Grasp,Common,Sorcery,David Gaillet,English,Reprints,Wizards of the Coast,400,12/02/2022,,2022
+5677,j22-401-devouring-swarm.jpg,Devouring Swarm,Common,Creature,Wayne England,English,Reprints,Wizards of the Coast,401,12/02/2022,,2022
+5678,j22-402-doomed-dissenter.jpg,Doomed Dissenter,Common,Creature,Tony Foti,English,Reprints,Wizards of the Coast,402,12/02/2022,,2022
+5679,j22-403-dread-presence.jpg,Dread Presence,Rare,Creature,Anthony Palumbo,English,Reprints,Wizards of the Coast,403,12/02/2022,,2022
+5680,j22-404-dread-rider.jpg,Dread Rider,Common,Creature,Irina Nordsol,English,Reprints,Wizards of the Coast,404,12/02/2022,,2022
+5681,j22-405-dread-slaver.jpg,Dread Slaver,Rare,Creature,Dave Kendall,English,Reprints,Wizards of the Coast,405,12/02/2022,,2022
+5682,j22-406-dreadhound.jpg,Dreadhound,Uncommon,Creature,Joe Slucher,English,Reprints,Wizards of the Coast,406,12/02/2022,,2022
+5683,j22-407-dune-beetle.jpg,Dune Beetle,Common,Creature,Grzegorz Rutkowski,English,Reprints,Wizards of the Coast,407,12/02/2022,,2022
+5684,j22-408-durable-coilbug.jpg,Durable Coilbug,Common,Creature,Milivoj Ćeran,English,Reprints,Wizards of the Coast,408,12/02/2022,,2022
+5685,j22-409-eaten-alive.jpg,Eaten Alive,Common,Sorcery,Nicholas Gregory,English,Reprints,Wizards of the Coast,409,12/02/2022,,2022
+5686,j22-410-endless-ranks-of-the-dead.jpg,Endless Ranks of the Dead,Rare,Enchantment,Ryan Yee,English,Reprints,Wizards of the Coast,410,12/02/2022,,2022
+5687,j22-411-epicure-of-blood.jpg,Epicure of Blood,Common,Creature,Anna Steinbauer,English,Reprints,Wizards of the Coast,411,12/02/2022,,2022
+5688,j22-412-eviscerate.jpg,Eviscerate,Common,Sorcery,Min Yum,English,Reprints,Wizards of the Coast,412,12/02/2022,,2022
+5689,j22-413-exsanguinate.jpg,Exsanguinate,Uncommon,Sorcery,Carl Critchlow,English,Reprints,Wizards of the Coast,413,12/02/2022,,2022
+5690,j22-414-falkenrath-noble.jpg,Falkenrath Noble,Uncommon,Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,414,12/02/2022,,2022
+5691,j22-415-fetid-imp.jpg,Fetid Imp,Common,Creature,Nils Hamm,English,Reprints,Wizards of the Coast,415,12/02/2022,,2022
+5692,j22-416-fungal-infection.jpg,Fungal Infection,Common,Instant,Filip Burburan,English,Reprints,Wizards of the Coast,416,12/02/2022,,2022
+5693,j22-417-gavony-unhallowed.jpg,Gavony Unhallowed,Common,Creature,Christopher Moeller,English,Reprints,Wizards of the Coast,417,12/02/2022,,2022
+5694,j22-418-ghoulraiser.jpg,Ghoulraiser,Common,Creature,Steve Prescott,English,Reprints,Wizards of the Coast,418,12/02/2022,,2022
+5695,j22-419-gnawing-zombie.jpg,Gnawing Zombie,Common,Creature,Greg Staples,English,Reprints,Wizards of the Coast,419,12/02/2022,,2022
+5696,j22-420-gorging-vulture.jpg,Gorging Vulture,Common,Creature,Caio Monteiro,English,Reprints,Wizards of the Coast,420,12/02/2022,,2022
+5697,j22-421-graf-harvest.jpg,Graf Harvest,Uncommon,Enchantment,Lake Hurwitz,English,Reprints,Wizards of the Coast,421,12/02/2022,,2022
+5698,j22-422-graveblade-marauder.jpg,Graveblade Marauder,Rare,Creature,Jason Rainville,English,Reprints,Wizards of the Coast,422,12/02/2022,,2022
+5699,j22-423-gravecrawler.jpg,Gravecrawler,Rare,Creature,Steven Belledin,English,Reprints,Wizards of the Coast,423,12/02/2022,,2022
+5700,j22-424-gravedigger.jpg,Gravedigger,Uncommon,Creature,Dermot Power,English,Reprints,Wizards of the Coast,424,12/02/2022,,2022
+5701,j22-425-grotesque-mutation.jpg,Grotesque Mutation,Common,Instant,Dan Scott,English,Reprints,Wizards of the Coast,425,12/02/2022,,2022
+5702,j22-426-hooded-assassin.jpg,Hooded Assassin,Common,Creature,Matt Stewart,English,Reprints,Wizards of the Coast,426,12/02/2022,,2022
+5703,j22-427-ill-gotten-inheritance.jpg,Ill-Gotten Inheritance,Common,Enchantment,Winona Nelson,English,Reprints,Wizards of the Coast,427,12/02/2022,,2022
+5704,j22-428-inner-demon.jpg,Inner Demon,Uncommon,Enchantment,Mark Behm,English,Reprints,Wizards of the Coast,428,12/02/2022,,2022
+5705,j22-429-kalastria-nightwatch.jpg,Kalastria Nightwatch,Common,Creature,Jama Jurabaev,English,Reprints,Wizards of the Coast,429,12/02/2022,,2022
+5706,j22-430-karfell-kennel-master.jpg,Karfell Kennel-Master,Common,Creature,Izzy,English,Reprints,Wizards of the Coast,430,12/02/2022,,2022
+5707,j22-431-kothophed-soul-hoarder.jpg,"Kothophed, Soul Hoarder",Rare,Lgd. Creature,Jakub Kasper,English,Reprints,Wizards of the Coast,431,12/02/2022,,2022
+5708,j22-432-kraul-swarm.jpg,Kraul Swarm,Uncommon,Creature,Jehan Choo,English,Reprints,Wizards of the Coast,432,12/02/2022,,2022
+5709,j22-433-liliana-death-s-majesty.jpg,"Liliana, Death's Majesty",Mythic,Lgd. Planeswalker,Chris Rallis,English,Reprints,Wizards of the Coast,433,12/02/2022,,2022
+5710,j22-434-liliana-s-elite.jpg,Liliana's Elite,Uncommon,Creature,Deruchenko Alexander,English,Reprints,Wizards of the Coast,434,12/02/2022,,2022
+5711,j22-435-liliana-s-mastery.jpg,Liliana's Mastery,Rare,Enchantment,Kieran Yanner,English,Reprints,Wizards of the Coast,435,12/02/2022,,2022
+5712,j22-436-liliana-s-steward.jpg,Liliana's Steward,Common,Creature,Jason A. Engle,English,Reprints,Wizards of the Coast,436,12/02/2022,,2022
+5713,j22-437-lurking-deadeye.jpg,Lurking Deadeye,Common,Creature,Livia Prima,English,Reprints,Wizards of the Coast,437,12/02/2022,,2022
+5714,j22-438-maalfeld-twins.jpg,Maalfeld Twins,Common,Creature,Mike Sass,English,Reprints,Wizards of the Coast,438,12/02/2022,,2022
+5715,j22-439-marauding-blight-priest.jpg,Marauding Blight-Priest,Common,Creature,Caio Monteiro,English,Reprints,Wizards of the Coast,439,12/02/2022,,2022
+5716,j22-440-marauding-boneslasher.jpg,Marauding Boneslasher,Common,Creature,Victor Adame Minguez,English,Reprints,Wizards of the Coast,440,12/02/2022,,2022
+5717,j22-441-massacre-wurm.jpg,Massacre Wurm,Mythic,Creature,Jason Chan,English,Reprints,Wizards of the Coast,441,12/02/2022,,2022
+5718,j22-442-mire-blight.jpg,Mire Blight,Common,Enchantment,Dave Kendall,English,Reprints,Wizards of the Coast,442,12/02/2022,,2022
+5719,j22-443-mire-triton.jpg,Mire Triton,Uncommon,Creature,Seb McKinnon,English,Reprints,Wizards of the Coast,443,12/02/2022,,2022
+5720,j22-444-moment-of-craving.jpg,Moment of Craving,Common,Instant,Steven Belledin,English,Reprints,Wizards of the Coast,444,12/02/2022,,2022
+5721,j22-445-moodmark-painter.jpg,Moodmark Painter,Common,Creature,Scott Murphy,English,Reprints,Wizards of the Coast,445,12/02/2022,,2022
+5722,j22-446-necromancer-s-stockpile.jpg,Necromancer's Stockpile,Rare,Enchantment,Seb McKinnon,English,Reprints,Wizards of the Coast,446,12/02/2022,,2022
+5723,j22-447-necrotic-wound.jpg,Necrotic Wound,Uncommon,Instant,Randy Vargas,English,Reprints,Wizards of the Coast,447,12/02/2022,,2022
+5724,j22-448-nested-ghoul.jpg,Nested Ghoul,Uncommon,Creature,Dave Kendall,English,Reprints,Wizards of the Coast,448,12/02/2022,,2022
+5725,j22-449-nirkana-assassin.jpg,Nirkana Assassin,Common,Creature,Viktor Titov,English,Reprints,Wizards of the Coast,449,12/02/2022,,2022
+5726,j22-450-ob-nixilis-the-hate-twisted.jpg,"Ob Nixilis, the Hate-Twisted",Uncommon,Lgd. Planeswalker,Yongjae Choi,English,Reprints,Wizards of the Coast,450,12/02/2022,,2022
+5727,j22-451-ob-nixilis-s-cruelty.jpg,Ob Nixilis's Cruelty,Common,Instant,Igor Kieryluk,English,Reprints,Wizards of the Coast,451,12/02/2022,,2022
+5728,j22-452-ophiomancer.jpg,Ophiomancer,Rare,Creature,John Stanko,English,Reprints,Wizards of the Coast,452,12/02/2022,,2022
+5729,j22-453-oversold-cemetery.jpg,Oversold Cemetery,Rare,Enchantment,Thomas M. Baxa,English,Reprints,Wizards of the Coast,453,12/02/2022,,2022
+5730,j22-454-phyrexian-debaser.jpg,Phyrexian Debaser,Common,Creature,Mark Tedin,English,Reprints,Wizards of the Coast,454,12/02/2022,,2022
+5731,j22-455-pit-keeper.jpg,Pit Keeper,Common,Creature,Anthony S. Waters,English,Reprints,Wizards of the Coast,455,12/02/2022,,2022
+5732,j22-456-plague-spitter.jpg,Plague Spitter,Uncommon,Creature,Chippy,English,Reprints,Wizards of the Coast,456,12/02/2022,,2022
+5733,j22-457-priest-of-the-blood-rite.jpg,Priest of the Blood Rite,Rare,Creature,David Palumbo,English,Reprints,Wizards of the Coast,457,12/02/2022,,2022
+5734,j22-458-reaper-from-the-abyss.jpg,Reaper from the Abyss,Mythic,Creature,Matt Stewart,English,Reprints,Wizards of the Coast,458,12/02/2022,,2022
+5735,j22-459-reave-soul.jpg,Reave Soul,Common,Sorcery,David Palumbo,English,Reprints,Wizards of the Coast,459,12/02/2022,,2022
+5736,j22-460-returned-reveler.jpg,Returned Reveler,Common,Creature,Allen Williams,English,Reprints,Wizards of the Coast,460,12/02/2022,,2022
+5737,j22-461-revenant.jpg,Revenant,Uncommon,Creature,Chris Cold,English,Reprints,Wizards of the Coast,461,12/02/2022,,2022
+5738,j22-462-ruthless-disposal.jpg,Ruthless Disposal,Uncommon,Sorcery,Dave Kendall,English,Reprints,Wizards of the Coast,462,12/02/2022,,2022
+5739,j22-463-seizan-perverter-of-truth.jpg,"Seizan, Perverter of Truth",Rare,Lgd. Creature,Kev Walker,English,Reprints,Wizards of the Coast,463,12/02/2022,,2022
+5740,j22-464-shadowborn-demon.jpg,Shadowborn Demon,Mythic,Creature,Lucas Graciano,English,Reprints,Wizards of the Coast,464,12/02/2022,,2022
+5741,j22-465-shambling-ghoul.jpg,Shambling Ghoul,Common,Creature,Joseph Meehan,English,Reprints,Wizards of the Coast,465,12/02/2022,,2022
+5742,j22-466-sinuous-vermin.jpg,Sinuous Vermin,Common,Creature,Jason Kang,English,Reprints,Wizards of the Coast,466,12/02/2022,,2022
+5743,j22-467-skirsdag-high-priest.jpg,Skirsdag High Priest,Rare,Creature,Jason A. Engle,English,Reprints,Wizards of the Coast,467,12/02/2022,,2022
+5744,j22-468-skirsdag-supplicant.jpg,Skirsdag Supplicant,Common,Creature,Anastasia Ovchinnikova,English,Reprints,Wizards of the Coast,468,12/02/2022,,2022
+5745,j22-469-sling-gang-lieutenant.jpg,Sling-Gang Lieutenant,Uncommon,Creature,Craig J Spearing,English,Reprints,Wizards of the Coast,469,12/02/2022,,2022
+5746,j22-470-soulcage-fiend.jpg,Soulcage Fiend,Common,Creature,Jason A. Engle,English,Reprints,Wizards of the Coast,470,12/02/2022,,2022
+5747,j22-471-spark-reaper.jpg,Spark Reaper,Common,Creature,Zoltan Boros,English,Reprints,Wizards of the Coast,471,12/02/2022,,2022
+5748,j22-472-stitcher-s-supplier.jpg,Stitcher's Supplier,Uncommon,Creature,Chris Seaman,English,Reprints,Wizards of the Coast,472,12/02/2022,,2022
+5749,j22-473-strangling-spores.jpg,Strangling Spores,Common,Instant,Jason A. Engle,English,Reprints,Wizards of the Coast,473,12/02/2022,,2022
+5750,j22-474-syr-konrad-the-grim.jpg,"Syr Konrad, the Grim",Uncommon,Lgd. Creature,Anna Steinbauer,English,Reprints,Wizards of the Coast,474,12/02/2022,,2022
+5751,j22-475-takenuma-bleeder.jpg,Takenuma Bleeder,Common,Creature,Kev Walker,English,Reprints,Wizards of the Coast,475,12/02/2022,,2022
+5752,j22-476-tivash-gloom-summoner.jpg,"Tivash, Gloom Summoner",Rare,Lgd. Creature,Kieran Yanner,English,Reprints,Wizards of the Coast,476,12/02/2022,,2022
+5753,j22-477-tormented-soul.jpg,Tormented Soul,Common,Creature,Karl Kopinski,English,Reprints,Wizards of the Coast,477,12/02/2022,,2022
+5754,j22-478-tragic-slip.jpg,Tragic Slip,Common,Instant,Christopher Moeller,English,Reprints,Wizards of the Coast,478,12/02/2022,,2022
+5755,j22-479-triskaidekaphobia.jpg,Triskaidekaphobia,Rare,Enchantment,Willian Murai,English,Reprints,Wizards of the Coast,479,12/02/2022,,2022
+5756,j22-480-typhoid-rats.jpg,Typhoid Rats,Common,Creature,Kev Walker,English,Reprints,Wizards of the Coast,480,12/02/2022,,2022
+5757,j22-481-ulcerate.jpg,Ulcerate,Uncommon,Instant,Johann Bodin,English,Reprints,Wizards of the Coast,481,12/02/2022,,2022
+5758,j22-482-undead-augur.jpg,Undead Augur,Uncommon,Creature,Sara Winters,English,Reprints,Wizards of the Coast,482,12/02/2022,,2022
+5759,j22-483-vampire-envoy.jpg,Vampire Envoy,Common,Creature,Johannes Voss,English,Reprints,Wizards of the Coast,483,12/02/2022,,2022
+5760,j22-484-vampiric-rites.jpg,Vampiric Rites,Uncommon,Enchantment,Anastasia Ovchinnikova,English,Reprints,Wizards of the Coast,484,12/02/2022,,2022
+5761,j22-485-vermin-gorger.jpg,Vermin Gorger,Common,Creature,Tobias Kwan,English,Reprints,Wizards of the Coast,485,12/02/2022,,2022
+5762,j22-486-village-rites.jpg,Village Rites,Common,Instant,Igor Kieryluk,English,Reprints,Wizards of the Coast,486,12/02/2022,,2022
+5763,j22-487-vito-thorn-of-the-dusk-rose.jpg,"Vito, Thorn of the Dusk Rose",Rare,Lgd. Creature,Lie Setiawan,English,Reprints,Wizards of the Coast,487,12/02/2022,,2022
+5764,j22-488-wailing-ghoul.jpg,Wailing Ghoul,Common,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,488,12/02/2022,,2022
+5765,j22-489-wicked-guardian.jpg,Wicked Guardian,Common,Creature,Matt Stewart,English,Reprints,Wizards of the Coast,489,12/02/2022,,2022
+5766,j22-490-witch-s-cauldron.jpg,Witch's Cauldron,Uncommon,Artifact,Jason A. Engle,English,Reprints,Wizards of the Coast,490,12/02/2022,,2022
+5767,j22-491-yargle-glutton-of-urborg.jpg,"Yargle, Glutton of Urborg",Uncommon,Lgd. Creature,Jehan Choo,English,Reprints,Wizards of the Coast,491,12/02/2022,,2022
+5768,j22-492-act-on-impulse.jpg,Act on Impulse,Uncommon,Sorcery,Brad Rigney,English,Reprints,Wizards of the Coast,492,12/02/2022,,2022
+5769,j22-493-arms-dealer.jpg,Arms Dealer,Uncommon,Creature,Wayne Reynolds,English,Reprints,Wizards of the Coast,493,12/02/2022,,2022
+5770,j22-494-axgard-cavalry.jpg,Axgard Cavalry,Common,Creature,Evyn Fong,English,Reprints,Wizards of the Coast,494,12/02/2022,,2022
+5771,j22-495-banefire.jpg,Banefire,Rare,Sorcery,Raymond Swanland,English,Reprints,Wizards of the Coast,495,12/02/2022,,2022
+5772,j22-496-barrage-ogre.jpg,Barrage Ogre,Uncommon,Creature,David Rapoza,English,Reprints,Wizards of the Coast,496,12/02/2022,,2022
+5773,j22-497-battle-squadron.jpg,Battle Squadron,Uncommon,Creature,Mark Tedin,English,Reprints,Wizards of the Coast,497,12/02/2022,,2022
+5774,j22-498-big-score.jpg,Big Score,Common,Instant,Gaboleps,English,Reprints,Wizards of the Coast,498,12/02/2022,,2022
+5775,j22-499-blaze.jpg,Blaze,Uncommon,Sorcery,Alex Horley-Orlandelli,English,Reprints,Wizards of the Coast,499,12/02/2022,,2022
+5776,j22-500-blisterspit-gremlin.jpg,Blisterspit Gremlin,Common,Creature,Simon Dominic,English,Reprints,Wizards of the Coast,500,12/02/2022,,2022
+5777,j22-501-blood-aspirant.jpg,Blood Aspirant,Uncommon,Creature,Tyler Walpole,English,Reprints,Wizards of the Coast,501,12/02/2022,,2022
+5778,j22-502-bloodhaze-wolverine.jpg,Bloodhaze Wolverine,Common,Creature,Evan Shipard,English,Reprints,Wizards of the Coast,502,12/02/2022,,2022
+5779,j22-503-bogardan-dragonheart.jpg,Bogardan Dragonheart,Common,Creature,Randy Vargas,English,Reprints,Wizards of the Coast,503,12/02/2022,,2022
+5780,j22-504-bolt-hound.jpg,Bolt Hound,Uncommon,Creature,Forrest Imel,English,Reprints,Wizards of the Coast,504,12/02/2022,,2022
+5781,j22-505-borderland-marauder.jpg,Borderland Marauder,Common,Creature,Scott M. Fischer,English,Reprints,Wizards of the Coast,505,12/02/2022,,2022
+5782,j22-506-brazen-freebooter.jpg,Brazen Freebooter,Common,Creature,Randy Gallegos,English,Reprints,Wizards of the Coast,506,12/02/2022,,2022
+5783,j22-507-brazen-wolves.jpg,Brazen Wolves,Common,Creature,Nils Hamm,English,Reprints,Wizards of the Coast,507,12/02/2022,,2022
+5784,j22-508-burn-bright.jpg,Burn Bright,Common,Instant,Scott Murphy,English,Reprints,Wizards of the Coast,508,12/02/2022,,2022
+5785,j22-509-captain-lannery-storm.jpg,Captain Lannery Storm,Rare,Lgd. Creature,Chris Rallis,English,Reprints,Wizards of the Coast,509,12/02/2022,,2022
+5786,j22-510-catalyst-elemental.jpg,Catalyst Elemental,Common,Creature,Deruchenko Alexander,English,Reprints,Wizards of the Coast,510,12/02/2022,,2022
+5787,j22-511-chandra-flame-s-fury.jpg,"Chandra, Flame's Fury",Mythic,Lgd. Planeswalker,Magali Villeneuve,English,Reprints,Wizards of the Coast,511,12/02/2022,,2022
+5788,j22-512-chandra-s-magmutt.jpg,Chandra's Magmutt,Common,Creature,Kimonas Theodossiou,English,Reprints,Wizards of the Coast,512,12/02/2022,,2022
+5789,j22-513-chandra-s-pyreling.jpg,Chandra's Pyreling,Uncommon,Creature,Josu Hernaiz,English,Reprints,Wizards of the Coast,513,12/02/2022,,2022
+5790,j22-514-chandra-s-pyrohelix.jpg,Chandra's Pyrohelix,Common,Instant,Aleksi Briclot,English,Reprints,Wizards of the Coast,514,12/02/2022,,2022
+5791,j22-515-chandra-s-spitfire.jpg,Chandra's Spitfire,Uncommon,Creature,Chris Rallis,English,Reprints,Wizards of the Coast,515,12/02/2022,,2022
+5792,j22-516-coalhauler-swine.jpg,Coalhauler Swine,Common,Creature,Daren Bader,English,Reprints,Wizards of the Coast,516,12/02/2022,,2022
+5793,j22-517-cone-of-flame.jpg,Cone of Flame,Uncommon,Sorcery,Chippy,English,Reprints,Wizards of the Coast,517,12/02/2022,,2022
+5794,j22-518-cyclops-electromancer.jpg,Cyclops Electromancer,Uncommon,Creature,Jason Felix,English,Reprints,Wizards of the Coast,518,12/02/2022,,2022
+5795,j22-519-dance-with-devils.jpg,Dance with Devils,Uncommon,Instant,Wayne England,English,Reprints,Wizards of the Coast,519,12/02/2022,,2022
+5796,j22-520-deem-worthy.jpg,Deem Worthy,Uncommon,Instant,Lius Lasahido,English,Reprints,Wizards of the Coast,520,12/02/2022,,2022
+5797,j22-521-destructive-tampering.jpg,Destructive Tampering,Common,Sorcery,Titus Lunter,English,Reprints,Wizards of the Coast,521,12/02/2022,,2022
+5798,j22-522-dragon-egg.jpg,Dragon Egg,Uncommon,Creature,Jack Wang,English,Reprints,Wizards of the Coast,522,12/02/2022,,2022
+5799,j22-523-dragon-fodder.jpg,Dragon Fodder,Common,Sorcery,Volkan Baǵa,English,Reprints,Wizards of the Coast,523,12/02/2022,,2022
+5800,j22-524-dragonlord-s-servant.jpg,Dragonlord's Servant,Uncommon,Creature,Steve Prescott,English,Reprints,Wizards of the Coast,524,12/02/2022,,2022
+5801,j22-525-dragonspeaker-shaman.jpg,Dragonspeaker Shaman,Uncommon,Creature,Kev Walker,English,Reprints,Wizards of the Coast,525,12/02/2022,,2022
+5802,j22-526-electric-revelation.jpg,Electric Revelation,Common,Instant,Liiga Smilshkalne,English,Reprints,Wizards of the Coast,526,12/02/2022,,2022
+5803,j22-527-electrify.jpg,Electrify,Common,Instant,Craig J Spearing,English,Reprints,Wizards of the Coast,527,12/02/2022,,2022
+5804,j22-528-fanatical-firebrand.jpg,Fanatical Firebrand,Common,Creature,Wayne Reynolds,English,Reprints,Wizards of the Coast,528,12/02/2022,,2022
+5805,j22-529-fervent-strike.jpg,Fervent Strike,Common,Instant,Winona Nelson,English,Reprints,Wizards of the Coast,529,12/02/2022,,2022
+5806,j22-530-fiery-conclusion.jpg,Fiery Conclusion,Uncommon,Instant,Paolo Parente,English,Reprints,Wizards of the Coast,530,12/02/2022,,2022
+5807,j22-531-fiery-intervention.jpg,Fiery Intervention,Common,Sorcery,Adam Paquette,English,Reprints,Wizards of the Coast,531,12/02/2022,,2022
+5808,j22-532-firebolt.jpg,Firebolt,Common,Sorcery,Chris Rallis,English,Reprints,Wizards of the Coast,532,12/02/2022,,2022
+5809,j22-533-firecannon-blast.jpg,Firecannon Blast,Common,Sorcery,Svetlin Velinov,English,Reprints,Wizards of the Coast,533,12/02/2022,,2022
+5810,j22-534-flame-lash.jpg,Flame Lash,Common,Instant,Viktor Titov,English,Reprints,Wizards of the Coast,534,12/02/2022,,2022
+5811,j22-535-flames-of-the-firebrand.jpg,Flames of the Firebrand,Uncommon,Sorcery,Steve Argyle,English,Reprints,Wizards of the Coast,535,12/02/2022,,2022
+5812,j22-536-frenzied-goblin.jpg,Frenzied Goblin,Common,Creature,Randy Vargas,English,Reprints,Wizards of the Coast,536,12/02/2022,,2022
+5813,j22-537-furnace-whelp.jpg,Furnace Whelp,Uncommon,Creature,Shreya Shetty,English,Reprints,Wizards of the Coast,537,12/02/2022,,2022
+5814,j22-538-gadrak-the-crown-scourge.jpg,"Gadrak, the Crown-Scourge",Rare,Lgd. Creature,Daarken,English,Reprints,Wizards of the Coast,538,12/02/2022,,2022
+5815,j22-539-glint-horn-buccaneer.jpg,Glint-Horn Buccaneer,Rare,Creature,Zack Stella,English,Reprints,Wizards of the Coast,539,12/02/2022,,2022
+5816,j22-540-go-for-blood.jpg,Go for Blood,Common,Sorcery,Chris Rallis,English,Reprints,Wizards of the Coast,540,12/02/2022,,2022
+5817,j22-541-goblin-artillery.jpg,Goblin Artillery,Uncommon,Creature,Alex Horley-Orlandelli,English,Reprints,Wizards of the Coast,541,12/02/2022,,2022
+5818,j22-542-goblin-grenade.jpg,Goblin Grenade,Uncommon,Sorcery,Kev Walker,English,Reprints,Wizards of the Coast,542,12/02/2022,,2022
+5819,j22-543-goblin-oriflamme.jpg,Goblin Oriflamme,Uncommon,Enchantment,David Palumbo,English,Reprints,Wizards of the Coast,543,12/02/2022,,2022
+5820,j22-544-goblin-psychopath.jpg,Goblin Psychopath,Uncommon,Creature,Pete Venters,English,Reprints,Wizards of the Coast,544,12/02/2022,,2022
+5821,j22-545-goblin-rabblemaster.jpg,Goblin Rabblemaster,Rare,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,545,12/02/2022,,2022
+5822,j22-546-goblin-rally.jpg,Goblin Rally,Uncommon,Sorcery,Nic Klein,English,Reprints,Wizards of the Coast,546,12/02/2022,,2022
+5823,j22-547-goblin-trailblazer.jpg,Goblin Trailblazer,Common,Creature,Josh Hass,English,Reprints,Wizards of the Coast,547,12/02/2022,,2022
+5824,j22-548-goblin-warchief.jpg,Goblin Warchief,Uncommon,Creature,Karl Kopinski,English,Reprints,Wizards of the Coast,548,12/02/2022,,2022
+5825,j22-549-goldhound.jpg,Goldhound,Common,Artifact Creature,Donato Giancola,English,Reprints,Wizards of the Coast,549,12/02/2022,,2022
+5826,j22-550-goldspan-dragon.jpg,Goldspan Dragon,Mythic,Creature,Andrew Mar,English,Reprints,Wizards of the Coast,550,12/02/2022,,2022
+5827,j22-551-grotag-night-runner.jpg,Grotag Night-Runner,Uncommon,Creature,Caroline Gariba,English,Reprints,Wizards of the Coast,551,12/02/2022,,2022
+5828,j22-552-hordeling-outburst.jpg,Hordeling Outburst,Uncommon,Sorcery,Zoltan Boros,English,Reprints,Wizards of the Coast,552,12/02/2022,,2022
+5829,j22-553-hungry-flames.jpg,Hungry Flames,Common,Instant,Izzy,English,Reprints,Wizards of the Coast,553,12/02/2022,,2022
+5830,j22-554-ib-halfheart-goblin-tactician.jpg,"Ib Halfheart, Goblin Tactician",Rare,Lgd. Creature,Wayne Reynolds,English,Reprints,Wizards of the Coast,554,12/02/2022,,2022
+5831,j22-555-ignite-the-future.jpg,Ignite the Future,Rare,Sorcery,Alex Konstad,English,Reprints,Wizards of the Coast,555,12/02/2022,,2022
+5832,j22-556-immersturm-raider.jpg,Immersturm Raider,Common,Creature,Grzegorz Rutkowski,English,Reprints,Wizards of the Coast,556,12/02/2022,,2022
+5833,j22-557-impending-doom.jpg,Impending Doom,Uncommon,Enchantment,Zoltan Boros,English,Reprints,Wizards of the Coast,557,12/02/2022,,2022
+5834,j22-558-improvised-weaponry.jpg,Improvised Weaponry,Common,Sorcery,Alix Branwyn,English,Reprints,Wizards of the Coast,558,12/02/2022,,2022
+5835,j22-559-irencrag-pyromancer.jpg,Irencrag Pyromancer,Rare,Creature,Jason Rainville,English,Reprints,Wizards of the Coast,559,12/02/2022,,2022
+5836,j22-560-irreverent-revelers.jpg,Irreverent Revelers,Common,Creature,Milivoj Ćeran,English,Reprints,Wizards of the Coast,560,12/02/2022,,2022
+5837,j22-561-kargan-dragonrider.jpg,Kargan Dragonrider,Common,Creature,Greg Opalinski,English,Reprints,Wizards of the Coast,561,12/02/2022,,2022
+5838,j22-562-kari-zev-skyship-raider.jpg,"Kari Zev, Skyship Raider",Rare,Lgd. Creature,Brad Rigney,English,Reprints,Wizards of the Coast,562,12/02/2022,,2022
+5839,j22-563-keldon-raider.jpg,Keldon Raider,Common,Creature,Chris Seaman,English,Reprints,Wizards of the Coast,563,12/02/2022,,2022
+5840,j22-564-krenko-mob-boss.jpg,"Krenko, Mob Boss",Rare,Lgd. Creature,Karl Kopinski,English,Reprints,Wizards of the Coast,564,12/02/2022,,2022
+5841,j22-565-kuldotha-flamefiend.jpg,Kuldotha Flamefiend,Uncommon,Creature,Raymond Swanland,English,Reprints,Wizards of the Coast,565,12/02/2022,,2022
+5842,j22-566-lathliss-dragon-queen.jpg,"Lathliss, Dragon Queen",Rare,Lgd. Creature,Alex Konstad,English,Reprints,Wizards of the Coast,566,12/02/2022,,2022
+5843,j22-567-lava-serpent.jpg,Lava Serpent,Common,Creature,Jason A. Engle,English,Reprints,Wizards of the Coast,567,12/02/2022,,2022
+5844,j22-568-lavastep-raider.jpg,Lavastep Raider,Common,Creature,Matt Stewart,English,Reprints,Wizards of the Coast,568,12/02/2022,,2022
+5845,j22-569-lightning-axe.jpg,Lightning Axe,Uncommon,Instant,Jason A. Engle,English,Reprints,Wizards of the Coast,569,12/02/2022,,2022
+5846,j22-570-mad-ratter.jpg,Mad Ratter,Uncommon,Creature,Johann Bodin,English,Reprints,Wizards of the Coast,570,12/02/2022,,2022
+5847,j22-571-magmatic-channeler.jpg,Magmatic Channeler,Rare,Creature,Bryan Sola,English,Reprints,Wizards of the Coast,571,12/02/2022,,2022
+5848,j22-572-mardu-heart-piercer.jpg,Mardu Heart-Piercer,Uncommon,Creature,Karl Kopinski,English,Reprints,Wizards of the Coast,572,12/02/2022,,2022
+5849,j22-573-markov-warlord.jpg,Markov Warlord,Uncommon,Creature,Cynthia Sheppard,English,Reprints,Wizards of the Coast,573,12/02/2022,,2022
+5850,j22-574-mudbutton-torchrunner.jpg,Mudbutton Torchrunner,Common,Creature,Steve Ellis,English,Reprints,Wizards of the Coast,574,12/02/2022,,2022
+5851,j22-575-muxus-goblin-grandee.jpg,"Muxus, Goblin Grandee",Rare,Lgd. Creature,Dmitry Burmak,English,Reprints,Wizards of the Coast,575,12/02/2022,,2022
+5852,j22-576-nest-robber.jpg,Nest Robber,Common,Creature,Jonathan Kuo,English,Reprints,Wizards of the Coast,576,12/02/2022,,2022
+5853,j22-577-ordeal-of-purphoros.jpg,Ordeal of Purphoros,Uncommon,Enchantment,Maciej Kuciara,English,Reprints,Wizards of the Coast,577,12/02/2022,,2022
+5854,j22-578-outnumber.jpg,Outnumber,Common,Instant,Tyler Jacobson,English,Reprints,Wizards of the Coast,578,12/02/2022,,2022
+5855,j22-579-pillar-of-flame.jpg,Pillar of Flame,Common,Sorcery,Dave Kendall,English,Reprints,Wizards of the Coast,579,12/02/2022,,2022
+5856,j22-580-prickly-marmoset.jpg,Prickly Marmoset,Common,Creature,Simon Dominic,English,Reprints,Wizards of the Coast,580,12/02/2022,,2022
+5857,j22-581-professional-face-breaker.jpg,Professional Face-Breaker,Rare,Creature,Dan Scott,English,Reprints,Wizards of the Coast,581,12/02/2022,,2022
+5858,j22-582-pyre-sledge-arsonist.jpg,Pyre-Sledge Arsonist,Uncommon,Creature,Kekai Kotaki,English,Reprints,Wizards of the Coast,582,12/02/2022,,2022
+5859,j22-583-quakefoot-cyclops.jpg,Quakefoot Cyclops,Common,Creature,Mike Bierek,English,Reprints,Wizards of the Coast,583,12/02/2022,,2022
+5860,j22-584-raking-claws.jpg,Raking Claws,Common,Instant,Slawomir Maniak,English,Reprints,Wizards of the Coast,584,12/02/2022,,2022
+5861,j22-585-ravenous-giant.jpg,Ravenous Giant,Uncommon,Creature,Milivoj Ćeran,English,Reprints,Wizards of the Coast,585,12/02/2022,,2022
+5862,j22-586-raze-the-effigy.jpg,Raze the Effigy,Common,Instant,Cristi Balanescu,English,Reprints,Wizards of the Coast,586,12/02/2022,,2022
+5863,j22-587-reckless-fireweaver.jpg,Reckless Fireweaver,Common,Creature,Deruchenko Alexander,English,Reprints,Wizards of the Coast,587,12/02/2022,,2022
+5864,j22-588-reptilian-reflection.jpg,Reptilian Reflection,Uncommon,Enchantment,Antonio José Manzanedo,English,Reprints,Wizards of the Coast,588,12/02/2022,,2022
+5865,j22-589-ripscale-predator.jpg,Ripscale Predator,Common,Creature,Volkan Baǵa,English,Reprints,Wizards of the Coast,589,12/02/2022,,2022
+5866,j22-590-rooting-moloch.jpg,Rooting Moloch,Uncommon,Creature,Andrey Kuzinskiy,English,Reprints,Wizards of the Coast,590,12/02/2022,,2022
+5867,j22-591-rummaging-goblin.jpg,Rummaging Goblin,Common,Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,591,12/02/2022,,2022
+5868,j22-592-rush-of-adrenaline.jpg,Rush of Adrenaline,Common,Instant,Chris Rallis,English,Reprints,Wizards of the Coast,592,12/02/2022,,2022
+5869,j22-593-sarkhan-the-dragonspeaker.jpg,"Sarkhan, the Dragonspeaker",Mythic,Lgd. Planeswalker,Daarken,English,Reprints,Wizards of the Coast,593,12/02/2022,,2022
+5870,j22-594-sarkhan-s-rage.jpg,Sarkhan's Rage,Common,Instant,Chris Rahn,English,Reprints,Wizards of the Coast,594,12/02/2022,,2022
+5871,j22-595-sarkhan-s-whelp.jpg,Sarkhan's Whelp,Uncommon,Creature,Craig J Spearing,English,Reprints,Wizards of the Coast,595,12/02/2022,,2022
+5872,j22-596-scorching-dragonfire.jpg,Scorching Dragonfire,Common,Instant,Eric Velhagen,English,Reprints,Wizards of the Coast,596,12/02/2022,,2022
+5873,j22-597-searing-spear.jpg,Searing Spear,Common,Instant,Chris Rahn,English,Reprints,Wizards of the Coast,597,12/02/2022,,2022
+5874,j22-598-seize-the-storm.jpg,Seize the Storm,Uncommon,Sorcery,Deruchenko Alexander,English,Reprints,Wizards of the Coast,598,12/02/2022,,2022
+5875,j22-599-shredded-sails.jpg,Shredded Sails,Common,Instant,Titus Lunter,English,Reprints,Wizards of the Coast,599,12/02/2022,,2022
+5876,j22-600-smoldering-efreet.jpg,Smoldering Efreet,Common,Creature,Chase Stone,English,Reprints,Wizards of the Coast,600,12/02/2022,,2022
+5877,j22-601-sokenzan-smelter.jpg,Sokenzan Smelter,Uncommon,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,601,12/02/2022,,2022
+5878,j22-602-spark-of-creativity.jpg,Spark of Creativity,Uncommon,Sorcery,Johann Bodin,English,Reprints,Wizards of the Coast,602,12/02/2022,,2022
+5879,j22-603-sparkmage-apprentice.jpg,Sparkmage Apprentice,Common,Creature,Jaime Jones,English,Reprints,Wizards of the Coast,603,12/02/2022,,2022
+5880,j22-604-sparktongue-dragon.jpg,Sparktongue Dragon,Common,Creature,Daarken,English,Reprints,Wizards of the Coast,604,12/02/2022,,2022
+5881,j22-605-spellgorger-weird.jpg,Spellgorger Weird,Common,Creature,James Paick,English,Reprints,Wizards of the Coast,605,12/02/2022,,2022
+5882,j22-606-spiteful-prankster.jpg,Spiteful Prankster,Uncommon,Creature,Antonio José Manzanedo,English,Reprints,Wizards of the Coast,606,12/02/2022,,2022
+5883,j22-607-starstorm.jpg,Starstorm,Rare,Instant,Jonas De Ro,English,Reprints,Wizards of the Coast,607,12/02/2022,,2022
+5884,j22-608-storm-fleet-pyromancer.jpg,Storm Fleet Pyromancer,Common,Creature,Kieran Yanner,English,Reprints,Wizards of the Coast,608,12/02/2022,,2022
+5885,j22-609-subterranean-scout.jpg,Subterranean Scout,Common,Creature,Lucas Graciano,English,Reprints,Wizards of the Coast,609,12/02/2022,,2022
+5886,j22-610-sudden-breakthrough.jpg,Sudden Breakthrough,Common,Instant,Colin Boyer,English,Reprints,Wizards of the Coast,610,12/02/2022,,2022
+5887,j22-611-swaggering-corsair.jpg,Swaggering Corsair,Common,Creature,Scott Murphy,English,Reprints,Wizards of the Coast,611,12/02/2022,,2022
+5888,j22-612-swift-kick.jpg,Swift Kick,Common,Instant,Mathias Kollros,English,Reprints,Wizards of the Coast,612,12/02/2022,,2022
+5889,j22-613-thermo-alchemist.jpg,Thermo-Alchemist,Common,Creature,Raymond Swanland,English,Reprints,Wizards of the Coast,613,12/02/2022,,2022
+5890,j22-614-torch-courier.jpg,Torch Courier,Common,Creature,Mark Zug,English,Reprints,Wizards of the Coast,614,12/02/2022,,2022
+5891,j22-615-tormenting-voice.jpg,Tormenting Voice,Common,Sorcery,Volkan Baǵa,English,Reprints,Wizards of the Coast,615,12/02/2022,,2022
+5892,j22-616-trove-of-temptation.jpg,Trove of Temptation,Uncommon,Enchantment,Jonas De Ro,English,Reprints,Wizards of the Coast,616,12/02/2022,,2022
+5893,j22-617-vault-robber.jpg,Vault Robber,Common,Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,617,12/02/2022,,2022
+5894,j22-618-viashino-pyromancer.jpg,Viashino Pyromancer,Common,Creature,Jesper Ejsing,English,Reprints,Wizards of the Coast,618,12/02/2022,,2022
+5895,j22-619-volley-veteran.jpg,Volley Veteran,Uncommon,Creature,Craig J Spearing,English,Reprints,Wizards of the Coast,619,12/02/2022,,2022
+5896,j22-620-war-name-aspirant.jpg,War-Name Aspirant,Uncommon,Creature,David Gaillet,English,Reprints,Wizards of the Coast,620,12/02/2022,,2022
+5897,j22-621-warcry-phoenix.jpg,Warcry Phoenix,Uncommon,Creature,Daarken,English,Reprints,Wizards of the Coast,621,12/02/2022,,2022
+5898,j22-622-weaselback-redcap.jpg,Weaselback Redcap,Common,Creature,Grzegorz Rutkowski,English,Reprints,Wizards of the Coast,622,12/02/2022,,2022
+5899,j22-623-welding-sparks.jpg,Welding Sparks,Common,Instant,Raymond Swanland,English,Reprints,Wizards of the Coast,623,12/02/2022,,2022
+5900,j22-624-wildfire-elemental.jpg,Wildfire Elemental,Common,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,624,12/02/2022,,2022
+5901,j22-625-yidaro-wandering-monster.jpg,"Yidaro, Wandering Monster",Rare,Lgd. Creature,Jesper Ejsing,English,Reprints,Wizards of the Coast,625,12/02/2022,,2022
+5902,j22-626-young-pyromancer.jpg,Young Pyromancer,Uncommon,Creature,Cynthia Sheppard,English,Reprints,Wizards of the Coast,626,12/02/2022,,2022
+5903,j22-627-adventurous-impulse.jpg,Adventurous Impulse,Common,Sorcery,Victor Adame Minguez,English,Reprints,Wizards of the Coast,627,12/02/2022,,2022
+5904,j22-628-ancient-stirrings.jpg,Ancient Stirrings,Common,Sorcery,Vincent Proce,English,Reprints,Wizards of the Coast,628,12/02/2022,,2022
+5905,j22-629-avenger-of-zendikar.jpg,Avenger of Zendikar,Mythic,Creature,Zoltan Boros & Gabor Szikszai,English,Reprints,Wizards of the Coast,629,12/02/2022,,2022
+5906,j22-630-baloth-woodcrasher.jpg,Baloth Woodcrasher,Uncommon,Creature,Zoltan Boros & Gabor Szikszai,English,Reprints,Wizards of the Coast,630,12/02/2022,,2022
+5907,j22-631-band-together.jpg,Band Together,Common,Instant,Josh Hass,English,Reprints,Wizards of the Coast,631,12/02/2022,,2022
+5908,j22-632-blisterpod.jpg,Blisterpod,Common,Creature,Ryan Barger,English,Reprints,Wizards of the Coast,632,12/02/2022,,2022
+5909,j22-633-bounding-wolf.jpg,Bounding Wolf,Common,Creature,Andrea Radeck,English,Reprints,Wizards of the Coast,633,12/02/2022,,2022
+5910,j22-634-briarpack-alpha.jpg,Briarpack Alpha,Uncommon,Creature,Daarken,English,Reprints,Wizards of the Coast,634,12/02/2022,,2022
+5911,j22-635-bristling-boar.jpg,Bristling Boar,Common,Creature,Zezhou Chen,English,Reprints,Wizards of the Coast,635,12/02/2022,,2022
+5912,j22-636-broken-bond.jpg,Broken Bond,Common,Sorcery,Ryan Yee,English,Reprints,Wizards of the Coast,636,12/02/2022,,2022
+5913,j22-637-brood-monitor.jpg,Brood Monitor,Uncommon,Creature,Izzy,English,Reprints,Wizards of the Coast,637,12/02/2022,,2022
+5914,j22-638-canopy-baloth.jpg,Canopy Baloth,Common,Creature,Filip Burburan,English,Reprints,Wizards of the Coast,638,12/02/2022,,2022
+5915,j22-639-challenger-troll.jpg,Challenger Troll,Uncommon,Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,639,12/02/2022,,2022
+5916,j22-640-colossal-dreadmaw.jpg,Colossal Dreadmaw,Common,Creature,Jesper Ejsing,English,Reprints,Wizards of the Coast,640,12/02/2022,,2022
+5917,j22-641-courser-of-kruphix.jpg,Courser of Kruphix,Rare,Enchantment Creature,Eric Deschamps,English,Reprints,Wizards of the Coast,641,12/02/2022,,2022
+5918,j22-642-crawling-sensation.jpg,Crawling Sensation,Uncommon,Enchantment,Christopher Moeller,English,Reprints,Wizards of the Coast,642,12/02/2022,,2022
+5919,j22-643-creeperhulk.jpg,Creeperhulk,Rare,Creature,Ralph Horsley,English,Reprints,Wizards of the Coast,643,12/02/2022,,2022
+5920,j22-644-cultivate.jpg,Cultivate,Common,Sorcery,Anthony Palumbo,English,Reprints,Wizards of the Coast,644,12/02/2022,,2022
+5921,j22-645-deadbridge-goliath.jpg,Deadbridge Goliath,Rare,Creature,Chase Stone,English,Reprints,Wizards of the Coast,645,12/02/2022,,2022
+5922,j22-646-declare-dominance.jpg,Declare Dominance,Uncommon,Sorcery,Simon Dominic,English,Reprints,Wizards of the Coast,646,12/02/2022,,2022
+5923,j22-647-domesticated-hydra.jpg,Domesticated Hydra,Uncommon,Creature,Mathias Kollros,English,Reprints,Wizards of the Coast,647,12/02/2022,,2022
+5924,j22-648-drowsing-tyrannodon.jpg,Drowsing Tyrannodon,Common,Creature,Simon Dominic,English,Reprints,Wizards of the Coast,648,12/02/2022,,2022
+5925,j22-649-drudge-beetle.jpg,Drudge Beetle,Common,Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,649,12/02/2022,,2022
+5926,j22-650-duskshell-crawler.jpg,Duskshell Crawler,Common,Creature,Yeong-Hao Han,English,Reprints,Wizards of the Coast,650,12/02/2022,,2022
+5927,j22-651-dwynen-s-elite.jpg,Dwynen's Elite,Uncommon,Creature,Volkan Baǵa,English,Reprints,Wizards of the Coast,651,12/02/2022,,2022
+5928,j22-652-elderleaf-mentor.jpg,Elderleaf Mentor,Common,Creature,Zoltan Boros,English,Reprints,Wizards of the Coast,652,12/02/2022,,2022
+5929,j22-653-elven-bow.jpg,Elven Bow,Uncommon,Artifact,Dallas Williams,English,Reprints,Wizards of the Coast,653,12/02/2022,,2022
+5930,j22-654-elvish-warmaster.jpg,Elvish Warmaster,Rare,Creature,Alexander Mokhov,English,Reprints,Wizards of the Coast,654,12/02/2022,,2022
+5931,j22-655-engulfing-slagwurm.jpg,Engulfing Slagwurm,Rare,Creature,Jaime Jones,English,Reprints,Wizards of the Coast,655,12/02/2022,,2022
+5932,j22-656-enlarge.jpg,Enlarge,Uncommon,Sorcery,Michael Komarck,English,Reprints,Wizards of the Coast,656,12/02/2022,,2022
+5933,j22-657-feed-the-pack.jpg,Feed the Pack,Rare,Enchantment,Steve Prescott,English,Reprints,Wizards of the Coast,657,12/02/2022,,2022
+5934,j22-658-feral-hydra.jpg,Feral Hydra,Uncommon,Creature,Steve Prescott,English,Reprints,Wizards of the Coast,658,12/02/2022,,2022
+5935,j22-659-ferocious-pup.jpg,Ferocious Pup,Common,Creature,Rudy Siswanto,English,Reprints,Wizards of the Coast,659,12/02/2022,,2022
+5936,j22-660-fertilid.jpg,Fertilid,Common,Creature,Nicholas Gregory,English,Reprints,Wizards of the Coast,660,12/02/2022,,2022
+5937,j22-661-fierce-witchstalker.jpg,Fierce Witchstalker,Common,Creature,Nicholas Gregory,English,Reprints,Wizards of the Coast,661,12/02/2022,,2022
+5938,j22-662-flourishing-hunter.jpg,Flourishing Hunter,Common,Creature,Ilse Gort,English,Reprints,Wizards of the Coast,662,12/02/2022,,2022
+5939,j22-663-frontier-mastodon.jpg,Frontier Mastodon,Common,Creature,Nils Hamm,English,Reprints,Wizards of the Coast,663,12/02/2022,,2022
+5940,j22-664-gaea-s-protector.jpg,Gaea's Protector,Common,Creature,Grzegorz Rutkowski,English,Reprints,Wizards of the Coast,664,12/02/2022,,2022
+5941,j22-665-ghirapur-guide.jpg,Ghirapur Guide,Uncommon,Creature,Scott Murphy,English,Reprints,Wizards of the Coast,665,12/02/2022,,2022
+5942,j22-666-giant-caterpillar.jpg,Giant Caterpillar,Common,Creature,Arnie Swekel,English,Reprints,Wizards of the Coast,666,12/02/2022,,2022
+5943,j22-667-gift-of-the-gargantuan.jpg,Gift of the Gargantuan,Common,Sorcery,Jean-Sébastien Rossbach,English,Reprints,Wizards of the Coast,667,12/02/2022,,2022
+5944,j22-668-goreclaw-terror-of-qal-sisma.jpg,"Goreclaw, Terror of Qal Sisma",Rare,Lgd. Creature,Svetlin Velinov,English,Reprints,Wizards of the Coast,668,12/02/2022,,2022
+5945,j22-669-groundswell.jpg,Groundswell,Common,Instant,Chris Rahn,English,Reprints,Wizards of the Coast,669,12/02/2022,,2022
+5946,j22-670-havenwood-wurm.jpg,Havenwood Wurm,Common,Creature,Stuart Griffin,English,Reprints,Wizards of the Coast,670,12/02/2022,,2022
+5947,j22-671-hooting-mandrills.jpg,Hooting Mandrills,Common,Creature,Mike Bierek,English,Reprints,Wizards of the Coast,671,12/02/2022,,2022
+5948,j22-672-howl-of-the-hunt.jpg,Howl of the Hunt,Common,Enchantment,Josu Hernaiz,English,Reprints,Wizards of the Coast,672,12/02/2022,,2022
+5949,j22-673-howlgeist.jpg,Howlgeist,Uncommon,Creature,David Rapoza,English,Reprints,Wizards of the Coast,673,12/02/2022,,2022
+5950,j22-674-hunger-of-the-howlpack.jpg,Hunger of the Howlpack,Common,Instant,Nils Hamm,English,Reprints,Wizards of the Coast,674,12/02/2022,,2022
+5951,j22-675-hunter-s-edge.jpg,Hunter's Edge,Common,Sorcery,Johann Bodin,English,Reprints,Wizards of the Coast,675,12/02/2022,,2022
+5952,j22-676-ilysian-caryatid.jpg,Ilysian Caryatid,Common,Creature,Winona Nelson,English,Reprints,Wizards of the Coast,676,12/02/2022,,2022
+5953,j22-677-imperious-perfect.jpg,Imperious Perfect,Rare,Creature,Scott M. Fischer,English,Reprints,Wizards of the Coast,677,12/02/2022,,2022
+5954,j22-678-iridescent-hornbeetle.jpg,Iridescent Hornbeetle,Uncommon,Creature,Simon Dominic,English,Reprints,Wizards of the Coast,678,12/02/2022,,2022
+5955,j22-679-ironshell-beetle.jpg,Ironshell Beetle,Common,Creature,Kev Walker,English,Reprints,Wizards of the Coast,679,12/02/2022,,2022
+5956,j22-680-ivy-lane-denizen.jpg,Ivy Lane Denizen,Common,Creature,Winona Nelson,English,Reprints,Wizards of the Coast,680,12/02/2022,,2022
+5957,j22-681-kessig-cagebreakers.jpg,Kessig Cagebreakers,Rare,Creature,Wayne England,English,Reprints,Wizards of the Coast,681,12/02/2022,,2022
+5958,j22-682-kraul-foragers.jpg,Kraul Foragers,Common,Creature,Aaron Miller,English,Reprints,Wizards of the Coast,682,12/02/2022,,2022
+5959,j22-683-kraul-harpooner.jpg,Kraul Harpooner,Uncommon,Creature,Kev Walker,English,Reprints,Wizards of the Coast,683,12/02/2022,,2022
+5960,j22-684-kraul-warrior.jpg,Kraul Warrior,Common,Creature,David Rapoza,English,Reprints,Wizards of the Coast,684,12/02/2022,,2022
+5961,j22-685-kujar-seedsculptor.jpg,Kujar Seedsculptor,Common,Creature,Anna Steinbauer,English,Reprints,Wizards of the Coast,685,12/02/2022,,2022
+5962,j22-686-lys-alana-huntmaster.jpg,Lys Alana Huntmaster,Common,Creature,Pete Venters,English,Reprints,Wizards of the Coast,686,12/02/2022,,2022
+5963,j22-687-mammoth-spider.jpg,Mammoth Spider,Common,Creature,Lars Grant-West,English,Reprints,Wizards of the Coast,687,12/02/2022,,2022
+5964,j22-688-master-of-the-wild-hunt.jpg,Master of the Wild Hunt,Mythic,Creature,Kev Walker,English,Reprints,Wizards of the Coast,688,12/02/2022,,2022
+5965,j22-689-master-s-rebuke.jpg,Master's Rebuke,Common,Instant,Francisco Miyara,English,Reprints,Wizards of the Coast,689,12/02/2022,,2022
+5966,j22-690-might-of-the-masses.jpg,Might of the Masses,Common,Instant,Alex Konstad,English,Reprints,Wizards of the Coast,690,12/02/2022,,2022
+5967,j22-691-moldgraf-millipede.jpg,Moldgraf Millipede,Common,Creature,Simon Dominic,English,Reprints,Wizards of the Coast,691,12/02/2022,,2022
+5968,j22-692-moonlight-hunt.jpg,Moonlight Hunt,Uncommon,Instant,Joseph Meehan,English,Reprints,Wizards of the Coast,692,12/02/2022,,2022
+5969,j22-693-naga-vitalist.jpg,Naga Vitalist,Common,Creature,James Ryman,English,Reprints,Wizards of the Coast,693,12/02/2022,,2022
+5970,j22-694-nantuko-cultivator.jpg,Nantuko Cultivator,Uncommon,Creature,Jehan Choo,English,Reprints,Wizards of the Coast,694,12/02/2022,,2022
+5971,j22-695-nessian-hornbeetle.jpg,Nessian Hornbeetle,Uncommon,Creature,Jason Felix,English,Reprints,Wizards of the Coast,695,12/02/2022,,2022
+5972,j22-696-nightpack-ambusher.jpg,Nightpack Ambusher,Rare,Creature,Dan Scott,English,Reprints,Wizards of the Coast,696,12/02/2022,,2022
+5973,j22-697-oashra-cultivator.jpg,Oashra Cultivator,Common,Creature,Sara Winters,English,Reprints,Wizards of the Coast,697,12/02/2022,,2022
+5974,j22-698-ondu-giant.jpg,Ondu Giant,Common,Creature,Igor Kieryluk,English,Reprints,Wizards of the Coast,698,12/02/2022,,2022
+5975,j22-699-ordeal-of-nylea.jpg,Ordeal of Nylea,Uncommon,Enchantment,David Palumbo,English,Reprints,Wizards of the Coast,699,12/02/2022,,2022
+5976,j22-700-ornery-dilophosaur.jpg,Ornery Dilophosaur,Common,Creature,Jonathan Kuo,English,Reprints,Wizards of the Coast,700,12/02/2022,,2022
+5977,j22-701-overcome.jpg,Overcome,Uncommon,Sorcery,Craig J Spearing,English,Reprints,Wizards of the Coast,701,12/02/2022,,2022
+5978,j22-702-overgrowth.jpg,Overgrowth,Common,Enchantment,Ron Spears,English,Reprints,Wizards of the Coast,702,12/02/2022,,2022
+5979,j22-703-packsong-pup.jpg,Packsong Pup,Uncommon,Creature,April Prime,English,Reprints,Wizards of the Coast,703,12/02/2022,,2022
+5980,j22-704-paradise-druid.jpg,Paradise Druid,Uncommon,Creature,Nils Hamm,English,Reprints,Wizards of the Coast,704,12/02/2022,,2022
+5981,j22-705-pestilent-wolf.jpg,Pestilent Wolf,Common,Creature,Oriana Menendez,English,Reprints,Wizards of the Coast,705,12/02/2022,,2022
+5982,j22-706-phantom-nantuko.jpg,Phantom Nantuko,Rare,Creature,Wayne England,English,Reprints,Wizards of the Coast,706,12/02/2022,,2022
+5983,j22-707-pounce.jpg,Pounce,Common,Instant,Lucas Graciano,English,Reprints,Wizards of the Coast,707,12/02/2022,,2022
+5984,j22-708-predator-s-howl.jpg,Predator's Howl,Uncommon,Instant,Ralph Horsley,English,Reprints,Wizards of the Coast,708,12/02/2022,,2022
+5985,j22-709-presence-of-gond.jpg,Presence of Gond,Common,Enchantment,Brandon Kitkouski,English,Reprints,Wizards of the Coast,709,12/02/2022,,2022
+5986,j22-710-prey-upon.jpg,Prey Upon,Common,Sorcery,Dave Kendall,English,Reprints,Wizards of the Coast,710,12/02/2022,,2022
+5987,j22-711-pridemalkin.jpg,Pridemalkin,Common,Creature,Karl Kopinski,English,Reprints,Wizards of the Coast,711,12/02/2022,,2022
+5988,j22-712-primordial-hydra.jpg,Primordial Hydra,Mythic,Creature,Aleksi Briclot,English,Reprints,Wizards of the Coast,712,12/02/2022,,2022
+5989,j22-713-prowling-serpopard.jpg,Prowling Serpopard,Rare,Creature,Tyler Jacobson,English,Reprints,Wizards of the Coast,713,12/02/2022,,2022
+5990,j22-714-quarry-beetle.jpg,Quarry Beetle,Uncommon,Creature,Mike Burns,English,Reprints,Wizards of the Coast,714,12/02/2022,,2022
+5991,j22-715-rampaging-baloths.jpg,Rampaging Baloths,Rare,Creature,Steve Prescott,English,Reprints,Wizards of the Coast,715,12/02/2022,,2022
+5992,j22-716-reckless-amplimancer.jpg,Reckless Amplimancer,Common,Creature,Yigit Koroglu,English,Reprints,Wizards of the Coast,716,12/02/2022,,2022
+5993,j22-717-reclamation-sage.jpg,Reclamation Sage,Uncommon,Creature,Clint Cearley,English,Reprints,Wizards of the Coast,717,12/02/2022,,2022
+5994,j22-718-relentless-pursuit.jpg,Relentless Pursuit,Common,Sorcery,Magali Villeneuve,English,Reprints,Wizards of the Coast,718,12/02/2022,,2022
+5995,j22-719-rhonas-the-indomitable.jpg,Rhonas the Indomitable,Mythic,Lgd. Creature,Chase Stone,English,Reprints,Wizards of the Coast,719,12/02/2022,,2022
+5996,j22-720-roar-of-challenge.jpg,Roar of Challenge,Uncommon,Sorcery,Viktor Titov,English,Reprints,Wizards of the Coast,720,12/02/2022,,2022
+5997,j22-721-roots-of-wisdom.jpg,Roots of Wisdom,Common,Sorcery,Sidharth Chaturvedi,English,Reprints,Wizards of the Coast,721,12/02/2022,,2022
+5998,j22-722-rosethorn-halberd.jpg,Rosethorn Halberd,Common,Artifact,Kari Christensen,English,Reprints,Wizards of the Coast,722,12/02/2022,,2022
+5999,j22-723-savage-punch.jpg,Savage Punch,Common,Sorcery,Wesley Burt,English,Reprints,Wizards of the Coast,723,12/02/2022,,2022
+6000,j22-724-scale-the-heights.jpg,Scale the Heights,Common,Sorcery,Cristi Balanescu,English,Reprints,Wizards of the Coast,724,12/02/2022,,2022
+6001,j22-725-scion-summoner.jpg,Scion Summoner,Common,Creature,Johann Bodin,English,Reprints,Wizards of the Coast,725,12/02/2022,,2022
+6002,j22-726-scrounging-bandar.jpg,Scrounging Bandar,Common,Creature,Shreya Shetty,English,Reprints,Wizards of the Coast,726,12/02/2022,,2022
+6003,j22-727-servant-of-the-scale.jpg,Servant of the Scale,Common,Creature,Winona Nelson,English,Reprints,Wizards of the Coast,727,12/02/2022,,2022
+6004,j22-728-silverback-shaman.jpg,Silverback Shaman,Common,Creature,Mathias Kollros,English,Reprints,Wizards of the Coast,728,12/02/2022,,2022
+6005,j22-729-simian-brawler.jpg,Simian Brawler,Common,Creature,Warren Mahy,English,Reprints,Wizards of the Coast,729,12/02/2022,,2022
+6006,j22-730-snapping-gnarlid.jpg,Snapping Gnarlid,Common,Creature,Kev Walker,English,Reprints,Wizards of the Coast,730,12/02/2022,,2022
+6007,j22-731-soul-s-might.jpg,Soul's Might,Common,Sorcery,Kev Walker,English,Reprints,Wizards of the Coast,731,12/02/2022,,2022
+6008,j22-732-sporeback-wolf.jpg,Sporeback Wolf,Common,Creature,Nicholas Elias,English,Reprints,Wizards of the Coast,732,12/02/2022,,2022
+6009,j22-733-stalking-drone.jpg,Stalking Drone,Common,Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,733,12/02/2022,,2022
+6010,j22-734-swarm-shambler.jpg,Swarm Shambler,Rare,Creature,Nicholas Gregory,English,Reprints,Wizards of the Coast,734,12/02/2022,,2022
+6011,j22-735-titanic-brawl.jpg,Titanic Brawl,Common,Instant,Svetlin Velinov,English,Reprints,Wizards of the Coast,735,12/02/2022,,2022
+6012,j22-736-turntimber-basilisk.jpg,Turntimber Basilisk,Uncommon,Creature,Goran Josic,English,Reprints,Wizards of the Coast,736,12/02/2022,,2022
+6013,j22-737-unnatural-aggression.jpg,Unnatural Aggression,Common,Instant,James Ryman,English,Reprints,Wizards of the Coast,737,12/02/2022,,2022
+6014,j22-738-wildborn-preserver.jpg,Wildborn Preserver,Rare,Creature,Lius Lasahido,English,Reprints,Wizards of the Coast,738,12/02/2022,,2022
+6015,j22-739-wily-bandar.jpg,Wily Bandar,Common,Creature,Yeong-Hao Han,English,Reprints,Wizards of the Coast,739,12/02/2022,,2022
+6016,j22-740-wolf-s-quarry.jpg,Wolf's Quarry,Common,Sorcery,Lars Grant-West,English,Reprints,Wizards of the Coast,740,12/02/2022,,2022
+6017,j22-741-wolfkin-bond.jpg,Wolfkin Bond,Common,Enchantment,Lindsey Look,English,Reprints,Wizards of the Coast,741,12/02/2022,,2022
+6018,j22-742-wolfwillow-haven.jpg,Wolfwillow Haven,Uncommon,Enchantment,Jakub Kasper,English,Reprints,Wizards of the Coast,742,12/02/2022,,2022
+6019,j22-743-wolverine-riders.jpg,Wolverine Riders,Rare,Creature,Jesper Ejsing,English,Reprints,Wizards of the Coast,743,12/02/2022,,2022
+6020,j22-744-woodborn-behemoth.jpg,Woodborn Behemoth,Uncommon,Creature,Matt Stewart,English,Reprints,Wizards of the Coast,744,12/02/2022,,2022
+6021,j22-745-woodland-champion.jpg,Woodland Champion,Uncommon,Creature,Randy Vargas,English,Reprints,Wizards of the Coast,745,12/02/2022,,2022
+6022,j22-746-young-wolf.jpg,Young Wolf,Common,Creature,Ryan Pancoast,English,Reprints,Wizards of the Coast,746,12/02/2022,,2022
+6023,j22-747-zendikar-s-roil.jpg,Zendikar's Roil,Uncommon,Enchantment,Sam Burley,English,Reprints,Wizards of the Coast,747,12/02/2022,,2022
+6024,j22-748-endbringer.jpg,Endbringer,Rare,Creature,Vincent Proce,English,Reprints,Wizards of the Coast,748,12/02/2022,,2022
+6025,j22-749-titan-s-presence.jpg,Titan's Presence,Uncommon,Instant,Slawomir Maniak,English,Reprints,Wizards of the Coast,749,12/02/2022,,2022
+6026,j22-750-warden-of-geometries.jpg,Warden of Geometries,Common,Creature,Jason Felix,English,Reprints,Wizards of the Coast,750,12/02/2022,,2022
+6027,j22-751-adventuring-gear.jpg,Adventuring Gear,Common,Artifact,Howard Lyon,English,Reprints,Wizards of the Coast,751,12/02/2022,,2022
+6028,j22-752-aether-spellbomb.jpg,Aether Spellbomb,Common,Artifact,Jim Nelson,English,Reprints,Wizards of the Coast,752,12/02/2022,,2022
+6029,j22-753-alchemist-s-vial.jpg,Alchemist's Vial,Common,Artifact,Lindsey Look,English,Reprints,Wizards of the Coast,753,12/02/2022,,2022
+6030,j22-754-aradara-express.jpg,Aradara Express,Common,Artifact,Adam Paquette,English,Reprints,Wizards of the Coast,754,12/02/2022,,2022
+6031,j22-755-assembly-worker.jpg,Assembly-Worker,Common,Artifact Creature,Chippy,English,Reprints,Wizards of the Coast,755,12/02/2022,,2022
+6032,j22-756-bag-of-holding.jpg,Bag of Holding,Rare,Artifact,Dmitry Burmak,English,Reprints,Wizards of the Coast,756,12/02/2022,,2022
+6033,j22-757-bloodline-pretender.jpg,Bloodline Pretender,Uncommon,Artifact Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,757,12/02/2022,,2022
+6034,j22-758-campus-guide.jpg,Campus Guide,Common,Artifact Creature,Slawomir Maniak,English,Reprints,Wizards of the Coast,758,12/02/2022,,2022
+6035,j22-759-cellar-door.jpg,Cellar Door,Uncommon,Artifact,Rob Alexander,English,Reprints,Wizards of the Coast,759,12/02/2022,,2022
+6036,j22-760-circuit-mender.jpg,Circuit Mender,Uncommon,Artifact Creature,Hector Ortiz,English,Reprints,Wizards of the Coast,760,12/02/2022,,2022
+6037,j22-761-cogwork-assembler.jpg,Cogwork Assembler,Uncommon,Artifact Creature,Joseph Meehan,English,Reprints,Wizards of the Coast,761,12/02/2022,,2022
+6038,j22-762-dragon-blood.jpg,Dragon Blood,Uncommon,Artifact,Ron Spencer,English,Reprints,Wizards of the Coast,762,12/02/2022,,2022
+6039,j22-763-dragon-s-hoard.jpg,Dragon's Hoard,Rare,Artifact,Adam Paquette,English,Reprints,Wizards of the Coast,763,12/02/2022,,2022
+6040,j22-764-edifice-of-authority.jpg,Edifice of Authority,Uncommon,Artifact,Florian de Gesincourt,English,Reprints,Wizards of the Coast,764,12/02/2022,,2022
+6041,j22-765-expedition-map.jpg,Expedition Map,Common,Artifact,Franz Vohwinkel,English,Reprints,Wizards of the Coast,765,12/02/2022,,2022
+6042,j22-766-explorer-s-scope.jpg,Explorer's Scope,Common,Artifact,Vincent Proce,English,Reprints,Wizards of the Coast,766,12/02/2022,,2022
+6043,j22-767-gearsmith-guardian.jpg,Gearsmith Guardian,Common,Artifact Creature,Deruchenko Alexander,English,Reprints,Wizards of the Coast,767,12/02/2022,,2022
+6044,j22-768-gleaming-barrier.jpg,Gleaming Barrier,Common,Artifact Creature,Jason Felix,English,Reprints,Wizards of the Coast,768,12/02/2022,,2022
+6045,j22-769-goldvein-pick.jpg,Goldvein Pick,Common,Artifact,Dan Scott,English,Reprints,Wizards of the Coast,769,12/02/2022,,2022
+6046,j22-770-golem-artisan.jpg,Golem Artisan,Uncommon,Artifact Creature,Nic Klein,English,Reprints,Wizards of the Coast,770,12/02/2022,,2022
+6047,j22-771-hammer-of-ruin.jpg,Hammer of Ruin,Uncommon,Artifact,Vincent Proce,English,Reprints,Wizards of the Coast,771,12/02/2022,,2022
+6048,j22-772-hangarback-walker.jpg,Hangarback Walker,Rare,Artifact Creature,Daarken,English,Reprints,Wizards of the Coast,772,12/02/2022,,2022
+6049,j22-773-heart-piercer-bow.jpg,Heart-Piercer Bow,Common,Artifact,Franz Vohwinkel,English,Reprints,Wizards of the Coast,773,12/02/2022,,2022
+6050,j22-774-hedron-archive.jpg,Hedron Archive,Uncommon,Artifact,Craig J Spearing,English,Reprints,Wizards of the Coast,774,12/02/2022,,2022
+6051,j22-775-heirloom-blade.jpg,Heirloom Blade,Uncommon,Artifact,Carmen Sinek,English,Reprints,Wizards of the Coast,775,12/02/2022,,2022
+6052,j22-776-hero-s-blade.jpg,Hero's Blade,Uncommon,Artifact,Aaron Miller,English,Reprints,Wizards of the Coast,776,12/02/2022,,2022
+6053,j22-777-infiltration-lens.jpg,Infiltration Lens,Uncommon,Artifact,Izzy,English,Reprints,Wizards of the Coast,777,12/02/2022,,2022
+6054,j22-778-iron-bully.jpg,Iron Bully,Common,Artifact Creature,Aaron Miller,English,Reprints,Wizards of the Coast,778,12/02/2022,,2022
+6055,j22-779-jousting-lance.jpg,Jousting Lance,Common,Artifact,Alayna Danner,English,Reprints,Wizards of the Coast,779,12/02/2022,,2022
+6056,j22-780-juggernaut.jpg,Juggernaut,Uncommon,Artifact Creature,Kev Walker,English,Reprints,Wizards of the Coast,780,12/02/2022,,2022
+6057,j22-781-kitesail.jpg,Kitesail,Common,Artifact,Cyril Van Der Haegen,English,Reprints,Wizards of the Coast,781,12/02/2022,,2022
+6058,j22-782-leonin-scimitar.jpg,Leonin Scimitar,Common,Artifact,Doug Chaffee,English,Reprints,Wizards of the Coast,782,12/02/2022,,2022
+6059,j22-783-locthwain-gargoyle.jpg,Locthwain Gargoyle,Common,Artifact Creature,Nils Hamm,English,Reprints,Wizards of the Coast,783,12/02/2022,,2022
+6060,j22-784-loxodon-warhammer.jpg,Loxodon Warhammer,Rare,Artifact,Jeremy Jarvis,English,Reprints,Wizards of the Coast,784,12/02/2022,,2022
+6061,j22-785-manakin.jpg,Manakin,Common,Artifact Creature,David Palumbo,English,Reprints,Wizards of the Coast,785,12/02/2022,,2022
+6062,j22-786-meteor-golem.jpg,Meteor Golem,Uncommon,Artifact Creature,Lake Hurwitz,English,Reprints,Wizards of the Coast,786,12/02/2022,,2022
+6063,j22-787-monkey-cage.jpg,Monkey Cage,Rare,Artifact,Carl Critchlow,English,Reprints,Wizards of the Coast,787,12/02/2022,,2022
+6064,j22-788-panharmonicon.jpg,Panharmonicon,Rare,Artifact,Volkan Baǵa,English,Reprints,Wizards of the Coast,788,12/02/2022,,2022
+6065,j22-789-phyrexian-ironfoot.jpg,Phyrexian Ironfoot,Uncommon,Snow Artifact Creature,Stephan Martiniere,English,Reprints,Wizards of the Coast,789,12/02/2022,,2022
+6066,j22-790-pierce-strider.jpg,Pierce Strider,Uncommon,Artifact Creature,Igor Kieryluk,English,Reprints,Wizards of the Coast,790,12/02/2022,,2022
+6067,j22-791-pilgrim-s-eye.jpg,Pilgrim's Eye,Common,Artifact Creature,Dan Scott,English,Reprints,Wizards of the Coast,791,12/02/2022,,2022
+6068,j22-792-psychosis-crawler.jpg,Psychosis Crawler,Rare,Artifact Creature,Stephan Martiniere,English,Reprints,Wizards of the Coast,792,12/02/2022,,2022
+6069,j22-793-raiders-karve.jpg,Raiders' Karve,Common,Artifact,Aaron Miller,English,Reprints,Wizards of the Coast,793,12/02/2022,,2022
+6070,j22-794-runed-servitor.jpg,Runed Servitor,Common,Artifact Creature,Mike Bierek,English,Reprints,Wizards of the Coast,794,12/02/2022,,2022
+6071,j22-795-self-assembler.jpg,Self-Assembler,Common,Artifact Creature,Toraji,English,Reprints,Wizards of the Coast,795,12/02/2022,,2022
+6072,j22-796-shambling-suit.jpg,Shambling Suit,Uncommon,Artifact Creature,Nicholas Gregory,English,Reprints,Wizards of the Coast,796,12/02/2022,,2022
+6073,j22-797-solemn-simulacrum.jpg,Solemn Simulacrum,Rare,Artifact Creature,Donato Giancola,English,Reprints,Wizards of the Coast,797,12/02/2022,,2022
+6074,j22-798-steel-overseer.jpg,Steel Overseer,Rare,Artifact Creature,Chris Rahn,English,Reprints,Wizards of the Coast,798,12/02/2022,,2022
+6075,j22-799-talon-of-pain.jpg,Talon of Pain,Uncommon,Artifact,Daren Bader,English,Reprints,Wizards of the Coast,799,12/02/2022,,2022
+6076,j22-800-tamiyo-s-journal.jpg,Tamiyo's Journal,Rare,Lgd. Artifact,Chase Stone,English,Reprints,Wizards of the Coast,800,12/02/2022,,2022
+6077,j22-801-teferi-s-puzzle-box.jpg,Teferi's Puzzle Box,Rare,Artifact,Donato Giancola,English,Reprints,Wizards of the Coast,801,12/02/2022,,2022
+6078,j22-802-thaumaturge-s-familiar.jpg,Thaumaturge's Familiar,Common,Artifact Creature,Andrea Radeck,English,Reprints,Wizards of the Coast,802,12/02/2022,,2022
+6079,j22-803-universal-automaton.jpg,Universal Automaton,Common,Artifact Creature,Ben Maier,English,Reprints,Wizards of the Coast,803,12/02/2022,,2022
+6080,j22-804-universal-solvent.jpg,Universal Solvent,Common,Artifact,Christopher Moeller,English,Reprints,Wizards of the Coast,804,12/02/2022,,2022
+6081,j22-805-vial-of-dragonfire.jpg,Vial of Dragonfire,Common,Artifact,Franz Vohwinkel,English,Reprints,Wizards of the Coast,805,12/02/2022,,2022
+6082,j22-806-walking-ballista.jpg,Walking Ballista,Rare,Artifact Creature,Daniel Ljunggren,English,Reprints,Wizards of the Coast,806,12/02/2022,,2022
+6083,j22-807-weapon-rack.jpg,Weapon Rack,Common,Artifact,Joe Slucher,English,Reprints,Wizards of the Coast,807,12/02/2022,,2022
+6084,j22-808-whirlermaker.jpg,Whirlermaker,Uncommon,Artifact,Victor Adame Minguez,English,Reprints,Wizards of the Coast,808,12/02/2022,,2022
+6085,j22-809-ash-barrens.jpg,Ash Barrens,Common,Land,Jonas De Ro,English,Reprints,Wizards of the Coast,809,12/02/2022,,2022
+6086,j22-810-blighted-fen.jpg,Blighted Fen,Uncommon,Land,Jonas De Ro,English,Reprints,Wizards of the Coast,810,12/02/2022,,2022
+6087,j22-811-bonders-enclave.jpg,Bonders' Enclave,Rare,Land,Cliff Childs,English,Reprints,Wizards of the Coast,811,12/02/2022,,2022
+6088,j22-812-desert-of-the-mindful.jpg,Desert of the Mindful,Common,Land,Christine Choi,English,Reprints,Wizards of the Coast,812,12/02/2022,,2022
+6089,j22-813-evolving-wilds.jpg,Evolving Wilds,Common,Land,Alayna Danner,English,Reprints,Wizards of the Coast,813,12/02/2022,,2022
+6090,j22-814-forgotten-cave.jpg,Forgotten Cave,Common,Land,Tony Szczudlo,English,Reprints,Wizards of the Coast,814,12/02/2022,,2022
+6091,j22-815-memorial-to-genius.jpg,Memorial to Genius,Uncommon,Land,James Paick,English,Reprints,Wizards of the Coast,815,12/02/2022,,2022
+6092,j22-816-mishra-s-factory.jpg,Mishra's Factory,Uncommon,Land,Scott Chou,English,Reprints,Wizards of the Coast,816,12/02/2022,,2022
+6093,j22-817-mortuary-mire.jpg,Mortuary Mire,Common,Land,James Paick,English,Reprints,Wizards of the Coast,817,12/02/2022,,2022
+6094,j22-818-piranha-marsh.jpg,Piranha Marsh,Common,Land,Nic Klein,English,Reprints,Wizards of the Coast,818,12/02/2022,,2022
+6095,j22-819-sandstone-bridge.jpg,Sandstone Bridge,Common,Land,Cliff Childs,English,Reprints,Wizards of the Coast,819,12/02/2022,,2022
+6096,j22-820-seat-of-the-synod.jpg,Seat of the Synod,Common,Artifact Land,John Avon,English,Reprints,Wizards of the Coast,820,12/02/2022,,2022
+6097,j22-821-shimmerdrift-vale.jpg,Shimmerdrift Vale,Common,Snow Land,Titus Lunter,English,Reprints,Wizards of the Coast,821,12/02/2022,,2022
+6098,j22-822-thriving-bluff.jpg,Thriving Bluff,Common,Land,Johannes Voss,English,Reprints,Wizards of the Coast,822,12/02/2022,,2022
+6099,j22-823-thriving-grove.jpg,Thriving Grove,Common,Land,Ravenna Tran,English,Reprints,Wizards of the Coast,823,12/02/2022,,2022
+6100,j22-824-thriving-heath.jpg,Thriving Heath,Common,Land,Alayna Danner,English,Reprints,Wizards of the Coast,824,12/02/2022,,2022
+6101,j22-825-thriving-isle.jpg,Thriving Isle,Common,Land,Jonas De Ro,English,Reprints,Wizards of the Coast,825,12/02/2022,,2022
+6102,j22-826-thriving-moor.jpg,Thriving Moor,Common,Land,Titus Lunter,English,Reprints,Wizards of the Coast,826,12/02/2022,,2022
+6103,j22-827-treetop-village.jpg,Treetop Village,Uncommon,Land,Rob Alexander,English,Reprints,Wizards of the Coast,827,12/02/2022,,2022
+6104,j22-828-urza-s-factory.jpg,Urza's Factory,Uncommon,Land,Mark Tedin,English,Reprints,Wizards of the Coast,828,12/02/2022,,2022
+6105,j22-829-urza-s-mine.jpg,Urza's Mine,Common,Land,Brian Snõddy,English,Reprints,Wizards of the Coast,829,12/02/2022,,2022
+6106,j22-830-urza-s-power-plant.jpg,Urza's Power Plant,Common,Land,Brian Snõddy,English,Reprints,Wizards of the Coast,830,12/02/2022,,2022
+6107,j22-831-urza-s-tower.jpg,Urza's Tower,Common,Land,Brian Snõddy,English,Reprints,Wizards of the Coast,831,12/02/2022,,2022
+6108,j22-832-warped-landscape.jpg,Warped Landscape,Common,Land,Cliff Childs,English,Reprints,Wizards of the Coast,832,12/02/2022,,2022
+6109,j22-833-snow-covered-island.jpg,Snow-Covered Island,Common,Basic Snow Land,Piotr Dura,English,Reprints,Wizards of the Coast,833,12/02/2022,,2022
+6110,j22-834-wastes.jpg,Wastes,Common,Basic Land,Jason Felix,English,Reprints,Wizards of the Coast,834,12/02/2022,,2022
+6111,j22-835-kibo-uktabi-prince.jpg,"Kibo, Uktabi Prince",Mythic,Lgd. Creature,Filipe Pagliuso,English,Promo,Wizards of the Coast,835,12/02/2022,,2022

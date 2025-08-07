@@ -1,0 +1,168 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Anime Toys,Anime Toys,,,,Anime Toys
+Anime Toys | Brands,,toy_brands,Brands,1,Anime Toys | Brands
+Anime Toys | Brands,,anime_toys_categories,Anime Toys,2,Anime Toys | Brands | Anime Toys
+Anime Toys | Brands,,anime_toys_categories,Anime Figures,3,Anime Toys | Brands | Anime Toys  | Anime Figures
+Anime Toys | Brands,,anime_figures_categories,Complete Figures,4,Anime Toys | Brands | Anime Toys  | Anime Figures | Complete Figures
+Anime Toys | Brands,,anime_figures_categories,Articulated Figures,4,Anime Toys | Brands | Anime Toys  | Anime Figures | Articulated Figures
+Anime Toys | Brands,,anime_toys_categories,Robot/Mech Figures,3,Anime Toys | Brands | Anime Toys  | Robot/Mech Figures
+Anime Toys | Brands,,anime_toys_categories,Statues,3,Anime Toys | Brands | Anime Toys  | Statues
+Anime Toys | Brands,,anime_toys_categories,Busts,3,Anime Toys | Brands | Anime Toys  | Busts
+Anime Toys | Brands,,anime_toys_categories,Props & Replica,3,Anime Toys | Brands | Anime Toys  | Props & Replica
+Anime Toys | Brands,,anime_toys_props_replica_categories,Helmets,4,Anime Toys | Brands | Anime Toys  | Props & Replica | Helmets
+Anime Toys | Brands,,anime_toys_props_replica_categories,Lightsabers,4,Anime Toys | Brands | Anime Toys  | Props & Replica | Lightsabers
+Anime Toys | Brands,,anime_toys_props_replica_categories,Weapons,4,Anime Toys | Brands | Anime Toys  | Props & Replica | Weapons
+Anime Toys | Brands,,anime_toys_props_replica_categories,Vehicles,4,Anime Toys | Brands | Anime Toys  | Props & Replica | Vehicles
+Anime Toys | Brands,,anime_toys_categories,Mini Figures,3,Anime Toys | Brands | Anime Toys  | Mini Figures
+Anime Toys | Brands,,anime_toys_categories,Gashapon,3,Anime Toys | Brands | Anime Toys  | Gashapon
+Anime Toys | Brands,,anime_toys_categories,Candy Toys,3,Anime Toys | Brands | Anime Toys  | Candy Toys
+Anime Toys | Brands,,anime_toys_categories,R18+ Toys,3,Anime Toys | Brands | Anime Toys  | R18+ Toys
+Anime Model Kits,Anime Model Kits,,,,Anime Model Kits
+Anime Model Kits | Brands,,toys_brand,Brands,1,Anime Model Kits | Brands
+Anime Model Kits | Brands,,anime_model_kits_categories,Anime Model Kits,2,Anime Model Kits | Brands | Anime Model Kits
+Anime Model Kits | Brands,,anime_model_kits_categories,Character Kits,3,Anime Model Kits | Brands | Anime Model Kits | Character Kits
+Anime Model Kits | Brands,,anime_model_kits_categories,Props & Replica Kits,3,Anime Model Kits | Brands | Anime Model Kits | Props & Replica Kits
+Anime Model Kits | Brands,,anime_model_kits_categories,Robot/Mecha Kits,3,Anime Model Kits | Brands | Anime Model Kits | Robot/Mecha Kits
+Anime Model Kits | Brands,,anime_model_kits_categories,Monster/Kaiju Kits,3,Anime Model Kits | Brands | Anime Model Kits | Monster/Kaiju Kits
+Gundam,Gundam,,,,Gundam
+Gundam | Brands,,toys_brand,Brands,1,Gundam | Brands
+Gundam | Brands,,gundam_categories,Gundam,2,Gundam | Brands | Gundam
+Gundam | Brands,,gundam_categories,Gunpla (Model Kits),3,Gundam | Brands | Gunpla (Model Kits)
+Gundam | Brands,,gundam_grades,HG (High Grade),4,Gundam | Brands | Gunpla (Model Kits) | HG (High Grade)
+Gundam | Brands,,gundam_grades,MG (Master Grade),4,Gundam | Brands | Gunpla (Model Kits) | MG (Master Grade)
+Gundam | Brands,,gundam_grades,MG (Master Grade) Ver.Ka,4,Gundam | Brands | Gunpla (Model Kits) | MG (Master Grade) Ver. Ka
+Gundam | Brands,,gundam_grades,SD (Super Deformed),4,Gundam | Brands | Gunpla (Model Kits) | SD (Super Deformed)
+Gundam | Brands,,gundam_grades,PG (Perfect Grade),4,Gundam | Brands | Gunpla (Model Kits) | PG (Perfect Grade)
+Gundam | Brands,,gundam_grades,MS (Mega Size),4,Gundam | Brands | Gunpla (Model Kits) | MS (Mega Size)
+Gundam | Brands,,gundam_grades,MGEX (Master Grade EXTREME),4,Gundam | Brands | Gunpla (Model Kits) | MGEX (Master Grade EXTREME)
+Gundam | Brands,,gundam_grades,RG (Real Grade),4,Gundam | Brands | Gunpla (Model Kits) | RG (Real Grade)
+Gundam | Brands,,gundam_grades,FM (Full Mechanics),4,Gundam | Brands | Gunpla (Model Kits) | FM (Full Mechanics)
+Gundam | Brands,,gundam_grades,EG (Entry Grade),4,Gundam | Brands | Gunpla (Model Kits) | EG (Entry Grade)
+Gundam | Brands,,gundam_grades,HiRM (Hi-Resolution Model),4,Gundam | Brands | Gunpla (Model Kits) | HiRM (Hi-Resolution Model)
+Gundam | Brands,,gundam_grades,RE/100 (Reborn-One Hundred),4,Gundam | Brands | Gunpla (Model Kits) | RE/100 (Reborn-One Hundred)
+Gundam | Brands,,gundam_grades,FG (First Grade),4,Gundam | Brands | Gunpla (Model Kits) | FG (First Grade)
+Gundam | Brands,,gundam_grades,AG (Advance Grade),4,Gundam | Brands | Gunpla (Model Kits) | AG (Advance Grade)
+Gundam | Brands,,gundam_grades,NG (No Grade),4,Gundam | Brands | Gunpla (Model Kits) | NG (No Grade)
+Gundam | Brands,,gundam_categories,Gundam Figures,3,Gundam | Brands | Gundam Figures
+Gundam | Brands,,gundam_figures_categories,Character Figures,4,Gundam | Brands | Gundam Figures | Character Figures
+Gundam | Brands,,gundam_figures_categories,Gundam Figures,4,Gundam | Brands | Gundam Figures | Gundam Figures
+Gundam | Brands,,gundam_figures_categories,Busts,4,Gundam | Brands | Gundam Figures | Busts
+Gundam | Brands,,gundam_figures_categories,Statues,4,Gundam | Brands | Gundam Figures | Statues
+Gundam | Brands,,gundam_figures_categories,Mini Figures,4,Gundam | Brands | Gundam Figures | Mini Figures
+Gundam | Brands,,gundam_figures_categories,Gashapon,4,Gundam | Brands | Gundam Figures | Gashapon
+Gundam | Brands,,toys_product_type,Gashapon,5,Gundam | Brands | Gundam Figures | Gashapon | Boxes/Case
+Gundam | Brands,,toys_product_type,Gashapon,5,Gundam | Brands | Gundam Figures | Gashapon | Lots/Sets
+Gundam | Brands,,toys_product_type,Gashapon,5,Gundam | Brands | Gundam Figures | Gashapon | Singles
+Gundam | Brands,,gundam_categories,Accessories,3,Gundam | Brands | Accessories
+Gundam | Brands,,gundam_accessories_categories,Builders Parts,4,Gundam | Brands | Accessories | Builders Parts
+Gundam | Brands,,gundam_accessories_categories,Parts Separator,4,Gundam | Brands | Accessories | Parts Separator
+Gundam | Brands,,gundam_accessories_categories,Gundam Decal,4,Gundam | Brands | Accessories | Gundam Decal
+Gundam | Brands,,gundam_accessories_categories,Gundam Marker,4,Gundam | Brands | Accessories | Gundam Marker
+Gundam | Brands,,gundam_accessories_categories,Books & Magazine,4,Gundam | Brands | Accessories | Books & Magazine
+Fun Goods,Fun Goods,,,,Fun Goods
+Fun Goods | Brands,,toys_brand,Brands,1,Fun Goods | Brands
+Fun Goods | Brands,,anime_fun_goods_categories,Fun Goods,2,Fun Goods | Brands | Fun Goods
+Fun Goods | Brands,,anime_fun_goods_categories,Acrylic Stands,3,Fun Goods | Brands | Fun Goods | Acrylic Stands
+Fun Goods | Brands,,anime_fun_goods_categories,Badges,3,Fun Goods | Brands | Fun Goods | Badges
+Fun Goods | Brands,,anime_fun_goods_categories,Stickers,3,Fun Goods | Brands | Fun Goods | Stickers
+Anime Toys | Good Smile Company,,toy_brands,Good Smile Company,1,Anime Toys | Good Smile Company
+Anime Toys | Good Smile Company,,anime_toys_categories,Anime Toys,2,Anime Toys | Good Smile Company | Anime Toys
+Anime Toys | Good Smile Company,,anime_toys_categories,Anime Figures,3,Anime Toys | Good Smile Company | Anime Toys  | Anime Figures
+Anime Toys | Good Smile Company,,anime_figures_categories,Complete Figures,4,Anime Toys | Good Smile Company | Anime Toys  | Anime Figures | Complete Figures
+Anime Toys | Good Smile Company,,anime_figures_product_type,Complete Figures,5,Anime Toys | Good Smile Company | Anime Toys  | Anime Figures | Complete Figures | Box Set
+Anime Toys | Good Smile Company,,anime_figures_product_type,Complete Figures,5,Anime Toys | Good Smile Company | Anime Toys  | Anime Figures | Complete Figures | Lots/Singles
+Anime Toys | Good Smile Company,,anime_figures_categories,Articulated Figures,4,Anime Toys | Good Smile Company | Anime Toys  | Anime Figures | Articulated Figures
+Anime Toys | Good Smile Company,,anime_figures_product_type,Articulated Figures,5,Anime Toys | Good Smile Company | Anime Toys  | Anime Figures | Articulated Figures | Box Set
+Anime Toys | Good Smile Company,,anime_figures_product_type,Articulated Figures,5,Anime Toys | Good Smile Company | Anime Toys  | Anime Figures | Articulated Figures | Lots/Singles
+Anime Toys | Good Smile Company,,anime_toys_categories,Robot/Mech Figures,3,Anime Toys | Good Smile Company | Anime Toys  | Robot/Mech Figures
+Anime Toys | Good Smile Company,,anime_toys_categories,Statues,3,Anime Toys | Good Smile Company | Anime Toys  | Statues
+Anime Toys | Good Smile Company,,anime_toys_categories,Busts,3,Anime Toys | Good Smile Company | Anime Toys  | Busts
+Anime Toys | Good Smile Company,,anime_toys_categories,Props & Replica,3,Anime Toys | Good Smile Company | Anime Toys  | Props & Replica
+Anime Toys | Good Smile Company,,anime_toys_props_replica_categories,Helmets,4,Anime Toys | Good Smile Company | Anime Toys  | Props & Replica | Helmets
+Anime Toys | Good Smile Company,,anime_toys_props_replica_categories,Lightsabers,4,Anime Toys | Good Smile Company | Anime Toys  | Props & Replica | Lightsabers
+Anime Toys | Good Smile Company,,anime_toys_props_replica_categories,Weapons,4,Anime Toys | Good Smile Company | Anime Toys  | Props & Replica | Weapons
+Anime Toys | Good Smile Company,,anime_toys_props_replica_categories,Vehicles,4,Anime Toys | Good Smile Company | Anime Toys  | Props & Replica | Vehicles
+Anime Toys | Good Smile Company,,anime_toys_categories,Mini Figures,3,Anime Toys | Good Smile Company | Anime Toys  | Mini Figures
+Anime Toys | Good Smile Company,,anime_figures_product_type,Mini Figures,4,Anime Toys | Good Smile Company | Anime Toys  | Mini Figures | Box Set
+Anime Toys | Good Smile Company,,anime_figures_product_type,Mini Figures,4,Anime Toys | Good Smile Company | Anime Toys  | Mini Figures | Lots/Singles
+Anime Toys | Good Smile Company,,anime_toys_categories,Gashapon,3,Anime Toys | Good Smile Company | Anime Toys  | Gashapon
+Anime Toys | Good Smile Company,,anime_figures_product_type,Gashapon,4,Anime Toys | Good Smile Company | Anime Toys  | Gashapon | Box Set
+Anime Toys | Good Smile Company,,anime_figures_product_type,Gashapon,4,Anime Toys | Good Smile Company | Anime Toys  | Gashapon | Lots/Singles
+Anime Toys | Good Smile Company,,anime_toys_categories,Candy Toys,3,Anime Toys | Good Smile Company | Anime Toys  | Candy Toys
+Anime Toys | Good Smile Company,,anime_toys_categories,R18+,3,Anime Toys | Good Smile Company | Anime Toys  | R18+ Toys
+Anime Model Kits | Good Smile Company,,toys_brand,Good Smile Company,1,Anime Model Kits | Good Smile Company
+Anime Model Kits | Good Smile Company,,anime_model_kits_categories,Anime Model Kits,2,Anime Model Kits | Good Smile Company | Anime Model Kits
+Anime Model Kits | Good Smile Company,,anime_model_kits_categories,Character Kits,3,Anime Model Kits | Good Smile Company | Anime Model Kits | Character Kits
+Anime Model Kits | Good Smile Company,,anime_model_kits_categories,Props & Replica Kits,3,Anime Model Kits | Good Smile Company | Anime Model Kits | Props & Replica Kits
+Anime Model Kits | Good Smile Company,,anime_model_kits_categories,Robot/Mecha Kits,3,Anime Model Kits | Good Smile Company | Anime Model Kits | Robot/Mecha Kits
+Anime Model Kits | Good Smile Company,,anime_model_kits_categories,Monster/Kaiju Kits,3,Anime Model Kits | Good Smile Company | Anime Model Kits | Monster/Kaiju Kits
+Anime | Bandai,,toy_brands,Bandai,1,Anime Toys | Bandai
+Anime Toys | Bandai,,anime_toys_categories,Anime Toys,2,Anime Toys | Bandai | Anime Toys
+Anime Toys | Bandai,,anime_toys_categories,Anime Figures,3,Anime Toys | Bandai | Anime Toys  | Anime Figures
+Anime Toys | Bandai,,anime_figures_categories,Complete Figures,4,Anime Toys | Bandai | Anime Toys  | Anime Figures | Complete Figures
+Anime Toys | Bandai,,anime_figures_product_type,Complete Figures,5,Anime Toys | Bandai | Anime Toys  | Anime Figures | Complete Figures | Box Set
+Anime Toys | Bandai,,anime_figures_product_type,Complete Figures,5,Anime Toys | Bandai | Anime Toys  | Anime Figures | Complete Figures | Lots/Singles
+Anime Toys | Bandai,,anime_figures_categories,Articulated Figures,4,Anime Toys | Bandai | Anime Toys  | Anime Figures | Articulated Figures
+Anime Toys | Bandai,,anime_figures_product_type,Articulated Figures,5,Anime Toys | Bandai | Anime Toys  | Anime Figures | Articulated Figures | Box Set
+Anime Toys | Bandai,,anime_figures_product_type,Articulated Figures,5,Anime Toys | Bandai | Anime Toys  | Anime Figures | Articulated Figures | Lots/Singles
+Anime Toys | Bandai,,anime_toys_categories,Robot/Mech Figures,3,Anime Toys | Bandai | Anime Toys  | Robot/Mech Figures
+Anime Toys | Bandai,,anime_toys_categories,Statues,3,Anime Toys | Bandai | Anime Toys  | Statues
+Anime Toys | Bandai,,anime_toys_categories,Busts,3,Anime Toys | Bandai | Anime Toys  | Busts
+Anime Toys | Bandai,,anime_toys_categories,Props & Replica,3,Anime Toys | Bandai | Anime Toys  | Props & Replica
+Anime Toys | Bandai,,anime_toys_props_replica_categories,Helmets,4,Anime Toys | Bandai | Anime Toys  | Props & Replica | Helmets
+Anime Toys | Bandai,,anime_toys_props_replica_categories,Lightsabers,4,Anime Toys | Bandai | Anime Toys  | Props & Replica | Lightsabers
+Anime Toys | Bandai,,anime_toys_props_replica_categories,Weapons,4,Anime Toys | Bandai | Anime Toys  | Props & Replica | Weapons
+Anime Toys | Bandai,,anime_toys_props_replica_categories,Vehicles,4,Anime Toys | Bandai | Anime Toys  | Props & Replica | Vehicles
+Anime Toys | Bandai,,anime_toys_categories,Mini Figures,3,Anime Toys | Bandai | Anime Toys  | Mini Figures
+Anime Toys | Bandai,,anime_figures_product_type,Mini Figures,4,Anime Toys | Bandai | Anime Toys  | Mini Figures | Box Set
+Anime Toys | Bandai,,anime_figures_product_type,Mini Figures,4,Anime Toys | Bandai | Anime Toys  | Mini Figures | Lots/Singles
+Anime Toys | Bandai,,anime_toys_categories,Gashapon,3,Anime Toys | Bandai | Anime Toys  | Gashapon
+Anime Toys | Bandai,,anime_figures_product_type,Gashapon,4,Anime Toys | Bandai | Anime Toys  | Gashapon | Box Set
+Anime Toys | Bandai,,anime_figures_product_type,Gashapon,4,Anime Toys | Bandai | Anime Toys  | Gashapon | Lots/Singles
+Anime Toys | Bandai,,anime_toys_categories,Candy Toys,3,Anime Toys | Bandai | Anime Toys  | Candy Toys
+Anime Toys | Bandai,,anime_toys_categories,R18+,3,Anime Toys | Bandai | Anime Toys  | R18+ Toys
+Anime Model Kits | Bandai,,toys_brand,Bandai,1,Anime Model Kits | Bandai
+Anime Model Kits | Bandai,,anime_model_kits_categories,Anime Model Kits,2,Anime Model Kits | Bandai | Anime Model Kits
+Anime Model Kits | Bandai,,anime_model_kits_categories,Character Kits,3,Anime Model Kits | Bandai | Anime Model Kits | Character Kits
+Anime Model Kits | Bandai,,anime_model_kits_categories,Props & Replica Kits,3,Anime Model Kits | Bandai | Anime Model Kits | Props & Replica Kits
+Anime Model Kits | Bandai,,anime_model_kits_categories,Robot/Mecha Kits,3,Anime Model Kits | Bandai | Anime Model Kits | Robot/Mecha Kits
+Anime Model Kits | Bandai,,anime_model_kits_categories,Monster/Kaiju Kits,3,Anime Model Kits | Bandai | Anime Model Kits | Monster/Kaiju Kits
+Gundam | Bandai,,toys_brand,Bandai,1,Gundam | Bandai
+Gundam | Bandai,,gundam_categories,Gundam,2,Gundam | Bandai | Gundam
+Gundam | Bandai,,gundam_categories,Gunpla (Model Kits),3,Gundam | Bandai | Gunpla (Model Kits)
+Gundam | Bandai,,gundam_grades,HG (High Grade),4,Gundam | Bandai | Gunpla (Model Kits) | HG (High Grade)
+Gundam | Bandai,,gundam_grades,MG (Master Grade),4,Gundam | Bandai | Gunpla (Model Kits) | MG (Master Grade)
+Gundam | Bandai,,gundam_grades,MG (Master Grade) Ver.Ka,4,Gundam | Bandai | Gunpla (Model Kits) | MG (Master Grade) Ver. Ka
+Gundam | Bandai,,gundam_grades,SD (Super Deformed),4,Gundam | Bandai | Gunpla (Model Kits) | SD (Super Deformed)
+Gundam | Bandai,,gundam_grades,PG (Perfect Grade),4,Gundam | Bandai | Gunpla (Model Kits) | PG (Perfect Grade)
+Gundam | Bandai,,gundam_grades,MS (Mega Size),4,Gundam | Bandai | Gunpla (Model Kits) | MS (Mega Size)
+Gundam | Bandai,,gundam_grades,MGEX (Master Grade EXTREME),4,Gundam | Bandai | Gunpla (Model Kits) | MGEX (Master Grade EXTREME)
+Gundam | Bandai,,gundam_grades,RG (Real Grade),4,Gundam | Bandai | Gunpla (Model Kits) | RG (Real Grade)
+Gundam | Bandai,,gundam_grades,FM (Full Mechanics),4,Gundam | Bandai | Gunpla (Model Kits) | FM (Full Mechanics)
+Gundam | Bandai,,gundam_grades,EG (Entry Grade),4,Gundam | Bandai | Gunpla (Model Kits) | EG (Entry Grade)
+Gundam | Bandai,,gundam_grades,HiRM (Hi-Resolution Model),4,Gundam | Bandai | Gunpla (Model Kits) | HiRM (Hi-Resolution Model)
+Gundam | Bandai,,gundam_grades,RE/100 (Reborn-One Hundred),4,Gundam | Bandai | Gunpla (Model Kits) | RE/100 (Reborn-One Hundred)
+Gundam | Bandai,,gundam_grades,FG (First Grade),4,Gundam | Bandai | Gunpla (Model Kits) | FG (First Grade)
+Gundam | Bandai,,gundam_grades,AG (Advance Grade),4,Gundam | Bandai | Gunpla (Model Kits) | AG (Advance Grade)
+Gundam | Bandai,,gundam_grades,NG (No Grade),4,Gundam | Bandai | Gunpla (Model Kits) | NG (No Grade)
+Gundam | Bandai,,gundam_categories,Gundam Figures,3,Gundam | Bandai | Gundam Figures
+Gundam | Bandai,,gundam_figures_categories,Character Figures,4,Gundam | Bandai | Gundam Figures | Character Figures
+Gundam | Bandai,,gundam_figures_categories,Gundam Figures,4,Gundam | Bandai | Gundam Figures | Gundam Figures
+Gundam | Bandai,,gundam_figures_categories,Busts,4,Gundam | Bandai | Gundam Figures | Busts
+Gundam | Bandai,,gundam_figures_categories,Statues,4,Gundam | Bandai | Gundam Figures | Statues
+Gundam | Bandai,,gundam_figures_categories,Mini Figures,4,Gundam | Bandai | Gundam Figures | Mini Figures
+Gundam | Bandai,,gundam_figures_categories,Gashapon,4,Gundam | Bandai | Gundam Figures | Gashapon
+Gundam | Brands,,toys_product_type,Gashapon,5,Gundam | Bandai | Gundam Figures | Gashapon | Boxes/Case
+Gundam | Brands,,toys_product_type,Gashapon,5,Gundam | Bandai | Gundam Figures | Gashapon | Lots/Sets
+Gundam | Brands,,toys_product_type,Gashapon,5,Gundam | Bandai | Gundam Figures | Gashapon | Singles
+Gundam | Bandai,,gundam_categories,Gundam Accessories,3,Gundam | Bandai | Gundam Accessories
+Gundam | Bandai,,gundam_accessories_categories,Builders Parts,4,Gundam | Bandai | Accessories | Builders Parts
+Gundam | Bandai,,gundam_accessories_categories,Parts Separator,4,Gundam | Bandai | Accessories | Parts Separator
+Gundam | Bandai,,gundam_accessories_categories,Gundam Decal,4,Gundam | Bandai | Accessories | Gundam Decal
+Gundam | Bandai,,gundam_accessories_categories,Gundam Marker,4,Gundam | Bandai | Accessories | Gundam Marker
+Gundam | Bandai,,gundam_accessories_categories,Books & Magazine,4,Gundam | Bandai | Accessories | Books & Magazine
+Fun Goods | Bandai,,toys_brand,Bandai,1,Fun Goods | Bandai
+Fun Goods | Bandai,,anime_fun_goods_categories,Fun Goods,2,Fun Goods | Bandai | Fun Goods
+Fun Goods | Bandai,,anime_fun_goods_categories,Acrylic Stands,3,Fun Goods | Bandai | Acrylic Stands
+Fun Goods | Bandai,,anime_fun_goods_categories,Badges,3,Fun Goods | Bandai | Can Badges/Pins
+Fun Goods | Bandai,,anime_fun_goods_categories,Stickers,3,Fun Goods | Bandai | Stickers

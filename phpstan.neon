@@ -1,0 +1,10 @@
+includes:
+  - vendor/bitexpert/phpstan-magento/extension.neon
+
+parameters:
+  level: max
+  paths:
+    - vendor/riosst100/
+
+  ignoreErrors:
+    - '#^Reflection error: Circular reference to class "Magento\\\\SalesRule\\\\Model\\\\Validator"$#'

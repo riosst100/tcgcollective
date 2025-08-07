@@ -1,0 +1,5 @@
+group,category,attribute_code,attribute_option,variations_attribute_codes,priority
+Collectible Card Games,Collectible Card Games,,,card_foil,
+Collectible Card Games | Magic: The Gathering,,card_game,Magic: The Gathering,card_foil;mtg_sealed_products_commander_decks,1
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sealed Products,mtg_sealed_products_commander_decks,2
+Collectible Card Games | Magic: The Gathering,,card_product_type,Singles,card_foil,2

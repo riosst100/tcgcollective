@@ -1,0 +1,5 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Games,Card Games,,,Games,
+Magic: The Gathering,,games,Magic: The Gathering,Magic: The Gathering,1
+Magic: The Gathering,,card_product_type,Singles,Magic: The Gathering | Singles,2
+Magic: The Gathering,,card_product_type,Pack,Magic: The Gathering | Pack,2

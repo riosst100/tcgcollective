@@ -1,0 +1,74 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Action Toys,Action Toys,,,Action Toys,
+Anime Figures,Anime Figures,,,Anime Figures,
+Anime Fun Goods,Anime Fun Goods,,,Anime Fun Goods,
+Gundam,Gundam,,,Gundam,
+Monsters,Monsters,,,Monsters,
+Robot / Mecha,Robot / Mecha,,,Robot / Mecha,
+Fashion Dolls,Fashion Dolls,,,Fashion Dolls,
+Lego Sets,Lego Sets,,,Lego Sets,
+Mini-Figures,Mini-Figures,,,Mini-Figures,
+Layout,Layout,,,Layout,
+Trains,Trains,,,Trains,
+Diecast,Diecast,,,Diecast,
+Model Kits,Model Kits,,,Model Kits,
+Collectible Card Games,Collectible Card Games,,,Collectible Card Games,
+Collectible Card Games | Magic: The Gathering,,card_game,Magic: The Gathering,Magic: The Gathering,1
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sealed Products,Magic: The Gathering | Sealed Products,2
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sets,Magic: The Gathering | Sets,2
+Collectible Card Games | Magic: The Gathering,,card_product_type,Lots,Magic: The Gathering | Lots,2
+Collectible Card Games | Magic: The Gathering,,card_product_type,Singles,Magic: The Gathering | Singles,2
+Collectible Card Games | Pokemon,,card_game,Pokemon,Pokemon,1
+Collectible Card Games | Pokemon,,card_product_type,Sealed Products,Pokemon | Sealed Products,2
+Collectible Card Games | Pokemon,,card_product_type,Sets,Pokemon | Sets,2
+Collectible Card Games | Pokemon,,card_product_type,Lots,Pokemon | Lots,2
+Collectible Card Games | Pokemon,,card_product_type,Singles,Pokemon | Singles,2
+Collectible Card Games | Disney Lorcana,,card_game,Disney Lorcana,Disney Lorcana,1
+Collectible Card Games | Disney Lorcana,,card_product_type,Sealed Products,Disney Lorcana | Sealed Products,2
+Collectible Card Games | Disney Lorcana,,card_product_type,Sets,Disney Lorcana | Sets,2
+Collectible Card Games | Disney Lorcana,,card_product_type,Lots,Disney Lorcana | Lots,2
+Collectible Card Games | Disney Lorcana,,card_product_type,Singles,Disney Lorcana | Singles,2
+Collectible Card Games | One Piece,,card_game,One Piece,One Piece,1
+Collectible Card Games | One Piece,,card_product_type,Sealed Products,One Piece | Sealed Products,2
+Collectible Card Games | One Piece,,card_product_type,Sets,One Piece | Sets,2
+Collectible Card Games | One Piece,,card_product_type,Lots,One Piece | Lots,2
+Collectible Card Games | One Piece,,card_product_type,Singles,One Piece | Singles,2
+Sport Cards,Sport Cards,,,Sport Cards,
+Sport Cards | Baseball,,sc_sportscards,Baseball,Sport Cards | Baseball,1
+Sport Cards | Basketball,,sc_sportscards,Basketball,Sport Cards | Basketball,1
+Sport Cards | Football,,sc_sportscards,Football,Sport Cards | Football,1
+Sport Cards | Hockey,,sc_sportscards,Hockey,Sport Cards | Hockey,1
+Sport Cards | Soccer,,sc_sportscards,Soccer,Sport Cards | Soccer,1
+Sport Cards | Mix Martial Arts,,sc_sportscards,Mix Martial Arts,Sport Cards | Mix Martial Arts,1
+Sport Cards | Wrestling,,sc_sportscards,Wrestling,Sport Cards | Wrestling,1
+Non-Sport Cards,Non-Sport Cards,,,Non-Sport Cards,
+Non-Sport Cards | TV,,nsc_nonsports_cards,TV,Non-Sport Cards | TV,1
+Non-Sport Cards | Games,,nsc_nonsports_cards,Games,Non-Sport Cards | Games,1
+Non-Sport Cards | Movies,,nsc_nonsports_cards,Movies,Non-Sport Cards | Movies,1
+Non-Sport Cards | Comics,,nsc_nonsports_cards,Comics,Non-Sport Cards | Comics,1
+Non-Sport Cards | Music,,nsc_nonsports_cards,Music,Non-Sport Cards | Music,1
+Miniature Games,Miniature Games,,,Miniature Games,
+Miniature Games | Marvel: Crisis Protocol,,miniature_game,Marvel: Crisis Protocol,Miniature Games | Marvel: Crisis Protocol,1
+Miniature Games | Star Wars: Armada,,miniature_game,Star Wars: Armada,Miniature Games | Star Wars: Armada,1
+Miniature Games | Star Wars: Legion,,miniature_game,Star Wars: Legion,Miniature Games | Star Wars: Legion,1
+Miniature Games | Star Wars: Shatterpoint,,miniature_game,Star Wars: Shatterpoint,Miniature Games | Star Wars: Shatterpoint,1
+Miniature Games | Star Wars: X-Wing (Second Edition),,miniature_game,Star Wars: X-Wing (Second Edition),Miniature Games | Star Wars: X-Wing (Second Edition),1
+Miniature Games | HeroClix,,miniature_game,HeroClix,Miniature Games | HeroClix,1
+Miniature Games | HeroClix,,hero_miniature_product_type,Sealed Products,Miniature Games | HeroClix | Sealed Products,2
+Miniature Games | HeroClix,,hero_miniature_product_type,Singles,Miniature Games | HeroClix | Singles,2
+Living Card Games,Living Card Games,,,Living Card Games,
+Living Card Games | Arkham Horror: The Card Game,,living_card_game,Arkham Horror: The Card Game,Living Card Games | Arkham Horror: The Card Game,1
+Living Card Games | Call of Cthulhu,,living_card_game,Call of Cthulhu,Living Card Games | Call of Cthulhu,1
+Living Card Games | A Game of Thrones,,living_card_game,A Game of Thrones,Living Card Games | A Game of Thrones,1
+Living Card Games | Legend of the Five Rings,,living_card_game,Legend of the Five Rings,Living Card Games | Legend of the Five Rings,1
+Living Card Games | Lord of the Rings,,living_card_game,Lord of the Rings,Living Card Games | Lord of the Rings,1
+Living Card Games | Marvel Champions: The Card Game,,living_card_game,Marvel Champions: The Card Game,Living Card Games | Marvel Champions: The Card Game,1
+Living Card Games | Star Wars: Destiny,,living_card_game,Star Wars: Destiny,Living Card Games | Star Wars: Destiny,1
+Living Card Games | Arkham Horror: The Card Game,,living_card_product_type,Sealed Products,Living Card Games | Arkham Horror: The Card Game | Sealed Products,2
+Living Card Games | Call of Cthulhu,,living_card_product_type,Sealed Products,Living Card Games | Call of Cthulhu | Sealed Products,2
+Living Card Games | A Game of Thrones,,living_card_product_type,Sealed Products,Living Card Games | A Game of Thrones | Sealed Products,2
+Living Card Games | Legend of the Five Rings,,living_card_product_type,Sealed Products,Living Card Games | Legend of the Five Rings | Sealed Products,2
+Living Card Games | Lord of the Rings,,living_card_product_type,Sealed Products,Living Card Games | Lord of the Rings | Sealed Products,2
+Living Card Games | Marvel Champions: The Card Game,,living_card_product_type,Sealed Products,Living Card Games | Marvel Champions: The Card Game | Sealed Products,2
+Living Card Games | Star Wars: Destiny,,living_card_product_type,Sealed Products,Living Card Games | Star Wars: Destiny | Sealed Products,2
+Games Workshop,Games Workshop,,,Games Workshop,

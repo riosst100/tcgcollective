@@ -1,0 +1,15 @@
+﻿card_game,attribute_code,attribute_value
+Magic: The Gathering,mtg_card_types,Artifact
+Magic: The Gathering,mtg_card_types,Battle
+Magic: The Gathering,mtg_card_types,Conspiracy
+Magic: The Gathering,mtg_card_types,Creature
+Magic: The Gathering,mtg_card_types,Dungeon
+Magic: The Gathering,mtg_card_types,Emblem
+Magic: The Gathering,mtg_card_types,Enchantment
+Magic: The Gathering,mtg_card_types,Hero
+Magic: The Gathering,mtg_card_types,Instant
+Magic: The Gathering,mtg_card_types,Kindred
+Magic: The Gathering,mtg_card_types,Land
+Magic: The Gathering,mtg_card_types,Phenomenon
+Magic: The Gathering,mtg_card_types,Plane
+Magic: The Gathering,mtg_card_types,Planeswalker

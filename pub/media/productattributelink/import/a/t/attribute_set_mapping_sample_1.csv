@@ -1,0 +1,12 @@
+group,priority,category,attribute_code,attribute_option,target_attribute_set
+Games,1,Card Games,,,Games
+Games,1,Miniature Games,,,Games
+Magic: The Gathering,2,,games,Magic: The Gathering,Magic: The Gathering
+Magic: The Gathering,3,,card_edition_set,Singles,Magic: The Gathering | Singles
+Magic: The Gathering,3,,card_edition_set,Pack,Magic: The Gathering | Pack
+Pokemon,2,,games,Pokemon,Pokemon
+Pokemon,3,,card_edition_set,Singles,Pokemon | Singles
+Pokemon,3,,card_edition_set,Box,Pokemon | Pack
+One Piece,2,,games,One Piece,One Piece
+One Piece,3,,card_edition_set,Singles,One Piece | Singles
+One Piece,3,,card_edition_set,Box,One Piece | Pack

@@ -1,0 +1,826 @@
+﻿release_year,release_date,card_game,card_set,card_set_abbreviation,parent_set_code,card_number,images,card_feature,card_name,card_type,card_rarity,card_artist,card_manufacturer,language,language_version,card_condition,card_sub_type,card_color,card_foil,age_level
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,1,j25-1-dawnwing-marshal.jpg,New Cards ,Dawnwing Marshal,Creature,Uncommon,Aldo Domínguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,2,j25-2-eidolon-of-astral-winds.jpg,New Cards ,Eidolon of Astral Winds,Enchantment Creature,Rare,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,3,j25-3-faithful-pikemaster.jpg,New Cards ,Faithful Pikemaster,Creature,Common,Justine Cruz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,4,j25-4-generous-pup.jpg,New Cards ,Generous Pup,Creature,Rare,Julia Metzger,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,5,j25-5-hinterland-sanctifier.jpg,New Cards ,Hinterland Sanctifier,Creature,Common,Justine Cruz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,6,j25-6-delightful-discovery.jpg,New Cards ,Delightful Discovery,Instant,Uncommon,Manuel Castañón,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,7,j25-7-gilded-scuttler.jpg,New Cards ,Gilded Scuttler,Artifact Creature,Common,Samuel Perin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,8,j25-8-phantasmal-shieldback.jpg,New Cards ,Phantasmal Shieldback,Creature,Uncommon,Daniel Ljunggren,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,9,j25-9-starlight-snare.jpg,New Cards ,Starlight Snare,Enchantment,Common,Borja Pindado,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,10,j25-10-revoke-demise.jpg,New Cards ,Revoke Demise,Sorcery,Common,Runa I. Rosenberger,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,11,j25-11-scourge-of-the-undercity.jpg,New Cards ,Scourge of the Undercity,Creature,Common,Olivier Bernard,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,12,j25-12-wriggling-grub.jpg,New Cards ,Wriggling Grub,Creature,Uncommon,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,13,j25-13-dropkick-bomber.jpg,New Cards ,Dropkick Bomber,Creature,Rare,Quintin Gleim,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,14,j25-14-firespitter-whelp.jpg,New Cards ,Firespitter Whelp,Creature,Uncommon,David Álvarez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,15,j25-15-frontline-heroism.jpg,New Cards ,Frontline Heroism,Enchantment,Rare,Fajareka Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,16,j25-16-goblin-surprise.jpg,New Cards ,Goblin Surprise,Instant,Uncommon,Kevin Sidharta,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,17,j25-17-hearts-on-fire.jpg,New Cards ,Hearts on Fire,Instant,Common,Eelis Kyttanen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,18,j25-18-sandstorm-crasher.jpg,New Cards ,Sandstorm Crasher,Creature,Rare,Néstor Ossandón Leal,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,19,j25-19-scholar-of-combustion.jpg,New Cards ,Scholar of Combustion,Creature,Common,Nereida,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,20,j25-20-go-forth.jpg,New Cards ,Go Forth,Instant,Common,Serena Malyon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,21,j25-21-hungry-megasloth.jpg,New Cards ,Hungry Megasloth,Creature,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,22,j25-22-razorgrass-invoker.jpg,New Cards ,Razorgrass Invoker,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,23,j25-23-saurian-symbiote.jpg,New Cards ,Saurian Symbiote,Creature,Common,Aldo Domínguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,24,j25-24-scythecat-cub.jpg,New Cards ,Scythecat Cub,Creature,Rare,Gabor Szikszai,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,25,j25-25-slimy-piper.jpg,New Cards ,Slimy Piper,Creature,Common,Borja Pindado,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,26,j25-26-spined-tyrranax.jpg,New Cards ,Spined Tyrranax,Creature,Uncommon,Brent Hollowell,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,27,j25-27-woodland-liege.jpg,New Cards ,Woodland Liege,Creature,Common,Marta Nael,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,28,j25-28-shardless-outlander.jpg,New Cards ,Shardless Outlander,Artifact Creature,Common,Leon Tukker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,29,j25-29-starnheim-memento.jpg,New Cards ,Starnheim Memento,Artifact,Uncommon,Steve Ellis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,30,j25-30-brigone-soldier-of-meletis.jpg,"New Cards, Guest Artists","Brigone, Soldier of Meletis",Lgd. Creature,Rare,Daisuke Tatsuma,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,31,j25-31-psemilla-meletian-poet.jpg,"New Cards, Guest Artists","Psemilla, Meletian Poet",Lgd. Creature,Uncommon,KiKi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,32,j25-32-qala-ajani-s-pridemate.jpg,"New Cards, Guest Artists","Qala, Ajani's Pridemate",Lgd. Creature,Uncommon,Yoshiya,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,33,j25-33-thurid-mare-of-destiny.jpg,"New Cards, Guest Artists","Thurid, Mare of Destiny",Lgd. Creature,Mythic,Ishikawa Kenta,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,34,j25-34-urdnan-dromoka-warrior.jpg,"New Cards, Guest Artists","Urdnan, Dromoka Warrior",Lgd. Creature,Uncommon,Yakotakos,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,35,j25-35-cynette-jelly-drover.jpg,"New Cards, Guest Artists","Cynette, Jelly Drover",Lgd. Creature,Uncommon,Daisuke Tatsuma,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,36,j25-36-neerdiv-devious-diver.jpg,"New Cards, Guest Artists","Neerdiv, Devious Diver",Lgd. Creature,Rare,Yuchi Yuki,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,37,j25-37-plagon-lord-of-the-beach.jpg,"New Cards, Guest Artists","Plagon, Lord of the Beach",Lgd. Creature,Rare,GOSSAN,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,38,j25-38-pol-jamaar-illusionist.jpg,"New Cards, Guest Artists","Pol Jamaar, Illusionist",Lgd. Creature,Mythic,Kuregure,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,39,j25-39-taeko-the-patient-avalanche.jpg,"New Cards, Guest Artists","Taeko, the Patient Avalanche",Lgd. Creature,Mythic,GOSSAN,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,40,j25-40-aphelia-viper-whisperer.jpg,"New Cards, Guest Artists","Aphelia, Viper Whisperer",Lgd. Creature,Mythic,Fuzichoco,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,41,j25-41-evereth-viceroy-of-plunder.jpg,"New Cards, Guest Artists","Evereth, Viceroy of Plunder",Lgd. Creature,Rare,Yuichi Murakami,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,42,j25-42-fumulus-the-infestation.jpg,"New Cards, Guest Artists","Fumulus, the Infestation",Lgd. Creature,Rare,Takotto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,43,j25-43-nazar-the-velvet-fang.jpg,"New Cards, Guest Artists","Nazar, the Velvet Fang",Lgd. Creature,Uncommon,KiKi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,44,j25-44-ozox-the-clattering-king.jpg,"New Cards, Guest Artists","Ozox, the Clattering King",Lgd. Creature,Uncommon,Inuchiyo Meimaru,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,45,j25-45-rev-tithe-extractor.jpg,"New Cards, Guest Artists","Rev, Tithe Extractor",Lgd. Creature,Rare,M.Matsumoto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,46,j25-46-anep-vizier-of-hazoret.jpg,"New Cards, Guest Artists","Anep, Vizier of Hazoret",Lgd. Creature,Uncommon,Moopic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,47,j25-47-cleon-merry-champion.jpg,"New Cards, Guest Artists","Cleon, Merry Champion",Lgd. Creature,Uncommon,Mebaru,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,48,j25-48-general-kreat-the-boltbringer.jpg,"New Cards, Guest Artists","General Kreat, the Boltbringer",Lgd. Creature,Uncommon,Takeuchi Moto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,49,j25-49-gornog-the-red-reaper.jpg,"New Cards, Guest Artists","Gornog, the Red Reaper",Lgd. Creature,Rare,Ishikawa Kenta,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,50,j25-50-ivora-insatiable-heir.jpg,"New Cards, Guest Artists","Ivora, Insatiable Heir",Lgd. Creature,Uncommon,Canata Katana,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,51,j25-51-braulios-of-pheres-band.jpg,"New Cards, Guest Artists",Braulios of Pheres Band,Lgd. Creature,Uncommon,Takeuchi Moto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,52,j25-52-dionus-elvish-archdruid.jpg,"New Cards, Guest Artists","Dionus, Elvish Archdruid",Lgd. Creature,Uncommon,BODAX,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,53,j25-53-hurska-sweet-tooth.jpg,"New Cards, Guest Artists",Hurska Sweet-Tooth,Lgd. Creature,Mythic,GOSSAN,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,54,j25-54-shroofus-sproutsire.jpg,"New Cards, Guest Artists",Shroofus Sproutsire,Lgd. Creature,Rare,Yukihiro Maruo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,55,j25-55-slinza-the-spiked-stampede.jpg,"New Cards, Guest Artists","Slinza, the Spiked Stampede",Lgd. Creature,Rare,Ishikawa Kenta,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,56,j25-56-sutina-speaker-of-the-tajuru.jpg,"New Cards, Guest Artists","Sutina, Speaker of the Tajuru",Lgd. Creature,Uncommon,Canata Katana,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,57,j25-57-adeline-resplendent-cathar.jpg,"New Art, Guest Artists","Adeline, Resplendent Cathar",Lgd. Creature,Rare,Susumu Kuroi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,58,j25-58-brimaz-king-of-oreskos.jpg,"New Art, Guest Artists","Brimaz, King of Oreskos",Lgd. Creature,Mythic,Moopic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,59,j25-59-danitha-capashen-paragon.jpg,"New Art, Guest Artists","Danitha Capashen, Paragon",Lgd. Creature,Uncommon,Kuregure,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,60,j25-60-giada-font-of-hope.jpg,"New Art, Guest Artists","Giada, Font of Hope",Lgd. Creature,Rare,Hisashi Momose,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,61,j25-61-naban-dean-of-iteration.jpg,"New Art, Guest Artists","Naban, Dean of Iteration",Lgd. Creature,Rare,Susumu Kuroi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,62,j25-62-padeem-consul-of-innovation.jpg,"New Art, Guest Artists","Padeem, Consul of Innovation",Lgd. Creature,Rare,Moopic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,63,j25-63-sai-master-thopterist.jpg,"New Art, Guest Artists","Sai, Master Thopterist",Lgd. Creature,Rare,Dai-XT,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,64,j25-64-syr-elenora-the-discerning.jpg,"New Art, Guest Artists","Syr Elenora, the Discerning",Lgd. Creature,Uncommon,Mai Okuma,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,65,j25-65-thryx-the-sudden-storm.jpg,"New Art, Guest Artists","Thryx, the Sudden Storm",Lgd. Creature,Rare,Moopic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,66,j25-66-venser-shaper-savant.jpg,"New Art, Guest Artists","Venser, Shaper Savant",Lgd. Creature,Rare,BODAX,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,67,j25-67-gorex-the-tombshell.jpg,"New Art, Guest Artists","Gorex, the Tombshell",Lgd. Creature,Rare,Yukihiro Maruo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,68,j25-68-isareth-the-awakener.jpg,"New Art, Guest Artists",Isareth the Awakener,Lgd. Creature,Rare,Hisashi Momose,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,69,j25-69-taborax-hope-s-demise.jpg,"New Art, Guest Artists","Taborax, Hope's Demise",Lgd. Creature,Rare,Takeuchi Moto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,70,j25-70-vilis-broker-of-blood.jpg,"New Art, Guest Artists","Vilis, Broker of Blood",Lgd. Creature,Rare,Takeuchi Moto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,71,j25-71-vito-thorn-of-the-dusk-rose.jpg,"New Art, Guest Artists","Vito, Thorn of the Dusk Rose",Lgd. Creature,Rare,Susumu Kuroi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,72,j25-72-brothers-yamazaki.jpg,"New Art, Guest Artists",Brothers Yamazaki,Lgd. Creature,Uncommon,Dai-XT,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,73,j25-73-brothers-yamazaki.jpg,"New Art, Guest Artists",Brothers Yamazaki,Lgd. Creature,Uncommon,Dai-XT,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,74,j25-74-lathliss-dragon-queen.jpg,"New Art, Guest Artists","Lathliss, Dragon Queen",Lgd. Creature,Rare,M.Matsumoto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,75,j25-75-rionya-fire-dancer.jpg,"New Art, Guest Artists","Rionya, Fire Dancer",Lgd. Creature,Rare,Taranboman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,76,j25-76-zada-hedron-grinder.jpg,"New Art, Guest Artists","Zada, Hedron Grinder",Lgd. Creature,Rare,Takotto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,77,j25-77-ghalta-primal-hunger.jpg,"New Art, Guest Artists","Ghalta, Primal Hunger",Lgd. Creature,Rare,Kemonomichi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,78,j25-78-kodama-of-the-west-tree.jpg,"New Art, Guest Artists",Kodama of the West Tree,Lgd. Creature,Mythic,Dai-XT,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,79,j25-79-mowu-loyal-companion.jpg,"New Art, Guest Artists","Mowu, Loyal Companion",Lgd. Creature,Uncommon,Ishikawa Kenta,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,80,j25-80-averna-the-chaos-bloom.jpg,"New Art, Guest Artists","Averna, the Chaos Bloom",Lgd. Creature,Rare,Ryuichi Sakuma,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,81,j25-81-plains.jpg,Reprints,Plains,Basic Land,Common,Sam Burley,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,82,j25-82-plains.jpg,Reprints,Plains,Basic Land,Common,Dimitar Marinski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,83,j25-83-plains.jpg,Reprints,Plains,Basic Land,Common,Raoul Vitale,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,84,j25-84-island.jpg,Reprints,Island,Basic Land,Common,Jonas De Ro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,85,j25-85-island.jpg,Reprints,Island,Basic Land,Common,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,86,j25-86-island.jpg,Reprints,Island,Basic Land,Common,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,87,j25-87-swamp.jpg,Reprints,Swamp,Basic Land,Common,Julian Kok Joon Wen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,88,j25-88-swamp.jpg,Reprints,Swamp,Basic Land,Common,Jung Park,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,89,j25-89-swamp.jpg,Reprints,Swamp,Basic Land,Common,Kasia 'Kafis' Zielińska,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,90,j25-90-mountain.jpg,Reprints,Mountain,Basic Land,Common,Min Yum,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,91,j25-91-mountain.jpg,Reprints,Mountain,Basic Land,Common,Jonas De Ro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,92,j25-92-mountain.jpg,Reprints,Mountain,Basic Land,Common,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,93,j25-93-forest.jpg,Reprints,Forest,Basic Land,Common,Dimitar Marinski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,94,j25-94-forest.jpg,Reprints,Forest,Basic Land,Common,Adam Paquette,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,95,j25-95-forest.jpg,Reprints,Forest,Basic Land,Common,Vincent Proce,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,96,j25-96-banishing-light.jpg,New Art,Banishing Light,Enchantment,Uncommon,Irina Nordsol,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,97,j25-97-celestial-unicorn.jpg,New Art,Celestial Unicorn,Creature,Common,Alessandra Pisano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,98,j25-98-dauntless-onslaught.jpg,New Art,Dauntless Onslaught,Instant,Uncommon,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,99,j25-99-mentor-of-the-meek.jpg,New Art,Mentor of the Meek,Creature,Uncommon,Lie Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,100,j25-100-plate-armor.jpg,New Art,Plate Armor,Artifact,Uncommon,Greg Manchess,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,101,j25-101-raise-the-alarm.jpg,New Art,Raise the Alarm,Instant,Common,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,102,j25-102-speaker-of-the-heavens.jpg,New Art,Speaker of the Heavens,Creature,Rare,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,103,j25-103-steadfast-unicorn.jpg,New Art,Steadfast Unicorn,Creature,Common,Leesha Hannigan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,104,j25-104-tenacity.jpg,New Art,Tenacity,Instant,Uncommon,Liiga Smilshkalne,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,105,j25-105-drag-under.jpg,New Art,Drag Under,Sorcery,Common,Justyna Dura,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,106,j25-106-faerie-seer.jpg,New Art,Faerie Seer,Creature,Common,Eelis Kyttanen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,107,j25-107-murmuring-mystic.jpg,New Art,Murmuring Mystic,Creature,Uncommon,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,108,j25-108-ninja-of-the-deep-hours.jpg,New Art,Ninja of the Deep Hours,Creature,Common,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,109,j25-109-run-ashore.jpg,New Art,Run Ashore,Instant,Common,Nereida,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,110,j25-110-sudden-insight.jpg,New Art,Sudden Insight,Instant,Uncommon,Danny Schwartz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,111,j25-111-uncomfortable-chill.jpg,New Art,Uncomfortable Chill,Instant,Common,Andrew Mar,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,112,j25-112-bonecaller-cleric.jpg,New Art,Bonecaller Cleric,Creature,Uncommon,Néstor Ossandón Leal,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,113,j25-113-dark-bargain.jpg,New Art,Dark Bargain,Instant,Common,Kai Carpenter,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,114,j25-114-dark-confidant.jpg,New Art,Dark Confidant,Creature,Mythic,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,115,j25-115-deadly-dispute.jpg,New Art,Deadly Dispute,Instant,Common,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,116,j25-116-eaten-alive.jpg,New Art,Eaten Alive,Sorcery,Common,Warren Mahy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,117,j25-117-eternal-taskmaster.jpg,New Art,Eternal Taskmaster,Creature,Uncommon,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,118,j25-118-grim-bounty.jpg,New Art,Grim Bounty,Sorcery,Common,Wero Gallo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,119,j25-119-howling-banshee.jpg,New Art,Howling Banshee,Creature,Uncommon,Lordigan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,120,j25-120-killing-glare.jpg,New Art,Killing Glare,Instant,Uncommon,Filipe Pagliuso,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,121,j25-121-priest-of-gix.jpg,New Art,Priest of Gix,Creature,Uncommon,Wero Gallo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,122,j25-122-sangromancer.jpg,New Art,Sangromancer,Creature,Rare,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,123,j25-123-serpent-assassin.jpg,New Art,Serpent Assassin,Creature,Uncommon,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,124,j25-124-shambling-ghast.jpg,New Art,Shambling Ghast,Creature,Common,Lordigan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,125,j25-125-skymarch-bloodletter.jpg,New Art,Skymarch Bloodletter,Creature,Common,Anthony Devine,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,126,j25-126-thieves-tools.jpg,New Art,Thieves' Tools,Artifact,Common,Samuel Perin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,127,j25-127-battle-cry-goblin.jpg,New Art,Battle Cry Goblin,Creature,Uncommon,David Szabo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,128,j25-128-battle-rattle-shaman.jpg,New Art,Battle-Rattle Shaman,Creature,Common,Fesbra,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,129,j25-129-beetleback-chief.jpg,New Art,Beetleback Chief,Creature,Uncommon,Lorenzo Mastroianni,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,130,j25-130-blood-feud.jpg,New Art,Blood Feud,Sorcery,Uncommon,Zoltan Boros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,131,j25-131-carnelian-orb-of-dragonkind.jpg,New Art,Carnelian Orb of Dragonkind,Artifact,Common,Lars Grant-West,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,132,j25-132-charmbreaker-devils.jpg,New Art,Charmbreaker Devils,Creature,Rare,Johan Grenier,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,133,j25-133-destructive-digger.jpg,New Art,Destructive Digger,Creature,Common,Filipe Pagliuso,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,134,j25-134-dragon-s-fire.jpg,New Art,Dragon's Fire,Instant,Common,Diego Gisbert,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,135,j25-135-fathom-fleet-firebrand.jpg,New Art,Fathom Fleet Firebrand,Creature,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,136,j25-136-goblin-fireslinger.jpg,New Art,Goblin Fireslinger,Creature,Common,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,137,j25-137-goblin-smuggler.jpg,New Art,Goblin Smuggler,Creature,Common,Milivoj Ćeran,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,138,j25-138-guttersnipe.jpg,New Art,Guttersnipe,Creature,Uncommon,Andrey Kuzinskiy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,139,j25-139-kiln-fiend.jpg,New Art,Kiln Fiend,Creature,Common,Artur Nakhodkin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,140,j25-140-krenko-s-command.jpg,New Art,Krenko's Command,Sorcery,Common,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,141,j25-141-seize-the-spoils.jpg,New Art,Seize the Spoils,Sorcery,Common,Brian Valeza,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,142,j25-142-volley-veteran.jpg,New Art,Volley Veteran,Creature,Uncommon,Olivier Bernard,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,143,j25-143-zealous-conscripts.jpg,New Art,Zealous Conscripts,Creature,Rare,Billy Christian,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,144,j25-144-biogenic-upgrade.jpg,New Art,Biogenic Upgrade,Sorcery,Uncommon,Kev Fang,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,145,j25-145-elvish-visionary.jpg,New Art,Elvish Visionary,Creature,Common,Quintin Gleim,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,146,j25-146-explore.jpg,New Art,Explore,Sorcery,Common,Borja Pindado,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,147,j25-147-forgotten-ancient.jpg,New Art,Forgotten Ancient,Creature,Rare,Andrew Mar,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,148,j25-148-gift-of-the-gargantuan.jpg,New Art,Gift of the Gargantuan,Sorcery,Common,Néstor Ossandón Leal,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,149,j25-149-llanowar-elves.jpg,New Art,Llanowar Elves,Creature,Common,Eric Wilkerson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,150,j25-150-undercellar-myconid.jpg,New Art,Undercellar Myconid,Creature,Common,David Szabo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,151,j25-151-chromatic-lantern.jpg,New Art,Chromatic Lantern,Artifact,Rare,Leon Tukker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,152,j25-152-leonin-scimitar.jpg,New Art,Leonin Scimitar,Artifact,Common,Francisco Miyara,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,153,j25-153-ornithopter-of-paradise.jpg,New Art,Ornithopter of Paradise,Artifact Creature,Common,Leon Tukker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,154,j25-154-ash-barrens.jpg,New Art,Ash Barrens,Land,Common,Rockey Chen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,155,j25-155-ghitu-encampment.jpg,New Art,Ghitu Encampment,Land,Uncommon,Rockey Chen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,156,j25-156-terramorphic-expanse.jpg,New Art,Terramorphic Expanse,Land,Common,Alayna Danner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,157,j25-157-ajani-adversary-of-tyrants.jpg,Reprints,"Ajani, Adversary of Tyrants",Lgd. Planeswalker,Mythic,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,158,j25-158-ajani-s-pridemate.jpg,Reprints,Ajani's Pridemate,Creature,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,159,j25-159-akroan-skyguard.jpg,Reprints,Akroan Skyguard,Creature,Common,Mark Winters,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,160,j25-160-ancestral-blade.jpg,Reprints,Ancestral Blade,Artifact,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,161,j25-161-angel-of-mercy.jpg,Reprints,Angel of Mercy,Creature,Common,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,162,j25-162-angel-of-vitality.jpg,Reprints,Angel of Vitality,Creature,Uncommon,Johannes Voss,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,163,j25-163-angelic-cub.jpg,Reprints,Angelic Cub,Creature,Uncommon,Miranda Meeks,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,164,j25-164-angelic-edict.jpg,Reprints,Angelic Edict,Sorcery,Common,Trevor Claxton,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,165,j25-165-angelic-gift.jpg,Reprints,Angelic Gift,Enchantment,Common,Josu Hernaiz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,166,j25-166-archon-of-falling-stars.jpg,Reprints,Archon of Falling Stars,Creature,Uncommon,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,167,j25-167-archon-of-sun-s-grace.jpg,Reprints,Archon of Sun's Grace,Creature,Rare,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,168,j25-168-argivian-phalanx.jpg,Reprints,Argivian Phalanx,Creature,Common,Josh Hass,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,169,j25-169-banisher-priest.jpg,Reprints,Banisher Priest,Creature,Uncommon,Willian Murai,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,170,j25-170-basri-s-acolyte.jpg,Reprints,Basri's Acolyte,Creature,Common,Leesha Hannigan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,171,j25-171-basri-s-lieutenant.jpg,Reprints,Basri's Lieutenant,Creature,Rare,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,172,j25-172-basri-s-solidarity.jpg,Reprints,Basri's Solidarity,Sorcery,Uncommon,Paul Scott Canavan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,173,j25-173-battlefield-promotion.jpg,Reprints,Battlefield Promotion,Instant,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,174,j25-174-bishop-s-soldier.jpg,Reprints,Bishop's Soldier,Creature,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,175,j25-175-brightmare.jpg,Reprints,Brightmare,Creature,Uncommon,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,176,j25-176-cage-of-hands.jpg,Reprints,Cage of Hands,Enchantment,Common,Mark Tedin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,177,j25-177-captivating-unicorn.jpg,Reprints,Captivating Unicorn,Creature,Common,Emrah Elmasli,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,178,j25-178-cartouche-of-solidarity.jpg,Reprints,Cartouche of Solidarity,Enchantment,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,179,j25-179-celestial-enforcer.jpg,Reprints,Celestial Enforcer,Creature,Common,Bastien L. Deharme,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,180,j25-180-chains-of-custody.jpg,Reprints,Chains of Custody,Enchantment,Common,Bruno Biazotto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,181,j25-181-chosen-by-heliod.jpg,Reprints,Chosen by Heliod,Enchantment,Common,Zack Stella,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,182,j25-182-conclave-tribunal.jpg,Reprints,Conclave Tribunal,Enchantment,Uncommon,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,183,j25-183-dauntless-unity.jpg,Reprints,Dauntless Unity,Instant,Common,Josu Hernaiz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,184,j25-184-daybreak-chaplain.jpg,Reprints,Daybreak Chaplain,Creature,Common,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,185,j25-185-deadly-riposte.jpg,Reprints,Deadly Riposte,Instant,Common,Olena Richards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,186,j25-186-defend-the-campus.jpg,Reprints,Defend the Campus,Instant,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,187,j25-187-defiant-strike.jpg,Reprints,Defiant Strike,Instant,Common,Gabor Szikszai,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,188,j25-188-desperate-lunge.jpg,Reprints,Desperate Lunge,Instant,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,189,j25-189-destroy-evil.jpg,Reprints,Destroy Evil,Instant,Common,Anna Christenson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,190,j25-190-divine-arrow.jpg,Reprints,Divine Arrow,Instant,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,191,j25-191-divine-favor.jpg,Reprints,Divine Favor,Enchantment,Common,Allen Williams,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,192,j25-192-dreadful-apathy.jpg,Reprints,Dreadful Apathy,Enchantment,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,193,j25-193-elite-skirmisher.jpg,Reprints,Elite Skirmisher,Creature,Common,Mark Winters,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,194,j25-194-expedition-raptor.jpg,Reprints,Expedition Raptor,Creature,Common,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,195,j25-195-faith-s-fetters.jpg,Reprints,Faith's Fetters,Enchantment,Common,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,196,j25-196-favored-hoplite.jpg,Reprints,Favored Hoplite,Creature,Uncommon,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,197,j25-197-favored-of-iroas.jpg,Reprints,Favored of Iroas,Creature,Uncommon,John Severin Brassell,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,198,j25-198-felidar-sovereign.jpg,Reprints,Felidar Sovereign,Creature,Mythic,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,199,j25-199-fencing-ace.jpg,Reprints,Fencing Ace,Creature,Uncommon,David Rapoza,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,200,j25-200-flutterfox.jpg,Reprints,Flutterfox,Creature,Common,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,201,j25-201-gavony-silversmith.jpg,Reprints,Gavony Silversmith,Creature,Common,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,202,j25-202-gird-for-battle.jpg,Reprints,Gird for Battle,Sorcery,Uncommon,Jakub Kasper,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,203,j25-203-glory-bearers.jpg,Reprints,Glory Bearers,Enchantment Creature,Common,Tyler Walpole,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,204,j25-204-godsend.jpg,Reprints,Godsend,Lgd. Artifact,Mythic,Daniel Ljunggren,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,205,j25-205-golden-tail-disciple.jpg,Reprints,Golden-Tail Disciple,Enchantment Creature,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,206,j25-206-herald-of-the-sun.jpg,Reprints,Herald of the Sun,Creature,Uncommon,Micah Epstein,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,207,j25-207-herald-of-war.jpg,Reprints,Herald of War,Creature,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,208,j25-208-hexgold-hoverwings.jpg,Reprints,Hexgold Hoverwings,Artifact,Uncommon,Kai Carpenter,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,209,j25-209-impeccable-timing.jpg,Reprints,Impeccable Timing,Instant,Common,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,210,j25-210-indomitable-will.jpg,Reprints,Indomitable Will,Enchantment,Common,Micah Epstein,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,211,j25-211-ingenious-leonin.jpg,Reprints,Ingenious Leonin,Creature,Uncommon,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,212,j25-212-inspiring-overseer.jpg,Reprints,Inspiring Overseer,Creature,Common,Irina Nordsol,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,213,j25-213-jubilant-mascot.jpg,Reprints,Jubilant Mascot,Creature,Uncommon,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,214,j25-214-king-of-the-pride.jpg,Reprints,King of the Pride,Creature,Uncommon,Jonathan Kuo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,215,j25-215-leonin-of-the-lost-pride.jpg,Reprints,Leonin of the Lost Pride,Creature,Common,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,216,j25-216-leonin-vanguard.jpg,Reprints,Leonin Vanguard,Creature,Uncommon,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,217,j25-217-light-of-hope.jpg,Reprints,Light of Hope,Instant,Common,Kimonas Theodossiou,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,218,j25-218-light-of-the-legion.jpg,Reprints,Light of the Legion,Creature,Rare,Alex Konstad,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,219,j25-219-light-the-way.jpg,Reprints,Light the Way,Instant,Common,Benjamin Ee,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,220,j25-220-lightwalker.jpg,Reprints,Lightwalker,Creature,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,221,j25-221-mace-of-the-valiant.jpg,Reprints,Mace of the Valiant,Artifact,Rare,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,222,j25-222-make-a-stand.jpg,Reprints,Make a Stand,Instant,Uncommon,Magali Villeneuve,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,223,j25-223-maul-of-the-skyclaves.jpg,Reprints,Maul of the Skyclaves,Artifact,Rare,Joseph Meehan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,224,j25-224-mesa-unicorn.jpg,Reprints,Mesa Unicorn,Creature,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,225,j25-225-mikaeus-the-lunarch.jpg,Reprints,"Mikaeus, the Lunarch",Lgd. Creature,Mythic,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,226,j25-226-militant-inquisitor.jpg,Reprints,Militant Inquisitor,Creature,Common,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,227,j25-227-mirran-bardiche.jpg,Reprints,Mirran Bardiche,Artifact,Common,Julian Kok Joon Wen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,228,j25-228-moment-of-heroism.jpg,Reprints,Moment of Heroism,Instant,Common,Christopher Moeller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,229,j25-229-moment-of-triumph.jpg,Reprints,Moment of Triumph,Instant,Common,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,230,j25-230-nykthos-paragon.jpg,Reprints,Nykthos Paragon,Enchantment Creature,Rare,Martina Pilcerova,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,231,j25-231-nyx-fleece-ram.jpg,Reprints,Nyx-Fleece Ram,Enchantment Creature,Uncommon,Hasani Claxton,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,232,j25-232-ojutai-exemplars.jpg,Reprints,Ojutai Exemplars,Creature,Mythic,Willian Murai,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,233,j25-233-outflank.jpg,Reprints,Outflank,Instant,Common,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,234,j25-234-pacifism.jpg,Reprints,Pacifism,Enchantment,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,235,j25-235-paladin-of-the-bloodstained.jpg,Reprints,Paladin of the Bloodstained,Creature,Common,Bastien L. Deharme,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,236,j25-236-parhelion-patrol.jpg,Reprints,Parhelion Patrol,Creature,Common,Even Amundsen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,237,j25-237-patron-of-the-valiant.jpg,Reprints,Patron of the Valiant,Creature,Uncommon,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,238,j25-238-rally-of-wings.jpg,Reprints,Rally of Wings,Instant,Uncommon,Magali Villeneuve,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,239,j25-239-recruitment-officer.jpg,Reprints,Recruitment Officer,Creature,Uncommon,Johan Grenier,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,240,j25-240-recumbent-bliss.jpg,Reprints,Recumbent Bliss,Enchantment,Common,Todd Lockwood,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,241,j25-241-relief-captain.jpg,Reprints,Relief Captain,Creature,Uncommon,Anastasia Ovchinnikova,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,242,j25-242-repel-the-darkness.jpg,Reprints,Repel the Darkness,Instant,Common,Scott Chou,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,243,j25-243-resistance-reunited.jpg,Reprints,Resistance Reunited,Instant,Uncommon,Aurore Folny,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,244,j25-244-revitalize.jpg,Reprints,Revitalize,Instant,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,245,j25-245-rhox-faithmender.jpg,Reprints,Rhox Faithmender,Creature,Rare,Wesley Burt,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,246,j25-246-righteous-valkyrie.jpg,Reprints,Righteous Valkyrie,Creature,Rare,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,247,j25-247-ronom-unicorn.jpg,Reprints,Ronom Unicorn,Creature,Common,Carl Critchlow,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,248,j25-248-sandsteppe-outcast.jpg,Reprints,Sandsteppe Outcast,Creature,Common,Wesley Burt,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,249,j25-249-savannah-lions.jpg,Reprints,Savannah Lions,Creature,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,250,j25-250-search-party-captain.jpg,Reprints,Search Party Captain,Creature,Common,Mike Bierek,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,251,j25-251-serra-angel.jpg,Reprints,Serra Angel,Creature,Uncommon,Greg Staples,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,252,j25-252-serra-s-embrace.jpg,Reprints,Serra's Embrace,Enchantment,Uncommon,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,253,j25-253-shield-mare.jpg,Reprints,Shield Mare,Creature,Uncommon,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,254,j25-254-shoulder-to-shoulder.jpg,Reprints,Shoulder to Shoulder,Sorcery,Common,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,255,j25-255-speakeasy-server.jpg,Reprints,Speakeasy Server,Creature,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,256,j25-256-spirited-companion.jpg,Reprints,Spirited Companion,Enchantment Creature,Common,Ilse Gort,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,257,j25-257-squad-captain.jpg,Reprints,Squad Captain,Creature,Common,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,258,j25-258-stalwart-valkyrie.jpg,Reprints,Stalwart Valkyrie,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,259,j25-259-star-pupil.jpg,Reprints,Star Pupil,Creature,Common,Howard Lyon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,260,j25-260-starfield-mystic.jpg,Reprints,Starfield Mystic,Creature,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,261,j25-261-starnheim-courser.jpg,Reprints,Starnheim Courser,Creature,Common,Andrew Mar,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,262,j25-262-steadfast-sentry.jpg,Reprints,Steadfast Sentry,Creature,Common,Bram Sels,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,263,j25-263-stone-haven-outfitter.jpg,Reprints,Stone Haven Outfitter,Creature,Rare,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,264,j25-264-sunblade-samurai.jpg,Reprints,Sunblade Samurai,Enchantment Creature,Common,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,265,j25-265-sungrace-pegasus.jpg,Reprints,Sungrace Pegasus,Creature,Common,Phill Simmer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,266,j25-266-sunhome-stalwart.jpg,Reprints,Sunhome Stalwart,Creature,Uncommon,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,267,j25-267-sunmane-pegasus.jpg,Reprints,Sunmane Pegasus,Creature,Common,John Severin Brassell,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,268,j25-268-sunspear-shikari.jpg,Reprints,Sunspear Shikari,Creature,Common,Samuel Perin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,269,j25-269-swift-response.jpg,Reprints,Swift Response,Instant,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,270,j25-270-take-up-the-shield.jpg,Reprints,Take Up the Shield,Instant,Common,Manuel Castañón,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,271,j25-271-tethmos-high-priest.jpg,Reprints,Tethmos High Priest,Creature,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,272,j25-272-thopter-architect.jpg,Reprints,Thopter Architect,Creature,Uncommon,Michal Ivan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,273,j25-273-triplicate-spirits.jpg,Reprints,Triplicate Spirits,Sorcery,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,274,j25-274-trusty-retriever.jpg,Reprints,Trusty Retriever,Creature,Common,Ralph Horsley,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,275,j25-275-valkyrie-harbinger.jpg,Reprints,Valkyrie Harbinger,Creature,Rare,Tran Nguyen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,276,j25-276-valkyrie-s-sword.jpg,Reprints,Valkyrie's Sword,Artifact,Uncommon,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,277,j25-277-valorous-stance.jpg,Reprints,Valorous Stance,Instant,Uncommon,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,278,j25-278-venerated-loxodon.jpg,Reprints,Venerated Loxodon,Creature,Rare,Zack Stella,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,279,j25-279-wingsteed-rider.jpg,Reprints,Wingsteed Rider,Creature,Common,Cynthia Sheppard,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,280,j25-280-youthful-valkyrie.jpg,Reprints,Youthful Valkyrie,Creature,Uncommon,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,281,j25-281-academy-journeymage.jpg,Reprints,Academy Journeymage,Creature,Common,Magali Villeneuve,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,282,j25-282-aerial-guide.jpg,Reprints,Aerial Guide,Creature,Common,Sidharth Chaturvedi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,283,j25-283-aether-channeler.jpg,Reprints,Aether Channeler,Creature,Rare,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,284,j25-284-air-elemental.jpg,Reprints,Air Elemental,Creature,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,285,j25-285-archaeomancer.jpg,Reprints,Archaeomancer,Creature,Common,Zoltan Boros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,286,j25-286-augur-of-bolas.jpg,Reprints,Augur of Bolas,Creature,Uncommon,Alex Konstad,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,287,j25-287-aven-reedstalker.jpg,Reprints,Aven Reedstalker,Creature,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,288,j25-288-azure-drake.jpg,Reprints,Azure Drake,Creature,Uncommon,Janine Johnston,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,289,j25-289-blink-of-an-eye.jpg,Reprints,Blink of an Eye,Instant,Common,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,290,j25-290-breaching-hippocamp.jpg,Reprints,Breaching Hippocamp,Creature,Common,Christopher Burdett,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,291,j25-291-brineborn-cutthroat.jpg,Reprints,Brineborn Cutthroat,Creature,Uncommon,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,292,j25-292-bury-in-books.jpg,Reprints,Bury in Books,Instant,Common,Zoltan Boros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,293,j25-293-cackling-counterpart.jpg,Reprints,Cackling Counterpart,Instant,Rare,David Rapoza,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,294,j25-294-capture-sphere.jpg,Reprints,Capture Sphere,Enchantment,Common,Mark Behm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,295,j25-295-cartouche-of-knowledge.jpg,Reprints,Cartouche of Knowledge,Enchantment,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,296,j25-296-cavalier-of-gales.jpg,Reprints,Cavalier of Gales,Creature,Mythic,Viktor Titov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,297,j25-297-chilling-trap.jpg,Reprints,Chilling Trap,Instant,Common,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,298,j25-298-choking-tethers.jpg,Reprints,Choking Tethers,Instant,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,299,j25-299-chrome-prowler.jpg,Reprints,Chrome Prowler,Artifact Creature,Common,Maxime Minard,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,300,j25-300-cloudkin-seer.jpg,Reprints,Cloudkin Seer,Creature,Common,Anastasia Ovchinnikova,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,301,j25-301-concentrate.jpg,Reprints,Concentrate,Sorcery,Uncommon,rk post,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,302,j25-302-cruel-witness.jpg,Reprints,Cruel Witness,Creature,Common,Vincent Proce,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,303,j25-303-crystacean.jpg,Reprints,Crystacean,Creature,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,304,j25-304-deep-analysis.jpg,Reprints,Deep Analysis,Sorcery,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,305,j25-305-draugr-thought-thief.jpg,Reprints,Draugr Thought-Thief,Creature,Common,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,306,j25-306-exclusion-mage.jpg,Reprints,Exclusion Mage,Creature,Uncommon,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,307,j25-307-expedition-diviner.jpg,Reprints,Expedition Diviner,Creature,Common,Heonhwa Choe,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,308,j25-308-expendable-lackey.jpg,Reprints,Expendable Lackey,Creature,Common,Randy Gallegos,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,309,j25-309-experimental-aviator.jpg,Reprints,Experimental Aviator,Creature,Uncommon,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,310,j25-310-fading-hope.jpg,Reprints,Fading Hope,Instant,Uncommon,Rovina Cai,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,311,j25-311-faerie-vandal.jpg,Reprints,Faerie Vandal,Creature,Uncommon,Paul Scott Canavan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,312,j25-312-filigree-attendant.jpg,Reprints,Filigree Attendant,Artifact Creature,Uncommon,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,313,j25-313-frost-trickster.jpg,Reprints,Frost Trickster,Creature,Common,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,314,j25-314-gearseeker-serpent.jpg,Reprints,Gearseeker Serpent,Creature,Common,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,315,j25-315-glimmerbell.jpg,Reprints,Glimmerbell,Creature,Common,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,316,j25-316-gust-of-wind.jpg,Reprints,Gust of Wind,Sorcery,Common,Adam Paquette,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,317,j25-317-haunting-figment.jpg,Reprints,Haunting Figment,Creature,Common,Chris Cold,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,318,j25-318-kapsho-kitefins.jpg,Reprints,Kapsho Kitefins,Creature,Uncommon,Ryan Yee,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,319,j25-319-krovikan-mist.jpg,Reprints,Krovikan Mist,Creature,Common,Jeremy Jarvis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,320,j25-320-lat-nam-adept.jpg,Reprints,Lat-Nam Adept,Creature,Common,Zara Alfonso,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,321,j25-321-locked-in-the-cemetery.jpg,Reprints,Locked in the Cemetery,Enchantment,Common,Tran Nguyen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,322,j25-322-lord-of-the-unreal.jpg,Reprints,Lord of the Unreal,Creature,Rare,Jason Chan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,323,j25-323-majestic-metamorphosis.jpg,Reprints,Majestic Metamorphosis,Instant,Common,Ben Hill,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,324,j25-324-malcator-s-watcher.jpg,Reprints,Malcator's Watcher,Artifact Creature,Common,Jason A. Engle,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,325,j25-325-malfunction.jpg,Reprints,Malfunction,Enchantment,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,326,j25-326-merfolk-pupil.jpg,Reprints,Merfolk Pupil,Creature,Common,Caroline Gariba,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,327,j25-327-moon-circuit-hacker.jpg,Reprints,Moon-Circuit Hacker,Enchantment Creature,Common,Tia Masic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,328,j25-328-moonsnare-specialist.jpg,Reprints,Moonsnare Specialist,Creature,Common,Lie Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,329,j25-329-mu-yanling-sky-dancer.jpg,Reprints,"Mu Yanling, Sky Dancer",Lgd. Planeswalker,Mythic,G-host Lee,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,330,j25-330-muse-drake.jpg,Reprints,Muse Drake,Creature,Common,Titus Lunter,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,331,j25-331-mystic-skyfish.jpg,Reprints,Mystic Skyfish,Creature,Common,Alayna Danner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,332,j25-332-nadir-kraken.jpg,Reprints,Nadir Kraken,Creature,Rare,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,333,j25-333-naiad-of-hidden-coves.jpg,Reprints,Naiad of Hidden Coves,Enchantment Creature,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,334,j25-334-network-disruptor.jpg,Reprints,Network Disruptor,Artifact Creature,Common,Viko Menezes,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,335,j25-335-nightveil-sprite.jpg,Reprints,Nightveil Sprite,Creature,Uncommon,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,336,j25-336-omen-of-the-sea.jpg,Reprints,Omen of the Sea,Enchantment,Common,Piotr Dura,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,337,j25-337-oneirophage.jpg,Reprints,Oneirophage,Creature,Uncommon,Martina Pilcerova,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,338,j25-338-opportunity.jpg,Reprints,Opportunity,Instant,Uncommon,Allen Williams,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,339,j25-339-opt.jpg,Reprints,Opt,Instant,Common,Craig J Spearing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,340,j25-340-organ-hoarder.jpg,Reprints,Organ Hoarder,Creature,Common,Nicholas Gregory,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,341,j25-341-overflowing-insight.jpg,Reprints,Overflowing Insight,Sorcery,Mythic,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,342,j25-342-owl-familiar.jpg,Reprints,Owl Familiar,Creature,Common,Janine Johnston,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,343,j25-343-pestermite.jpg,Reprints,Pestermite,Creature,Common,Christopher Moeller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,344,j25-344-phantasmal-form.jpg,Reprints,Phantasmal Form,Instant,Common,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,345,j25-345-phantom-ninja.jpg,Reprints,Phantom Ninja,Creature,Common,Joe Slucher,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,346,j25-346-prosperous-thief.jpg,Reprints,Prosperous Thief,Creature,Uncommon,Fajareka Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,347,j25-347-purple-crystal-crab.jpg,Reprints,Purple-Crystal Crab,Creature,Common,Tan Yan Yao,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,348,j25-348-reckless-scholar.jpg,Reprints,Reckless Scholar,Creature,Uncommon,Steve Prescott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,349,j25-349-remand.jpg,Reprints,Remand,Instant,Uncommon,Mark A. Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,351,j25-351-screaming-swarm.jpg,Reprints,Screaming Swarm,Creature,Uncommon,Irina Nordsol,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,352,j25-352-serpentine-ambush.jpg,Reprints,Serpentine Ambush,Instant,Common,Jokubas Uogintas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,353,j25-353-shimmer-dragon.jpg,Reprints,Shimmer Dragon,Creature,Rare,Lie Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,354,j25-354-shipwreck-dowser.jpg,Reprints,Shipwreck Dowser,Creature,Common,Caroline Gariba,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,355,j25-355-shore-keeper.jpg,Reprints,Shore Keeper,Creature,Common,YW Tang,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,356,j25-356-shorecomber-crab.jpg,Reprints,Shorecomber Crab,Creature,Common,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,357,j25-357-sigiled-starfish.jpg,Reprints,Sigiled Starfish,Creature,Uncommon,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,358,j25-358-silent-departure.jpg,Reprints,Silent Departure,Sorcery,Common,John Avon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,359,j25-359-sky-eel-school.jpg,Reprints,Sky-Eel School,Creature,Common,Daniel Ljunggren,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,360,j25-360-slimebind.jpg,Reprints,Slimebind,Enchantment,Common,Mark Behm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,361,j25-361-smoke-shroud.jpg,Reprints,Smoke Shroud,Enchantment,Common,Micah Epstein,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,362,j25-362-soul-read.jpg,Reprints,Soul Read,Instant,Common,Drew Tucker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,363,j25-363-spectral-sailor.jpg,Reprints,Spectral Sailor,Creature,Uncommon,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,364,j25-364-sphinx-of-enlightenment.jpg,Reprints,Sphinx of Enlightenment,Creature,Mythic,Johan Grenier,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,365,j25-365-sprite-noble.jpg,Reprints,Sprite Noble,Creature,Rare,Randy Gallegos,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,366,j25-366-starlit-mantle.jpg,Reprints,Starlit Mantle,Enchantment,Common,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,367,j25-367-stinging-lionfish.jpg,Reprints,Stinging Lionfish,Enchantment Creature,Uncommon,Christopher Burdett,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,368,j25-368-stitched-drake.jpg,Reprints,Stitched Drake,Creature,Common,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,369,j25-369-stolen-by-the-fae.jpg,Reprints,Stolen by the Fae,Sorcery,Rare,Ryan Alexander Lee,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,370,j25-370-supreme-will.jpg,Reprints,Supreme Will,Instant,Uncommon,Alayna Danner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,371,j25-371-teferi-s-ageless-insight.jpg,Reprints,Teferi's Ageless Insight,Lgd. Enchantment,Rare,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,372,j25-372-thopter-mechanic.jpg,Reprints,Thopter Mechanic,Creature,Uncommon,Joshua Raphael,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,373,j25-373-thought-monitor.jpg,Reprints,Thought Monitor,Artifact Creature,Rare,Martina Pilcerova,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,374,j25-374-thoughtcast.jpg,Reprints,Thoughtcast,Sorcery,Common,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,375,j25-375-tide-skimmer.jpg,Reprints,Tide Skimmer,Creature,Uncommon,Joseph Meehan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,376,j25-376-tidepool-turtle.jpg,Reprints,Tidepool Turtle,Creature,Common,Andrew Mar,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,377,j25-377-tolarian-kraken.jpg,Reprints,Tolarian Kraken,Creature,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,378,j25-378-towering-wave-mystic.jpg,Reprints,Towering-Wave Mystic,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,379,j25-379-trial-of-knowledge.jpg,Reprints,Trial of Knowledge,Enchantment,Uncommon,Viktor Titov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,380,j25-380-undersea-invader.jpg,Reprints,Undersea Invader,Creature,Common,Lorenzo Mastroianni,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,381,j25-381-vexing-gull.jpg,Reprints,Vexing Gull,Creature,Common,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,382,j25-382-voracious-greatshark.jpg,Reprints,Voracious Greatshark,Creature,Rare,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,383,j25-383-waker-of-waves.jpg,Reprints,Waker of Waves,Creature,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,384,j25-384-wall-of-lost-thoughts.jpg,Reprints,Wall of Lost Thoughts,Creature,Uncommon,Adam Paquette,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,385,j25-385-warden-of-evos-isle.jpg,Reprints,Warden of Evos Isle,Creature,Uncommon,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,386,j25-386-waterkin-shaman.jpg,Reprints,Waterkin Shaman,Creature,Common,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,387,j25-387-wavebreak-hippocamp.jpg,Reprints,Wavebreak Hippocamp,Enchantment Creature,Rare,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,388,j25-388-whirlwind-denial.jpg,Reprints,Whirlwind Denial,Instant,Uncommon,Lie Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,389,j25-389-wind-strider.jpg,Reprints,Wind Strider,Creature,Common,Magali Villeneuve,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,390,j25-390-windcaller-aven.jpg,Reprints,Windcaller Aven,Creature,Common,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,391,j25-391-windreader-sphinx.jpg,Reprints,Windreader Sphinx,Creature,Rare,Min Yum,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,392,j25-392-windstorm-drake.jpg,Reprints,Windstorm Drake,Creature,Uncommon,Daarken,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,393,j25-393-winged-words.jpg,Reprints,Winged Words,Sorcery,Common,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,394,j25-394-witching-well.jpg,Reprints,Witching Well,Artifact,Common,John Avon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,395,j25-395-yarok-s-wavecrasher.jpg,Reprints,Yarok's Wavecrasher,Creature,Uncommon,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,396,j25-396-agonizing-syphon.jpg,Reprints,Agonizing Syphon,Sorcery,Common,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,397,j25-397-alchemist-s-gift.jpg,Reprints,Alchemist's Gift,Instant,Common,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,398,j25-398-archfiend-s-vessel.jpg,Reprints,Archfiend's Vessel,Creature,Uncommon,Jake Murray,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,399,j25-399-army-of-the-damned.jpg,Reprints,Army of the Damned,Sorcery,Mythic,Ryan Pancoast,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,400,j25-400-arrogant-outlaw.jpg,Reprints,Arrogant Outlaw,Creature,Common,Aurore Folny,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,401,j25-401-audacious-thief.jpg,Reprints,Audacious Thief,Creature,Common,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,402,j25-402-balustrade-spy.jpg,Reprints,Balustrade Spy,Creature,Common,Jaime Jones,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,403,j25-403-bastion-of-remembrance.jpg,Reprints,Bastion of Remembrance,Enchantment,Uncommon,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,404,j25-404-bleed-dry.jpg,Reprints,Bleed Dry,Instant,Common,Jodie Muir,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,405,j25-405-blood-beckoning.jpg,Reprints,Blood Beckoning,Sorcery,Common,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,406,j25-406-blood-burglar.jpg,Reprints,Blood Burglar,Creature,Common,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,407,j25-407-blood-fountain.jpg,Reprints,Blood Fountain,Artifact,Common,Evyn Fong,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,408,j25-408-bloodgift-demon.jpg,Reprints,Bloodgift Demon,Creature,Rare,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,409,j25-409-bloodthirsty-aerialist.jpg,Reprints,Bloodthirsty Aerialist,Creature,Uncommon,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,410,j25-410-bloodtithe-collector.jpg,Reprints,Bloodtithe Collector,Creature,Uncommon,Maria Zolotukhina,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,411,j25-411-boneclad-necromancer.jpg,Reprints,Boneclad Necromancer,Creature,Common,Robbie Trevino,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,412,j25-412-coat-with-venom.jpg,Reprints,Coat with Venom,Instant,Common,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,413,j25-413-contract-killing.jpg,Reprints,Contract Killing,Sorcery,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,414,j25-414-crawl-from-the-cellar.jpg,Reprints,Crawl from the Cellar,Sorcery,Common,Igor Krstic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,415,j25-415-creeping-bloodsucker.jpg,Reprints,Creeping Bloodsucker,Creature,Common,Antonio José Manzanedo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,416,j25-416-crooked-custodian.jpg,Reprints,Crooked Custodian,Creature,Common,Tony Foti,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,417,j25-417-crossway-troublemakers.jpg,Reprints,Crossway Troublemakers,Creature,Rare,Aaron J. Riley,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,418,j25-418-dark-supplicant.jpg,Reprints,Dark Supplicant,Creature,Uncommon,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,419,j25-419-deal-gone-bad.jpg,Reprints,Deal Gone Bad,Instant,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,420,j25-420-defenestrate.jpg,Reprints,Defenestrate,Instant,Common,Darek Zabrocki,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,421,j25-421-devouring-swarm.jpg,Reprints,Devouring Swarm,Creature,Common,Wayne England,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,422,j25-422-dire-fleet-hoarder.jpg,Reprints,Dire Fleet Hoarder,Creature,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,423,j25-423-diregraf-scavenger.jpg,Reprints,Diregraf Scavenger,Creature,Common,Manuel Castañón,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,424,j25-424-disfigure.jpg,Reprints,Disfigure,Instant,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,425,j25-425-doomed-dissenter.jpg,Reprints,Doomed Dissenter,Creature,Common,Campbell White,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,426,j25-426-doomed-necromancer.jpg,Reprints,Doomed Necromancer,Creature,Rare,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,427,j25-427-dreadhound.jpg,Reprints,Dreadhound,Creature,Uncommon,Joe Slucher,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,428,j25-428-dross-hopper.jpg,Reprints,Dross Hopper,Creature,Common,Dave Allsop,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,429,j25-429-durable-coilbug.jpg,Reprints,Durable Coilbug,Creature,Common,Milivoj Ćeran,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,430,j25-430-dusk-mangler.jpg,Reprints,Dusk Mangler,Creature,Uncommon,Antonio José Manzanedo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,431,j25-431-eerie-soultender.jpg,Reprints,Eerie Soultender,Creature,Common,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,432,j25-432-elderfang-disciple.jpg,Reprints,Elderfang Disciple,Creature,Common,Miranda Meeks,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,433,j25-433-endless-cockroaches.jpg,Reprints,Endless Cockroaches,Creature,Rare,Ron Spencer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,434,j25-434-entomber-exarch.jpg,Reprints,Entomber Exarch,Creature,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,435,j25-435-epicure-of-blood.jpg,Reprints,Epicure of Blood,Creature,Common,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,436,j25-436-expedition-skulker.jpg,Reprints,Expedition Skulker,Creature,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,437,j25-437-exsanguinate.jpg,Reprints,Exsanguinate,Sorcery,Uncommon,Carl Critchlow,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,438,j25-438-extinguish-the-light.jpg,Reprints,Extinguish the Light,Instant,Common,Ekaterina Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,439,j25-439-eye-collector.jpg,Reprints,Eye Collector,Creature,Common,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,440,j25-440-fake-your-own-death.jpg,Reprints,Fake Your Own Death,Instant,Common,Kari Christensen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,441,j25-441-falkenrath-noble.jpg,Reprints,Falkenrath Noble,Creature,Uncommon,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,442,j25-442-foul-play.jpg,Reprints,Foul Play,Sorcery,Uncommon,Campbell White,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,443,j25-443-fretwork-colony.jpg,Reprints,Fretwork Colony,Creature,Uncommon,Christopher Burdett,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,444,j25-444-gift-of-fangs.jpg,Reprints,Gift of Fangs,Enchantment,Common,Dominik Mayer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,445,j25-445-gluttonous-guest.jpg,Reprints,Gluttonous Guest,Creature,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,446,j25-446-gnawing-zombie.jpg,Reprints,Gnawing Zombie,Creature,Common,Greg Staples,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,447,j25-447-go-for-the-throat.jpg,Reprints,Go for the Throat,Instant,Uncommon,Kristina Carroll,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,448,j25-448-goremand.jpg,Reprints,Goremand,Creature,Uncommon,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,449,j25-449-gorging-vulture.jpg,Reprints,Gorging Vulture,Creature,Common,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,450,j25-450-grave-strength.jpg,Reprints,Grave Strength,Sorcery,Uncommon,Jeff Simpson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,451,j25-451-graveblade-marauder.jpg,Reprints,Graveblade Marauder,Creature,Uncommon,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,452,j25-452-gravedigger.jpg,Reprints,Gravedigger,Creature,Common,Dermot Power,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,453,j25-453-harvester-of-souls.jpg,Reprints,Harvester of Souls,Creature,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,454,j25-454-heartstabber-mosquito.jpg,Reprints,Heartstabber Mosquito,Creature,Common,Jason Felix,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,455,j25-455-hooded-blightfang.jpg,Reprints,Hooded Blightfang,Creature,Rare,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,456,j25-456-infernal-grasp.jpg,Reprints,Infernal Grasp,Instant,Uncommon,Naomi Baker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,457,j25-457-koma-s-faithful.jpg,Reprints,Koma's Faithful,Creature,Common,Caroline Gariba,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,458,j25-458-liliana-death-s-majesty.jpg,Reprints,"Liliana, Death's Majesty",Lgd. Planeswalker,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,459,j25-459-masked-blackguard.jpg,Reprints,Masked Blackguard,Creature,Common,Bryan Sola,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,460,j25-460-midnight-assassin.jpg,Reprints,Midnight Assassin,Creature,Common,Christina Davis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,461,j25-461-moan-of-the-unhallowed.jpg,Reprints,Moan of the Unhallowed,Sorcery,Uncommon,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,462,j25-462-moment-of-craving.jpg,Reprints,Moment of Craving,Instant,Common,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,463,j25-463-moodmark-painter.jpg,Reprints,Moodmark Painter,Creature,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,464,j25-464-morbid-opportunist.jpg,Reprints,Morbid Opportunist,Creature,Uncommon,Tyler Walpole,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,465,j25-465-morkrut-behemoth.jpg,Reprints,Morkrut Behemoth,Creature,Common,Milivoj Ćeran,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,466,j25-466-morkrut-necropod.jpg,Reprints,Morkrut Necropod,Creature,Uncommon,Alejandro Mirabal,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,467,j25-467-murder.jpg,Reprints,Murder,Instant,Common,Allen Williams,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,468,j25-468-nantuko-husk.jpg,Reprints,Nantuko Husk,Creature,Common,Carl Critchlow,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,469,j25-469-necropolis-regent.jpg,Reprints,Necropolis Regent,Creature,Mythic,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,470,j25-470-necrotic-wound.jpg,Reprints,Necrotic Wound,Instant,Uncommon,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,471,j25-471-night-s-whisper.jpg,Reprints,Night's Whisper,Sorcery,Common,John Severin Brassell,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,472,j25-472-nullpriest-of-oblivion.jpg,Reprints,Nullpriest of Oblivion,Creature,Rare,Yongjae Choi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,473,j25-473-persistent-specimen.jpg,Reprints,Persistent Specimen,Creature,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,474,j25-474-pharika-s-chosen.jpg,Reprints,Pharika's Chosen,Creature,Common,Jonas De Ro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,475,j25-475-pilfering-imp.jpg,Reprints,Pilfering Imp,Creature,Uncommon,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,476,j25-476-pitiless-plunderer.jpg,Reprints,Pitiless Plunderer,Creature,Uncommon,David Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,477,j25-477-powerstone-fracture.jpg,Reprints,Powerstone Fracture,Sorcery,Common,Campbell White,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,478,j25-478-priest-of-forgotten-gods.jpg,Reprints,Priest of Forgotten Gods,Creature,Rare,Zack Stella,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,479,j25-479-read-the-bones.jpg,Reprints,Read the Bones,Sorcery,Common,Lars Grant-West,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,480,j25-480-reaper-from-the-abyss.jpg,Reprints,Reaper from the Abyss,Creature,Mythic,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,481,j25-481-reassembling-skeleton.jpg,Reprints,Reassembling Skeleton,Creature,Uncommon,Austin Hsu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,482,j25-482-rodolf-duskbringer.jpg,Reprints,Rodolf Duskbringer,Lgd. Creature,Rare,Billy Christian,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,483,j25-483-ruthless-knave.jpg,Reprints,Ruthless Knave,Creature,Uncommon,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,484,j25-484-ruthless-technomancer.jpg,Reprints,Ruthless Technomancer,Creature,Rare,PINDURSKI,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,485,j25-485-sanctum-seeker.jpg,Reprints,Sanctum Seeker,Creature,Rare,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,486,j25-486-scion-of-darkness.jpg,Reprints,Scion of Darkness,Creature,Uncommon,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,487,j25-487-scion-of-the-swarm.jpg,Reprints,Scion of the Swarm,Creature,Uncommon,Ekaterina Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,488,j25-488-severed-strands.jpg,Reprints,Severed Strands,Sorcery,Common,Zack Stella,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,489,j25-489-skemfar-shadowsage.jpg,Reprints,Skemfar Shadowsage,Creature,Uncommon,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,490,j25-490-stronghold-confessor.jpg,Reprints,Stronghold Confessor,Creature,Common,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,491,j25-491-subtle-strike.jpg,Reprints,Subtle Strike,Instant,Common,Brian Valeza,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,492,j25-492-swarm-of-bloodflies.jpg,Reprints,Swarm of Bloodflies,Creature,Uncommon,Ralph Horsley,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,493,j25-493-thieves-guild-enforcer.jpg,Reprints,Thieves' Guild Enforcer,Creature,Rare,Evyn Fong,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,494,j25-494-thirsting-bloodlord.jpg,Reprints,Thirsting Bloodlord,Creature,Uncommon,Joseph Meehan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,495,j25-495-torment-of-scarabs.jpg,Reprints,Torment of Scarabs,Enchantment,Uncommon,Bastien L. Deharme,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,496,j25-496-tragic-slip.jpg,Reprints,Tragic Slip,Instant,Common,Christopher Moeller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,497,j25-497-typhoid-rats.jpg,Reprints,Typhoid Rats,Creature,Common,Dave Kendall,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,498,j25-498-ukud-cobra.jpg,Reprints,Ukud Cobra,Creature,Uncommon,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,499,j25-499-ulcerate.jpg,Reprints,Ulcerate,Instant,Uncommon,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,500,j25-500-undead-butler.jpg,Reprints,Undead Butler,Creature,Uncommon,Néstor Ossandón Leal,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,501,j25-501-undercity-scrounger.jpg,Reprints,Undercity Scrounger,Artifact Creature,Common,Mike Jordana,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,502,j25-502-urge-to-feed.jpg,Reprints,Urge to Feed,Instant,Uncommon,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,503,j25-503-vampire-nighthawk.jpg,Reprints,Vampire Nighthawk,Creature,Uncommon,Jason Chan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,504,j25-504-vampire-of-the-dire-moon.jpg,Reprints,Vampire of the Dire Moon,Creature,Uncommon,Anna Podedworna,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,505,j25-505-vampire-scrivener.jpg,Reprints,Vampire Scrivener,Creature,Uncommon,Bastien L. Deharme,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,506,j25-506-venomous-hierophant.jpg,Reprints,Venomous Hierophant,Creature,Common,Johannes Voss,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,507,j25-507-vicious-conquistador.jpg,Reprints,Vicious Conquistador,Creature,Uncommon,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,508,j25-508-village-rites.jpg,Reprints,Village Rites,Instant,Common,Bud Cook,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,509,j25-509-virus-beetle.jpg,Reprints,Virus Beetle,Artifact Creature,Common,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,510,j25-510-vraska-s-finisher.jpg,Reprints,Vraska's Finisher,Creature,Common,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,511,j25-511-wailing-ghoul.jpg,Reprints,Wailing Ghoul,Creature,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,512,j25-512-wakedancer.jpg,Reprints,Wakedancer,Creature,Common,Mila Pesic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,513,j25-513-abandon-reason.jpg,Reprints,Abandon Reason,Instant,Uncommon,Josh Hass,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,514,j25-514-ahn-crop-crasher.jpg,Reprints,Ahn-Crop Crasher,Creature,Uncommon,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,515,j25-515-akroan-crusader.jpg,Reprints,Akroan Crusader,Creature,Common,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,516,j25-516-ancestral-anger.jpg,Reprints,Ancestral Anger,Sorcery,Common,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,517,j25-517-anje-s-ravager.jpg,Reprints,Anje's Ravager,Creature,Rare,Antonio José Manzanedo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,518,j25-518-arena-athlete.jpg,Reprints,Arena Athlete,Creature,Uncommon,Jason Chan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,519,j25-519-bathe-in-dragonfire.jpg,Reprints,Bathe in Dragonfire,Sorcery,Common,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,520,j25-520-battlefield-scavenger.jpg,Reprints,Battlefield Scavenger,Creature,Uncommon,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,521,j25-521-belligerent-guest.jpg,Reprints,Belligerent Guest,Creature,Common,Darren Tan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,522,j25-522-blood-hypnotist.jpg,Reprints,Blood Hypnotist,Creature,Uncommon,Marie Magny,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,523,j25-523-blood-petal-celebrant.jpg,Reprints,Blood Petal Celebrant,Creature,Common,Fajareka Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,524,j25-524-bloodfire-expert.jpg,Reprints,Bloodfire Expert,Creature,Common,Raymond Swanland,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,525,j25-525-bloodlust-inciter.jpg,Reprints,Bloodlust Inciter,Creature,Common,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,526,j25-526-boggart-brute.jpg,Reprints,Boggart Brute,Creature,Common,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,527,j25-527-boldwyr-intimidator.jpg,Reprints,Boldwyr Intimidator,Creature,Uncommon,Esad Ribic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,528,j25-528-brute-strength.jpg,Reprints,Brute Strength,Instant,Common,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,529,j25-529-cartouche-of-zeal.jpg,Reprints,Cartouche of Zeal,Enchantment,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,530,j25-530-chandra-s-spitfire.jpg,Reprints,Chandra's Spitfire,Creature,Uncommon,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,531,j25-531-combat-celebrant.jpg,Reprints,Combat Celebrant,Creature,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,532,j25-532-coordinated-assault.jpg,Reprints,Coordinated Assault,Instant,Uncommon,John Severin Brassell,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,533,j25-533-crimson-wisps.jpg,Reprints,Crimson Wisps,Instant,Common,Jim Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,534,j25-534-cyclops-electromancer.jpg,Reprints,Cyclops Electromancer,Creature,Common,Jason Felix,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,535,j25-535-daybreak-combatants.jpg,Reprints,Daybreak Combatants,Creature,Common,Joshua Raphael,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,536,j25-536-dragon-hatchling.jpg,Reprints,Dragon Hatchling,Creature,Common,David Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,537,j25-537-dragon-whelp.jpg,Reprints,Dragon Whelp,Creature,Uncommon,Jokubas Uogintas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,538,j25-538-dragonlord-s-servant.jpg,Reprints,Dragonlord's Servant,Creature,Uncommon,Steve Prescott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,539,j25-539-dreadhorde-arcanist.jpg,Reprints,Dreadhorde Arcanist,Creature,Rare,G-host Lee,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,540,j25-540-emberhorn-minotaur.jpg,Reprints,Emberhorn Minotaur,Creature,Common,Viktor Titov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,541,j25-541-expedition-champion.jpg,Reprints,Expedition Champion,Creature,Common,Bram Sels,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,542,j25-542-falkenrath-celebrants.jpg,Reprints,Falkenrath Celebrants,Creature,Common,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,543,j25-543-falkenrath-marauders.jpg,Reprints,Falkenrath Marauders,Creature,Rare,James Ryman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,544,j25-544-fanatical-firebrand.jpg,Reprints,Fanatical Firebrand,Creature,Common,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,545,j25-545-fiendish-duo.jpg,Reprints,Fiendish Duo,Creature,Mythic,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,546,j25-546-fiery-fall.jpg,Reprints,Fiery Fall,Instant,Common,Daarken,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,547,j25-547-fire-prophecy.jpg,Reprints,Fire Prophecy,Instant,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,548,j25-548-firebrand-archer.jpg,Reprints,Firebrand Archer,Creature,Common,John Stanko,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,549,j25-549-fissure-wizard.jpg,Reprints,Fissure Wizard,Creature,Common,Lius Lasahido,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,550,j25-550-fists-of-flame.jpg,Reprints,Fists of Flame,Instant,Common,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,551,j25-551-flame-blessed-bolt.jpg,Reprints,Flame-Blessed Bolt,Instant,Common,Andreas Zafiratos,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,552,j25-552-flames-of-the-firebrand.jpg,Reprints,Flames of the Firebrand,Sorcery,Uncommon,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,553,j25-553-fling.jpg,Reprints,Fling,Instant,Common,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,554,j25-554-furious-reprisal.jpg,Reprints,Furious Reprisal,Sorcery,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,555,j25-555-goblin-arsonist.jpg,Reprints,Goblin Arsonist,Creature,Common,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,556,j25-556-goblin-dark-dwellers.jpg,Reprints,Goblin Dark-Dwellers,Creature,Rare,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,557,j25-557-goblin-goliath.jpg,Reprints,Goblin Goliath,Creature,Mythic,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,558,j25-558-goblin-rabblemaster.jpg,Reprints,Goblin Rabblemaster,Creature,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,559,j25-559-goblin-researcher.jpg,Reprints,Goblin Researcher,Creature,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,560,j25-560-goblin-trailblazer.jpg,Reprints,Goblin Trailblazer,Creature,Common,Josh Hass,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,561,j25-561-goma-fada-vanguard.jpg,Reprints,Goma Fada Vanguard,Creature,Uncommon,Sean Sevestre,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,562,j25-562-hellkite-whelp.jpg,Reprints,Hellkite Whelp,Creature,Uncommon,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,563,j25-563-hero-of-the-games.jpg,Reprints,Hero of the Games,Creature,Common,Josh Hass,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,564,j25-564-incorrigible-youths.jpg,Reprints,Incorrigible Youths,Creature,Uncommon,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,565,j25-565-infuriate.jpg,Reprints,Infuriate,Instant,Common,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,566,j25-566-insolent-neonate.jpg,Reprints,Insolent Neonate,Creature,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,567,j25-567-invigorated-rampage.jpg,Reprints,Invigorated Rampage,Instant,Uncommon,Craig J Spearing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,568,j25-568-jaya-s-firenado.jpg,Reprints,Jaya's Firenado,Sorcery,Common,Jeremy Wilson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,569,j25-569-kargan-intimidator.jpg,Reprints,Kargan Intimidator,Creature,Rare,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,570,j25-570-keldon-raider.jpg,Reprints,Keldon Raider,Creature,Common,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,571,j25-571-kindled-fury.jpg,Reprints,Kindled Fury,Instant,Common,Craig J Spearing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,572,j25-572-krenko-tin-street-kingpin.jpg,Reprints,"Krenko, Tin Street Kingpin",Lgd. Creature,Rare,Viko Menezes,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,573,j25-573-kruin-striker.jpg,Reprints,Kruin Striker,Creature,Common,Christopher Moeller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,574,j25-574-markov-blademaster.jpg,Reprints,Markov Blademaster,Creature,Rare,"Jana Schirmer, Johannes Voss",Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,575,j25-575-markov-enforcer.jpg,Reprints,Markov Enforcer,Creature,Rare,Wisnu Tan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,576,j25-576-markov-retribution.jpg,Reprints,Markov Retribution,Sorcery,Uncommon,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,577,j25-577-markov-warlord.jpg,Reprints,Markov Warlord,Creature,Uncommon,Cynthia Sheppard,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,578,j25-578-minotaur-sureshot.jpg,Reprints,Minotaur Sureshot,Creature,Common,Joseph Meehan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,579,j25-579-mirrorwing-dragon.jpg,Reprints,Mirrorwing Dragon,Creature,Mythic,Min Yum,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,580,j25-580-mogg-flunkies.jpg,Reprints,Mogg Flunkies,Creature,Common,Brom,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,581,j25-581-nef-crop-entangler.jpg,Reprints,Nef-Crop Entangler,Creature,Common,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,582,j25-582-neonate-s-rush.jpg,Reprints,Neonate's Rush,Instant,Common,Justine Cruz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,583,j25-583-open-fire.jpg,Reprints,Open Fire,Instant,Common,Jason Kang,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,584,j25-584-pathmaker-initiate.jpg,Reprints,Pathmaker Initiate,Creature,Common,Josu Hernaiz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,585,j25-585-pigment-storm.jpg,Reprints,Pigment Storm,Sorcery,Common,Bayard Wu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,586,j25-586-play-with-fire.jpg,Reprints,Play with Fire,Instant,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,587,j25-587-pyrophobia.jpg,Reprints,Pyrophobia,Sorcery,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,588,j25-588-rapacious-dragon.jpg,Reprints,Rapacious Dragon,Creature,Uncommon,Johan Grenier,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,589,j25-589-reckless-impulse.jpg,Reprints,Reckless Impulse,Sorcery,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,590,j25-590-renegade-tactics.jpg,Reprints,Renegade Tactics,Sorcery,Common,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,591,j25-591-resistance-skywarden.jpg,Reprints,Resistance Skywarden,Creature,Uncommon,Jarel Threat,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,592,j25-592-roil-eruption.jpg,Reprints,Roil Eruption,Sorcery,Common,Campbell White,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,593,j25-593-sarkhan-fireblood.jpg,Reprints,"Sarkhan, Fireblood",Lgd. Planeswalker,Mythic,Grzegorz Rutkowski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,594,j25-594-sarkhan-s-rage.jpg,Reprints,Sarkhan's Rage,Instant,Common,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,595,j25-595-satyr-hoplite.jpg,Reprints,Satyr Hoplite,Creature,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,596,j25-596-scavenged-blade.jpg,Reprints,Scavenged Blade,Artifact,Common,Antonio José Manzanedo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,597,j25-597-scion-of-opulence.jpg,Reprints,Scion of Opulence,Creature,Rare,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,598,j25-598-shock.jpg,Reprints,Shock,Instant,Common,Jon Foster,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,599,j25-599-soul-sear.jpg,Reprints,Soul Sear,Instant,Uncommon,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,600,j25-600-sparktongue-dragon.jpg,Reprints,Sparktongue Dragon,Creature,Common,Daarken,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,601,j25-601-spellgorger-weird.jpg,Reprints,Spellgorger Weird,Creature,Common,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,602,j25-602-stolen-vitality.jpg,Reprints,Stolen Vitality,Instant,Common,Mike Bierek,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,603,j25-603-titan-s-strength.jpg,Reprints,Titan's Strength,Instant,Common,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,604,j25-604-trial-of-zeal.jpg,Reprints,Trial of Zeal,Enchantment,Uncommon,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,605,j25-605-trueheart-twins.jpg,Reprints,Trueheart Twins,Creature,Uncommon,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,606,j25-606-twinferno.jpg,Reprints,Twinferno,Instant,Uncommon,Justyna Dura,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,607,j25-607-uncaged-fury.jpg,Reprints,Uncaged Fury,Instant,Uncommon,Jason Kang,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,608,j25-608-unleash-fury.jpg,Reprints,Unleash Fury,Instant,Uncommon,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,609,j25-609-unstoppable-ogre.jpg,Reprints,Unstoppable Ogre,Artifact Creature,Common,Xavier Ribeiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,610,j25-610-vampiric-fury.jpg,Reprints,Vampiric Fury,Instant,Common,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,611,j25-611-voldaren-ambusher.jpg,Reprints,Voldaren Ambusher,Creature,Uncommon,Evyn Fong,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,612,j25-612-voldaren-duelist.jpg,Reprints,Voldaren Duelist,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,613,j25-613-voldaren-epicure.jpg,Reprints,Voldaren Epicure,Creature,Common,Martina Fačková,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,614,j25-614-weaselback-redcap.jpg,Reprints,Weaselback Redcap,Creature,Common,Grzegorz Rutkowski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,615,j25-615-weaver-of-lightning.jpg,Reprints,Weaver of Lightning,Creature,Uncommon,John Stanko,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,616,j25-616-wildfire-elemental.jpg,Reprints,Wildfire Elemental,Creature,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,617,j25-617-wrecking-crew.jpg,Reprints,Wrecking Crew,Creature,Common,Joshua Raphael,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,618,j25-618-young-pyromancer.jpg,Reprints,Young Pyromancer,Creature,Uncommon,Cynthia Sheppard,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,619,j25-619-zealot-of-the-god-pharaoh.jpg,Reprints,Zealot of the God-Pharaoh,Creature,Common,Gabor Szikszai,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,620,j25-620-adventure-awaits.jpg,Reprints,Adventure Awaits,Sorcery,Common,Billy Christian,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,621,j25-621-adventurous-impulse.jpg,Reprints,Adventurous Impulse,Sorcery,Common,Titus Lunter,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,622,j25-622-advocate-of-the-beast.jpg,Reprints,Advocate of the Beast,Creature,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,623,j25-623-aggressive-instinct.jpg,Reprints,Aggressive Instinct,Sorcery,Common,Wolk Sheep,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,624,j25-624-ainok-artillerist.jpg,Reprints,Ainok Artillerist,Creature,Common,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,625,j25-625-ainok-guide.jpg,Reprints,Ainok Guide,Creature,Common,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,626,j25-626-ambassador-oak.jpg,Reprints,Ambassador Oak,Creature,Common,Steve Prescott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,627,j25-627-ancient-greenwarden.jpg,Reprints,Ancient Greenwarden,Creature,Mythic,Grzegorz Rutkowski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,628,j25-628-arbor-armament.jpg,Reprints,Arbor Armament,Instant,Common,Bayard Wu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,629,j25-629-armorcraft-judge.jpg,Reprints,Armorcraft Judge,Creature,Uncommon,David Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,630,j25-630-armored-kincaller.jpg,Reprints,Armored Kincaller,Creature,Common,John Tedrick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,631,j25-631-audacity.jpg,Reprints,Audacity,Enchantment,Uncommon,Rudy Siswanto,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,632,j25-632-baloth-gorger.jpg,Reprints,Baloth Gorger,Creature,Common,Zezhou Chen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,633,j25-633-baloth-woodcrasher.jpg,Reprints,Baloth Woodcrasher,Creature,Uncommon,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,634,j25-634-band-together.jpg,Reprints,Band Together,Instant,Common,Josh Hass,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,635,j25-635-big-play.jpg,Reprints,Big Play,Instant,Common,Nicholas Gregory,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,636,j25-636-bite-down.jpg,Reprints,Bite Down,Instant,Common,Kitt Lapeña,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,637,j25-637-bond-of-flourishing.jpg,Reprints,Bond of Flourishing,Sorcery,Uncommon,Tyler Walpole,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,638,j25-638-bounty-of-skemfar.jpg,Reprints,Bounty of Skemfar,Sorcery,Uncommon,Colin Boyer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,639,j25-639-briarbridge-tracker.jpg,Reprints,Briarbridge Tracker,Creature,Rare,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,640,j25-640-brushstrider.jpg,Reprints,Brushstrider,Creature,Uncommon,Raoul Vitale,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,641,j25-641-bushwhack.jpg,Reprints,Bushwhack,Sorcery,Uncommon,Artur Nakhodkin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,642,j25-642-byway-courier.jpg,Reprints,Byway Courier,Creature,Common,Zoltan Boros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,643,j25-643-canopy-baloth.jpg,Reprints,Canopy Baloth,Creature,Common,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,644,j25-644-cherished-hatchling.jpg,Reprints,Cherished Hatchling,Creature,Uncommon,Sam Rowan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,645,j25-645-clear-shot.jpg,Reprints,Clear Shot,Instant,Uncommon,Craig J Spearing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,646,j25-646-colossal-dreadmaw.jpg,Reprints,Colossal Dreadmaw,Creature,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,647,j25-647-commune-with-dinosaurs.jpg,Reprints,Commune with Dinosaurs,Sorcery,Common,Jonathan Kuo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,648,j25-648-deepwood-denizen.jpg,Reprints,Deepwood Denizen,Creature,Common,Josu Hernaiz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,649,j25-649-defend-the-celestus.jpg,Reprints,Defend the Celestus,Instant,Uncommon,Andrey Kuzinskiy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,650,j25-650-drover-of-the-mighty.jpg,Reprints,Drover of the Mighty,Creature,Uncommon,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,651,j25-651-drowsing-tyrannodon.jpg,Reprints,Drowsing Tyrannodon,Creature,Common,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,652,j25-652-druid-of-the-anima.jpg,Reprints,Druid of the Anima,Creature,Common,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,653,j25-653-duskshell-crawler.jpg,Reprints,Duskshell Crawler,Creature,Common,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,654,j25-654-dwynen-s-elite.jpg,Reprints,Dwynen's Elite,Creature,Uncommon,Lius Lasahido,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,655,j25-655-elvish-archdruid.jpg,Reprints,Elvish Archdruid,Creature,Rare,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,656,j25-656-fierce-witchstalker.jpg,Reprints,Fierce Witchstalker,Creature,Common,Nicholas Gregory,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,657,j25-657-for-the-family.jpg,Reprints,For the Family,Instant,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,658,j25-658-fungal-plots.jpg,Reprints,Fungal Plots,Enchantment,Uncommon,Even Amundsen,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,659,j25-659-garruk-caller-of-beasts.jpg,Reprints,"Garruk, Caller of Beasts",Lgd. Planeswalker,Mythic,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,660,j25-660-garruk-s-packleader.jpg,Reprints,Garruk's Packleader,Creature,Uncommon,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,661,j25-661-ghirapur-guide.jpg,Reprints,Ghirapur Guide,Creature,Uncommon,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,662,j25-662-giant-growth.jpg,Reprints,Giant Growth,Instant,Common,Matt Cavotta,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,663,j25-663-giant-opportunity.jpg,Reprints,Giant Opportunity,Sorcery,Uncommon,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,664,j25-664-gnarlid-colony.jpg,Reprints,Gnarlid Colony,Creature,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,665,j25-665-grazing-gladehart.jpg,Reprints,Grazing Gladehart,Creature,Common,Ryan Pancoast,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,666,j25-666-greenwood-sentinel.jpg,Reprints,Greenwood Sentinel,Creature,Common,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,667,j25-667-groundswell.jpg,Reprints,Groundswell,Instant,Common,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,668,j25-668-harrow.jpg,Reprints,Harrow,Instant,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,669,j25-669-heir-of-the-ancient-fang.jpg,Reprints,Heir of the Ancient Fang,Creature,Common,Joseph Weston,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,670,j25-670-high-rise-sawjack.jpg,Reprints,High-Rise Sawjack,Creature,Common,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,671,j25-671-hunter-s-edge.jpg,Reprints,Hunter's Edge,Sorcery,Common,Johann Bodin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,672,j25-672-insatiable-appetite.jpg,Reprints,Insatiable Appetite,Instant,Common,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,673,j25-673-invigorating-surge.jpg,Reprints,Invigorating Surge,Instant,Uncommon,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,674,j25-674-ivy-lane-denizen.jpg,Reprints,Ivy Lane Denizen,Creature,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,675,j25-675-ixalli-s-diviner.jpg,Reprints,Ixalli's Diviner,Creature,Common,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,676,j25-676-jadelight-ranger.jpg,Reprints,Jadelight Ranger,Creature,Rare,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,677,j25-677-jiang-yanggu-wildcrafter.jpg,Reprints,"Jiang Yanggu, Wildcrafter",Lgd. Planeswalker,Uncommon,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,678,j25-678-jungle-delver.jpg,Reprints,Jungle Delver,Creature,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,679,j25-679-kazandu-nectarpot.jpg,Reprints,Kazandu Nectarpot,Creature,Common,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,680,j25-680-kazandu-stomper.jpg,Reprints,Kazandu Stomper,Creature,Common,Sam Rowan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,681,j25-681-krosan-tusker.jpg,Reprints,Krosan Tusker,Creature,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,682,j25-682-kujar-seedsculptor.jpg,Reprints,Kujar Seedsculptor,Creature,Common,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,683,j25-683-leaf-crowned-visionary.jpg,Reprints,Leaf-Crowned Visionary,Creature,Rare,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,684,j25-684-llanowar-visionary.jpg,Reprints,Llanowar Visionary,Creature,Common,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,685,j25-685-lotus-cobra.jpg,Reprints,Lotus Cobra,Creature,Rare,Sam Rowan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,686,j25-686-maraleaf-rider.jpg,Reprints,Maraleaf Rider,Creature,Common,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,687,j25-687-marwyn-the-nurturer.jpg,Reprints,"Marwyn, the Nurturer",Lgd. Creature,Rare,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,688,j25-688-merfolk-branchwalker.jpg,Reprints,Merfolk Branchwalker,Creature,Uncommon,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,689,j25-689-might-of-the-masses.jpg,Reprints,Might of the Masses,Instant,Uncommon,Alex Konstad,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,690,j25-690-moldgraf-millipede.jpg,Reprints,Moldgraf Millipede,Creature,Common,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,691,j25-691-murasa-ranger.jpg,Reprints,Murasa Ranger,Creature,Uncommon,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,692,j25-692-obstinate-baloth.jpg,Reprints,Obstinate Baloth,Creature,Uncommon,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,693,j25-693-oran-rief-ooze.jpg,Reprints,Oran-Rief Ooze,Creature,Rare,Daarken,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,694,j25-694-orchard-strider.jpg,Reprints,Orchard Strider,Creature,Common,Raoul Vitale,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,695,j25-695-orochi-merge-keeper.jpg,Reprints,Orochi Merge-Keeper,Creature,Uncommon,Brent Hollowell,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,696,j25-696-overcome.jpg,Reprints,Overcome,Sorcery,Uncommon,Craig J Spearing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,697,j25-697-overwhelm.jpg,Reprints,Overwhelm,Sorcery,Uncommon,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,698,j25-698-paradise-druid.jpg,Reprints,Paradise Druid,Creature,Uncommon,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,699,j25-699-predator-s-strike.jpg,Reprints,Predator's Strike,Instant,Common,Tony Szczudlo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,700,j25-700-pridemalkin.jpg,Reprints,Pridemalkin,Creature,Common,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,701,j25-701-primeval-bounty.jpg,Reprints,Primeval Bounty,Enchantment,Mythic,Christine Choi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,702,j25-702-primeval-herald.jpg,Reprints,Primeval Herald,Creature,Uncommon,Tatiana Kirgetova,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,703,j25-703-quirion-beastcaller.jpg,Reprints,Quirion Beastcaller,Creature,Rare,Valera Lutfullina,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,704,j25-704-rampant-growth.jpg,Reprints,Rampant Growth,Sorcery,Common,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,705,j25-705-realm-seekers.jpg,Reprints,Realm Seekers,Creature,Rare,Mike Sass,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,706,j25-706-reckless-amplimancer.jpg,Reprints,Reckless Amplimancer,Creature,Common,Yigit Koroglu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,707,j25-707-retreat-to-kazandu.jpg,Reprints,Retreat to Kazandu,Enchantment,Uncommon,Kieran Yanner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,708,j25-708-rishkar-peema-renegade.jpg,Reprints,"Rishkar, Peema Renegade",Lgd. Creature,Rare,Todd Lockwood,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,709,j25-709-saproling-migration.jpg,Reprints,Saproling Migration,Sorcery,Common,Christine Choi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,710,j25-710-savage-stomp.jpg,Reprints,Savage Stomp,Sorcery,Uncommon,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,711,j25-711-servant-of-the-scale.jpg,Reprints,Servant of the Scale,Creature,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,712,j25-712-skyclave-pick-axe.jpg,Reprints,Skyclave Pick-Axe,Artifact,Uncommon,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,713,j25-713-snakeskin-veil.jpg,Reprints,Snakeskin Veil,Instant,Common,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,714,j25-714-snapping-gnarlid.jpg,Reprints,Snapping Gnarlid,Creature,Common,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,715,j25-715-somberwald-beastmaster.jpg,Reprints,Somberwald Beastmaster,Creature,Rare,Marta Nael,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,716,j25-716-spore-crawler.jpg,Reprints,Spore Crawler,Creature,Common,Nicholas Gregory,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,717,j25-717-spore-swarm.jpg,Reprints,Spore Swarm,Instant,Uncommon,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,718,j25-718-sporecrown-thallid.jpg,Reprints,Sporecrown Thallid,Creature,Uncommon,Bram Sels,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,719,j25-719-sporemound.jpg,Reprints,Sporemound,Creature,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,720,j25-720-stony-strength.jpg,Reprints,Stony Strength,Instant,Common,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,721,j25-721-tail-swipe.jpg,Reprints,Tail Swipe,Instant,Uncommon,Ângelo Bortolini,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,722,j25-722-tajuru-pathwarden.jpg,Reprints,Tajuru Pathwarden,Creature,Common,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,723,j25-723-territorial-scythecat.jpg,Reprints,Territorial Scythecat,Creature,Common,Wisnu Tan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,724,j25-724-thornweald-archer.jpg,Reprints,Thornweald Archer,Creature,Common,Dave Kendall,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,725,j25-725-thrashing-brontodon.jpg,Reprints,Thrashing Brontodon,Creature,Uncommon,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,726,j25-726-thundering-spineback.jpg,Reprints,Thundering Spineback,Creature,Uncommon,Brian Valeza,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,727,j25-727-time-to-feed.jpg,Reprints,Time to Feed,Sorcery,Common,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,728,j25-728-tireless-provisioner.jpg,Reprints,Tireless Provisioner,Creature,Uncommon,Josu Hernaiz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,729,j25-729-tireless-tracker.jpg,Reprints,Tireless Tracker,Creature,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,730,j25-730-topiary-stomper.jpg,Reprints,Topiary Stomper,Creature,Rare,Robin Olausson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,731,j25-731-tough-cookie.jpg,Reprints,Tough Cookie,Artifact Creature,Uncommon,Milivoj Ćeran,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,732,j25-732-trail-of-crumbs.jpg,Reprints,Trail of Crumbs,Enchantment,Uncommon,Daarken,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,733,j25-733-tukatongue-thallid.jpg,Reprints,Tukatongue Thallid,Creature,Common,Vance Kovacs,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,734,j25-734-tyvar-kell.jpg,Reprints,Tyvar Kell,Lgd. Planeswalker,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,735,j25-735-ulvenwald-mysteries.jpg,Reprints,Ulvenwald Mysteries,Enchantment,Uncommon,Nereida,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,736,j25-736-undergrowth-champion.jpg,Reprints,Undergrowth Champion,Creature,Mythic,Tyler Jacobson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,737,j25-737-verdeloth-the-ancient.jpg,Reprints,Verdeloth the Ancient,Lgd. Creature,Rare,Daren Bader,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,738,j25-738-voice-of-the-woods.jpg,Reprints,Voice of the Woods,Creature,Rare,Néstor Ossandón Leal,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,739,j25-739-warbriar-blessing.jpg,Reprints,Warbriar Blessing,Enchantment,Common,Michele Parisi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,740,j25-740-wolfrider-s-saddle.jpg,Reprints,Wolfrider's Saddle,Artifact,Uncommon,Raoul Vitale,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,741,j25-741-woodland-champion.jpg,Reprints,Woodland Champion,Creature,Uncommon,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,742,j25-742-bituminous-blast.jpg,Reprints,Bituminous Blast,Instant,Uncommon,Raymond Swanland,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,743,j25-743-bloodbraid-elf.jpg,Reprints,Bloodbraid Elf,Creature,Uncommon,Raymond Swanland,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,744,j25-744-enlisted-wurm.jpg,Reprints,Enlisted Wurm,Creature,Uncommon,Steve Prescott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,745,j25-745-fusion-elemental.jpg,Reprints,Fusion Elemental,Creature,Uncommon,Michael Komarck,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,746,j25-746-violent-outburst.jpg,Reprints,Violent Outburst,Instant,Common,Richard Whitters,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,747,j25-747-chief-of-the-foundry.jpg,Reprints,Chief of the Foundry,Artifact Creature,Uncommon,Daniel Ljunggren,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,748,j25-748-cliffhaven-kitesail.jpg,Reprints,Cliffhaven Kitesail,Artifact,Common,Caroline Gariba,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,749,j25-749-eager-construct.jpg,Reprints,Eager Construct,Artifact Creature,Common,Craig J Spearing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,750,j25-750-fireshrieker.jpg,Reprints,Fireshrieker,Artifact,Uncommon,Christopher Moeller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,751,j25-751-gingerbrute.jpg,Reprints,Gingerbrute,Artifact Creature,Common,Carlos Palma Cruchaga,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,752,j25-752-gorgon-flail.jpg,Reprints,Gorgon Flail,Artifact,Uncommon,Lars Grant-West,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,753,j25-753-guardian-idol.jpg,Reprints,Guardian Idol,Artifact,Uncommon,Igor Kieryluk,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,754,j25-754-maelstrom-colossus.jpg,Reprints,Maelstrom Colossus,Artifact Creature,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,755,j25-755-metalspinner-s-puzzleknot.jpg,Reprints,Metalspinner's Puzzleknot,Artifact,Common,Vincent Proce,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,756,j25-756-myr-enforcer.jpg,Reprints,Myr Enforcer,Artifact Creature,Common,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,757,j25-757-patchwork-automaton.jpg,Reprints,Patchwork Automaton,Artifact Creature,Uncommon,Donato Giancola,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,758,j25-758-prophetic-prism.jpg,Reprints,Prophetic Prism,Artifact,Common,John Avon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,759,j25-759-relic-axe.jpg,Reprints,Relic Axe,Artifact,Uncommon,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,760,j25-760-treasure-keeper.jpg,Reprints,Treasure Keeper,Artifact Creature,Uncommon,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,761,j25-761-universal-solvent.jpg,Reprints,Universal Solvent,Artifact,Common,Christopher Moeller,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,762,j25-762-whirlermaker.jpg,Reprints,Whirlermaker,Artifact,Uncommon,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,763,j25-763-cave-of-temptation.jpg,Reprints,Cave of Temptation,Land,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,764,j25-764-desert-of-the-fervent.jpg,Reprints,Desert of the Fervent,Land,Common,Titus Lunter,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,765,j25-765-evolving-wilds.jpg,Reprints,Evolving Wilds,Land,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,766,j25-766-forgotten-cave.jpg,Reprints,Forgotten Cave,Land,Uncommon,Tony Szczudlo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,767,j25-767-ipnu-rivulet.jpg,Reprints,Ipnu Rivulet,Land,Uncommon,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,768,j25-768-kabira-crossroads.jpg,Reprints,Kabira Crossroads,Land,Common,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,769,j25-769-lonely-sandbar.jpg,Reprints,Lonely Sandbar,Land,Uncommon,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,770,j25-770-memorial-to-folly.jpg,Reprints,Memorial to Folly,Land,Uncommon,Sung Choi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,771,j25-771-memorial-to-genius.jpg,Reprints,Memorial to Genius,Land,Uncommon,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,772,j25-772-memorial-to-glory.jpg,Reprints,Memorial to Glory,Land,Uncommon,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,773,j25-773-seat-of-the-synod.jpg,Reprints,Seat of the Synod,Artifact Land,Common,John Avon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,774,j25-774-secluded-steppe.jpg,Reprints,Secluded Steppe,Land,Uncommon,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,775,j25-775-thriving-bluff.jpg,Reprints,Thriving Bluff,Land,Common,Johannes Voss,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,776,j25-776-thriving-grove.jpg,Reprints,Thriving Grove,Land,Common,Ravenna Tran,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,777,j25-777-thriving-heath.jpg,Reprints,Thriving Heath,Land,Common,Alayna Danner,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,778,j25-778-thriving-isle.jpg,Reprints,Thriving Isle,Land,Common,Jonas De Ro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,779,j25-779-thriving-moor.jpg,Reprints,Thriving Moor,Land,Common,Titus Lunter,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart,J25,,780,j25-780-vault-of-whispers.jpg,Reprints,Vault of Whispers,Artifact Land,Common,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,1,fj25-1-angels.jpg,,Angels,Card,Rare,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,2,fj25-2-armed.jpg,,Armed,Card,Common,David Rapoza,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,3,fj25-3-enchanted.jpg,,Enchanted,Card,Common,Micah Epstein,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,4,fdn-4-giddyap.jpg,,Giddyap,Card,Mythic,Alessandra Pisano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,5,fj25-5-healers.jpg,,Healers,Card,Common,Justine Cruz,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,6,fj25-6-heroes.jpg,,Heroes,Card,Rare,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,7,fj25-7-legion.jpg,,Legion,Card,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,8,fdn-8-prideful.jpg,,Prideful,Card,Mythic,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,9,fj25-9-stalwart.jpg,,Stalwart,Card,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,10,fj25-10-bookworms.jpg,,Bookworms,Card,Common,Steve Prescott,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,11,fj25-11-drowned.jpg,,Drowned,Card,Rare,Irina Nordsol,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,12,fj25-12-illusions.jpg,,Illusions,Card,Mythic,Chris Cold,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,13,fj25-13-inventive.jpg,,Inventive,Card,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,14,fj25-14-ninjas.jpg,,Ninjas,Card,Mythic,Fajareka Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,15,fj25-15-of-the-coast.jpg,,Of the Coast,Card,Rare,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,16,fj25-16-soaring.jpg,,Soaring,Card,Common,Sidharth Chaturvedi,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,17,fj25-17-surprise.jpg,,Surprise!,Card,Common,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,18,fj25-18-wizards.jpg,,Wizards,Card,Rare,Magali Villeneuve,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,19,fj25-19-clerics.jpg,,Clerics,Card,Common,Kai Carpenter,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,20,fj25-20-ghastly.jpg,,Ghastly,Card,Common,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,21,fj25-21-grave-robbers.jpg,,Grave Robbers,Card,Common,Chris Seaman,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,22,fj25-22-icky.jpg,,Icky,Card,Rare,Caio Monteiro,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,23,fj25-23-ne-er-do-wells.jpg,,Ne'er-Do-Wells,Card,Rare,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,24,fj25-24-nefarious.jpg,,Nefarious,Card,Mythic,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,25,fj25-25-snakes.jpg,,Snakes,Card,Mythic,Johannes Voss,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,26,fj25-26-treasures.jpg,,Treasures,Card,Rare,Lordigan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,27,fj25-27-vampires.jpg,,Vampires,Card,Common,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,28,fj25-28-bloody.jpg,,Bloody,Card,Common,Fajareka Setiawan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,29,fj25-29-burning.jpg,,Burning,Card,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,30,fj25-30-copied.jpg,,Copied,Card,Rare,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,31,fj25-31-dragons.jpg,,Dragons,Card,Rare,Daarken,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,32,fj25-32-goblins.jpg,,Goblins,Card,Common,Olivier Bernard,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,33,fj25-33-stoked.jpg,,Stoked,Card,Common,Jason Chan,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,34,fj25-34-too-many.jpg,,Too Many,Card,Mythic,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,35,fj25-35-warriors.jpg,,Warriors,Card,Rare,Esad Ribic,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,36,fj25-36-zealots.jpg,,Zealots,Card,Common,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,37,fj25-37-beasts.jpg,,Beasts,Card,Rare,Marta Nael,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,38,fj25-38-dinner.jpg,,Dinner,Card,Mythic,Milivoj Ćeran,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,39,fj25-39-dinosaurs.jpg,,Dinosaurs,Card,Rare,Aldo Domínguez,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,40,fj25-40-elves.jpg,,Elves,Card,Common,Eric Wilkerson,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,41,fj25-41-encounter.jpg,,Encounter,Card,Common,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,42,fj25-42-explorers.jpg,,Explorers,Card,Common,Serena Malyon,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,43,fj25-43-fun-guys.jpg,,Fun Guys,Card,Rare,Borja Pindado,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,44,fj25-44-landfall.jpg,,Landfall,Card,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,45,fj25-45-modified.jpg,,Modified,Card,Mythic,Brent Hollowell,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,J25,46,fj25-46-chaos.jpg,,Chaos,Card,Mythic,Leon Tukker,Wizards of the Coast,English,English,,,,,9+

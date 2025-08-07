@@ -1,0 +1,553 @@
+﻿release_year,release_date,card_game,card_set,card_set_abbreviation,parent_set_code,card_number,card_name,card_type,card_rarity,card_artist,card_feature,images,card_manufacturer,language,language_version,card_condition,card_sub_type,card_color,card_foil,age_level
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,1,Pilot,Token Creature,Common,Julia Metzger,,tdft-1-pilot.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,2,Cat,Token Creature,Common,Monztre,,tdft-2-cat.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,3,Zombie,Token Creature,Common,Leroy Steinmann,,tdft-3-zombie.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,4,Dinosaur Dragon,Token Creature,Common,Alex Stone,,tdft-4-dinosaur-dragon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,5,Goblin,Token Creature,Common,Anthony Devine,,tdft-5-goblin.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,6,Elephant,Token Creature,Common,Milivoj Ćeran,,tdft-6-elephant.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,7,Insect,Token Creature,Common,Chris Seaman,,tdft-7-insect.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,8,Servo,Token Artifact Creature,Common,Adrián Rodríguez Pérez,,tdft-8-servo.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,9,Thopter,Token Artifact Creature,Common,Kev Fang,,tdft-9-thopter.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,10,Thopter,Token Artifact Creature,Common,Konstantin Porubov,,tdft-10-thopter.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,11,Treasure,Token Artifact,Common,Racrufi,,tdft-11-treasure.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,12,Vehicle,Token Artifact,Common,Devin Elle Kurtz,,tdft-12-vehicle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,13,"Chandra, Spark Hunter Emblem",Emblem,Common,Devin Elle Kurtz,,tdft-13-chandra-spark-hunter-emblem.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Tokens,TDFT,DFT,14,Start Your Engines! // Max Speed,Card // Card,Common,"Josiah ""Jo"" Cameron",,"tdft-14-max-speed.jpg, tdft-14-start-your-engines.jpg",Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,1,"Mendicant Core, Guidelight // Mendicant Core, Guidelight",Card // Card,Common,,,adft-1-mendicant-core-guidelight.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,2,"Far Fortune, End Boss // Far Fortune, End Boss",Card // Card,Common,,,adft-2-far-fortune-end-boss.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,3,"Caradora, Heart of Alacria // Caradora, Heart of Alacria",Card // Card,Common,,,adft-3-caradora-heart-of-alacria_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,4,"Captain Howler, Sea Scourge // Captain Howler, Sea Scourge",Card // Card,Common,,,adft-4-captain-howler-sea-scourge_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,5,Start Your Engines! // Start Your Engines!,Card // Card,Common,,,adft-5-start-your-engines_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,6,"Aatchik, Emerald Radian // Aatchik, Emerald Radian",Card // Card,Common,,,adft-6-aatchik-emerald-radian.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,7,"Winter, Cursed Rider // Winter, Cursed Rider",Card // Card,Common,,,adft-7-winter-cursed-rider_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,8,"Vnwxt, Verbose Host // Vnwxt, Verbose Host",Card // Card,Common,,,adft-8-vnwxt-verbose-host.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,9,"Basri, Tomorrow's Champion // Basri, Tomorrow's Champion",Card // Card,Common,Justyna Dura,,adft-9-basri-tomorrow-s-champion_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,10,"Zahur, Glory's Past // Zahur, Glory's Past",Card // Card,Common,,,adft-10-zahur-glory-s-past.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,11,"Far Fortune, End Boss // Far Fortune, End Boss",Card // Card,Common,,,adft-11-far-fortune-end-boss.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,12,"Mendicant Core, Guidelight // Mendicant Core, Guidelight",Card // Card,Common,,,adft-12-mendicant-core-guidelight.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,13,"Redshift, Rocketeer Chief // Redshift, Rocketeer Chief",Card // Card,Common,,,adft-13-redshift-rocketeer-chief.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,14,"Caradora, Heart of Alacria // Caradora, Heart of Alacria",Card // Card,Common,,,adft-14-caradora-heart-of-alacria.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,15,"Aatchik, Emerald Radian // Aatchik, Emerald Radian",Card // Card,Common,,,adft-15-aatchik-emerald-radian_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,16,"Captain Howler, Sea Scourge // Captain Howler, Sea Scourge",Card // Card,Common,,,adft-16-captain-howler-sea-scourge_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,17,"Kolodin, Triumph Caster // Kolodin, Triumph Caster",Card // Card,Common,,,adft-17-kolodin-triumph-caster.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,18,The Speed Demon // The Speed Demon,Card // Card,Common,,,adft-18-the-speed-demon_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,19,Gastal Blockbuster // Gastal Blockbuster,Card // Card,Common,Bryan Sola,,adft-19-gastal-blockbuster.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,20,"Chandra, Spark Hunter // Chandra, Spark Hunter",Card // Card,Common,,,adft-20-chandra-spark-hunter.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,21,Pactdoll Terror // Pactdoll Terror,Card // Card,Common,David Astruga,,adft-21-pactdoll-terror_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,22,"Loot, the Pathfinder // Loot, the Pathfinder",Card // Card,Common,,,adft-22-loot-the-pathfinder.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,23,Full Throttle // Full Throttle,Card // Card,Common,Benjamin Ee,,adft-23-full-throttle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,24,Outpace Oblivion // Outpace Oblivion,Card // Card,Common,Raymond Swanland,,adft-24-outpace-oblivion.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,25,Trade the Helm // Trade the Helm,Card // Card,Common,Lius Lasahido,,adft-25-trade-the-helm_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,26,"Sita Varma, Masked Racer // Sita Varma, Masked Racer",Card // Card,Common,,,adft-26-sita-varma-masked-racer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,27,Rangers' Refueler // Rangers' Refueler,Card // Card,Common,,,adft-27-rangers-refueler.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,28,"Mimeoplasm, Revered One // Mimeoplasm, Revered One",Card // Card,Common,,,adft-28-mimeoplasm-revered-one.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,29,The Aetherspark // The Aetherspark,Card // Card,Common,,,adft-29-the-aetherspark_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,30,District Mascot // District Mascot,Card // Card,Common,,,adft-30-district-mascot_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,31,"Nissa, Worldsoul Speaker // Nissa, Worldsoul Speaker",Card // Card,Common,Magali Villeneuve,,adft-31-nissa-worldsoul-speaker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,32,"Gonti, Night Minister // Gonti, Night Minister",Card // Card,Common,,,adft-32-gonti-night-minister.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,33,"Sab-Sunen, Luxa Embodied // Sab-Sunen, Luxa Embodied",Card // Card,Common,,,adft-33-sab-sunen-luxa-embodied_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,34,Gilded Ghoda // Gilded Ghoda,Card // Card,Common,Alexandre Honoré,,adft-34-gilded-ghoda.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,35,Skyseer's Chariot // Skyseer's Chariot,Card // Card,Common,,,adft-35-skyseer-s-chariot_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,36,Salvation Engine // Salvation Engine,Card // Card,Common,,,adft-36-salvation-engine_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,37,Spotcycle Scouter // Spotcycle Scouter,Card // Card,Common,,,adft-37-spotcycle-scouter_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,38,Midnight Mangler // Midnight Mangler,Card // Card,Common,,,adft-38-midnight-mangler_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,39,Carrion Cruiser // Carrion Cruiser,Card // Card,Common,,,adft-39-carrion-cruiser.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,40,Demonic Junker // Demonic Junker,Card // Card,Common,,,adft-40-demonic-junker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,41,Burner Rocket // Burner Rocket,Card // Card,Common,,,adft-41-burner-rocket.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,42,Earthrumbler // Earthrumbler,Card // Card,Common,,,adft-42-earthrumbler_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,43,Thunderous Velocipede // Thunderous Velocipede,Card // Card,Common,,,adft-43-thunderous-velocipede.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,44,Cloudspire Skycycle // Cloudspire Skycycle,Card // Card,Common,,,adft-44-cloudspire-skycycle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,45,Debris Beetle // Debris Beetle,Card // Card,Common,,,adft-45-debris-beetle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,46,Guidelight Pathmaker // Guidelight Pathmaker,Card // Card,Common,,,adft-46-guidelight-pathmaker_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,47,Boosted Sloop // Boosted Sloop,Card // Card,Common,,,adft-47-boosted-sloop_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,48,Thundering Broodwagon // Thundering Broodwagon,Card // Card,Common,,,adft-48-thundering-broodwagon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,49,Rocketeer Boostbuggy // Rocketeer Boostbuggy,Card // Card,Common,,,adft-49-rocketeer-boostbuggy.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,50,District Mascot // District Mascot,Card // Card,Common,,,adft-50-district-mascot_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,51,Fearless Swashbuckler // Fearless Swashbuckler,Card // Card,Common,,,adft-51-fearless-swashbuckler_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,52,"Hazoret, Godseeker // Hazoret, Godseeker",Card // Card,Common,,,adft-52-hazoret-godseeker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,53,Brightglass Gearhulk // Brightglass Gearhulk,Card // Card,Common,,,adft-53-brightglass-gearhulk_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Art Series,ADFT,DFT,54,Coalstoke Gearhulk // Coalstoke Gearhulk,Card // Card,Common,,,adft-54-coalstoke-gearhulk_002.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,1,"Hashaton, Scarab's Fist",Lgd. Creature,Mythic,Wisnu Tan,,drc-1-hashaton-scarab-s-fist.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,2,"Pia Nalaar, Chief Mechanic",Lgd. Creature,Mythic,Bram Sels,,drc-2-pia-nalaar-chief-mechanic.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,3,"Saheeli, Radiant Creator",Lgd. Creature,Mythic,Ernanda Souza,,drc-3-saheeli-radiant-creator.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,4,"Temmet, Naktamun's Will",Lgd. Creature,Mythic,Douglas Shuler,,drc-4-temmet-naktamun-s-will.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,5,On Wings of Gold,Enchantment,Rare,Danny Schwartz,,drc-5-on-wings-of-gold.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,6,Priest of the Crossing,Creature,Rare,Edgar Sánchez Hidalgo,,drc-6-priest-of-the-crossing.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,7,Renewed Solidarity,Enchantment,Rare,Julie Dillon,,drc-7-renewed-solidarity.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,8,Wizened Mentor,Creature,Rare,Bruno Biazotto,,drc-8-wizened-mentor.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,9,Prophet of the Scarab,Creature,Rare,Cristi Balanescu,,drc-9-prophet-of-the-scarab.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,10,Rhet-Tomb Mystic,Creature,Rare,Irina Nordsol,,drc-10-rhet-tomb-mystic.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,11,Lost Monarch of Ifnir,Creature,Rare,Piotr Dura,,drc-11-lost-monarch-of-ifnir.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,12,Territorial Aetherkite,Creature,Rare,Lars Grant-West,,drc-12-territorial-aetherkite.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,13,"Nissa, Worldsoul Speaker",Lgd. Creature,Rare,Magali Villeneuve,,drc-13-nissa-worldsoul-speaker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,14,Peema Trailblazer,Creature,Rare,Michele Giorgi,,drc-14-peema-trailblazer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,15,Rampaging Aetherhood,Creature,Rare,Ron Spencer,,drc-15-rampaging-aetherhood.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,16,Adaptive Omnitool,Artifact,Rare,Adrián Rodríguez Pérez,,drc-16-adaptive-omnitool.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,17,Aetherflux Conduit,Artifact,Rare,Michael Phillippi,,drc-17-aetherflux-conduit.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,18,Aetheric Amplifier,Artifact,Rare,Victor Sales,,drc-18-aetheric-amplifier.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,19,Stridehangar Automaton,Artifact Creature,Rare,Aaron J. Riley,,drc-19-stridehangar-automaton.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,20,Accursed Duneyard,Land,Rare,Maxime Minard,,drc-20-accursed-duneyard.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,21,On Wings of Gold,Enchantment,Rare,Danny Schwartz,,drc-21-on-wings-of-gold.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,22,Priest of the Crossing,Creature,Rare,Edgar Sánchez Hidalgo,,drc-22-priest-of-the-crossing.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,23,Renewed Solidarity,Enchantment,Rare,Julie Dillon,,drc-23-renewed-solidarity.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,24,Wizened Mentor,Creature,Rare,Bruno Biazotto,,drc-24-wizened-mentor.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,25,Prophet of the Scarab,Creature,Rare,Cristi Balanescu,,drc-25-prophet-of-the-scarab.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,26,Rhet-Tomb Mystic,Creature,Rare,Irina Nordsol,,drc-26-rhet-tomb-mystic.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,27,Lost Monarch of Ifnir,Creature,Rare,Piotr Dura,,drc-27-lost-monarch-of-ifnir.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,28,Territorial Aetherkite,Creature,Rare,Lars Grant-West,,drc-28-territorial-aetherkite.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,29,"Nissa, Worldsoul Speaker",Lgd. Creature,Rare,Magali Villeneuve,,drc-29-nissa-worldsoul-speaker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,30,Peema Trailblazer,Creature,Rare,Michele Giorgi,,drc-30-peema-trailblazer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,31,Rampaging Aetherhood,Creature,Rare,Ron Spencer,,drc-31-rampaging-aetherhood.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,32,Adaptive Omnitool,Artifact,Rare,Adrián Rodríguez Pérez,,drc-32-adaptive-omnitool.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,33,Aetherflux Conduit,Artifact,Rare,Michael Phillippi,,drc-33-aetherflux-conduit.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,34,Aetheric Amplifier,Artifact,Rare,Victor Sales,,drc-34-aetheric-amplifier.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,35,Stridehangar Automaton,Artifact Creature,Rare,Aaron J. Riley,,drc-35-stridehangar-automaton.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,36,Accursed Duneyard,Land,Rare,Maxime Minard,,drc-36-accursed-duneyard.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,37,Swords to Plowshares,Instant,Uncommon,Piotr Dura,,drc-37-swords-to-plowshares.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,38,Commence the Endgame,Instant,Rare,Helge C. Balzer,,drc-38-commence-the-endgame.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,39,Reality Shift,Instant,Uncommon,Villarrte,,drc-39-reality-shift.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,40,Corpse Augur,Creature,Uncommon,Ryan Pancoast,,drc-40-corpse-augur.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,41,Cryptbreaker,Creature,Rare,Slawomir Maniak,,drc-41-cryptbreaker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,42,Grave Titan,Creature,Mythic,Loïc Canavaggia,,drc-42-grave-titan.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,43,Gravecrawler,Creature,Rare,Josh Hass,,drc-43-gravecrawler.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,44,Midnight Reaper,Creature,Rare,Josh Hass,,drc-44-midnight-reaper.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,45,Murderous Rider // Swift End,Creature,Rare,Raluca Marinescu,,drc-45-murderous-rider.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,46,Zombie Master,Creature,Rare,Yohann Schepacz,,drc-46-zombie-master.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,47,Chain Reaction,Sorcery,Rare,Maxime Minard,,drc-47-chain-reaction.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,48,Chaos Warp,Instant,Rare,Mathias Kollros,,drc-48-chaos-warp.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,49,Druid of Purification,Creature,Rare,Volkan Baǵa,,drc-49-druid-of-purification.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,50,Corpse Knight,Creature,Uncommon,Filip Burburan,,drc-50-corpse-knight.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,51,Arcane Signet,Artifact,Common,Michael Phillippi,,drc-51-arcane-signet.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,52,Arcane Signet,Artifact,Common,Ernanda Souza,,drc-52-arcane-signet.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,53,Chromatic Lantern,Artifact,Rare,Julie Dillon,,drc-53-chromatic-lantern.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,54,Duplicant,Artifact Creature,Rare,Hardy Fowler,,drc-54-duplicant.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,55,Lightning Greaves,Artifact,Uncommon,"Brigitte Roka, Clifton Stommel",,drc-55-lightning-greaves.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,56,Sol Ring,Artifact,Uncommon,Rémi Jacquot,,drc-56-sol-ring.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,57,Sol Ring,Artifact,Uncommon,Piotr Dura,,drc-57-sol-ring.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,58,Academy Ruins,Lgd. Land,Rare,Josu Solano,,drc-58-academy-ruins.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,59,Command Tower,Land,Common,Leon Tukker,,drc-59-command-tower.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,60,Command Tower,Land,Common,Alayna Danner,,drc-60-command-tower.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,61,Path of Ancestry,Land,Common,Wisnu Tan,,drc-61-path-of-ancestry.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,62,Angel of Sanctions,Creature,Mythic,Min Yum,,drc-62-angel-of-sanctions.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,63,Binding Mummy,Creature,Common,Shreya Shetty,,drc-63-binding-mummy.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,64,Cast Out,Enchantment,Uncommon,Magali Villeneuve,,drc-64-cast-out.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,65,Dusk // Dawn,Sorcery // Sorcery,Rare,Kasia 'Kafis' Zielińska,,drc-65-dusk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,66,God-Eternal Oketra,Lgd. Creature,Mythic,Grzegorz Rutkowski,,drc-66-god-eternal-oketra.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,67,Timeless Dragon,Creature,Rare,Anastasia Ovchinnikova,,drc-67-timeless-dragon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,68,Aethersquall Ancient,Creature,Rare,Sam Burley,,drc-68-aethersquall-ancient.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,69,Aethertide Whale,Creature,Rare,Steven Belledin,,drc-69-aethertide-whale.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,70,Arcane Denial,Instant,Common,Xi Zhang,,drc-70-arcane-denial.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,71,Bespoke Battlewagon,Artifact,Uncommon,Zoltan Boros,,drc-71-bespoke-battlewagon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,72,Champion of Wits,Creature,Rare,Even Amundsen,,drc-72-champion-of-wits.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,73,Confiscation Coup,Sorcery,Rare,Joseph Meehan,,drc-73-confiscation-coup.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,74,Disallow,Instant,Rare,Min Yum,,drc-74-disallow.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,75,Era of Innovation,Enchantment,Uncommon,Jason Rainville,,drc-75-era-of-innovation.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,76,Eternal Skylord,Creature,Uncommon,Johan Grenier,,drc-76-eternal-skylord.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,77,Forgotten Creation,Creature,Rare,Izzy,,drc-77-forgotten-creation.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,78,Glimmer of Genius,Instant,Uncommon,Tommy Arnold,,drc-78-glimmer-of-genius.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,79,Midnight Clock,Artifact,Rare,Alexander Forssberg,,drc-79-midnight-clock.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,80,One with the Machine,Sorcery,Rare,Chase Stone,,drc-80-one-with-the-machine.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,81,Pull from Tomorrow,Instant,Rare,Sara Winters,,drc-81-pull-from-tomorrow.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,82,"Sai, Master Thopterist",Lgd. Creature,Rare,Adam Paquette,,drc-82-sai-master-thopterist.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,83,Thopter Spy Network,Enchantment,Rare,Jung Park,,drc-83-thopter-spy-network.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,84,Vizier of Many Faces,Creature,Rare,Ryan Yee,,drc-84-vizier-of-many-faces.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,85,Whirler Rogue,Creature,Uncommon,Winona Nelson,,drc-85-whirler-rogue.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,86,Archfiend of Ifnir,Creature,Rare,Seb McKinnon,,drc-86-archfiend-of-ifnir.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,87,Cemetery Reaper,Creature,Rare,Dave Allsop,,drc-87-cemetery-reaper.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,88,Crowded Crypt,Artifact,Rare,Jarel Threat,,drc-88-crowded-crypt.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,89,Damn,Sorcery,Rare,Lucas Graciano,,drc-89-damn.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,90,Dread Summons,Sorcery,Rare,Izzy,,drc-90-dread-summons.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,91,Dreadhorde Invasion,Enchantment,Rare,Stanton Feng,,drc-91-dreadhorde-invasion.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,92,Fleshbag Marauder,Creature,Uncommon,Mark Zug,,drc-92-fleshbag-marauder.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,93,Gempalm Polluter,Creature,Common,Dany Orizio,,drc-93-gempalm-polluter.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,94,"Liliana, Death's Majesty",Lgd. Planeswalker,Mythic,Chris Rallis,,drc-94-liliana-death-s-majesty.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,95,Lord of the Accursed,Creature,Uncommon,Grzegorz Rutkowski,,drc-95-lord-of-the-accursed.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,96,Never // Return,Sorcery // Sorcery,Rare,Daarken,,drc-96-never.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,97,Plague Belcher,Creature,Rare,Izzy,,drc-97-plague-belcher.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,98,Rot Hulk,Creature,Mythic,Grzegorz Rutkowski,,drc-98-rot-hulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,99,Twisted Abomination,Creature,Common,Daren Bader,,drc-99-twisted-abomination.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,100,Undead Augur,Creature,Uncommon,Sara Winters,,drc-100-undead-augur.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,101,Blasphemous Act,Sorcery,Rare,Daarken,,drc-101-blasphemous-act.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,102,Combustible Gearhulk,Artifact Creature,Mythic,Daarken,,drc-102-combustible-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,103,Lightning Runner,Creature,Mythic,Raymond Swanland,,drc-103-lightning-runner.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,104,Loyal Apprentice,Creature,Uncommon,Joe Slucher,,drc-104-loyal-apprentice.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,105,Pia and Kiran Nalaar,Lgd. Creature,Rare,Eric Deschamps,,drc-105-pia-and-kiran-nalaar.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,106,Reckless Fireweaver,Creature,Common,Deruchenko Alexander,,drc-106-reckless-fireweaver.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,107,Aetherwind Basker,Creature,Mythic,Svetlin Velinov,,drc-107-aetherwind-basker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,108,Architect of the Untamed,Creature,Rare,Sara Winters,,drc-108-architect-of-the-untamed.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,109,Attune with Aether,Sorcery,Common,Wesley Burt,,drc-109-attune-with-aether.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,110,Bootleggers' Stash,Artifact,Mythic,Anastasia Ovchinnikova,,drc-110-bootleggers-stash.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,111,Elder Gargaroth,Creature,Mythic,Nicholas Gregory,,drc-111-elder-gargaroth.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,112,Explosive Vegetation,Sorcery,Uncommon,John Avon,,drc-112-explosive-vegetation.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,113,Peema Aether-Seer,Creature,Uncommon,Howard Lyon,,drc-113-peema-aether-seer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,114,Servant of the Conduit,Creature,Uncommon,Magali Villeneuve,,drc-114-servant-of-the-conduit.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,115,Despark,Instant,Uncommon,Slawomir Maniak,,drc-115-despark.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,116,Gleaming Overseer,Creature,Uncommon,Volkan Baǵa,,drc-116-gleaming-overseer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,117,Lazotep Chancellor,Creature,Uncommon,Josu Hernaiz,,drc-117-lazotep-chancellor.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,118,Rogue Refiner,Creature,Uncommon,Victor Adame Minguez,,drc-118-rogue-refiner.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,119,"Saheeli, Sublime Artificer",Lgd. Planeswalker,Uncommon,Wesley Burt,,drc-119-saheeli-sublime-artificer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,120,The Scarab God,Lgd. Creature,Mythic,Lius Lasahido,,drc-120-the-scarab-god.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,121,Wayward Servant,Creature,Uncommon,Anthony Palumbo,,drc-121-wayward-servant.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,122,Whirler Virtuoso,Creature,Uncommon,Lake Hurwitz,,drc-122-whirler-virtuoso.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,123,Aetherworks Marvel,Lgd. Artifact,Mythic,James Paick,,drc-123-aetherworks-marvel.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,124,Bontu's Monument,Lgd. Artifact,Uncommon,Jonas De Ro,,drc-124-bontu-s-monument.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,125,Commander's Sphere,Artifact,Common,Ryan Alexander Lee,,drc-125-commander-s-sphere.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,126,Conjurer's Closet,Artifact,Rare,Jason Felix,,drc-126-conjurer-s-closet.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,127,Cultivator's Caravan,Artifact,Rare,Mark Zug,,drc-127-cultivator-s-caravan.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,128,Decoction Module,Artifact,Uncommon,Aaron Miller,,drc-128-decoction-module.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,129,Dimir Signet,Artifact,Uncommon,Greg Hildebrandt,,drc-129-dimir-signet.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,130,Gate to the Afterlife,Artifact,Uncommon,Christine Choi,,drc-130-gate-to-the-afterlife.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,131,God-Pharaoh's Gift,Artifact,Rare,Titus Lunter,,drc-131-god-pharaoh-s-gift.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,132,Maskwood Nexus,Artifact,Rare,Jason A. Engle,,drc-132-maskwood-nexus.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,133,Ornithopter of Paradise,Artifact Creature,Common,Raoul Vitale,,drc-133-ornithopter-of-paradise.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,134,Orzhov Signet,Artifact,Uncommon,Greg Hildebrandt,,drc-134-orzhov-signet.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,135,Panharmonicon,Artifact,Rare,Volkan Baǵa,,drc-135-panharmonicon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,136,Retrofitter Foundry,Artifact,Rare,Dmitry Burmak,,drc-136-retrofitter-foundry.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,137,Solar Transformer,Artifact,Uncommon,Mike Bierek,,drc-137-solar-transformer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,138,Solemn Simulacrum,Artifact Creature,Rare,Dan Murayama Scott,,drc-138-solemn-simulacrum.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,139,Soul-Guide Lantern,Artifact,Uncommon,Cliff Childs,,drc-139-soul-guide-lantern.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,140,Talisman of Curiosity,Artifact,Uncommon,Lindsey Look,,drc-140-talisman-of-curiosity.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,141,Talisman of Dominance,Artifact,Uncommon,Mike Dringenberg,,drc-141-talisman-of-dominance.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,142,Talisman of Hierarchy,Artifact,Uncommon,Lindsey Look,,drc-142-talisman-of-hierarchy.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,143,Triplicate Titan,Artifact Creature,Rare,Andrew Mar,,drc-143-triplicate-titan.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,144,Adarkar Wastes,Land,Rare,Gary Leach,,drc-144-adarkar-wastes.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,145,Aether Hub,Land,Uncommon,Sam Burley,,drc-145-aether-hub.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,146,Arcane Sanctum,Land,Uncommon,Anthony Francisco,,drc-146-arcane-sanctum.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,147,Ash Barrens,Land,Common,Jonas De Ro,,drc-147-ash-barrens.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,148,Caves of Koilos,Land,Rare,Jim Nelson,,drc-148-caves-of-koilos.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,149,Desert of the Glorified,Land,Common,Jonas De Ro,,drc-149-desert-of-the-glorified.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,150,Desert of the Mindful,Land,Common,Christine Choi,,drc-150-desert-of-the-mindful.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,151,Desert of the True,Land,Common,Jung Park,,drc-151-desert-of-the-true.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,152,Drowned Catacomb,Land,Rare,Dave Kendall,,drc-152-drowned-catacomb.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,153,Evolving Wilds,Land,Common,Christine Choi,,drc-153-evolving-wilds.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,154,Evolving Wilds,Land,Common,Andreas Rocha,,drc-154-evolving-wilds.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,155,Exotic Orchard,Land,Rare,Steven Belledin,,drc-155-exotic-orchard.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,156,Fetid Pools,Land,Rare,Jonas De Ro,,drc-156-fetid-pools.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,157,Frontier Bivouac,Land,Uncommon,Titus Lunter,,drc-157-frontier-bivouac.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,158,Frostboil Snarl,Land,Rare,Sam Burley,,drc-158-frostboil-snarl.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,159,Glacial Fortress,Land,Rare,James Paick,,drc-159-glacial-fortress.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,160,Hinterland Harbor,Land,Rare,Daniel Ljunggren,,drc-160-hinterland-harbor.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,161,Irrigated Farmland,Land,Rare,Jonas De Ro,,drc-161-irrigated-farmland.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,162,Isolated Chapel,Land,Rare,Cliff Childs,,drc-162-isolated-chapel.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,163,Karplusan Forest,Land,Rare,Sam Burley,,drc-163-karplusan-forest.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,164,Orzhov Basilica,Land,Uncommon,John Avon,,drc-164-orzhov-basilica.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,165,Overflowing Basin,Land,Rare,Sarah Finnigan,,drc-165-overflowing-basin.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,166,Path of Ancestry,Land,Common,Alayna Danner,,drc-166-path-of-ancestry.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,167,Prairie Stream,Land,Rare,Adam Paquette,,drc-167-prairie-stream.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,168,Rootbound Crag,Land,Rare,Grzegorz Rutkowski,,drc-168-rootbound-crag.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,169,Sheltered Thicket,Land,Rare,Sung Choi,,drc-169-sheltered-thicket.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,170,Shivan Reef,Land,Rare,Andrew Mar,,drc-170-shivan-reef.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,171,Slagwoods Bridge,Artifact Land,Common,Lucas Graciano,,drc-171-slagwoods-bridge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,172,Spire of Industry,Land,Rare,John Avon,,drc-172-spire-of-industry.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,173,Sulfur Falls,Land,Rare,Cliff Childs,,drc-173-sulfur-falls.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,174,Sunken Hollow,Land,Rare,Adam Paquette,,drc-174-sunken-hollow.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,175,Tanglepool Bridge,Artifact Land,Common,Randy Gallegos,,drc-175-tanglepool-bridge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,176,Temple of Deceit,Land,Rare,Raymond Swanland,,drc-176-temple-of-deceit.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,177,Temple of Epiphany,Land,Rare,Yeong-Hao Han,,drc-177-temple-of-epiphany.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,178,Temple of Silence,Land,Rare,Adam Paquette,,drc-178-temple-of-silence.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,179,Terramorphic Expanse,Land,Common,Andreas Rocha,,drc-179-terramorphic-expanse.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,180,Treasure Vault,Artifact Land,Rare,Johannes Voss,,drc-180-treasure-vault.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,181,Underground River,Land,Rare,Andrew Goldhawk,,drc-181-underground-river.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,182,Unholy Grotto,Land,Rare,John Avon,,drc-182-unholy-grotto.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,183,Vineglimmer Snarl,Land,Rare,Sam Burley,,drc-183-vineglimmer-snarl.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander,DRC,,184,Yavimaya Coast,Land,Rare,Jesper Ejsing,,drc-184-yavimaya-coast.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,1,Angel of Sanctions,Token Creature,Common,Min Yum,,tdrc-1-angel-of-sanctions.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,2,Vizier of Many Faces,Token Creature,Common,Ryan Yee,,tdrc-2-vizier-of-many-faces.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,3,Zombie,Token Creature,Common,Bram Sels,,tdrc-3-zombie.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,4,Shapeshifter,Token Creature,Common,Filip Burburan,,tdrc-4-shapeshifter.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,5,Champion of Wits,Token Creature,Common,Even Amundsen,,tdrc-5-champion-of-wits.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,6,Timeless Dragon,Token Creature,Common,Anastasia Ovchinnikova,,tdrc-6-timeless-dragon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,7,Zombie,Token Creature,Common,Sam White,,tdrc-7-zombie.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,8,Zombie Army,Token Creature,Common,David Astruga,,tdrc-8-zombie-army.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,9,Zombie Warrior,Token Creature,Common,Mike Bierek,,tdrc-9-zombie-warrior.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,10,Beast,Token Creature,Common,Jason Felix,,tdrc-10-beast.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,11,Beast,Token Artifact Creature,Common,Sara Winters,,tdrc-11-beast.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,12,Construct,Token Artifact Creature,Common,Craig J Spearing,,tdrc-12-construct.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,13,Golem,Token Artifact Creature,Common,Andrew Mar,,tdrc-13-golem.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,14,Golem,Token Artifact Creature,Common,Andrew Mar,,tdrc-14-golem.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,15,Golem,Token Artifact Creature,Common,Andrew Mar,,tdrc-15-golem.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,16,Nalaar Aetherjet,Token Artifact,Common,Victor Sales,,tdrc-16-nalaar-aetherjet.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Commander Tokens,TDRC,DRC,17,Energy Reserve,Card,Common,Liz Leo,,tdrc-17-energy-reserve.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,3p,"Basri, Tomorrow's Champion",Lgd. Creature,Rare,Kai Carpenter,,pdft-3p-basri-tomorrow-s-champion.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,3s,"Basri, Tomorrow's Champion",Lgd. Creature,Rare,Kai Carpenter,,pdft-3s-basri-tomorrow-s-champion.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,7p,Bulwark Ox,Creature,Rare,Brent Hollowell,,pdft-7p-bulwark-ox.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,7s,Bulwark Ox,Creature,Rare,Brent Hollowell,,pdft-7s-bulwark-ox.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,15p,Guardian Sunmare,Creature,Rare,Christina Kraus,,pdft-15p-guardian-sunmare.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,15s,Guardian Sunmare,Creature,Rare,Christina Kraus,,pdft-15s-guardian-sunmare.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,23p,Perilous Snare,Artifact,Rare,Chris Seaman,,pdft-23p-perilous-snare.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,23s,Perilous Snare,Artifact,Rare,Chris Seaman,,pdft-23s-perilous-snare.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,27p,Salvation Engine,Artifact,Mythic,Ben Wootten,,pdft-27p-salvation-engine.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,27s,Salvation Engine,Artifact,Mythic,Ben Wootten,,pdft-27s-salvation-engine.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,28p,Skyseer's Chariot,Artifact,Rare,Carl Critchlow,,pdft-28p-skyseer-s-chariot.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,28s,Skyseer's Chariot,Artifact,Rare,Carl Critchlow,,pdft-28s-skyseer-s-chariot.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,29p,Spectacular Pileup,Sorcery,Rare,Zezhou Chen,,pdft-29p-spectacular-pileup.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,29s,Spectacular Pileup,Sorcery,Rare,Zezhou Chen,,pdft-29s-spectacular-pileup.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,35p,Valor's Flagship,Lgd. Artifact,Mythic,Stephan Martiniere,,pdft-35p-valor-s-flagship.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,35s,Valor's Flagship,Lgd. Artifact,Mythic,Stephan Martiniere,,pdft-35s-valor-s-flagship.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,36p,Voyager Glidecar,Artifact,Rare,Eduardo Francisco,,pdft-36p-voyager-glidecar.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,36s,Voyager Glidecar,Artifact,Rare,Eduardo Francisco,,pdft-36s-voyager-glidecar.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,51p,Mindspring Merfolk,Creature,Rare,Andreia Ugrai,,pdft-51p-mindspring-merfolk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,51s,Mindspring Merfolk,Creature,Rare,Andreia Ugrai,,pdft-51s-mindspring-merfolk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,52p,"Mu Yanling, Wind Rider",Lgd. Creature,Mythic,Justyna Dura,,pdft-52p-mu-yanling-wind-rider.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,52s,"Mu Yanling, Wind Rider",Lgd. Creature,Mythic,Justyna Dura,,pdft-52s-mu-yanling-wind-rider.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,54p,Possession Engine,Artifact,Rare,Leroy Steinmann,,pdft-54p-possession-engine.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,54s,Possession Engine,Artifact,Rare,Leroy Steinmann,,pdft-54s-possession-engine.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,56p,Repurposing Bay,Artifact,Rare,William Tempest,,pdft-56p-repurposing-bay.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,56s,Repurposing Bay,Artifact,Rare,William Tempest,,pdft-56s-repurposing-bay.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,57p,Riverchurn Monument,Artifact,Rare,Anthony Devine,,pdft-57p-riverchurn-monument.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,57s,Riverchurn Monument,Artifact,Rare,Anthony Devine,,pdft-57s-riverchurn-monument.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,68p,Thopter Fabricator,Artifact,Rare,Racrufi,,pdft-68p-thopter-fabricator.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,68s,Thopter Fabricator,Artifact,Rare,Racrufi,,pdft-68s-thopter-fabricator.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,72p,Unstoppable Plan,Enchantment,Rare,Borja Pindado,,pdft-72p-unstoppable-plan.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,72s,Unstoppable Plan,Enchantment,Rare,Borja Pindado,,pdft-72s-unstoppable-plan.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,73p,"Vnwxt, Verbose Host",Lgd. Creature,Rare,Izzy,,pdft-73p-vnwxt-verbose-host.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,73s,"Vnwxt, Verbose Host",Lgd. Creature,Rare,Izzy,,pdft-73s-vnwxt-verbose-host.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,74p,Waxen Shapethief,Creature,Rare,Helge C. Balzer,,pdft-74p-waxen-shapethief.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,74s,Waxen Shapethief,Creature,Rare,Helge C. Balzer,,pdft-74s-waxen-shapethief.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,77p,Bloodghast,Creature,Rare,Francisco Badilla,,pdft-77p-bloodghast.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,77s,Bloodghast,Creature,Rare,Francisco Badilla,,pdft-77s-bloodghast.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,80p,Cryptcaller Chariot,Artifact,Rare,Aaron Miller,,pdft-80p-cryptcaller-chariot.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,80s,Cryptcaller Chariot,Artifact,Rare,Aaron Miller,,pdft-80s-cryptcaller-chariot.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,81p,Cursecloth Wrappings,Artifact,Rare,Dominik Mayer,,pdft-81p-cursecloth-wrappings.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,81s,Cursecloth Wrappings,Artifact,Rare,Dominik Mayer,,pdft-81s-cursecloth-wrappings.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,83p,Demonic Junker,Artifact,Rare,Stephan Martiniere,,pdft-83p-demonic-junker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,83s,Demonic Junker,Artifact,Rare,Stephan Martiniere,,pdft-83s-demonic-junker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,85p,Gas Guzzler,Creature,Rare,Yohann Schepacz,,pdft-85p-gas-guzzler.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,85s,Gas Guzzler,Creature,Rare,Yohann Schepacz,,pdft-85s-gas-guzzler.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,87p,"Gonti, Night Minister",Lgd. Creature,Rare,Scott M. Fischer,,pdft-87p-gonti-night-minister.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,87s,"Gonti, Night Minister",Lgd. Creature,Rare,Scott M. Fischer,,pdft-87s-gonti-night-minister.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,94p,The Last Ride,Lgd. Artifact,Mythic,Michele Giorgi,,pdft-94p-the-last-ride.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,94s,The Last Ride,Lgd. Artifact,Mythic,Michele Giorgi,,pdft-94s-the-last-ride.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,100p,Quag Feast,Sorcery,Rare,Loïc Canavaggia,,pdft-100p-quag-feast.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,100s,Quag Feast,Sorcery,Rare,Loïc Canavaggia,,pdft-100s-quag-feast.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,105p,The Speed Demon,Lgd. Creature,Mythic,Helge C. Balzer,,pdft-105p-the-speed-demon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,105s,The Speed Demon,Lgd. Creature,Mythic,Helge C. Balzer,,pdft-105s-the-speed-demon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,113p,Boommobile,Artifact,Rare,Alexandr Leskinen,,pdft-113p-boommobile.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,113s,Boommobile,Artifact,Rare,Alexandr Leskinen,,pdft-113s-boommobile.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,115p,Burnout Bashtronaut,Creature,Rare,Andrea Piparo,,pdft-115p-burnout-bashtronaut.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,115s,Burnout Bashtronaut,Creature,Rare,Andrea Piparo,,pdft-115s-burnout-bashtronaut.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,116p,"Chandra, Spark Hunter",Lgd. Planeswalker,Mythic,Devin Elle Kurtz,,pdft-116p-chandra-spark-hunter.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,116s,"Chandra, Spark Hunter",Lgd. Planeswalker,Mythic,Devin Elle Kurtz,,pdft-116s-chandra-spark-hunter.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,118p,Count on Luck,Enchantment,Rare,Michal Ivan,,pdft-118p-count-on-luck.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,118s,Count on Luck,Enchantment,Rare,Michal Ivan,,pdft-118s-count-on-luck.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,120p,"Daretti, Rocketeer Engineer",Lgd. Creature,Rare,Borja Pindado,,pdft-120p-daretti-rocketeer-engineer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,120s,"Daretti, Rocketeer Engineer",Lgd. Creature,Rare,Borja Pindado,,pdft-120s-daretti-rocketeer-engineer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,121p,Draconautics Engineer,Creature,Rare,Artur Nakhodkin,,pdft-121p-draconautics-engineer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,121s,Draconautics Engineer,Creature,Rare,Artur Nakhodkin,,pdft-121s-draconautics-engineer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,127p,Full Throttle,Sorcery,Rare,Benjamin Ee,,pdft-127p-full-throttle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,127s,Full Throttle,Sorcery,Rare,Benjamin Ee,,pdft-127s-full-throttle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,129p,Gastal Thrillroller,Artifact,Rare,Caio Monteiro,,pdft-129p-gastal-thrillroller.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,129s,Gastal Thrillroller,Artifact,Rare,Caio Monteiro,,pdft-129s-gastal-thrillroller.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,133p,"Hazoret, Godseeker",Lgd. Creature,Mythic,Chris Rallis,,pdft-133p-hazoret-godseeker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,133s,"Hazoret, Godseeker",Lgd. Creature,Mythic,Chris Rallis,,pdft-133s-hazoret-godseeker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,134p,Howlsquad Heavy,Creature,Rare,Leonardo Santanna,,pdft-134p-howlsquad-heavy.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,134s,Howlsquad Heavy,Creature,Rare,Leonardo Santanna,,pdft-134s-howlsquad-heavy.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,150p,Afterburner Expert,Creature,Rare,April Prime,,pdft-150p-afterburner-expert.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,150s,Afterburner Expert,Creature,Rare,April Prime,,pdft-150s-afterburner-expert.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,151p,Agonasaur Rex,Creature,Rare,Lucas Graciano,,pdft-151p-agonasaur-rex.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,151s,Agonasaur Rex,Creature,Rare,Lucas Graciano,,pdft-151s-agonasaur-rex.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,158p,District Mascot,Creature,Rare,Liiga Smilshkalne,,pdft-158p-district-mascot.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,158s,District Mascot,Creature,Rare,Liiga Smilshkalne,,pdft-158s-district-mascot.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,168p,Lumbering Worldwagon,Artifact,Rare,Raph Lomotan,,pdft-168p-lumbering-worldwagon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,168s,Lumbering Worldwagon,Artifact,Rare,Raph Lomotan,,pdft-168s-lumbering-worldwagon.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,169p,March of the World Ooze,Enchantment,Mythic,Helge C. Balzer,,pdft-169p-march-of-the-world-ooze.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,169s,March of the World Ooze,Enchantment,Mythic,Helge C. Balzer,,pdft-169s-march-of-the-world-ooze.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,173p,"Oviya, Automech Artisan",Lgd. Creature,Rare,Julia Metzger,,pdft-173p-oviya-automech-artisan.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,173s,"Oviya, Automech Artisan",Lgd. Creature,Rare,Julia Metzger,,pdft-173s-oviya-automech-artisan.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,177p,Regal Imperiosaur,Creature,Rare,Stephanie Cheung,,pdft-177p-regal-imperiosaur.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,177s,Regal Imperiosaur,Creature,Rare,Stephanie Cheung,,pdft-177s-regal-imperiosaur.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,183p,Thunderous Velocipede,Artifact,Mythic,Adrián Rodríguez Pérez,,pdft-183p-thunderous-velocipede.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,183s,Thunderous Velocipede,Artifact,Mythic,Adrián Rodríguez Pérez,,pdft-183s-thunderous-velocipede.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,186p,Webstrike Elite,Creature,Rare,Andrew Mar,,pdft-186p-webstrike-elite.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,186s,Webstrike Elite,Creature,Rare,Andrew Mar,,pdft-186s-webstrike-elite.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,187p,"Aatchik, Emerald Radian",Lgd. Creature,Rare,Loïc Canavaggia,,pdft-187p-aatchik-emerald-radian.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,187s,"Aatchik, Emerald Radian",Lgd. Creature,Rare,Loïc Canavaggia,,pdft-187s-aatchik-emerald-radian.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,191p,Brightglass Gearhulk,Artifact Creature,Mythic,José Parodi,,pdft-191p-brightglass-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,191s,Brightglass Gearhulk,Artifact Creature,Mythic,José Parodi,,pdft-191s-brightglass-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,194p,"Captain Howler, Sea Scourge",Lgd. Creature,Rare,Mirko Failoni,,pdft-194p-captain-howler-sea-scourge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,194s,"Captain Howler, Sea Scourge",Lgd. Creature,Rare,Mirko Failoni,,pdft-194s-captain-howler-sea-scourge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,195p,"Caradora, Heart of Alacria",Lgd. Creature,Rare,Mirko Failoni,,pdft-195p-caradora-heart-of-alacria.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,195s,"Caradora, Heart of Alacria",Lgd. Creature,Rare,Mirko Failoni,,pdft-195s-caradora-heart-of-alacria.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,198p,Coalstoke Gearhulk,Artifact Creature,Mythic,Nino Vecia,,pdft-198p-coalstoke-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,198s,Coalstoke Gearhulk,Artifact Creature,Mythic,Nino Vecia,,pdft-198s-coalstoke-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,199p,Debris Beetle,Artifact,Rare,Julie Dillon,,pdft-199p-debris-beetle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,199s,Debris Beetle,Artifact,Rare,Julie Dillon,,pdft-199s-debris-beetle.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,202p,Explosive Getaway,Sorcery,Rare,Caio Monteiro,,pdft-202p-explosive-getaway.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,202s,Explosive Getaway,Sorcery,Rare,Caio Monteiro,,pdft-202s-explosive-getaway.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,203p,"Far Fortune, End Boss",Lgd. Creature,Rare,Javier Charro,,pdft-203p-far-fortune-end-boss.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,203s,"Far Fortune, End Boss",Lgd. Creature,Rare,Javier Charro,,pdft-203s-far-fortune-end-boss.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,204p,Fearless Swashbuckler,Creature,Rare,Konstantin Porubov,,pdft-204p-fearless-swashbuckler.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,204s,Fearless Swashbuckler,Creature,Rare,Konstantin Porubov,,pdft-204s-fearless-swashbuckler.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,209p,"Ketramose, the New Dawn",Lgd. Creature,Mythic,Maaz Ali Khan,,pdft-209p-ketramose-the-new-dawn.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,209s,"Ketramose, the New Dawn",Lgd. Creature,Mythic,Maaz Ali Khan,,pdft-209s-ketramose-the-new-dawn.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,210p,"Kolodin, Triumph Caster",Lgd. Creature,Rare,Michal Ivan,,pdft-210p-kolodin-triumph-caster.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,210s,"Kolodin, Triumph Caster",Lgd. Creature,Rare,Michal Ivan,,pdft-210s-kolodin-triumph-caster.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,212p,"Loot, the Pathfinder",Lgd. Creature,Mythic,Ernanda Souza,,pdft-212p-loot-the-pathfinder.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,212s,"Loot, the Pathfinder",Lgd. Creature,Mythic,Ernanda Souza,,pdft-212s-loot-the-pathfinder.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,213p,"Mendicant Core, Guidelight",Lgd. Artifact Creature,Rare,Zezhou Chen,,pdft-213p-mendicant-core-guidelight.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,213s,"Mendicant Core, Guidelight",Lgd. Artifact Creature,Rare,Zezhou Chen,,pdft-213s-mendicant-core-guidelight.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,214p,"Mimeoplasm, Revered One",Lgd. Creature,Mythic,Ron Spencer,,pdft-214p-mimeoplasm-revered-one.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,214s,"Mimeoplasm, Revered One",Lgd. Creature,Mythic,Ron Spencer,,pdft-214s-mimeoplasm-revered-one.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,215p,Oildeep Gearhulk,Artifact Creature,Mythic,Artur Nakhodkin,,pdft-215p-oildeep-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,215s,Oildeep Gearhulk,Artifact Creature,Mythic,Artur Nakhodkin,,pdft-215s-oildeep-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,216p,Pyrewood Gearhulk,Artifact Creature,Mythic,Martin de Diego Sádaba,,pdft-216p-pyrewood-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,216s,Pyrewood Gearhulk,Artifact Creature,Mythic,Martin de Diego Sádaba,,pdft-216s-pyrewood-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,218p,"Redshift, Rocketeer Chief",Lgd. Creature,Rare,Wayne Reynolds,,pdft-218p-redshift-rocketeer-chief.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,218s,"Redshift, Rocketeer Chief",Lgd. Creature,Rare,Wayne Reynolds,,pdft-218s-redshift-rocketeer-chief.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,219p,Riptide Gearhulk,Artifact Creature,Mythic,Artur Nakhodkin,,pdft-219p-riptide-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,219s,Riptide Gearhulk,Artifact Creature,Mythic,Artur Nakhodkin,,pdft-219s-riptide-gearhulk.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,221p,"Sab-Sunen, Luxa Embodied",Lgd. Creature,Mythic,Valera Lutfullina,,pdft-221p-sab-sunen-luxa-embodied.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,221s,"Sab-Sunen, Luxa Embodied",Lgd. Creature,Mythic,Valera Lutfullina,,pdft-221s-sab-sunen-luxa-embodied.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,222p,"Samut, the Driving Force",Lgd. Creature,Rare,Chris Rallis,,pdft-222p-samut-the-driving-force.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,222s,"Samut, the Driving Force",Lgd. Creature,Rare,Chris Rallis,,pdft-222s-samut-the-driving-force.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,223p,"Sita Varma, Masked Racer",Lgd. Creature,Rare,Kai Carpenter,,pdft-223p-sita-varma-masked-racer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,223s,"Sita Varma, Masked Racer",Lgd. Creature,Rare,Kai Carpenter,,pdft-223s-sita-varma-masked-racer.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,228p,"Winter, Cursed Rider",Lgd. Creature,Rare,Daren Bader,,pdft-228p-winter-cursed-rider.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,228s,"Winter, Cursed Rider",Lgd. Creature,Rare,Daren Bader,,pdft-228s-winter-cursed-rider.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,229p,"Zahur, Glory's Past",Lgd. Creature,Rare,Leroy Steinmann,,pdft-229p-zahur-glory-s-past.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,229s,"Zahur, Glory's Past",Lgd. Creature,Rare,Leroy Steinmann,,pdft-229s-zahur-glory-s-past.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,231p,The Aetherspark,Lgd. Artifact Planeswalker,Mythic,Donato Giancola,,pdft-231p-the-aetherspark.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,231s,The Aetherspark,Lgd. Artifact Planeswalker,Mythic,Donato Giancola,,pdft-231s-the-aetherspark.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,234p,Lifecraft Engine,Artifact,Rare,Mirko Failoni,,pdft-234p-lifecraft-engine.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,234s,Lifecraft Engine,Artifact,Rare,Mirko Failoni,,pdft-234s-lifecraft-engine.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,235p,Marketback Walker,Artifact Creature,Rare,Svetlin Velinov,,pdft-235p-marketback-walker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,235s,Marketback Walker,Artifact Creature,Rare,Svetlin Velinov,,pdft-235s-marketback-walker.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,237p,Monument to Endurance,Artifact,Rare,Victor Sales,,pdft-237p-monument-to-endurance.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,237s,Monument to Endurance,Artifact,Rare,Victor Sales,,pdft-237s-monument-to-endurance.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,240p,Radiant Lotus,Artifact,Mythic,Bruce Brenneise,,pdft-240p-radiant-lotus.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,240s,Radiant Lotus,Artifact,Mythic,Bruce Brenneise,,pdft-240s-radiant-lotus.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,250p,Bleachbone Verge,Land,Rare,Mark Tedin,,pdft-250p-bleachbone-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,250s,Bleachbone Verge,Land,Rare,Mark Tedin,,pdft-250s-bleachbone-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,257p,Muraganda Raceway,Land,Rare,Brian Valeza,,pdft-257p-muraganda-raceway.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,257s,Muraganda Raceway,Land,Rare,Brian Valeza,,pdft-257s-muraganda-raceway.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,260p,Riverpyre Verge,Land,Rare,Titus Lunter,,pdft-260p-riverpyre-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,260s,Riverpyre Verge,Land,Rare,Titus Lunter,,pdft-260s-riverpyre-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,264p,Sunbillow Verge,Land,Rare,Pete Venters,,pdft-264p-sunbillow-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,264s,Sunbillow Verge,Land,Rare,Pete Venters,,pdft-264s-sunbillow-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,268p,Wastewood Verge,Land,Rare,Bartek Fedyczak,,pdft-268p-wastewood-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,268s,Wastewood Verge,Land,Rare,Bartek Fedyczak,,pdft-268s-wastewood-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,270p,Willowrush Verge,Land,Rare,Aaron Miller,,pdft-270p-willowrush-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+2025,14/02/2025,Magic: The Gathering,Aetherdrift Promos,PDFT,,270s,Willowrush Verge,Land,Rare,Aaron Miller,,pdft-270s-willowrush-verge.jpg,Wizards of the Coast,English,English,,,,,9+
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,

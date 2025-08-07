@@ -1,0 +1,4 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Fashion Dolls,Fashion Dolls,,,Fashion Dolls,
+Azone,,dolls_brand,Azone,Azone,1
+Azone,,dolls_product_type,Complete Doll,Azone | Complete Doll,2

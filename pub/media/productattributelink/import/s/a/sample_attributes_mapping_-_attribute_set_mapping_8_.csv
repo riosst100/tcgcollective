@@ -1,0 +1,18 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Games,Collectible Card Games,,,Collectible Card Games,
+Magic: The Gathering,,card_game,Magic: The Gathering,Magic: The Gathering,1
+Magic: The Gathering,,card_product_type,Cards,Magic: The Gathering | Cards,2
+Magic: The Gathering,,card_product_type,Packs,Magic: The Gathering | Packs,2
+Magic: The Gathering,,card_product_type,Boxes,Magic: The Gathering | Boxes,2
+Magic: The Gathering,,card_product_type,Cases,Magic: The Gathering | Case,2
+Magic: The Gathering,,card_product_type,Sets,Magic: The Gathering | Sets,2
+Magic: The Gathering,,card_product_type,Lots,Magic: The Gathering | Lots,2
+Pokemon,,card_product_line,Pokemon,Pokemon,1
+Pokemon,,card_game,Pokemon,Pokemon,1
+Pokemon,,card_product_type,Cards,Pokemon | Cards,2
+Pokemon,,card_product_type,Packs,Pokemon | Packs,2
+Pokemon,,card_product_type,Boxes,Pokemon | Boxes,2
+Pokemon,,card_product_type,Tins,Pokemon | Tins,2
+Pokemon,,card_product_type,Collection,Pokemon | Collection,2
+Pokemon,,card_product_type,Sets,Pokemon | Sets,2
+Pokemon,,card_product_type,Lots,Pokemon | Lots,2

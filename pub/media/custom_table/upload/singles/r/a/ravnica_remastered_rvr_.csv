@@ -1,0 +1,552 @@
+﻿release_year,release_date,card_game,card_set,card_set_abbreviation,parent_set_code,card_number,images,card_name,card_feature,card_type,card_rarity,card_artist,card_manufacturer,language,language_version,card_condition,card_sub_type,card_color,card_foil,age_level
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,1,rvr-1-karn-the-great-creator.jpg,"Karn, the Great Creator",Draft Cards,Lgd. Planeswalker,Mythic,Wisnu Tan,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,2,rvr-2-angelic-exaltation.jpg,Angelic Exaltation,Draft Cards,Enchantment,Uncommon,John Severin Brassell,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,3,rvr-3-armory-guard.jpg,Armory Guard,Draft Cards,Creature,Common,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,4,rvr-4-arrester-s-zeal.jpg,Arrester's Zeal,Draft Cards,Instant,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,5,rvr-5-azorius-arrester.jpg,Azorius Arrester,Draft Cards,Creature,Common,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,6,rvr-6-azorius-justiciar.jpg,Azorius Justiciar,Draft Cards,Creature,Uncommon,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,7,rvr-7-basilica-guards.jpg,Basilica Guards,Draft Cards,Creature,Common,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,8,rvr-8-blazing-archon.jpg,Blazing Archon,Draft Cards,Creature,Rare,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,9,rvr-9-blind-obedience.jpg,Blind Obedience,Draft Cards,Enchantment,Rare,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,10,rvr-10-boros-elite.jpg,Boros Elite,Draft Cards,Creature,Common,Willian Murai,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,11,rvr-11-bulwark-giant.jpg,Bulwark Giant,Draft Cards,Creature,Common,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,12,rvr-12-carom.jpg,Carom,Draft Cards,Instant,Common,Alex Horley-Orlandelli,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,13,rvr-13-conclave-equenaut.jpg,Conclave Equenaut,Draft Cards,Creature,Common,David Astruga,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,14,rvr-14-condemn.jpg,Condemn,Draft Cards,Instant,Uncommon,Daren Bader,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,15,rvr-15-devouring-light.jpg,Devouring Light,Draft Cards,Instant,Uncommon,Pete Venters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,16,rvr-16-divine-visitation.jpg,Divine Visitation,Draft Cards,Enchantment,Mythic,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,17,rvr-17-eyes-in-the-skies.jpg,Eyes in the Skies,Draft Cards,Instant,Common,James Ryman,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,18,rvr-18-faith-s-fetters.jpg,Faith's Fetters,Draft Cards,Enchantment,Common,Chippy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,19,rvr-19-ghostway.jpg,Ghostway,Draft Cards,Instant,Rare,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,20,rvr-20-gideon-blackblade.jpg,Gideon Blackblade,Draft Cards,Lgd. Planeswalker,Mythic,Viktor Titov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,21,rvr-21-keening-apparition.jpg,Keening Apparition,Draft Cards,Creature,Common,Tran Nguyen,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,22,rvr-22-makeshift-battalion.jpg,Makeshift Battalion,Draft Cards,Creature,Common,Zoltan Boros,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,23,rvr-23-ministrant-of-obligation.jpg,Ministrant of Obligation,Draft Cards,Creature,Uncommon,Bastien L. Deharme,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,24,rvr-24-mistral-charger.jpg,Mistral Charger,Draft Cards,Creature,Uncommon,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,25,rvr-25-rising-populace.jpg,Rising Populace,Draft Cards,Creature,Common,Néstor Ossandón Leal,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,26,rvr-26-rootborn-defenses.jpg,Rootborn Defenses,Draft Cards,Instant,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,27,rvr-27-summary-judgment.jpg,Summary Judgment,Draft Cards,Instant,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,28,rvr-28-sunhome-stalwart.jpg,Sunhome Stalwart,Draft Cards,Creature,Uncommon,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,29,rvr-29-syndicate-messenger.jpg,Syndicate Messenger,Draft Cards,Creature,Common,Viktor Titov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,30,rvr-30-to-arms.jpg,To Arms!,Draft Cards,Instant,Uncommon,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,31,rvr-31-tomik-distinguished-advokist.jpg,"Tomik, Distinguished Advokist",Draft Cards,Lgd. Creature,Rare,Johannes Voss,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,32,rvr-32-unbreakable-formation.jpg,Unbreakable Formation,Draft Cards,Instant,Rare,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,33,rvr-33-urbis-protector.jpg,Urbis Protector,Draft Cards,Creature,Uncommon,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,34,rvr-34-aetherplasm.jpg,Aetherplasm,Draft Cards,Creature,Uncommon,Nottsuo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,35,rvr-35-bruvac-the-grandiloquent.jpg,Bruvac the Grandiloquent,Draft Cards,Lgd. Creature,Mythic,Ekaterina Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,36,rvr-36-cerulean-sphinx.jpg,Cerulean Sphinx,Draft Cards,Creature,Uncommon,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,37,rvr-37-cloudfin-raptor.jpg,Cloudfin Raptor,Draft Cards,Creature,Common,Maxime Minard,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,38,rvr-38-compulsive-research.jpg,Compulsive Research,Draft Cards,Sorcery,Common,Michael Sutfin,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,39,rvr-39-copy-enchantment.jpg,Copy Enchantment,Draft Cards,Enchantment,Rare,Joel Thomas,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,40,rvr-40-cyclonic-rift.jpg,Cyclonic Rift,Draft Cards,Instant,Mythic,Isis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,41,rvr-41-downsize.jpg,Downsize,Draft Cards,Instant,Common,Ryan Pancoast,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,42,rvr-42-drift-of-phantasms.jpg,Drift of Phantasms,Draft Cards,Creature,Common,Michael Phillippi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,43,rvr-43-eyes-everywhere.jpg,Eyes Everywhere,Draft Cards,Enchantment,Uncommon,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,44,rvr-44-fblthp-the-lost.jpg,"Fblthp, the Lost",Draft Cards,Lgd. Creature,Rare,Jesper Ejsing,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,45,rvr-45-helium-squirter.jpg,Helium Squirter,Draft Cards,Creature,Common,Hideaki Takamura,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,46,rvr-46-kasmina-s-transmutation.jpg,Kasmina's Transmutation,Draft Cards,Enchantment,Common,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,47,rvr-47-keymaster-rogue.jpg,Keymaster Rogue,Draft Cards,Creature,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,48,rvr-48-kiora-s-dambreaker.jpg,Kiora's Dambreaker,Draft Cards,Creature,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,49,rvr-49-leapfrog.jpg,Leapfrog,Draft Cards,Creature,Common,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,50,rvr-50-muddle-the-mixture.jpg,Muddle the Mixture,Draft Cards,Instant,Uncommon,Luca Zontini,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,51,rvr-51-murmuring-mystic.jpg,Murmuring Mystic,Draft Cards,Creature,Uncommon,Mark Winters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,52,rvr-52-nightveil-sprite.jpg,Nightveil Sprite,Draft Cards,Creature,Uncommon,Uriah Voth,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,53,rvr-53-persistent-petitioners.jpg,Persistent Petitioners,Draft Cards,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,54,rvr-54-pteramander.jpg,Pteramander,Draft Cards,Creature,Uncommon,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,55,rvr-55-quasiduplicate.jpg,Quasiduplicate,Draft Cards,Sorcery,Rare,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,56,rvr-56-quench.jpg,Quench,Draft Cards,Instant,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,57,rvr-57-quicken.jpg,Quicken,Draft Cards,Instant,Uncommon,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,58,rvr-58-radical-idea.jpg,Radical Idea,Draft Cards,Instant,Common,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,59,rvr-59-remand.jpg,Remand,Draft Cards,Instant,Uncommon,Mark A. Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,60,rvr-60-repeal.jpg,Repeal,Draft Cards,Instant,Common,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,61,rvr-61-sinister-sabotage.jpg,Sinister Sabotage,Draft Cards,Instant,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,62,rvr-62-spark-double.jpg,Spark Double,Draft Cards,Creature,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,63,rvr-63-tidespout-tyrant.jpg,Tidespout Tyrant,Draft Cards,Creature,Rare,Dany Orizio,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,64,rvr-64-totally-lost.jpg,Totally Lost,Draft Cards,Instant,Common,David Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,65,rvr-65-vedalken-mesmerist.jpg,Vedalken Mesmerist,Draft Cards,Creature,Common,Zezhou Chen,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,66,rvr-66-balustrade-spy.jpg,Balustrade Spy,Draft Cards,Creature,Common,Jaime Jones,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,67,rvr-67-blade-juggler.jpg,Blade Juggler,Draft Cards,Creature,Common,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,68,rvr-68-bladebrand.jpg,Bladebrand,Draft Cards,Instant,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,69,rvr-69-burglar-rat.jpg,Burglar Rat,Draft Cards,Creature,Common,Tyler Walpole,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,70,rvr-70-crypt-ghast.jpg,Crypt Ghast,Draft Cards,Creature,Rare,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,71,rvr-71-dark-confidant.jpg,Dark Confidant,Draft Cards,Creature,Mythic,Alex Brock,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,72,rvr-72-debtors-transport.jpg,Debtors' Transport,Draft Cards,Creature,Common,Jakub Kasper,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,73,rvr-73-dimir-house-guard.jpg,Dimir House Guard,Draft Cards,Creature,Common,John Zeleznik,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,74,rvr-74-disembowel.jpg,Disembowel,Draft Cards,Instant,Common,David Astruga,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,75,rvr-75-dreadmalkin.jpg,Dreadmalkin,Draft Cards,Creature,Uncommon,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,76,rvr-76-golgari-thug.jpg,Golgari Thug,Draft Cards,Creature,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,77,rvr-77-ill-gotten-inheritance.jpg,Ill-Gotten Inheritance,Draft Cards,Enchantment,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,78,rvr-78-infernal-tutor.jpg,Infernal Tutor,Draft Cards,Sorcery,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,79,rvr-79-last-gasp.jpg,Last Gasp,Draft Cards,Instant,Common,Thomas M. Baxa,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,80,rvr-80-liliana-dreadhorde-general.jpg,"Liliana, Dreadhorde General",Draft Cards,Lgd. Planeswalker,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,81,rvr-81-lord-of-the-void.jpg,Lord of the Void,Draft Cards,Creature,Mythic,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,82,rvr-82-macabre-waltz.jpg,Macabre Waltz,Draft Cards,Sorcery,Common,Sam Wolfe Connelly,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,83,rvr-83-massacre-girl.jpg,Massacre Girl,Draft Cards,Lgd. Creature,Rare,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,84,rvr-84-mausoleum-turnkey.jpg,Mausoleum Turnkey,Draft Cards,Creature,Uncommon,Darrell Riche,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,85,rvr-85-mephitic-vapors.jpg,Mephitic Vapors,Draft Cards,Sorcery,Common,Darek Zabrocki,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,86,rvr-86-midnight-reaper.jpg,Midnight Reaper,Draft Cards,Creature,Rare,Sidharth Chaturvedi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,87,rvr-87-orzhov-enforcer.jpg,Orzhov Enforcer,Draft Cards,Creature,Uncommon,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,88,rvr-88-orzhov-euthanist.jpg,Orzhov Euthanist,Draft Cards,Creature,Common,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,89,rvr-89-plaguecrafter.jpg,Plaguecrafter,Draft Cards,Creature,Uncommon,Anna Steinbauer,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,90,rvr-90-priest-of-forgotten-gods.jpg,Priest of Forgotten Gods,Draft Cards,Creature,Rare,Zack Stella,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,91,rvr-91-sewer-shambler.jpg,Sewer Shambler,Draft Cards,Creature,Common,Nils Hamm,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,92,rvr-92-shadow-alley-denizen.jpg,Shadow Alley Denizen,Draft Cards,Creature,Common,Cynthia Sheppard,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,93,rvr-93-stab-wound.jpg,Stab Wound,Draft Cards,Enchantment,Uncommon,Scott Chou,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,94,rvr-94-thrill-kill-assassin.jpg,Thrill-Kill Assassin,Draft Cards,Creature,Common,Sam Wolfe Connelly,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,95,rvr-95-ultimate-price.jpg,Ultimate Price,Draft Cards,Instant,Uncommon,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,96,rvr-96-undercity-s-embrace.jpg,Undercity's Embrace,Draft Cards,Instant,Common,Tyler Walpole,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,97,rvr-97-vindictive-vampire.jpg,Vindictive Vampire,Draft Cards,Creature,Uncommon,Randy Gallegos,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,98,rvr-98-woebringer-demon.jpg,Woebringer Demon,Draft Cards,Creature,Uncommon,Daren Bader,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,99,rvr-99-act-of-treason.jpg,Act of Treason,Draft Cards,Sorcery,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,100,rvr-100-arclight-phoenix.jpg,Arclight Phoenix,Draft Cards,Creature,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,101,rvr-101-bloodfray-giant.jpg,Bloodfray Giant,Draft Cards,Creature,Uncommon,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,102,rvr-102-bomber-corps.jpg,Bomber Corps,Draft Cards,Creature,Common,Chase Stone,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,103,rvr-103-burn-bright.jpg,Burn Bright,Draft Cards,Instant,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,104,rvr-104-burning-prophet.jpg,Burning Prophet,Draft Cards,Creature,Common,Mathias Kollros,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,105,rvr-105-burning-tree-vandal.jpg,Burning-Tree Vandal,Draft Cards,Creature,Common,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,106,rvr-106-demolish.jpg,Demolish,Draft Cards,Sorcery,Common,Adam Paquette,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,107,rvr-107-demonfire.jpg,Demonfire,Draft Cards,Sorcery,Uncommon,Greg Staples,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,108,rvr-108-dogpile.jpg,Dogpile,Draft Cards,Instant,Common,Maxime Minard,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,109,rvr-109-greater-forgeling.jpg,Greater Forgeling,Draft Cards,Creature,Common,Marcelo Vignali,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,110,rvr-110-guttersnipe.jpg,Guttersnipe,Draft Cards,Creature,Uncommon,Steve Prescott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,111,rvr-111-hellkite-tyrant.jpg,Hellkite Tyrant,Draft Cards,Creature,Rare,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,112,rvr-112-homing-lightning.jpg,Homing Lightning,Draft Cards,Instant,Uncommon,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,113,rvr-113-ilharg-the-raze-boar.jpg,"Ilharg, the Raze-Boar",Draft Cards,Lgd. Creature,Mythic,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,114,rvr-114-krenko-mob-boss.jpg,"Krenko, Mob Boss",Draft Cards,Lgd. Creature,Rare,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,115,rvr-115-krenko-s-command.jpg,Krenko's Command,Draft Cards,Sorcery,Common,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,116,rvr-116-legion-warboss.jpg,Legion Warboss,Draft Cards,Creature,Rare,Alex Konstad,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,117,rvr-117-light-up-the-stage.jpg,Light Up the Stage,Draft Cards,Sorcery,Uncommon,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,118,rvr-118-mizzix-s-mastery.jpg,Mizzix's Mastery,Draft Cards,Sorcery,Rare,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,119,rvr-119-mugging.jpg,Mugging,Draft Cards,Sorcery,Common,Greg Staples,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,120,rvr-120-rakdos-pit-dragon.jpg,Rakdos Pit Dragon,Draft Cards,Creature,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,121,rvr-121-rubblebelt-maaka.jpg,Rubblebelt Maaka,Draft Cards,Creature,Common,Eric Velhagen,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,122,rvr-122-scorched-rusalka.jpg,Scorched Rusalka,Draft Cards,Creature,Common,Luca Zontini,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,123,rvr-123-siege-of-towers.jpg,Siege of Towers,Draft Cards,Sorcery,Uncommon,Anthony S. Waters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,124,rvr-124-skewer-the-critics.jpg,Skewer the Critics,Draft Cards,Sorcery,Common,Heonhwa Choe,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,125,rvr-125-skullcrack.jpg,Skullcrack,Draft Cards,Instant,Uncommon,Dave Kendall,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,126,rvr-126-stalking-vengeance.jpg,Stalking Vengeance,Draft Cards,Creature,Uncommon,Anthony S. Waters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,127,rvr-127-taste-for-mayhem.jpg,Taste for Mayhem,Draft Cards,Enchantment,Common,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,128,rvr-128-tin-street-dodger.jpg,Tin Street Dodger,Draft Cards,Creature,Common,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,129,rvr-129-utvara-hellkite.jpg,Utvara Hellkite,Draft Cards,Creature,Mythic,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,130,rvr-130-wojek-bodyguard.jpg,Wojek Bodyguard,Draft Cards,Creature,Common,Tyler Walpole,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,131,rvr-131-arboreal-grazer.jpg,Arboreal Grazer,Draft Cards,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,132,rvr-132-band-together.jpg,Band Together,Draft Cards,Instant,Common,Josh Hass,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,133,rvr-133-birds-of-paradise.jpg,Birds of Paradise,Draft Cards,Creature,Rare,Marcelo Vignali,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,134,rvr-134-chord-of-calling.jpg,Chord of Calling,Draft Cards,Instant,Rare,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,135,rvr-135-crocanura.jpg,Crocanura,Draft Cards,Creature,Common,Jack Wang,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,136,rvr-136-drudge-beetle.jpg,Drudge Beetle,Draft Cards,Creature,Common,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,137,rvr-137-experiment-one.jpg,Experiment One,Draft Cards,Creature,Uncommon,Chase Stone,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,138,rvr-138-farseek.jpg,Farseek,Draft Cards,Sorcery,Uncommon,Martina Pilcerova,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,139,rvr-139-fists-of-ironwood.jpg,Fists of Ironwood,Draft Cards,Enchantment,Common,Glen Angus,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,140,rvr-140-forced-adaptation.jpg,Forced Adaptation,Draft Cards,Enchantment,Common,Trevor Claxton,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,141,rvr-141-forced-landing.jpg,Forced Landing,Draft Cards,Instant,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,142,rvr-142-fungal-rebirth.jpg,Fungal Rebirth,Draft Cards,Instant,Uncommon,Nicholas Gregory,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,143,rvr-143-gather-courage.jpg,Gather Courage,Draft Cards,Instant,Common,Brian Despain,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,144,rvr-144-golgari-grave-troll.jpg,Golgari Grave-Troll,Draft Cards,Creature,Rare,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,145,rvr-145-greater-mossdog.jpg,Greater Mossdog,Draft Cards,Creature,Common,Chippy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,146,rvr-146-guardian-project.jpg,Guardian Project,Draft Cards,Enchantment,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,147,rvr-147-horncaller-s-chant.jpg,Horncaller's Chant,Draft Cards,Sorcery,Common,Eric Velhagen,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,148,rvr-148-life-from-the-loam.jpg,Life from the Loam,Draft Cards,Sorcery,Rare,Sung Choi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,149,rvr-149-loaming-shaman.jpg,Loaming Shaman,Draft Cards,Creature,Uncommon,Carl Critchlow,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,150,rvr-150-moldervine-cloak.jpg,Moldervine Cloak,Draft Cards,Enchantment,Uncommon,Wayne England,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,151,rvr-151-open-the-gates.jpg,Open the Gates,Draft Cards,Sorcery,Common,John Thacker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,152,rvr-152-overwhelm.jpg,Overwhelm,Draft Cards,Sorcery,Uncommon,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,153,rvr-153-protean-hulk.jpg,Protean Hulk,Draft Cards,Creature,Mythic,Matt Cavotta,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,154,rvr-154-rampaging-rendhorn.jpg,Rampaging Rendhorn,Draft Cards,Creature,Common,Ben Wootten,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,155,rvr-155-siege-wurm.jpg,Siege Wurm,Draft Cards,Creature,Common,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,156,rvr-156-silhana-ledgewalker.jpg,Silhana Ledgewalker,Draft Cards,Creature,Common,James Wong,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,157,rvr-157-sprouting-renewal.jpg,Sprouting Renewal,Draft Cards,Sorcery,Common,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,158,rvr-158-titanic-brawl.jpg,Titanic Brawl,Draft Cards,Instant,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,159,rvr-159-utopia-sprawl.jpg,Utopia Sprawl,Draft Cards,Enchantment,Uncommon,Ron Spears,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,160,rvr-160-wasteland-viper.jpg,Wasteland Viper,Draft Cards,Creature,Uncommon,Lucas Graciano,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,161,rvr-161-wurmweaver-coil.jpg,Wurmweaver Coil,Draft Cards,Enchantment,Uncommon,Mitch Cotie,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,162,rvr-162-yeva-nature-s-herald.jpg,"Yeva, Nature's Herald",Draft Cards,Lgd. Creature,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,163,rvr-163-assemble-the-legion.jpg,Assemble the Legion,Draft Cards,Enchantment,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,164,rvr-164-aurelia-exemplar-of-justice.jpg,"Aurelia, Exemplar of Justice",Draft Cards,Lgd. Creature,Mythic,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,165,rvr-165-azorius-guildmage.jpg,Azorius Guildmage,Draft Cards,Creature,Uncommon,David Astruga,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,166,rvr-166-blind-hunter.jpg,Blind Hunter,Draft Cards,Creature,Common,Warren Mahy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,167,rvr-167-borborygmos-enraged.jpg,Borborygmos Enraged,Draft Cards,Lgd. Creature,Rare,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,168,rvr-168-boros-guildmage.jpg,Boros Guildmage,Draft Cards,Creature,Uncommon,Fesbra,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,169,rvr-169-call-of-the-conclave.jpg,Call of the Conclave,Draft Cards,Sorcery,Common,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,170,rvr-170-cartel-aristocrat.jpg,Cartel Aristocrat,Draft Cards,Creature,Uncommon,James Ryman,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,171,rvr-171-cindervines.jpg,Cindervines,Draft Cards,Enchantment,Rare,Mark Behm,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,172,rvr-172-coiling-oracle.jpg,Coiling Oracle,Draft Cards,Creature,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,173,rvr-173-conclave-cavalier.jpg,Conclave Cavalier,Draft Cards,Creature,Uncommon,Hristo D. Chukov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,174,rvr-174-crackling-drake.jpg,Crackling Drake,Draft Cards,Creature,Uncommon,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,175,rvr-175-deathrite-shaman.jpg,Deathrite Shaman,Draft Cards,Creature,Rare,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,176,rvr-176-debt-to-the-deathless.jpg,Debt to the Deathless,Draft Cards,Sorcery,Uncommon,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,177,rvr-177-deputy-of-acquittals.jpg,Deputy of Acquittals,Draft Cards,Creature,Common,James Ryman,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,178,rvr-178-dimir-guildmage.jpg,Dimir Guildmage,Draft Cards,Creature,Uncommon,Adam Rex,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,179,rvr-179-domri-rade.jpg,Domri Rade,Draft Cards,Lgd. Planeswalker,Mythic,Tyler Jacobson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,180,rvr-180-dreadbore.jpg,Dreadbore,Draft Cards,Sorcery,Rare,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,181,rvr-181-footlight-fiend.jpg,Footlight Fiend,Draft Cards,Creature,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,182,rvr-182-fresh-faced-recruit.jpg,Fresh-Faced Recruit,Draft Cards,Creature,Common,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,183,rvr-183-frilled-mystic.jpg,Frilled Mystic,Draft Cards,Creature,Uncommon,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,184,rvr-184-glowspore-shaman.jpg,Glowspore Shaman,Draft Cards,Creature,Common,Lars Grant-West,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,185,rvr-185-gobhobbler-rats.jpg,Gobhobbler Rats,Draft Cards,Creature,Common,Michael Sutfin,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,186,rvr-186-goblin-electromancer.jpg,Goblin Electromancer,Draft Cards,Creature,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,187,rvr-187-golgari-findbroker.jpg,Golgari Findbroker,Draft Cards,Creature,Uncommon,Bram Sels,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,188,rvr-188-golgari-guildmage.jpg,Golgari Guildmage,Draft Cards,Creature,Uncommon,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,189,rvr-189-gruul-guildmage.jpg,Gruul Guildmage,Draft Cards,Creature,Uncommon,Paolo Parente,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,190,rvr-190-izzet-charm.jpg,Izzet Charm,Draft Cards,Instant,Uncommon,Zoltan Boros,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,191,rvr-191-izzet-guildmage.jpg,Izzet Guildmage,Draft Cards,Creature,Uncommon,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,192,rvr-192-judge-s-familiar.jpg,Judge's Familiar,Draft Cards,Creature,Common,Jack Wang,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,193,rvr-193-karlov-of-the-ghost-council.jpg,Karlov of the Ghost Council,Draft Cards,Lgd. Creature,Mythic,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,194,rvr-194-kaya-orzhov-usurper.jpg,"Kaya, Orzhov Usurper",Draft Cards,Lgd. Planeswalker,Rare,Yongjae Choi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,195,rvr-195-lavinia-azorius-renegade.jpg,"Lavinia, Azorius Renegade",Draft Cards,Lgd. Creature,Rare,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,196,rvr-196-lazav-the-multifarious.jpg,"Lazav, the Multifarious",Draft Cards,Lgd. Creature,Rare,Yongjae Choi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,197,rvr-197-lightning-helix.jpg,Lightning Helix,Draft Cards,Instant,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,198,rvr-198-master-of-cruelties.jpg,Master of Cruelties,Draft Cards,Creature,Mythic,Chase Stone,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,199,rvr-199-mayhem-devil.jpg,Mayhem Devil,Draft Cards,Creature,Uncommon,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,200,rvr-200-merfolk-of-the-depths.jpg,Merfolk of the Depths,Draft Cards,Creature,Common,Scott Chou,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,201,rvr-201-mindleech-mass.jpg,Mindleech Mass,Draft Cards,Creature,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,202,rvr-202-moroii.jpg,Moroii,Draft Cards,Creature,Uncommon,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,203,rvr-203-mortus-strider.jpg,Mortus Strider,Draft Cards,Creature,Common,Tiffany Turrill,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,204,rvr-204-mourning-thrull.jpg,Mourning Thrull,Draft Cards,Creature,Common,Dany Orizio,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,205,rvr-205-nicol-bolas-dragon-god.jpg,"Nicol Bolas, Dragon-God",Draft Cards,Lgd. Planeswalker,Mythic,Raymond Swanland,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,206,rvr-206-nightveil-predator.jpg,Nightveil Predator,Draft Cards,Creature,Uncommon,Darek Zabrocki,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,207,rvr-207-niv-mizzet-parun.jpg,"Niv-Mizzet, Parun",Draft Cards,Lgd. Creature,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,208,rvr-208-orzhov-guildmage.jpg,Orzhov Guildmage,Draft Cards,Creature,Uncommon,Greg Staples,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,209,rvr-209-petrahydrox.jpg,Petrahydrox,Draft Cards,Creature,Common,Anthony S. Waters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,210,rvr-210-phytohydra.jpg,Phytohydra,Draft Cards,Creature,Rare,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,211,rvr-211-prime-speaker-zegana.jpg,Prime Speaker Zegana,Draft Cards,Lgd. Creature,Rare,Willian Murai,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,212,rvr-212-putrefy.jpg,Putrefy,Draft Cards,Instant,Uncommon,Jim Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,213,rvr-213-rakdos-firewheeler.jpg,Rakdos Firewheeler,Draft Cards,Creature,Uncommon,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,214,rvr-214-rakdos-guildmage.jpg,Rakdos Guildmage,Draft Cards,Creature,Uncommon,Jeremy Jarvis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,215,rvr-215-rakdos-lord-of-riots.jpg,"Rakdos, Lord of Riots",Draft Cards,Lgd. Creature,Rare,Vincent Proce,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,216,rvr-216-ral-zarek.jpg,Ral Zarek,Draft Cards,Lgd. Planeswalker,Mythic,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,217,rvr-217-rhythm-of-the-wild.jpg,Rhythm of the Wild,Draft Cards,Enchantment,Uncommon,Maxime Minard,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,218,rvr-218-savra-queen-of-the-golgari.jpg,"Savra, Queen of the Golgari",Draft Cards,Lgd. Creature,Rare,Aurore Folny,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,219,rvr-219-scab-clan-mauler.jpg,Scab-Clan Mauler,Draft Cards,Creature,Common,Liam Sharp,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,220,rvr-220-selesnya-evangel.jpg,Selesnya Evangel,Draft Cards,Creature,Uncommon,Tiffany Turrill,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,221,rvr-221-selesnya-guildmage.jpg,Selesnya Guildmage,Draft Cards,Creature,Uncommon,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,222,rvr-222-sharktocrab.jpg,Sharktocrab,Draft Cards,Creature,Uncommon,Jehan Choo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,223,rvr-223-simic-guildmage.jpg,Simic Guildmage,Draft Cards,Creature,Uncommon,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,224,rvr-224-sky-hussar.jpg,Sky Hussar,Draft Cards,Creature,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,225,rvr-225-skyknight-legionnaire.jpg,Skyknight Legionnaire,Draft Cards,Creature,Common,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,226,rvr-226-slitherhead.jpg,Slitherhead,Draft Cards,Creature,Common,Greg Staples,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,227,rvr-227-sphinx-of-new-prahv.jpg,Sphinx of New Prahv,Draft Cards,Creature,Uncommon,Sara Winters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,228,rvr-228-sphinx-s-revelation.jpg,Sphinx's Revelation,Draft Cards,Instant,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,229,rvr-229-stitch-in-time.jpg,Stitch in Time,Draft Cards,Sorcery,Rare,Jon Foster,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,230,rvr-230-sunder-shaman.jpg,Sunder Shaman,Draft Cards,Creature,Uncommon,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,231,rvr-231-tajic-legion-s-edge.jpg,"Tajic, Legion's Edge",Draft Cards,Lgd. Creature,Rare,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,232,rvr-232-teferi-time-raveler.jpg,"Teferi, Time Raveler",Draft Cards,Lgd. Planeswalker,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,233,rvr-233-teysa-orzhov-scion.jpg,"Teysa, Orzhov Scion",Draft Cards,Lgd. Creature,Rare,Sara Winters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,234,rvr-234-tolsimir-wolfblood.jpg,Tolsimir Wolfblood,Draft Cards,Lgd. Creature,Rare,Donato Giancola,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,235,rvr-235-truefire-captain.jpg,Truefire Captain,Draft Cards,Creature,Uncommon,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,236,rvr-236-vernadi-shieldmate.jpg,Vernadi Shieldmate,Draft Cards,Creature,Common,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,237,rvr-237-voidslime.jpg,Voidslime,Draft Cards,Instant,Rare,Isis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,238,rvr-238-whisper-agent.jpg,Whisper Agent,Draft Cards,Creature,Common,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,239,rvr-239-wild-cantor.jpg,Wild Cantor,Draft Cards,Creature,Common,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,240,rvr-240-warrant.jpg,Warrant // Warden,Draft Cards,Instant // Sorcery,Rare,Matt Stewart,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,241,rvr-241-revival.jpg,Revival // Revenge,Draft Cards,Sorcery // Sorcery,Rare,Paul Scott Canavan,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,242,rvr-242-connive.jpg,Connive // Concoct,Draft Cards,Sorcery // Sorcery,Rare,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,243,rvr-243-expansion.jpg,Expansion // Explosion,Draft Cards,Instant // Instant,Rare,Deruchenko Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,244,rvr-244-bedeck.jpg,Bedeck // Bedazzle,Draft Cards,Instant // Instant,Rare,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,245,rvr-245-find.jpg,Find // Finality,Draft Cards,Sorcery // Sorcery,Rare,Steve Ellis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,246,rvr-246-thrash.jpg,Thrash // Threat,Draft Cards,Instant // Sorcery,Rare,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,247,rvr-247-response.jpg,Response // Resurgence,Draft Cards,Instant // Sorcery,Rare,Daarken,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,248,rvr-248-assure.jpg,Assure // Assemble,Draft Cards,Instant // Instant,Rare,Jason A. Engle,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,249,rvr-249-repudiate.jpg,Repudiate // Replicate,Draft Cards,Instant // Sorcery,Rare,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,250,rvr-250-azorius-signet.jpg,Azorius Signet,Draft Cards,Artifact,Uncommon,Raoul Vitale,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,251,rvr-251-boros-signet.jpg,Boros Signet,Draft Cards,Artifact,Uncommon,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,252,rvr-252-bottled-cloister.jpg,Bottled Cloister,Draft Cards,Artifact,Rare,Luca Zontini,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,253,rvr-253-chromatic-lantern.jpg,Chromatic Lantern,Draft Cards,Artifact,Rare,Jung Park,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,254,rvr-254-civic-saber.jpg,Civic Saber,Draft Cards,Artifact,Uncommon,Jung Park,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,255,rvr-255-cloudstone-curio.jpg,Cloudstone Curio,Draft Cards,Artifact,Mythic,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,256,rvr-256-dimir-signet.jpg,Dimir Signet,Draft Cards,Artifact,Uncommon,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,257,rvr-257-gate-colossus.jpg,Gate Colossus,Draft Cards,Artifact Creature,Uncommon,Izzy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,258,rvr-258-golgari-signet.jpg,Golgari Signet,Draft Cards,Artifact,Uncommon,Raoul Vitale,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,259,rvr-259-gruul-signet.jpg,Gruul Signet,Draft Cards,Artifact,Uncommon,Efrem Palacios,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,260,rvr-260-illusionist-s-bracers.jpg,Illusionist's Bracers,Draft Cards,Artifact,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,261,rvr-261-izzet-signet.jpg,Izzet Signet,Draft Cards,Artifact,Uncommon,Raoul Vitale,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,262,rvr-262-junktroller.jpg,Junktroller,Draft Cards,Artifact Creature,Uncommon,Chippy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,263,rvr-263-orzhov-signet.jpg,Orzhov Signet,Draft Cards,Artifact,Uncommon,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,264,rvr-264-pariah-s-shield.jpg,Pariah's Shield,Draft Cards,Artifact,Rare,Doug Chaffee,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,265,rvr-265-rakdos-signet.jpg,Rakdos Signet,Draft Cards,Artifact,Uncommon,Martina Pilcerova,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,266,rvr-266-seal-of-the-guildpact.jpg,Seal of the Guildpact,Draft Cards,Artifact,Rare,Franz Vohwinkel,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,267,rvr-267-selesnya-signet.jpg,Selesnya Signet,Draft Cards,Artifact,Uncommon,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,268,rvr-268-silent-dart.jpg,Silent Dart,Draft Cards,Artifact,Uncommon,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,269,rvr-269-simic-signet.jpg,Simic Signet,Draft Cards,Artifact,Uncommon,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,270,rvr-270-sword-of-the-paruns.jpg,Sword of the Paruns,Draft Cards,Artifact,Rare,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,271,rvr-271-voyager-staff.jpg,Voyager Staff,Draft Cards,Artifact,Uncommon,Tsutomu Kawade,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,272,rvr-272-azorius-guildgate.jpg,Azorius Guildgate,Draft Cards,Land,Common,Drew Baker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,273,rvr-273-blood-crypt.jpg,Blood Crypt,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,274,rvr-274-boros-guildgate.jpg,Boros Guildgate,Draft Cards,Land,Common,Titus Lunter,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,275,rvr-275-breeding-pool.jpg,Breeding Pool,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,276,rvr-276-dimir-guildgate.jpg,Dimir Guildgate,Draft Cards,Land,Common,Cliff Childs,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,277,rvr-277-godless-shrine.jpg,Godless Shrine,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,278,rvr-278-golgari-guildgate.jpg,Golgari Guildgate,Draft Cards,Land,Common,Eytan Zana,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,279,rvr-279-gruul-guildgate.jpg,Gruul Guildgate,Draft Cards,Land,Common,Randy Gallegos,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,280,rvr-280-hallowed-fountain.jpg,Hallowed Fountain,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,281,rvr-281-izzet-guildgate.jpg,Izzet Guildgate,Draft Cards,Land,Common,Kirsten Zirngibl,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,282,rvr-282-orzhov-guildgate.jpg,Orzhov Guildgate,Draft Cards,Land,Common,John Avon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,283,rvr-283-overgrown-tomb.jpg,Overgrown Tomb,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,284,rvr-284-rakdos-guildgate.jpg,Rakdos Guildgate,Draft Cards,Land,Common,Jonas De Ro,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,285,rvr-285-sacred-foundry.jpg,Sacred Foundry,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,286,rvr-286-selesnya-guildgate.jpg,Selesnya Guildgate,Draft Cards,Land,Common,Dimitar Marinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,287,rvr-287-simic-guildgate.jpg,Simic Guildgate,Draft Cards,Land,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,288,rvr-288-steam-vents.jpg,Steam Vents,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,289,rvr-289-stomping-ground.jpg,Stomping Ground,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,290,rvr-290-temple-garden.jpg,Temple Garden,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,291,rvr-291-watery-grave.jpg,Watery Grave,Draft Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,292,rvr-292-blood-crypt.jpg,Blood Crypt,Borderless Shocklands,Land,Rare,Jonas De Ro,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,293,rvr-293-breeding-pool.jpg,Breeding Pool,Borderless Shocklands,Land,Rare,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,294,rvr-294-godless-shrine.jpg,Godless Shrine,Borderless Shocklands,Land,Rare,Cliff Childs,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,295,rvr-295-hallowed-fountain.jpg,Hallowed Fountain,Borderless Shocklands,Land,Rare,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,296,rvr-296-overgrown-tomb.jpg,Overgrown Tomb,Borderless Shocklands,Land,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,297,rvr-297-sacred-foundry.jpg,Sacred Foundry,Borderless Shocklands,Land,Rare,Chris Ostrowski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,298,rvr-298-steam-vents.jpg,Steam Vents,Borderless Shocklands,Land,Rare,Yeong-Hao Han,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,299,rvr-299-stomping-ground.jpg,Stomping Ground,Borderless Shocklands,Land,Rare,Cliff Childs,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,300,rvr-300-temple-garden.jpg,Temple Garden,Borderless Shocklands,Land,Rare,Alayna Danner,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,301,rvr-301-watery-grave.jpg,Watery Grave,Borderless Shocklands,Land,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,302,rvr-302-blazing-archon.jpg,Blazing Archon,Retro Frame Cards,Creature,Rare,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,302z,rvr-302z-blazing-archon.jpg,Blazing Archon,Serialized Cards,Creature,Rare,"Zoltan Boros, Gabor Szikszai",Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,303,rvr-303-blind-obedience.jpg,Blind Obedience,Retro Frame Cards,Enchantment,Rare,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,303z,rvr-303z-blind-obedience.jpg,Blind Obedience,Serialized Cards,Enchantment,Rare,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,304,rvr-304-condemn.jpg,Condemn,Retro Frame Cards,Instant,Uncommon,Daren Bader,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,305,rvr-305-devouring-light.jpg,Devouring Light,Retro Frame Cards,Instant,Uncommon,Pete Venters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,306,rvr-306-divine-visitation.jpg,Divine Visitation,Retro Frame Cards,Enchantment,Mythic,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,306z,rvr-306z-divine-visitation.jpg,Divine Visitation,Serialized Cards,Enchantment,Mythic,Cristi Balanescu,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,307,rvr-307-faith-s-fetters.jpg,Faith's Fetters,Retro Frame Cards,Enchantment,Common,Chippy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,308,rvr-308-ghostway.jpg,Ghostway,Retro Frame Cards,Instant,Rare,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,308z,rvr-308z-ghostway.jpg,Ghostway,Serialized Cards,Instant,Rare,Jim Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,309,rvr-309-bruvac-the-grandiloquent.jpg,Bruvac the Grandiloquent,Retro Frame Cards,Lgd. Creature,Mythic,Ekaterina Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,309z,rvr-309z-bruvac-the-grandiloquent.jpg,Bruvac the Grandiloquent,Serialized Cards,Lgd. Creature,Mythic,Ekaterina Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,310,rvr-310-cloudfin-raptor.jpg,Cloudfin Raptor,Retro Frame Cards,Creature,Common,Maxime Minard,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,311,rvr-311-compulsive-research.jpg,Compulsive Research,Retro Frame Cards,Sorcery,Common,Michael Sutfin,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,312,rvr-312-copy-enchantment.jpg,Copy Enchantment,Retro Frame Cards,Enchantment,Rare,Joel Thomas,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,312z,rvr-312z-copy-enchantment.jpg,Copy Enchantment,Serialized Cards,Enchantment,Rare,Joel Thomas,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,313,rvr-313-cyclonic-rift.jpg,Cyclonic Rift,Retro Frame Cards,Instant,Mythic,Isis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,313z,rvr-313z-cyclonic-rift.jpg,Cyclonic Rift,Serialized Cards,Instant,Mythic,Isis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,314,rvr-314-drift-of-phantasms.jpg,Drift of Phantasms,Retro Frame Cards,Creature,Common,Michael Phillippi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,315,rvr-315-muddle-the-mixture.jpg,Muddle the Mixture,Retro Frame Cards,Instant,Uncommon,Luca Zontini,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,316,rvr-316-persistent-petitioners.jpg,Persistent Petitioners,Retro Frame Cards,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,317,rvr-317-pteramander.jpg,Pteramander,Retro Frame Cards,Creature,Uncommon,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,318,rvr-318-quicken.jpg,Quicken,Retro Frame Cards,Instant,Uncommon,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,319,rvr-319-spark-double.jpg,Spark Double,Retro Frame Cards,Creature,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,319z,rvr-319z-spark-double.jpg,Spark Double,Serialized Cards,Creature,Rare,Eric Deschamps,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,320,rvr-320-tidespout-tyrant.jpg,Tidespout Tyrant,Retro Frame Cards,Creature,Rare,Dany Orizio,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,320z,rvr-320z-tidespout-tyrant.jpg,Tidespout Tyrant,Serialized Cards,Creature,Rare,Dany Orizio,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,321,rvr-321-totally-lost.jpg,Totally Lost,Retro Frame Cards,Instant,Common,David Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,322,rvr-322-crypt-ghast.jpg,Crypt Ghast,Retro Frame Cards,Creature,Rare,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,322z,rvr-322z-crypt-ghast.jpg,Crypt Ghast,Serialized Cards,Creature,Rare,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,323,rvr-323-dark-confidant.jpg,Dark Confidant,Retro Frame Cards,Creature,Mythic,Alex Brock,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,323z,rvr-323z-dark-confidant.jpg,Dark Confidant,Serialized Cards,Creature,Mythic,Alex Brock,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,324,rvr-324-dimir-house-guard.jpg,Dimir House Guard,Retro Frame Cards,Creature,Common,John Zeleznik,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,325,rvr-325-golgari-thug.jpg,Golgari Thug,Retro Frame Cards,Creature,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,326,rvr-326-infernal-tutor.jpg,Infernal Tutor,Retro Frame Cards,Sorcery,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,326z,rvr-326z-infernal-tutor.jpg,Infernal Tutor,Serialized Cards,Sorcery,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,327,rvr-327-lord-of-the-void.jpg,Lord of the Void,Retro Frame Cards,Creature,Mythic,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,327z,rvr-327z-lord-of-the-void.jpg,Lord of the Void,Serialized Cards,Creature,Mythic,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,328,rvr-328-massacre-girl.jpg,Massacre Girl,Retro Frame Cards,Lgd. Creature,Rare,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,328z,rvr-328z-massacre-girl.jpg,Massacre Girl,Serialized Cards,Lgd. Creature,Rare,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,329,rvr-329-ultimate-price.jpg,Ultimate Price,Retro Frame Cards,Instant,Uncommon,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,330,rvr-330-vindictive-vampire.jpg,Vindictive Vampire,Retro Frame Cards,Creature,Uncommon,Randy Gallegos,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,331,rvr-331-arclight-phoenix.jpg,Arclight Phoenix,Retro Frame Cards,Creature,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,331z,rvr-331z-arclight-phoenix.jpg,Arclight Phoenix,Serialized Cards,Creature,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,332,rvr-332-guttersnipe.jpg,Guttersnipe,Retro Frame Cards,Creature,Uncommon,Steve Prescott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,333,rvr-333-hellkite-tyrant.jpg,Hellkite Tyrant,Retro Frame Cards,Creature,Rare,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,333z,rvr-333z-hellkite-tyrant.jpg,Hellkite Tyrant,Serialized Cards,Creature,Rare,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,334,rvr-334-ilharg-the-raze-boar.jpg,"Ilharg, the Raze-Boar",Retro Frame Cards,Lgd. Creature,Mythic,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,334z,rvr-334z-ilharg-the-raze-boar.jpg,"Ilharg, the Raze-Boar",Serialized Cards,Lgd. Creature,Mythic,Filip Burburan,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,335,rvr-335-krenko-mob-boss.jpg,"Krenko, Mob Boss",Retro Frame Cards,Lgd. Creature,Rare,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,335z,rvr-335z-krenko-mob-boss.jpg,"Krenko, Mob Boss",Serialized Cards,Lgd. Creature,Rare,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,336,rvr-336-krenko-s-command.jpg,Krenko's Command,Retro Frame Cards,Sorcery,Common,Karl Kopinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,337,rvr-337-legion-warboss.jpg,Legion Warboss,Retro Frame Cards,Creature,Rare,Alex Konstad,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,337z,rvr-337z-legion-warboss.jpg,Legion Warboss,Serialized Cards,Creature,Rare,Alex Konstad,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,338,rvr-338-light-up-the-stage.jpg,Light Up the Stage,Retro Frame Cards,Sorcery,Uncommon,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,339,rvr-339-mizzix-s-mastery.jpg,Mizzix's Mastery,Retro Frame Cards,Sorcery,Rare,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,339z,rvr-339z-mizzix-s-mastery.jpg,Mizzix's Mastery,Serialized Cards,Sorcery,Rare,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,340,rvr-340-skewer-the-critics.jpg,Skewer the Critics,Retro Frame Cards,Sorcery,Common,Heonhwa Choe,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,341,rvr-341-skullcrack.jpg,Skullcrack,Retro Frame Cards,Instant,Uncommon,Dave Kendall,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,342,rvr-342-utvara-hellkite.jpg,Utvara Hellkite,Retro Frame Cards,Creature,Mythic,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,342z,rvr-342z-utvara-hellkite.jpg,Utvara Hellkite,Serialized Cards,Creature,Mythic,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,343,rvr-343-arboreal-grazer.jpg,Arboreal Grazer,Retro Frame Cards,Creature,Common,Jason Rainville,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,344,rvr-344-birds-of-paradise.jpg,Birds of Paradise,Retro Frame Cards,Creature,Rare,Marcelo Vignali,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,344z,rvr-344z-birds-of-paradise.jpg,Birds of Paradise,Serialized Cards,Creature,Rare,Marcelo Vignali,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,345,rvr-345-chord-of-calling.jpg,Chord of Calling,Retro Frame Cards,Instant,Rare,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,345z,rvr-345z-chord-of-calling.jpg,Chord of Calling,Serialized Cards,Instant,Rare,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,346,rvr-346-experiment-one.jpg,Experiment One,Retro Frame Cards,Creature,Uncommon,Chase Stone,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,347,rvr-347-farseek.jpg,Farseek,Retro Frame Cards,Sorcery,Uncommon,Martina Pilcerova,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,348,rvr-348-golgari-grave-troll.jpg,Golgari Grave-Troll,Retro Frame Cards,Creature,Rare,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,348z,rvr-348z-golgari-grave-troll.jpg,Golgari Grave-Troll,Serialized Cards,Creature,Rare,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,349,rvr-349-guardian-project.jpg,Guardian Project,Retro Frame Cards,Enchantment,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,349z,rvr-349z-guardian-project.jpg,Guardian Project,Serialized Cards,Enchantment,Mythic,Chris Rallis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,350,rvr-350-life-from-the-loam.jpg,Life from the Loam,Retro Frame Cards,Sorcery,Rare,Sung Choi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,350z,rvr-350z-life-from-the-loam.jpg,Life from the Loam,Serialized Cards,Sorcery,Rare,Sung Choi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,351,rvr-351-loaming-shaman.jpg,Loaming Shaman,Retro Frame Cards,Creature,Uncommon,Carl Critchlow,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,352,rvr-352-moldervine-cloak.jpg,Moldervine Cloak,Retro Frame Cards,Enchantment,Uncommon,Wayne England,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,353,rvr-353-protean-hulk.jpg,Protean Hulk,Retro Frame Cards,Creature,Mythic,Matt Cavotta,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,353z,rvr-353z-protean-hulk.jpg,Protean Hulk,Serialized Cards,Creature,Mythic,Matt Cavotta,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,354,rvr-354-silhana-ledgewalker.jpg,Silhana Ledgewalker,Retro Frame Cards,Creature,Common,James Wong,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,355,rvr-355-utopia-sprawl.jpg,Utopia Sprawl,Retro Frame Cards,Enchantment,Uncommon,Ron Spears,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,356,rvr-356-aurelia-exemplar-of-justice.jpg,"Aurelia, Exemplar of Justice",Retro Frame Cards,Lgd. Creature,Mythic,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,356z,rvr-356z-aurelia-exemplar-of-justice.jpg,"Aurelia, Exemplar of Justice",Serialized Cards,Lgd. Creature,Mythic,Chris Rahn,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,357,rvr-357-borborygmos-enraged.jpg,Borborygmos Enraged,Retro Frame Cards,Lgd. Creature,Rare,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,357z,rvr-357z-borborygmos-enraged.jpg,Borborygmos Enraged,Serialized Cards,Lgd. Creature,Rare,Aleksi Briclot,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,358,rvr-358-call-of-the-conclave.jpg,Call of the Conclave,Retro Frame Cards,Sorcery,Common,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,359,rvr-359-cartel-aristocrat.jpg,Cartel Aristocrat,Retro Frame Cards,Creature,Uncommon,James Ryman,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,360,rvr-360-cindervines.jpg,Cindervines,Retro Frame Cards,Enchantment,Rare,Mark Behm,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,360z,rvr-360z-cindervines.jpg,Cindervines,Serialized Cards,Enchantment,Rare,Mark Behm,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,361,rvr-361-coiling-oracle.jpg,Coiling Oracle,Retro Frame Cards,Creature,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,362,rvr-362-crackling-drake.jpg,Crackling Drake,Retro Frame Cards,Creature,Uncommon,Victor Adame Minguez,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,363,rvr-363-deathrite-shaman.jpg,Deathrite Shaman,Retro Frame Cards,Creature,Rare,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,363z,rvr-363z-deathrite-shaman.jpg,Deathrite Shaman,Serialized Cards,Creature,Rare,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,364,rvr-364-debt-to-the-deathless.jpg,Debt to the Deathless,Retro Frame Cards,Sorcery,Uncommon,Seb McKinnon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,365,rvr-365-dreadbore.jpg,Dreadbore,Retro Frame Cards,Sorcery,Rare,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,365z,rvr-365z-dreadbore.jpg,Dreadbore,Serialized Cards,Sorcery,Rare,Wayne Reynolds,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,366,rvr-366-frilled-mystic.jpg,Frilled Mystic,Retro Frame Cards,Creature,Uncommon,Randy Vargas,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,367,rvr-367-goblin-electromancer.jpg,Goblin Electromancer,Retro Frame Cards,Creature,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,368,rvr-368-izzet-charm.jpg,Izzet Charm,Retro Frame Cards,Instant,Uncommon,Zoltan Boros,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,369,rvr-369-karlov-of-the-ghost-council.jpg,Karlov of the Ghost Council,Retro Frame Cards,Lgd. Creature,Mythic,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,369z,rvr-369z-karlov-of-the-ghost-council.jpg,Karlov of the Ghost Council,Serialized Cards,Lgd. Creature,Mythic,Volkan Baǵa,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,370,rvr-370-lavinia-azorius-renegade.jpg,"Lavinia, Azorius Renegade",Retro Frame Cards,Lgd. Creature,Rare,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,370z,rvr-370z-lavinia-azorius-renegade.jpg,"Lavinia, Azorius Renegade",Serialized Cards,Lgd. Creature,Rare,Steven Belledin,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,371,rvr-371-lazav-the-multifarious.jpg,"Lazav, the Multifarious",Retro Frame Cards,Lgd. Creature,Rare,Yongjae Choi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,371z,rvr-371z-lazav-the-multifarious.jpg,"Lazav, the Multifarious",Serialized Cards,Lgd. Creature,Rare,Yongjae Choi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,372,rvr-372-lightning-helix.jpg,Lightning Helix,Retro Frame Cards,Instant,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,373,rvr-373-master-of-cruelties.jpg,Master of Cruelties,Retro Frame Cards,Creature,Mythic,Chase Stone,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,373z,rvr-373z-master-of-cruelties.jpg,Master of Cruelties,Serialized Cards,Creature,Mythic,Chase Stone,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,374,rvr-374-mayhem-devil.jpg,Mayhem Devil,Retro Frame Cards,Creature,Uncommon,Dmitry Burmak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,375,rvr-375-mindleech-mass.jpg,Mindleech Mass,Retro Frame Cards,Creature,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,375z,rvr-375z-mindleech-mass.jpg,Mindleech Mass,Serialized Cards,Creature,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,376,rvr-376-niv-mizzet-parun.jpg,"Niv-Mizzet, Parun",Retro Frame Cards,Lgd. Creature,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,376z,rvr-376z-niv-mizzet-parun.jpg,"Niv-Mizzet, Parun",Serialized Cards,Lgd. Creature,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,377,rvr-377-prime-speaker-zegana.jpg,Prime Speaker Zegana,Retro Frame Cards,Lgd. Creature,Rare,Willian Murai,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,377z,rvr-377z-prime-speaker-zegana.jpg,Prime Speaker Zegana,Serialized Cards,Lgd. Creature,Rare,Willian Murai,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,378,rvr-378-putrefy.jpg,Putrefy,Retro Frame Cards,Instant,Uncommon,Jim Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,379,rvr-379-rakdos-lord-of-riots.jpg,"Rakdos, Lord of Riots",Retro Frame Cards,Lgd. Creature,Rare,Vincent Proce,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,379z,rvr-379z-rakdos-lord-of-riots.jpg,"Rakdos, Lord of Riots",Serialized Cards,Lgd. Creature,Rare,Vincent Proce,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,380,rvr-380-rhythm-of-the-wild.jpg,Rhythm of the Wild,Retro Frame Cards,Enchantment,Uncommon,Maxime Minard,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,381,rvr-381-savra-queen-of-the-golgari.jpg,"Savra, Queen of the Golgari",Retro Frame Cards,Lgd. Creature,Rare,Aurore Folny,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,381z,rvr-381z-savra-queen-of-the-golgari.jpg,"Savra, Queen of the Golgari",Serialized Cards,Lgd. Creature,Rare,Aurore Folny,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,382,rvr-382-sky-hussar.jpg,Sky Hussar,Retro Frame Cards,Creature,Uncommon,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,383,rvr-383-sphinx-s-revelation.jpg,Sphinx's Revelation,Retro Frame Cards,Instant,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,383z,rvr-383z-sphinx-s-revelation.jpg,Sphinx's Revelation,Serialized Cards,Instant,Rare,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,384,rvr-384-stitch-in-time.jpg,Stitch in Time,Retro Frame Cards,Sorcery,Rare,Jon Foster,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,384z,rvr-384z-stitch-in-time.jpg,Stitch in Time,Serialized Cards,Sorcery,Rare,Jon Foster,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,385,rvr-385-tajic-legion-s-edge.jpg,"Tajic, Legion's Edge",Retro Frame Cards,Lgd. Creature,Rare,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,385z,rvr-385z-tajic-legion-s-edge.jpg,"Tajic, Legion's Edge",Serialized Cards,Lgd. Creature,Rare,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,386,rvr-386-teysa-orzhov-scion.jpg,"Teysa, Orzhov Scion",Retro Frame Cards,Lgd. Creature,Rare,Sara Winters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,386z,rvr-386z-teysa-orzhov-scion.jpg,"Teysa, Orzhov Scion",Serialized Cards,Lgd. Creature,Rare,Sara Winters,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,387,rvr-387-tolsimir-wolfblood.jpg,Tolsimir Wolfblood,Retro Frame Cards,Lgd. Creature,Rare,Donato Giancola,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,387z,rvr-387z-tolsimir-wolfblood.jpg,Tolsimir Wolfblood,Serialized Cards,Lgd. Creature,Rare,Donato Giancola,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,388,rvr-388-voidslime.jpg,Voidslime,Retro Frame Cards,Instant,Rare,Isis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,388z,rvr-388z-voidslime.jpg,Voidslime,Serialized Cards,Instant,Rare,Isis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,389,rvr-389-bottled-cloister.jpg,Bottled Cloister,Retro Frame Cards,Artifact,Rare,Luca Zontini,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,389z,rvr-389z-bottled-cloister.jpg,Bottled Cloister,Serialized Cards,Artifact,Rare,Luca Zontini,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,390,rvr-390-chromatic-lantern.jpg,Chromatic Lantern,Retro Frame Cards,Artifact,Rare,Jung Park,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,390z,rvr-390z-chromatic-lantern.jpg,Chromatic Lantern,Serialized Cards,Artifact,Rare,Jung Park,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,391,rvr-391-cloudstone-curio.jpg,Cloudstone Curio,Retro Frame Cards,Artifact,Mythic,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,391z,rvr-391z-cloudstone-curio.jpg,Cloudstone Curio,Serialized Cards,Artifact,Mythic,Heather Hudson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,392,rvr-392-illusionist-s-bracers.jpg,Illusionist's Bracers,Retro Frame Cards,Artifact,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,392z,rvr-392z-illusionist-s-bracers.jpg,Illusionist's Bracers,Serialized Cards,Artifact,Rare,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,393,rvr-393-pariah-s-shield.jpg,Pariah's Shield,Retro Frame Cards,Artifact,Rare,Doug Chaffee,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,393z,rvr-393z-pariah-s-shield.jpg,Pariah's Shield,Serialized Cards,Artifact,Rare,Doug Chaffee,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,394,rvr-394-seal-of-the-guildpact.jpg,Seal of the Guildpact,Retro Frame Cards,Artifact,Rare,Franz Vohwinkel,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,394z,rvr-394z-seal-of-the-guildpact.jpg,Seal of the Guildpact,Serialized Cards,Artifact,Rare,Franz Vohwinkel,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,395,rvr-395-sword-of-the-paruns.jpg,Sword of the Paruns,Retro Frame Cards,Artifact,Rare,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,395z,rvr-395z-sword-of-the-paruns.jpg,Sword of the Paruns,Serialized Cards,Artifact,Rare,Greg Hildebrandt,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,396,rvr-396-azorius-guildgate.jpg,Azorius Guildgate,Retro Frame Cards,Land,Common,Drew Baker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,397,rvr-397-blood-crypt.jpg,Blood Crypt,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,397z,rvr-397z-blood-crypt.jpg,Blood Crypt,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,398,rvr-398-boros-guildgate.jpg,Boros Guildgate,Retro Frame Cards,Land,Common,Titus Lunter,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,399,rvr-399-breeding-pool.jpg,Breeding Pool,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,399z,rvr-399z-breeding-pool.jpg,Breeding Pool,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,400,rvr-400-dimir-guildgate.jpg,Dimir Guildgate,Retro Frame Cards,Land,Common,Cliff Childs,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,401,rvr-401-godless-shrine.jpg,Godless Shrine,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,401z,rvr-401z-godless-shrine.jpg,Godless Shrine,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,402,rvr-402-golgari-guildgate.jpg,Golgari Guildgate,Retro Frame Cards,Land,Common,Eytan Zana,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,403,rvr-403-gruul-guildgate.jpg,Gruul Guildgate,Retro Frame Cards,Land,Common,Randy Gallegos,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,404,rvr-404-hallowed-fountain.jpg,Hallowed Fountain,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,404z,rvr-404z-hallowed-fountain.jpg,Hallowed Fountain,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,405,rvr-405-izzet-guildgate.jpg,Izzet Guildgate,Retro Frame Cards,Land,Common,Kirsten Zirngibl,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,406,rvr-406-orzhov-guildgate.jpg,Orzhov Guildgate,Retro Frame Cards,Land,Common,John Avon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,407,rvr-407-overgrown-tomb.jpg,Overgrown Tomb,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,407z,rvr-407z-overgrown-tomb.jpg,Overgrown Tomb,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,408,rvr-408-rakdos-guildgate.jpg,Rakdos Guildgate,Retro Frame Cards,Land,Common,Jonas De Ro,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,409,rvr-409-sacred-foundry.jpg,Sacred Foundry,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,409z,rvr-409z-sacred-foundry.jpg,Sacred Foundry,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,410,rvr-410-selesnya-guildgate.jpg,Selesnya Guildgate,Retro Frame Cards,Land,Common,Dimitar Marinski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,411,rvr-411-simic-guildgate.jpg,Simic Guildgate,Retro Frame Cards,Land,Common,Svetlin Velinov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,412,rvr-412-steam-vents.jpg,Steam Vents,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,412z,rvr-412z-steam-vents.jpg,Steam Vents,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,413,rvr-413-stomping-ground.jpg,Stomping Ground,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,413z,rvr-413z-stomping-ground.jpg,Stomping Ground,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,414,rvr-414-temple-garden.jpg,Temple Garden,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,414z,rvr-414z-temple-garden.jpg,Temple Garden,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,415,rvr-415-watery-grave.jpg,Watery Grave,Retro Frame Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,415z,rvr-415z-watery-grave.jpg,Watery Grave,Serialized Cards,Land,Rare,Rob Alexander,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,416,rvr-416-divine-visitation.jpg,Divine Visitation,Borderless Anime Cards,Enchantment,Mythic,Yuichi Murakami,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,417,rvr-417-tomik-distinguished-advokist.jpg,"Tomik, Distinguished Advokist",Borderless Anime Cards,Lgd. Creature,Rare,Yakotakos,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,418,rvr-418-bruvac-the-grandiloquent.jpg,Bruvac the Grandiloquent,Borderless Anime Cards,Lgd. Creature,Mythic,Ai Nanahira,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,419,rvr-419-cyclonic-rift.jpg,Cyclonic Rift,Borderless Anime Cards,Instant,Mythic,Ryuichi Sakuma,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,420,rvr-420-fblthp-the-lost.jpg,"Fblthp, the Lost",Borderless Anime Cards,Lgd. Creature,Rare,Tetsu Kurosawa,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,421,rvr-421-spark-double.jpg,Spark Double,Borderless Anime Cards,Creature,Rare,Canata Katana,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,422,rvr-422-tidespout-tyrant.jpg,Tidespout Tyrant,Borderless Anime Cards,Creature,Rare,Ryuichi Sakuma,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,423,rvr-423-crypt-ghast.jpg,Crypt Ghast,Borderless Anime Cards,Creature,Rare,zizero,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,424,rvr-424-lord-of-the-void.jpg,Lord of the Void,Borderless Anime Cards,Creature,Mythic,Ishikawa Kenta,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,425,rvr-425-massacre-girl.jpg,Massacre Girl,Borderless Anime Cards,Lgd. Creature,Rare,MiDQN,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,426,rvr-426-pack-rat.jpg,Pack Rat,Borderless Anime Cards,Creature,Rare,Yukihiro Maruo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,427,rvr-427-arclight-phoenix.jpg,Arclight Phoenix,Borderless Anime Cards,Creature,Rare,Kemonomichi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,428,rvr-428-hellkite-tyrant.jpg,Hellkite Tyrant,Borderless Anime Cards,Creature,Rare,Ishikawa Kenta,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,429,rvr-429-ilharg-the-raze-boar.jpg,"Ilharg, the Raze-Boar",Borderless Anime Cards,Lgd. Creature,Mythic,Moopic,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,430,rvr-430-krenko-mob-boss.jpg,"Krenko, Mob Boss",Borderless Anime Cards,Lgd. Creature,Rare,Ai Nanahira,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,431,rvr-431-utvara-hellkite.jpg,Utvara Hellkite,Borderless Anime Cards,Creature,Mythic,M.Matsumoto,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,432,rvr-432-birds-of-paradise.jpg,Birds of Paradise,Borderless Anime Cards,Creature,Rare,Kemonomichi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,433,rvr-433-guardian-project.jpg,Guardian Project,Borderless Anime Cards,Enchantment,Mythic,Inuchiyo Meimaru,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,434,rvr-434-life-from-the-loam.jpg,Life from the Loam,Borderless Anime Cards,Sorcery,Rare,Ayuko,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,435,rvr-435-protean-hulk.jpg,Protean Hulk,Borderless Anime Cards,Creature,Mythic,Moopic,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,436,rvr-436-aurelia-exemplar-of-justice.jpg,"Aurelia, Exemplar of Justice",Borderless Anime Cards,Lgd. Creature,Mythic,Hiromu,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,437,rvr-437-karlov-of-the-ghost-council.jpg,Karlov of the Ghost Council,Borderless Anime Cards,Lgd. Creature,Mythic,Dai-XT,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,438,rvr-438-niv-mizzet-parun.jpg,"Niv-Mizzet, Parun",Borderless Anime Cards,Lgd. Creature,Rare,Yukihiro Maruo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,439,rvr-439-prime-speaker-zegana.jpg,Prime Speaker Zegana,Borderless Anime Cards,Lgd. Creature,Rare,I☆LA,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,440,rvr-440-savra-queen-of-the-golgari.jpg,"Savra, Queen of the Golgari",Borderless Anime Cards,Lgd. Creature,Rare,Daisuke Tatsuma,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,441,rvr-441-teysa-orzhov-scion.jpg,"Teysa, Orzhov Scion",Borderless Anime Cards,Lgd. Creature,Rare,Fuzichoco,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,442,rvr-442-chromatic-lantern.jpg,Chromatic Lantern,Borderless Anime Cards,Artifact,Rare,Dai-XT,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,443,rvr-443-cloudstone-curio.jpg,Cloudstone Curio,Borderless Anime Cards,Artifact,Mythic,Yumi Ozuno,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,444,rvr-444-domri-rade.jpg,Domri Rade,Borderless Anime Cards,Lgd. Planeswalker,Mythic,Susumu Kuroi,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,445,rvr-445-ral-zarek.jpg,Ral Zarek,Borderless Anime Cards,Lgd. Planeswalker,Mythic,Fukuzo Katsura,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,446,rvr-446-rest-in-peace.jpg,Rest in Peace,Retro Frame Cards,Enchantment,Rare,Alexandre Honoré,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,447,rvr-447-sphere-of-safety.jpg,Sphere of Safety,Retro Frame Cards,Enchantment,Uncommon,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,448,rvr-448-aetherize.jpg,Aetherize,Retro Frame Cards,Instant,Uncommon,Alexandre Honoré,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,449,rvr-449-enter-the-infinite.jpg,Enter the Infinite,Retro Frame Cards,Sorcery,Mythic,Jake Murray,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,450,rvr-450-gigantoplasm.jpg,Gigantoplasm,Retro Frame Cards,Creature,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,451,rvr-451-narcomoeba.jpg,Narcomoeba,,Creature,Uncommon,Howard Lyon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,452,rvr-452-turnabout.jpg,Turnabout,,Instant,Uncommon,Dan Murayama Scott,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,453,rvr-453-creeping-chill.jpg,Creeping Chill,,Sorcery,Uncommon,Wisnu Tan,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,454,rvr-454-darkblast.jpg,Darkblast,,Instant,Uncommon,Randy Gallegos,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,455,rvr-455-pack-rat.jpg,Pack Rat,,Creature,Rare,Kev Walker,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,456,rvr-456-shattering-spree.jpg,Shattering Spree,,Sorcery,Uncommon,Pat Lee,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,457,rvr-457-perilous-forays.jpg,Perilous Forays,,Enchantment,Uncommon,Steve Ellis,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,458,rvr-458-wilderness-reclamation.jpg,Wilderness Reclamation,,Enchantment,Uncommon,Tyler Walpole,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,459,rvr-459-niv-mizzet-reborn.jpg,Niv-Mizzet Reborn,,Lgd. Creature,Mythic,Raymond Swanland,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,460,rvr-460-shambling-shell.jpg,Shambling Shell,,Creature,Common,Joel Thomas,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,461,rvr-461-supreme-verdict.jpg,Supreme Verdict,,Sorcery,Rare,Sam Burley,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,462,rvr-462-magewright-s-stone.jpg,Magewright's Stone,,Artifact,Uncommon,Carl Critchlow,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,463,rvr-463-pithing-needle.jpg,Pithing Needle,,Artifact,Rare,Anthony Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,464,rvr-464-karn-s-bastion.jpg,Karn's Bastion,,Land,Rare,Adam Paquette,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,465,rvr-465-maze-s-end.jpg,Maze's End,,Land,Mythic,Cliff Childs,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,466,rvr-466-thespian-s-stage.jpg,Thespian's Stage,,Land,Rare,John Avon,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered,RVR,,467,rvr-467-niv-mizzet-the-firemind.jpg,"Niv-Mizzet, the Firemind",,Lgd. Creature,Rare,Todd Lockwood,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,1,trvr-1-bird.jpg,Bird,,Token Creature,Common,James Ryman,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,2,trvr-2-angel.jpg,Angel,,Token Creature,Common,Steve Argyle,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,3,trvr-3-angel.jpg,Angel,,Token Creature,Common,Grzegorz Rutkowski,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,4,trvr-4-spirit.jpg,Spirit,,Token Creature,Common,Dave Allsop,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,5,trvr-5-bird-illusion.jpg,Bird Illusion,,Token Creature,Common,James Paick,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,6,trvr-6-zombie.jpg,Zombie,,Token Creature,Common,Simon Dominic,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,7,trvr-7-dragon.jpg,Dragon,,Token Creature,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,8,trvr-8-goblin.jpg,Goblin,,Token Creature,Common,Mark Zug,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,9,trvr-9-goblin.jpg,Goblin,,Token Creature,Common,Carl Critchlow,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,10,trvr-10-centaur.jpg,Centaur,,Token Creature,Common,Slawomir Maniak,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,11,trvr-11-rhino.jpg,Rhino,,Token Creature,Common,Aaron Miller,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,12,trvr-12-saproling.jpg,Saproling,,Token Creature,Common,Dana Knutson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,13,trvr-13-wurm.jpg,Wurm,,Token Creature,Common,Mitch Cotie,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,14,trvr-14-beast.jpg,Beast,,Token Creature,Common,Winona Nelson,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,15,trvr-15-elf-knight.jpg,Elf Knight,,Token Creature,Common,Hristo D. Chukov,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,16,trvr-16-soldier.jpg,Soldier,,Token Creature,Common,David Palumbo,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,17,trvr-17-sphinx.jpg,Sphinx,,Token Creature,Common,Scott Murphy,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,18,trvr-18-spirit.jpg,Spirit,,Token Creature,Common,Cliff Childs,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,19,trvr-19-voja.jpg,Voja,,Token Lgd. Creature,Common,Richard Sardinha,Wizards of the Coast,English,English,,,,,9+
+2024,12/01/2024,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,RVR,20,trvr-20-domri-rade-emblem.jpg,Domri Rade Emblem,,Emblem,Common,Tyler Jacobson,Wizards of the Coast,English,English,,,,,9+

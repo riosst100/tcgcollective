@@ -1,0 +1,39 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Action Toys,Action Toys,,,Action Toys,
+Anime Figures,Anime Figures,,,Anime Figures,
+Anime Fun Goods,Anime Fun Goods,,,Anime Fun Goods,
+Gundam,Gundam,,,Gundam,
+Monsters,Monsters,,,Monsters,
+Robot / Mecha,Robot / Mecha,,,Robot / Mecha,
+Non-Sport Cards,Non-Sport Cards,,,Non-Sport Cards,
+Sport Cards,Sport Cards,,,Sport Cards,
+Fashion Dolls,Fashion Dolls,,,Fashion Dolls,
+Collectible Card Games,Collectible Card Games,,,Collectible Card Games,
+Living Card Games,Living Card Games,,,Living Card Games,
+Miniature Games,Miniature Games,,,Miniature Games,
+Lego Sets,Lego Sets,,,Lego Sets,
+Mini-Figures,Mini-Figures,,,Mini-Figures,
+Layout,Layout,,,Layout,
+Trains,Trains,,,Trains,
+Diecast,Diecast,,,Diecast,
+Model Kits,Model Kits,,,Model Kits,
+Collectible Card Games | Magic: The Gathering,,card_game,Magic: The Gathering,Magic: The Gathering,1
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sealed Products,Magic: The Gathering | Sealed Products,2
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sets,Magic: The Gathering | Sets,2
+Collectible Card Games | Magic: The Gathering,,card_product_type,Lots,Magic: The Gathering | Lots,2
+Collectible Card Games | Magic: The Gathering,,card_product_type,Singles,Magic: The Gathering | Singles,2
+Collectible Card Games | Pokemon,,card_game,Pokemon,Pokemon,1
+Collectible Card Games | Pokemon,,card_product_type,Sealed Products,Pokemon | Sealed Products,2
+Collectible Card Games | Pokemon,,card_product_type,Sets,Pokemon | Sets,2
+Collectible Card Games | Pokemon,,card_product_type,Lots,Pokemon | Lots,2
+Collectible Card Games | Pokemon,,card_product_type,Singles,Pokemon | Singles,2
+Collectible Card Games | Disney Lorcana,,card_game,Disney Lorcana,Disney Lorcana,1
+Collectible Card Games | Disney Lorcana,,card_product_type,Sealed Products,Disney Lorcana | Sealed Products,2
+Collectible Card Games | Disney Lorcana,,card_product_type,Sets,Disney Lorcana | Sets,2
+Collectible Card Games | Disney Lorcana,,card_product_type,Lots,Disney Lorcana | Lots,2
+Collectible Card Games | Disney Lorcana,,card_product_type,Singles,Disney Lorcana | Singles,2
+Collectible Card Games | One Piece,,card_game,One Piece,One Piece,1
+Collectible Card Games | One Piece,,card_product_type,Sealed Products,One Piece | Sealed Products,2
+Collectible Card Games | One Piece,,card_product_type,Sets,One Piece | Sets,2
+Collectible Card Games | One Piece,,card_product_type,Lots,One Piece | Lots,2
+Collectible Card Games | One Piece,,card_product_type,Singles,One Piece | Singles,2

@@ -1,0 +1,84 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Bricks,Bricks,,,,Bricks
+Bricks,Box Sets/Packs,,,,Bricks
+Bricks,Minifigures,,,,Bricks
+Bricks,Parts,,,,Bricks
+Bricks,Accessories,,,,Bricks
+Bricks | LEGO,,bricks_brand,LEGO,1,Bricks | LEGO
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | LEGO | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | LEGO | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | LEGO | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | LEGO | Accessories
+Bricks | Accessories,,bricks_accessories_categories,Storage,3,Bricks | LEGO | Accessories | Storage
+Bricks | Accessories,,bricks_accessories_categories,Display,3,Bricks | LEGO | Accessories | Display
+Bricks | Accessories,,bricks_accessories_categories,Lighting,3,Bricks | LEGO | Accessories | Lighting
+Bricks | Mould King,,bricks_brand,Mould King,1,Bricks | Mould King
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Mould King | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Mould King | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Mould King | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Mould King | Accessories
+Bricks | Cada,,bricks_brand,Cada,1,Bricks | Cada
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Cada | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Cada | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Cada | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Cada | Accessories
+Bricks | Nanoblock,,bricks_brand,Nanoblock,1,Bricks | Nanoblock
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Nanoblock | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Nanoblock | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Nanoblock | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Nanoblock | Accessories
+Bricks | FunWhole,,bricks_brand,FunWhole,1,Bricks | FunWhole
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | FunWhole | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | FunWhole | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | FunWhole | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | FunWhole | Accessories
+Bricks | Cobi,,bricks_brand,Cobi,1,Bricks | Cobi
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Cobi | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Cobi | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Cobi | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Cobi | Accessories
+Bricks | Sluban,,bricks_brand,Sluban,1,Bricks | Sluban
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Sluban | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Sluban | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Sluban | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Sluban | Accessories
+Bricks | Sembo,,bricks_brand,Sembo,1,Bricks | Sembo
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Sembo | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Sembo | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Sembo | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Sembo | Accessories
+Bricks | Zhegao,,bricks_brand,Zhegao,1,Bricks | Zhegao
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Zhegao | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Zhegao | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Zhegao | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Zhegao | Accessories
+Bricks | Reobrick,,bricks_brand,Reobrick,1,Bricks | Reobrick
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Reobrick | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Reobrick | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Reobrick | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Reobrick | Accessories
+Bricks | Wange,,bricks_brand,Wange,1,Bricks | Wange
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Wange | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Wange | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Wange | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Wange | Accessories
+Bricks | Jiestar,,bricks_brand,Jiestar,1,Bricks | Jiestar
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Jiestar | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Jiestar | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Jiestar | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Jiestar | Accessories
+Bricks | Panlos,,bricks_brand,Panlos,1,Bricks | Panlos
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Panlos | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Panlos | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Panlos | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Panlos | Accessories
+Bricks | Moyu,,bricks_brand,Moyu,1,Bricks | Moyu
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Moyu | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Moyu | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Moyu | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Moyu | Accessories
+Bricks | Jaki,,bricks_brand,Jaki,1,Bricks | Jaki
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,2,Bricks | Jaki | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,2,Bricks | Jaki | Minifigures
+Bricks | Parts,,bricks_categories,Parts,2,Bricks | Jaki | Parts
+Bricks | Accessories,,bricks_categories,Accessories,2,Bricks | Jaki | Accessories

@@ -1,0 +1,910 @@
+﻿release_year,release_date,card_game,card_set,card_set_abbreviation,parent_set_code,card_number,images,card_name,card_type,card_rarity,card_artist,card_feature,card_manufacturer,language,language_version,card_condition,card_sub_type,card_color,card_foil,age_level
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,1,fdn-1-sire-of-seven-deaths.jpg,Sire of Seven Deaths,Creature,Mythic,Lius Lasahido,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,2,fdn-2-arahbo-the-first-fang.jpg,"Arahbo, the First Fang",Lgd. Creature,Rare,Simon Dominic,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,3,fdn-3-armasaur-guide.jpg,Armasaur Guide,Creature,Common,Loïc Canavaggia,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,4,fdn-4-cat-collector.jpg,Cat Collector,Creature,Uncommon,Chris Seaman,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,5,fdn-5-celestial-armor.jpg,Celestial Armor,Artifact,Rare,Olena Richards,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,6,fdn-6-claws-out.jpg,Claws Out,Instant,Uncommon,Warren Mahy,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,7,fdn-7-crystal-barricade.jpg,Crystal Barricade,Artifact Creature,Rare,Rockey Chen,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,8,fdn-8-dauntless-veteran.jpg,Dauntless Veteran,Creature,Uncommon,Chris Rallis,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,9,fdn-9-dazzling-angel.jpg,Dazzling Angel,Creature,Common,Daneen Wilkerson,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,10,fdn-10-divine-resilience.jpg,Divine Resilience,Instant,Uncommon,Svetlin Velinov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,11,fdn-11-exemplar-of-light.jpg,Exemplar of Light,Creature,Rare,Ekaterina Burmak,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,12,fdn-12-felidar-savior.jpg,Felidar Savior,Creature,Common,Ilse Gort,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,13,fdn-13-fleeting-flight.jpg,Fleeting Flight,Instant,Common,Leonardo Santanna,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,14,fdn-14-guarded-heir.jpg,Guarded Heir,Creature,Uncommon,Craig J Spearing,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,15,fdn-15-hare-apparent.jpg,Hare Apparent,Creature,Common,Milivoj Ćeran,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,16,fdn-16-helpful-hunter.jpg,Helpful Hunter,Creature,Common,Xabi Gaztelua,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,17,fdn-17-herald-of-eternal-dawn.jpg,Herald of Eternal Dawn,Creature,Mythic,Martina Fačková,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,18,fdn-18-inspiring-paladin.jpg,Inspiring Paladin,Creature,Common,Valera Lutfullina,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,19,fdn-19-joust-through.jpg,Joust Through,Instant,Uncommon,Miro Petrov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,20,fdn-20-luminous-rebuke.jpg,Luminous Rebuke,Instant,Common,Mike Sass,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,21,fdn-21-prideful-parent.jpg,Prideful Parent,Creature,Common,Leonardo Santanna,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,22,fdn-22-raise-the-past.jpg,Raise the Past,Sorcery,Rare,Nathaniel Himawan,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,23,fdn-23-skyknight-squire.jpg,Skyknight Squire,Creature,Rare,Alexander Mokhov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,24,fdn-24-squad-rallier.jpg,Squad Rallier,Creature,Common,Edgar Sánchez Hidalgo,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,25,fdn-25-sun-blessed-healer.jpg,Sun-Blessed Healer,Creature,Uncommon,Mark Zug,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,26,fdn-26-twinblade-blessing.jpg,Twinblade Blessing,Enchantment,Uncommon,Miro Petrov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,27,fdn-27-valkyrie-s-call.jpg,Valkyrie's Call,Enchantment,Mythic,Scott Murphy,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,28,fdn-28-vanguard-seraph.jpg,Vanguard Seraph,Creature,Common,Zezhou Chen,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,29,fdn-29-arcane-epiphany.jpg,Arcane Epiphany,Instant,Uncommon,Andrew Mar,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,30,fdn-30-archmage-of-runes.jpg,Archmage of Runes,Creature,Rare,Kai Carpenter,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,31,fdn-31-bigfin-bouncer.jpg,Bigfin Bouncer,Creature,Common,Brent Hollowell,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,32,fdn-32-cephalid-inkmage.jpg,Cephalid Inkmage,Creature,Uncommon,Christopher Burdett,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,33,fdn-33-clinquant-skymage.jpg,Clinquant Skymage,Creature,Uncommon,Kevin Sidharta,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,34,fdn-34-curator-of-destinies.jpg,Curator of Destinies,Creature,Rare,Ralph Horsley,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,35,fdn-35-drake-hatcher.jpg,Drake Hatcher,Creature,Rare,Chris Rallis,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,36,fdn-36-elementalist-adept.jpg,Elementalist Adept,Creature,Common,LA Draws,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,37,fdn-37-erudite-wizard.jpg,Erudite Wizard,Creature,Common,Ioannis Fiore,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,38,fdn-38-faebloom-trick.jpg,Faebloom Trick,Instant,Uncommon,Annie Stegg,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,39,fdn-39-grappling-kraken.jpg,Grappling Kraken,Creature,Uncommon,Ben Wootten,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,40,fdn-40-high-fae-trickster.jpg,High Fae Trickster,Creature,Rare,Justyna Dura,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,41,fdn-41-homunculus-horde.jpg,Homunculus Horde,Creature,Rare,Adrián Rodríguez Pérez,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,42,fdn-42-icewind-elemental.jpg,Icewind Elemental,Creature,Common,Andrew Mar,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,43,fdn-43-inspiration-from-beyond.jpg,Inspiration from Beyond,Sorcery,Uncommon,Xavier Ribeiro,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,44,fdn-44-kaito-cunning-infiltrator.jpg,"Kaito, Cunning Infiltrator",Lgd. Planeswalker,Mythic,Evyn Fong,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,45,fdn-45-kiora-the-rising-tide.jpg,"Kiora, the Rising Tide",Lgd. Creature,Rare,Julian Kok Joon Wen,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,46,fdn-46-lunar-insight.jpg,Lunar Insight,Sorcery,Rare,Dan Murayama Scott,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,47,fdn-47-mischievous-mystic.jpg,Mischievous Mystic,Creature,Uncommon,Steve Prescott,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,48,fdn-48-refute.jpg,Refute,Instant,Common,Ignatius Budi,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,49,fdn-49-rune-sealed-wall.jpg,Rune-Sealed Wall,Artifact Creature,Uncommon,Rockey Chen,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,50,fdn-50-skyship-buccaneer.jpg,Skyship Buccaneer,Creature,Uncommon,Javier Charro,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,51,fdn-51-sphinx-of-forgotten-lore.jpg,Sphinx of Forgotten Lore,Creature,Mythic,Dmitry Burmak,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,52,fdn-52-strix-lookout.jpg,Strix Lookout,Creature,Common,"Josiah ""Jo"" Cameron",New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,53,fdn-53-uncharted-voyage.jpg,Uncharted Voyage,Instant,Common,Julian Kok Joon Wen,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,54,fdn-54-abyssal-harvester.jpg,Abyssal Harvester,Creature,Rare,Diana Franco,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,55,fdn-55-arbiter-of-woe.jpg,Arbiter of Woe,Creature,Uncommon,Jim Pavelec,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,56,fdn-56-billowing-shriekmass.jpg,Billowing Shriekmass,Creature,Uncommon,Brent Hollowell,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,57,fdn-57-blasphemous-edict.jpg,Blasphemous Edict,Sorcery,Rare,Andrew Mar,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,58,fdn-58-bloodthirsty-conqueror.jpg,Bloodthirsty Conqueror,Creature,Mythic,Dmitry Burmak,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,59,fdn-59-crypt-feaster.jpg,Crypt Feaster,Creature,Common,John Di Giovanni,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,60,fdn-60-gutless-plunderer.jpg,Gutless Plunderer,Creature,Common,Loïc Canavaggia,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,61,fdn-61-high-society-hunter.jpg,High-Society Hunter,Creature,Rare,Daneen Wilkerson,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,62,fdn-62-hungry-ghoul.jpg,Hungry Ghoul,Creature,Common,Paolo Parente,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,63,fdn-63-infernal-vessel.jpg,Infernal Vessel,Creature,Uncommon,Franz Vohwinkel,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,64,fdn-64-infestation-sage.jpg,Infestation Sage,Creature,Common,Daneen Wilkerson,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,65,fdn-65-midnight-snack.jpg,Midnight Snack,Enchantment,Uncommon,Kai Carpenter,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,66,fdn-66-nine-lives-familiar.jpg,Nine-Lives Familiar,Creature,Rare,Bram Sels,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,67,fdn-67-revenge-of-the-rats.jpg,Revenge of the Rats,Sorcery,Uncommon,Filipe Pagliuso,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,68,fdn-68-sanguine-syphoner.jpg,Sanguine Syphoner,Creature,Common,Irina Nordsol,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,69,fdn-69-seeker-s-folly.jpg,Seeker's Folly,Sorcery,Uncommon,Valera Lutfullina,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,70,fdn-70-soul-shackled-zombie.jpg,Soul-Shackled Zombie,Creature,Common,Diana Franco,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,71,fdn-71-stab.jpg,Stab,Instant,Common,Milivoj Ćeran,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,72,fdn-72-tinybones-bauble-burglar.jpg,"Tinybones, Bauble Burglar",Lgd. Creature,Rare,Leonardo Santanna,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,73,fdn-73-tragic-banshee.jpg,Tragic Banshee,Creature,Uncommon,Camille Alquier,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,74,fdn-74-vampire-gourmand.jpg,Vampire Gourmand,Creature,Uncommon,Chris Rallis,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,75,fdn-75-vampire-soulcaller.jpg,Vampire Soulcaller,Creature,Common,Aaron J. Riley,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,76,fdn-76-vengeful-bloodwitch.jpg,Vengeful Bloodwitch,Creature,Uncommon,Jarel Threat,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,77,fdn-77-zul-ashur-lich-lord.jpg,"Zul Ashur, Lich Lord",Lgd. Creature,Rare,Raluca Marinescu,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,78,fdn-78-battlesong-berserker.jpg,Battlesong Berserker,Creature,Uncommon,Mirko Failoni,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,79,fdn-79-boltwave.jpg,Boltwave,Sorcery,Uncommon,Caio Monteiro,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,80,fdn-80-bulk-up.jpg,Bulk Up,Instant,Uncommon,Warren Mahy,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,81,fdn-81-chandra-flameshaper.jpg,"Chandra, Flameshaper",Lgd. Planeswalker,Mythic,Mark Winters,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,82,fdn-82-courageous-goblin.jpg,Courageous Goblin,Creature,Common,Ben Wootten,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,83,fdn-83-crackling-cyclops.jpg,Crackling Cyclops,Creature,Common,Kev Walker,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,84,fdn-84-dragon-trainer.jpg,Dragon Trainer,Creature,Uncommon,Steve Prescott,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,85,fdn-85-electroduplicate.jpg,Electroduplicate,Sorcery,Rare,Warren Mahy,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,86,fdn-86-fiery-annihilation.jpg,Fiery Annihilation,Instant,Uncommon,Warren Mahy,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,87,fdn-87-goblin-boarders.jpg,Goblin Boarders,Creature,Common,Filipe Pagliuso,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,88,fdn-88-goblin-negotiation.jpg,Goblin Negotiation,Sorcery,Uncommon,Svetlin Velinov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,89,fdn-89-gorehorn-raider.jpg,Gorehorn Raider,Creature,Common,Warren Mahy,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,90,fdn-90-incinerating-blast.jpg,Incinerating Blast,Sorcery,Common,Zoltan Boros,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,91,fdn-91-kellan-planar-trailblazer.jpg,"Kellan, Planar Trailblazer",Lgd. Creature,Rare,Zoltan Boros,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,92,fdn-92-rite-of-the-dragoncaller.jpg,Rite of the Dragoncaller,Enchantment,Mythic,PINDURSKI,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,93,fdn-93-searslicer-goblin.jpg,Searslicer Goblin,Creature,Rare,Wayne Reynolds,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,94,fdn-94-slumbering-cerberus.jpg,Slumbering Cerberus,Creature,Uncommon,Kari Christensen,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,95,fdn-95-sower-of-chaos.jpg,Sower of Chaos,Creature,Common,Brian Valeza,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,96,fdn-96-strongbox-raider.jpg,Strongbox Raider,Creature,Uncommon,Craig J Spearing,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,97,fdn-97-twinflame-tyrant.jpg,Twinflame Tyrant,Creature,Mythic,Xabi Gaztelua,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,98,fdn-98-ambush-wolf.jpg,Ambush Wolf,Creature,Common,Paolo Parente,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,99,fdn-99-apothecary-stomper.jpg,Apothecary Stomper,Creature,Common,Edgar Sánchez Hidalgo,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,100,fdn-100-beast-kin-ranger.jpg,Beast-Kin Ranger,Creature,Common,Alexander Mokhov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,101,fdn-101-cackling-prowler.jpg,Cackling Prowler,Creature,Common,Christopher Burdett,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,102,fdn-102-eager-trufflesnout.jpg,Eager Trufflesnout,Creature,Uncommon,Filipe Pagliuso,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,103,fdn-103-elfsworn-giant.jpg,Elfsworn Giant,Creature,Common,Dave Dorman,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,104,fdn-104-elvish-regrower.jpg,Elvish Regrower,Creature,Uncommon,Zoltan Boros,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,105,fdn-105-felling-blow.jpg,Felling Blow,Sorcery,Uncommon,Miro Petrov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,106,fdn-106-loot-exuberant-explorer.jpg,"Loot, Exuberant Explorer",Lgd. Creature,Rare,Arif Wijaya,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,107,fdn-107-mossborn-hydra.jpg,Mossborn Hydra,Creature,Rare,Monztre,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,108,fdn-108-needletooth-pack.jpg,Needletooth Pack,Creature,Uncommon,Monztre,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,109,fdn-109-preposterous-proportions.jpg,Preposterous Proportions,Sorcery,Rare,Ben Wootten,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,110,fdn-110-quakestrider-ceratops.jpg,Quakestrider Ceratops,Creature,Uncommon,"Josiah ""Jo"" Cameron",New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,111,fdn-111-quilled-greatwurm.jpg,Quilled Greatwurm,Creature,Mythic,Michal Ivan,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,112,fdn-112-spinner-of-souls.jpg,Spinner of Souls,Creature,Rare,Xavier Ribeiro,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,113,fdn-113-sylvan-scavenging.jpg,Sylvan Scavenging,Enchantment,Rare,"Josiah ""Jo"" Cameron",New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,114,fdn-114-treetop-snarespinner.jpg,Treetop Snarespinner,Creature,Common,Steve Ellis,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,115,fdn-115-alesha-who-laughs-at-fate.jpg,"Alesha, Who Laughs at Fate",Lgd. Creature,Rare,Ekaterina Burmak,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,116,fdn-116-anthem-of-champions.jpg,Anthem of Champions,Enchantment,Rare,Chris Rallis,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,117,fdn-117-ashroot-animist.jpg,Ashroot Animist,Creature,Rare,Caio Monteiro,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,118,fdn-118-dreadwing-scavenger.jpg,Dreadwing Scavenger,Creature,Uncommon,Xavier Ribeiro,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,119,fdn-119-elenda-saint-of-dusk.jpg,"Elenda, Saint of Dusk",Lgd. Creature,Rare,Chris Rahn,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,120,fdn-120-fiendish-panda.jpg,Fiendish Panda,Creature,Uncommon,Brian Valeza,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,121,fdn-121-koma-world-eater.jpg,"Koma, World-Eater",Lgd. Creature,Rare,Mark Zug,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,122,fdn-122-kykar-zephyr-awakener.jpg,"Kykar, Zephyr Awakener",Lgd. Creature,Rare,Dmitry Burmak,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,123,fdn-123-niv-mizzet-visionary.jpg,"Niv-Mizzet, Visionary",Lgd. Creature,Mythic,Dan Murayama Scott,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,124,fdn-124-perforating-artist.jpg,Perforating Artist,Creature,Uncommon,Arif Wijaya,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,125,fdn-125-wardens-of-the-cycle.jpg,Wardens of the Cycle,Creature,Uncommon,Caroline Gariba,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,126,fdn-126-zimone-paradox-sculptor.jpg,"Zimone, Paradox Sculptor",Lgd. Creature,Mythic,Nathaniel Himawan,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,127,fdn-127-banner-of-kinship.jpg,Banner of Kinship,Artifact,Rare,Olena Richards,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,128,fdn-128-fishing-pole.jpg,Fishing Pole,Artifact,Uncommon,Franz Vohwinkel,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,129,fdn-129-leyline-axe.jpg,Leyline Axe,Artifact,Rare,Edgar Sánchez Hidalgo,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,130,fdn-130-quick-draw-katana.jpg,Quick-Draw Katana,Artifact,Common,Paolo Parente,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,131,fdn-131-ravenous-amulet.jpg,Ravenous Amulet,Artifact,Uncommon,Igor Krstic,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,132,fdn-132-scrawling-crawler.jpg,Scrawling Crawler,Artifact Creature,Rare,Miro Petrov,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,133,fdn-133-soulstone-sanctuary.jpg,Soulstone Sanctuary,Land,Rare,Daniel Ljunggren,New Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,134,fdn-134-ajani-caller-of-the-pride.jpg,"Ajani, Caller of the Pride",Lgd. Planeswalker,Mythic,D. Alexander Gregory,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,135,fdn-135-ajani-s-pridemate.jpg,Ajani's Pridemate,Creature,Uncommon,Kevin Sidharta,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,136,fdn-136-angel-of-finality.jpg,Angel of Finality,Creature,Uncommon,Howard Lyon,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,137,fdn-137-authority-of-the-consuls.jpg,Authority of the Consuls,Enchantment,Rare,Lake Hurwitz,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,138,fdn-138-banishing-light.jpg,Banishing Light,Enchantment,Common,Willian Murai,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,139,fdn-139-cathar-commando.jpg,Cathar Commando,Creature,Common,Evyn Fong,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,140,fdn-140-day-of-judgment.jpg,Day of Judgment,Sorcery,Rare,Vincent Proce,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,141,fdn-141-giada-font-of-hope.jpg,"Giada, Font of Hope",Lgd. Creature,Rare,Kai Carpenter,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,142,fdn-142-healer-s-hawk.jpg,Healer's Hawk,Creature,Common,Milivoj Ćeran,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,143,fdn-143-make-your-move.jpg,Make Your Move,Instant,Common,Xabi Gaztelua,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,144,fdn-144-mischievous-pup.jpg,Mischievous Pup,Creature,Uncommon,Devin Platts,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,145,fdn-145-resolute-reinforcements.jpg,Resolute Reinforcements,Creature,Uncommon,Billy Christian,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,146,fdn-146-savannah-lions.jpg,Savannah Lions,Creature,Uncommon,Winona Nelson,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,147,fdn-147-serra-angel.jpg,Serra Angel,Creature,Uncommon,Greg Staples,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,148,fdn-148-stroke-of-midnight.jpg,Stroke of Midnight,Instant,Uncommon,Julia Metzger,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,149,fdn-149-youthful-valkyrie.jpg,Youthful Valkyrie,Creature,Uncommon,Anna Steinbauer,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,150,fdn-150-aegis-turtle.jpg,Aegis Turtle,Creature,Common,Milivoj Ćeran,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,151,fdn-151-aetherize.jpg,Aetherize,Instant,Uncommon,Alexandre Honoré,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,152,fdn-152-brineborn-cutthroat.jpg,Brineborn Cutthroat,Creature,Uncommon,Caio Monteiro,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,153,fdn-153-essence-scatter.jpg,Essence Scatter,Instant,Uncommon,Josh Hass,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,154,fdn-154-extravagant-replication.jpg,Extravagant Replication,Enchantment,Rare,Pauline Voss,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,155,fdn-155-fleeting-distraction.jpg,Fleeting Distraction,Instant,Common,Ryan Yee,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,156,fdn-156-imprisoned-in-the-moon.jpg,Imprisoned in the Moon,Enchantment,Uncommon,Ryan Alexander Lee,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,157,fdn-157-lightshell-duo.jpg,Lightshell Duo,Creature,Common,Mariah Tekulve,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,158,fdn-158-micromancer.jpg,Micromancer,Creature,Uncommon,Ernanda Souza,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,159,fdn-159-mocking-sprite.jpg,Mocking Sprite,Creature,Common,Ben Hill,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,160,fdn-160-an-offer-you-can-t-refuse.jpg,An Offer You Can't Refuse,Instant,Uncommon,Dallas Williams,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,161,fdn-161-omniscience.jpg,Omniscience,Enchantment,Mythic,Jason Chan,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,162,fdn-162-run-away-together.jpg,Run Away Together,Instant,Common,Filip Burburan,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,163,fdn-163-self-reflection.jpg,Self-Reflection,Sorcery,Uncommon,Henry Peters,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,164,fdn-164-spectral-sailor.jpg,Spectral Sailor,Creature,Uncommon,Cristi Balanescu,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,165,fdn-165-think-twice.jpg,Think Twice,Instant,Common,Anthony Francisco,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,166,fdn-166-time-stop.jpg,Time Stop,Instant,Rare,Scott M. Fischer,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,167,fdn-167-tolarian-terror.jpg,Tolarian Terror,Creature,Common,Vincent Christiaens,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,168,fdn-168-witness-protection.jpg,Witness Protection,Enchantment,Common,Dominik Mayer,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,169,fdn-169-bake-into-a-pie.jpg,Bake into a Pie,Instant,Common,Zoltan Boros,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,170,fdn-170-burglar-rat.jpg,Burglar Rat,Creature,Common,Tyler Walpole,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,171,fdn-171-diregraf-ghoul.jpg,Diregraf Ghoul,Creature,Uncommon,Dave Kendall,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,172,fdn-172-eaten-alive.jpg,Eaten Alive,Sorcery,Common,Nicholas Gregory,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,173,fdn-173-exsanguinate.jpg,Exsanguinate,Sorcery,Uncommon,Marie Magny,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,174,fdn-174-fake-your-own-death.jpg,Fake Your Own Death,Instant,Common,Monztre,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,175,fdn-175-hero-s-downfall.jpg,Hero's Downfall,Instant,Uncommon,Chris Rallis,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,176,fdn-176-liliana-dreadhorde-general.jpg,"Liliana, Dreadhorde General",Lgd. Planeswalker,Mythic,Chris Rallis,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,177,fdn-177-macabre-waltz.jpg,Macabre Waltz,Sorcery,Common,Willian Murai,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,178,fdn-178-marauding-blight-priest.jpg,Marauding Blight-Priest,Creature,Common,Caio Monteiro,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,179,fdn-179-painful-quandary.jpg,Painful Quandary,Enchantment,Rare,David Palumbo,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,180,fdn-180-phyrexian-arena.jpg,Phyrexian Arena,Enchantment,Rare,Svetlin Velinov,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,181,fdn-181-pilfer.jpg,Pilfer,Sorcery,Common,Pauline Voss,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,182,fdn-182-reassembling-skeleton.jpg,Reassembling Skeleton,Creature,Uncommon,Austin Hsu,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,183,fdn-183-rise-of-the-dark-realms.jpg,Rise of the Dark Realms,Sorcery,Mythic,Michael Komarck,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,184,fdn-184-rune-scarred-demon.jpg,Rune-Scarred Demon,Creature,Rare,Michael Komarck,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,185,fdn-185-stromkirk-bloodthief.jpg,Stromkirk Bloodthief,Creature,Uncommon,Caroline Gariba,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,186,fdn-186-vampire-nighthawk.jpg,Vampire Nighthawk,Creature,Uncommon,Jason Chan,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,187,fdn-187-zombify.jpg,Zombify,Sorcery,Uncommon,Jason A. Engle,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,188,fdn-188-abrade.jpg,Abrade,Instant,Uncommon,Jonas De Ro,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,189,fdn-189-axgard-cavalry.jpg,Axgard Cavalry,Creature,Common,Evyn Fong,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,190,fdn-190-brass-s-bounty.jpg,Brass's Bounty,Sorcery,Rare,Grzegorz Rutkowski,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,191,fdn-191-brazen-scourge.jpg,Brazen Scourge,Creature,Uncommon,Kev Walker,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,192,fdn-192-burst-lightning.jpg,Burst Lightning,Instant,Common,Vance Kovacs,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,193,fdn-193-drakuseth-maw-of-flames.jpg,"Drakuseth, Maw of Flames",Lgd. Creature,Rare,Grzegorz Rutkowski,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,194,fdn-194-etali-primal-storm.jpg,"Etali, Primal Storm",Lgd. Creature,Rare,Raymond Swanland,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,195,fdn-195-fanatical-firebrand.jpg,Fanatical Firebrand,Creature,Common,Wayne Reynolds,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,196,fdn-196-firebrand-archer.jpg,Firebrand Archer,Creature,Common,John Stanko,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,197,fdn-197-firespitter-whelp.jpg,Firespitter Whelp,Creature,Uncommon,David Álvarez,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,198,fdn-198-flamewake-phoenix.jpg,Flamewake Phoenix,Creature,Rare,Min Yum,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,199,fdn-199-frenzied-goblin.jpg,Frenzied Goblin,Creature,Uncommon,Randy Vargas,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,200,fdn-200-goblin-surprise.jpg,Goblin Surprise,Instant,Common,Kevin Sidharta,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,201,fdn-201-heartfire-immolator.jpg,Heartfire Immolator,Creature,Uncommon,Donato Giancola,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,202,fdn-202-hidetsugu-s-second-rite.jpg,Hidetsugu's Second Rite,Instant,Uncommon,Ben Hill,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,203,fdn-203-involuntary-employment.jpg,Involuntary Employment,Sorcery,Common,Milivoj Ćeran,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,204,fdn-204-krenko-mob-boss.jpg,"Krenko, Mob Boss",Lgd. Creature,Rare,Lie Setiawan,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,205,fdn-205-seismic-rupture.jpg,Seismic Rupture,Sorcery,Uncommon,Jason A. Engle,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,206,fdn-206-shivan-dragon.jpg,Shivan Dragon,Creature,Uncommon,Donato Giancola,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,207,fdn-207-slagstorm.jpg,Slagstorm,Sorcery,Rare,Dan Murayama Scott,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,208,fdn-208-spitfire-lagac.jpg,Spitfire Lagac,Creature,Common,Antonio José Manzanedo,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,209,fdn-209-sure-strike.jpg,Sure Strike,Instant,Common,Izzy,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,210,fdn-210-thrill-of-possibility.jpg,Thrill of Possibility,Instant,Common,Steve Argyle,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,211,fdn-211-affectionate-indrik.jpg,Affectionate Indrik,Creature,Uncommon,Steve Prescott,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,212,fdn-212-bite-down.jpg,Bite Down,Instant,Common,Kitt Lapeña,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,213,fdn-213-blanchwood-armor.jpg,Blanchwood Armor,Enchantment,Uncommon,Manuel Castañón,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,214,fdn-214-broken-wings.jpg,Broken Wings,Instant,Common,Svetlin Velinov,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,215,fdn-215-bushwhack.jpg,Bushwhack,Sorcery,Common,Artur Nakhodkin,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,216,fdn-216-doubling-season.jpg,Doubling Season,Enchantment,Mythic,Chuck Lukacs,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,217,fdn-217-dwynen-gilt-leaf-daen.jpg,"Dwynen, Gilt-Leaf Daen",Lgd. Creature,Uncommon,Johannes Voss,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,218,fdn-218-dwynen-s-elite.jpg,Dwynen's Elite,Creature,Common,Volkan Baǵa,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,219,fdn-219-elvish-archdruid.jpg,Elvish Archdruid,Creature,Rare,Karl Kopinski,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,220,fdn-220-garruk-s-uprising.jpg,Garruk's Uprising,Enchantment,Uncommon,Wisnu Tan,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,221,fdn-221-genesis-wave.jpg,Genesis Wave,Sorcery,Rare,Arif Wijaya,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,222,fdn-222-ghalta-primal-hunger.jpg,"Ghalta, Primal Hunger",Lgd. Creature,Rare,Chase Stone,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,223,fdn-223-giant-growth.jpg,Giant Growth,Instant,Common,Matt Cavotta,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,224,fdn-224-gnarlid-colony.jpg,Gnarlid Colony,Creature,Common,Izzy,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,225,fdn-225-grow-from-the-ashes.jpg,Grow from the Ashes,Sorcery,Common,Richard Wright,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,226,fdn-226-inspiring-call.jpg,Inspiring Call,Instant,Uncommon,Dan Murayama Scott,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,227,fdn-227-llanowar-elves.jpg,Llanowar Elves,Creature,Common,Kev Walker,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,228,fdn-228-mild-mannered-librarian.jpg,Mild-Mannered Librarian,Creature,Uncommon,Justyna Dura,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,229,fdn-229-nessian-hornbeetle.jpg,Nessian Hornbeetle,Creature,Uncommon,Jason Felix,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,230,fdn-230-overrun.jpg,Overrun,Sorcery,Uncommon,Carl Critchlow,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,231,fdn-231-reclamation-sage.jpg,Reclamation Sage,Creature,Uncommon,Christopher Moeller,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,232,fdn-232-scavenging-ooze.jpg,Scavenging Ooze,Creature,Rare,Austin Hsu,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,233,fdn-233-snakeskin-veil.jpg,Snakeskin Veil,Instant,Uncommon,Dan Murayama Scott,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,234,fdn-234-vivien-reid.jpg,Vivien Reid,Lgd. Planeswalker,Mythic,Anna Steinbauer,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,235,fdn-235-wary-thespian.jpg,Wary Thespian,Creature,Common,Billy Christian,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,236,fdn-236-wildwood-scourge.jpg,Wildwood Scourge,Creature,Uncommon,Bryan Sola,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,237,fdn-237-balmor-battlemage-captain.jpg,"Balmor, Battlemage Captain",Lgd. Creature,Uncommon,Bram Sels,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,238,fdn-238-consuming-aberration.jpg,Consuming Aberration,Creature,Rare,Karl Kopinski,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,239,fdn-239-empyrean-eagle.jpg,Empyrean Eagle,Creature,Uncommon,Jason A. Engle,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,240,fdn-240-good-fortune-unicorn.jpg,Good-Fortune Unicorn,Creature,Uncommon,Kee Lo,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,241,fdn-241-heroic-reinforcements.jpg,Heroic Reinforcements,Sorcery,Uncommon,Scott Murphy,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,242,fdn-242-lathril-blade-of-the-elves.jpg,"Lathril, Blade of the Elves",Lgd. Creature,Rare,Caroline Gariba,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,243,fdn-243-muldrotha-the-gravetide.jpg,"Muldrotha, the Gravetide",Lgd. Creature,Mythic,Jason Rainville,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,244,fdn-244-progenitus.jpg,Progenitus,,Mythic,Jaime Jones,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,245,fdn-245-ruby-daring-tracker.jpg,"Ruby, Daring Tracker",Lgd. Creature,Uncommon,Ekaterina Burmak,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,246,fdn-246-swiftblade-vindicator.jpg,Swiftblade Vindicator,Creature,Rare,Viktor Titov,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,247,fdn-247-tatyova-benthic-druid.jpg,"Tatyova, Benthic Druid",Lgd. Creature,Uncommon,Mathias Kollros,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,248,fdn-248-thousand-year-storm.jpg,Thousand-Year Storm,Enchantment,Rare,Dimitar Marinski,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,249,fdn-249-adventuring-gear.jpg,Adventuring Gear,Artifact,Uncommon,Howard Lyon,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,250,fdn-250-burnished-hart.jpg,Burnished Hart,Artifact Creature,Uncommon,Yeong-Hao Han,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,251,fdn-251-campus-guide.jpg,Campus Guide,Artifact Creature,Common,Slawomir Maniak,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,252,fdn-252-gleaming-barrier.jpg,Gleaming Barrier,Artifact Creature,Common,Jason Felix,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,253,fdn-253-goldvein-pick.jpg,Goldvein Pick,Artifact,Common,Dan Murayama Scott,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,254,fdn-254-heraldic-banner.jpg,Heraldic Banner,Artifact,Uncommon,Ravenna Tran,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,255,fdn-255-juggernaut.jpg,Juggernaut,Artifact Creature,Uncommon,Kev Walker,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,256,fdn-256-meteor-golem.jpg,Meteor Golem,Artifact Creature,Uncommon,Lake Hurwitz,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,257,fdn-257-solemn-simulacrum.jpg,Solemn Simulacrum,Artifact Creature,Rare,Dan Murayama Scott,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,258,fdn-258-swiftfoot-boots.jpg,Swiftfoot Boots,Artifact,Uncommon,Svetlin Velinov,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,259,fdn-259-bloodfell-caves.jpg,Bloodfell Caves,Land,Common,Adam Paquette,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,260,fdn-260-blossoming-sands.jpg,Blossoming Sands,Land,Common,Sam Burley,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,261,fdn-261-dismal-backwater.jpg,Dismal Backwater,Land,Common,Sam Burley,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,262,fdn-262-evolving-wilds.jpg,Evolving Wilds,Land,Common,Sam Burley,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,263,fdn-263-jungle-hollow.jpg,Jungle Hollow,Land,Common,Eytan Zana,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,264,fdn-264-rogue-s-passage.jpg,Rogue's Passage,Land,Uncommon,Christine Choi,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,265,fdn-265-rugged-highlands.jpg,Rugged Highlands,Land,Common,Eytan Zana,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,266,fdn-266-scoured-barrens.jpg,Scoured Barrens,Land,Common,Eytan Zana,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,267,fdn-267-secluded-courtyard.jpg,Secluded Courtyard,Land,Uncommon,Sam Burley,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,268,fdn-268-swiftwater-cliffs.jpg,Swiftwater Cliffs,Land,Common,Adam Paquette,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,269,fdn-269-thornwood-falls.jpg,Thornwood Falls,Land,Common,Eytan Zana,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,270,fdn-270-tranquil-cove.jpg,Tranquil Cove,Land,Common,Jonas De Ro,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,271,fdn-271-wind-scarred-crag.jpg,Wind-Scarred Crag,Land,Common,Jonas De Ro,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,272,fdn-272-plains.jpg,Plains,Basic Land,Common,Rebecca Guay,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,273,fdn-273-plains.jpg,Plains,Basic Land,Common,Tingting Yeh,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,274,fdn-274-island.jpg,Island,Basic Land,Common,John Avon,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,275,fdn-275-island.jpg,Island,Basic Land,Common,Rebecca Guay,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,276,fdn-276-swamp.jpg,Swamp,Basic Land,Common,Mike Bierek,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,277,fdn-277-swamp.jpg,Swamp,Basic Land,Common,Rebecca Guay,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,278,fdn-278-mountain.jpg,Mountain,Basic Land,Common,Piotr Dura,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,279,fdn-279-mountain.jpg,Mountain,Basic Land,Common,Rebecca Guay,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,280,fdn-280-forest.jpg,Forest,Basic Land,Common,Rebecca Guay,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,281,fdn-281-forest.jpg,Forest,Basic Land,Common,Jim Nelson,Reprints,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,282,fdn-282-plains.jpg,Plains,Basic Land,Common,Sam Burley,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,283,fdn-283-plains.jpg,Plains,Basic Land,Common,Julian Kok Joon Wen,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,284,fdn-284-island.jpg,Island,Basic Land,Common,Daniel Ljunggren,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,285,fdn-285-island.jpg,Island,Basic Land,Common,Adam Paquette,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,286,fdn-286-swamp.jpg,Swamp,Basic Land,Common,Steven Belledin,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,287,fdn-287-swamp.jpg,Swamp,Basic Land,Common,Piotr Dura,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,288,fdn-288-mountain.jpg,Mountain,Basic Land,Common,Dan Murayama Scott,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,289,fdn-289-mountain.jpg,Mountain,Basic Land,Common,Salvatorre Zee Yazzie,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,290,fdn-290-forest.jpg,Forest,Basic Land,Common,Sam Burley,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,291,fdn-291-forest.jpg,Forest,Basic Land,Common,Piotr Dura,Full Art Basics,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,292,fdn-292-sire-of-seven-deaths.jpg,Sire of Seven Deaths,Creature,Mythic,Alexander Mokhov,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,293,fdn-293-ajani-s-pridemate.jpg,Ajani's Pridemate,Creature,Uncommon,Chris Rallis,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,294,fdn-294-arahbo-the-first-fang.jpg,"Arahbo, the First Fang",Lgd. Creature,Rare,Chris Rahn,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,295,fdn-295-celestial-armor.jpg,Celestial Armor,Artifact,Rare,José Parodi,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,296,fdn-296-crystal-barricade.jpg,Crystal Barricade,Artifact Creature,Rare,Alayna Danner,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,297,fdn-297-exemplar-of-light.jpg,Exemplar of Light,Creature,Rare,Chris Rahn,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,298,fdn-298-giada-font-of-hope.jpg,"Giada, Font of Hope",Lgd. Creature,Rare,Scott M. Fischer,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,299,fdn-299-herald-of-eternal-dawn.jpg,Herald of Eternal Dawn,Creature,Mythic,PINDURSKI,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,300,fdn-300-raise-the-past.jpg,Raise the Past,Sorcery,Rare,Jorge Jacinto,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,301,fdn-301-skyknight-squire.jpg,Skyknight Squire,Creature,Rare,Arif Wijaya,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,302,fdn-302-valkyrie-s-call.jpg,Valkyrie's Call,Enchantment,Mythic,Julie Dillon,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,303,fdn-303-youthful-valkyrie.jpg,Youthful Valkyrie,Creature,Uncommon,Néstor Ossandón Leal,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,304,fdn-304-archmage-of-runes.jpg,Archmage of Runes,Creature,Rare,Zoltan Boros,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,305,fdn-305-curator-of-destinies.jpg,Curator of Destinies,Creature,Rare,Alayna Danner,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,306,fdn-306-drake-hatcher.jpg,Drake Hatcher,Creature,Rare,Zoltan Boros,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,307,fdn-307-high-fae-trickster.jpg,High Fae Trickster,Creature,Rare,Arif Wijaya,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,308,fdn-308-homunculus-horde.jpg,Homunculus Horde,Creature,Rare,Filipe Pagliuso,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,309,fdn-309-kiora-the-rising-tide.jpg,"Kiora, the Rising Tide",Lgd. Creature,Rare,Magali Villeneuve,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,310,fdn-310-lunar-insight.jpg,Lunar Insight,Sorcery,Rare,Julie Dillon,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,311,fdn-311-an-offer-you-can-t-refuse.jpg,An Offer You Can't Refuse,Instant,Uncommon,Aaron J. Riley,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,312,fdn-312-omniscience.jpg,Omniscience,Enchantment,Mythic,Dominik Mayer,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,313,fdn-313-refute.jpg,Refute,Instant,Common,Monztre,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,314,fdn-314-sphinx-of-forgotten-lore.jpg,Sphinx of Forgotten Lore,Creature,Mythic,Chuck Lukacs,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,315,fdn-315-think-twice.jpg,Think Twice,Instant,Common,Alix Branwyn,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,316,fdn-316-abyssal-harvester.jpg,Abyssal Harvester,Creature,Rare,Aaron J. Riley,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,317,fdn-317-blasphemous-edict.jpg,Blasphemous Edict,Sorcery,Rare,Dmitry Burmak,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,318,fdn-318-bloodthirsty-conqueror.jpg,Bloodthirsty Conqueror,Creature,Mythic,Alexander Mokhov,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,319,fdn-319-hero-s-downfall.jpg,Hero's Downfall,Instant,Uncommon,Zoltan Boros,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,320,fdn-320-high-society-hunter.jpg,High-Society Hunter,Creature,Rare,Aaron J. Riley,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,321,fdn-321-nine-lives-familiar.jpg,Nine-Lives Familiar,Creature,Rare,Xabi Gaztelua,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,322,fdn-322-phyrexian-arena.jpg,Phyrexian Arena,Enchantment,Rare,Andrey Kuzinskiy,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,323,fdn-323-rise-of-the-dark-realms.jpg,Rise of the Dark Realms,Sorcery,Mythic,Jorge Jacinto,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,324,fdn-324-tinybones-bauble-burglar.jpg,"Tinybones, Bauble Burglar",Lgd. Creature,Rare,Rudy Siswanto,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,325,fdn-325-vengeful-bloodwitch.jpg,Vengeful Bloodwitch,Creature,Uncommon,Zezhou Chen,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,326,fdn-326-zul-ashur-lich-lord.jpg,"Zul Ashur, Lich Lord",Lgd. Creature,Rare,PINDURSKI,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,327,fdn-327-abrade.jpg,Abrade,Instant,Uncommon,Tyler Walpole,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,328,fdn-328-electroduplicate.jpg,Electroduplicate,Sorcery,Rare,Andrew Mar,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,329,fdn-329-etali-primal-storm.jpg,"Etali, Primal Storm",Lgd. Creature,Rare,Raymond Swanland,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,330,fdn-330-kellan-planar-trailblazer.jpg,"Kellan, Planar Trailblazer",Lgd. Creature,Rare,Aaron J. Riley,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,331,fdn-331-rite-of-the-dragoncaller.jpg,Rite of the Dragoncaller,Enchantment,Mythic,Olivier Bernard,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,332,fdn-332-searslicer-goblin.jpg,Searslicer Goblin,Creature,Rare,Arif Wijaya,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,333,fdn-333-twinflame-tyrant.jpg,Twinflame Tyrant,Creature,Mythic,Justin Gerard,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,334,fdn-334-genesis-wave.jpg,Genesis Wave,Sorcery,Rare,Liiga Smilshkalne,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,335,fdn-335-ghalta-primal-hunger.jpg,"Ghalta, Primal Hunger",Lgd. Creature,Rare,Justin Gerard,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,336,fdn-336-loot-exuberant-explorer.jpg,"Loot, Exuberant Explorer",Lgd. Creature,Rare,Rudy Siswanto,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,337,fdn-337-mossborn-hydra.jpg,Mossborn Hydra,Creature,Rare,Monztre,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,338,fdn-338-preposterous-proportions.jpg,Preposterous Proportions,Sorcery,Rare,Filipe Pagliuso,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,339,fdn-339-quilled-greatwurm.jpg,Quilled Greatwurm,Creature,Mythic,Maxime Minard,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,340,fdn-340-reclamation-sage.jpg,Reclamation Sage,Creature,Uncommon,Andrew Mar,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,341,fdn-341-spinner-of-souls.jpg,Spinner of Souls,Creature,Rare,Xavier Ribeiro,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,342,fdn-342-sylvan-scavenging.jpg,Sylvan Scavenging,Enchantment,Rare,Quintin Gleim,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,343,fdn-343-alesha-who-laughs-at-fate.jpg,"Alesha, Who Laughs at Fate",Lgd. Creature,Rare,Dmitry Burmak,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,344,fdn-344-anthem-of-champions.jpg,Anthem of Champions,Enchantment,Rare,Ryan Pancoast,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,345,fdn-345-ashroot-animist.jpg,Ashroot Animist,Creature,Rare,Lie Setiawan,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,346,fdn-346-elenda-saint-of-dusk.jpg,"Elenda, Saint of Dusk",Lgd. Creature,Rare,Lie Setiawan,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,347,fdn-347-koma-world-eater.jpg,"Koma, World-Eater",Lgd. Creature,Rare,Néstor Ossandón Leal,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,348,fdn-348-kykar-zephyr-awakener.jpg,"Kykar, Zephyr Awakener",Lgd. Creature,Rare,Zezhou Chen,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,349,fdn-349-lathril-blade-of-the-elves.jpg,"Lathril, Blade of the Elves",Lgd. Creature,Rare,Ekaterina Burmak,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,350,fdn-350-niv-mizzet-visionary.jpg,"Niv-Mizzet, Visionary",Lgd. Creature,Mythic,Raymond Swanland,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,351,fdn-351-zimone-paradox-sculptor.jpg,"Zimone, Paradox Sculptor",Lgd. Creature,Mythic,Raluca Marinescu,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,352,fdn-352-banner-of-kinship.jpg,Banner of Kinship,Artifact,Rare,Chris Seaman,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,353,fdn-353-leyline-axe.jpg,Leyline Axe,Artifact,Rare,Julian Kok Joon Wen,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,354,fdn-354-scrawling-crawler.jpg,Scrawling Crawler,Artifact Creature,Rare,Maxime Minard,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,355,fdn-355-swiftfoot-boots.jpg,Swiftfoot Boots,Artifact,Uncommon,Gabor Szikszai,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,356,fdn-356-soulstone-sanctuary.jpg,Soulstone Sanctuary,Land,Rare,Jorge Jacinto,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,357,fdn-357-ajani-caller-of-the-pride.jpg,"Ajani, Caller of the Pride",Lgd. Planeswalker,Mythic,Victor Adame Minguez,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,358,fdn-358-kaito-cunning-infiltrator.jpg,"Kaito, Cunning Infiltrator",Lgd. Planeswalker,Mythic,Michal Ivan,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,359,fdn-359-liliana-dreadhorde-general.jpg,"Liliana, Dreadhorde General",Lgd. Planeswalker,Mythic,Dmitry Burmak,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,360,fdn-360-chandra-flameshaper.jpg,"Chandra, Flameshaper",Lgd. Planeswalker,Mythic,Lie Setiawan,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,361,fdn-361-vivien-reid.jpg,Vivien Reid,Lgd. Planeswalker,Mythic,Zara Alfonso,Borderless Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,362,fdn-362-sire-of-seven-deaths.jpg,Sire of Seven Deaths,Creature,Mythic,Alexander Mokhov,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,363,fdn-363-arahbo-the-first-fang.jpg,"Arahbo, the First Fang",Lgd. Creature,Rare,Chris Rahn,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,364,fdn-364-celestial-armor.jpg,Celestial Armor,Artifact,Rare,José Parodi,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,365,fdn-365-crystal-barricade.jpg,Crystal Barricade,Artifact Creature,Rare,Alayna Danner,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,366,fdn-366-exemplar-of-light.jpg,Exemplar of Light,Creature,Rare,Chris Rahn,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,367,fdn-367-giada-font-of-hope.jpg,"Giada, Font of Hope",Lgd. Creature,Rare,Scott M. Fischer,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,368,fdn-368-herald-of-eternal-dawn.jpg,Herald of Eternal Dawn,Creature,Mythic,PINDURSKI,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,369,fdn-369-raise-the-past.jpg,Raise the Past,Sorcery,Rare,Jorge Jacinto,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,370,fdn-370-skyknight-squire.jpg,Skyknight Squire,Creature,Rare,Arif Wijaya,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,371,fdn-371-valkyrie-s-call.jpg,Valkyrie's Call,Enchantment,Mythic,Julie Dillon,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,372,fdn-372-archmage-of-runes.jpg,Archmage of Runes,Creature,Rare,Zoltan Boros,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,373,fdn-373-curator-of-destinies.jpg,Curator of Destinies,Creature,Rare,Alayna Danner,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,374,fdn-374-drake-hatcher.jpg,Drake Hatcher,Creature,Rare,Zoltan Boros,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,375,fdn-375-high-fae-trickster.jpg,High Fae Trickster,Creature,Rare,Arif Wijaya,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,376,fdn-376-homunculus-horde.jpg,Homunculus Horde,Creature,Rare,Filipe Pagliuso,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,377,fdn-377-kiora-the-rising-tide.jpg,"Kiora, the Rising Tide",Lgd. Creature,Rare,Magali Villeneuve,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,378,fdn-378-lunar-insight.jpg,Lunar Insight,Sorcery,Rare,Julie Dillon,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,379,fdn-379-omniscience.jpg,Omniscience,Enchantment,Mythic,Dominik Mayer,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,380,fdn-380-sphinx-of-forgotten-lore.jpg,Sphinx of Forgotten Lore,Creature,Mythic,Chuck Lukacs,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,381,fdn-381-abyssal-harvester.jpg,Abyssal Harvester,Creature,Rare,Aaron J. Riley,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,382,fdn-382-blasphemous-edict.jpg,Blasphemous Edict,Sorcery,Rare,Dmitry Burmak,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,383,fdn-383-bloodthirsty-conqueror.jpg,Bloodthirsty Conqueror,Creature,Mythic,Alexander Mokhov,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,384,fdn-384-high-society-hunter.jpg,High-Society Hunter,Creature,Rare,Aaron J. Riley,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,385,fdn-385-nine-lives-familiar.jpg,Nine-Lives Familiar,Creature,Rare,Xabi Gaztelua,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,386,fdn-386-phyrexian-arena.jpg,Phyrexian Arena,Enchantment,Rare,Andrey Kuzinskiy,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,387,fdn-387-rise-of-the-dark-realms.jpg,Rise of the Dark Realms,Sorcery,Mythic,Jorge Jacinto,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,388,fdn-388-tinybones-bauble-burglar.jpg,"Tinybones, Bauble Burglar",Lgd. Creature,Rare,Rudy Siswanto,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,389,fdn-389-zul-ashur-lich-lord.jpg,"Zul Ashur, Lich Lord",Lgd. Creature,Rare,PINDURSKI,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,390,fdn-390-electroduplicate.jpg,Electroduplicate,Sorcery,Rare,Andrew Mar,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,391,fdn-391-etali-primal-storm.jpg,"Etali, Primal Storm",Lgd. Creature,Rare,Raymond Swanland,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,392,fdn-392-kellan-planar-trailblazer.jpg,"Kellan, Planar Trailblazer",Lgd. Creature,Rare,Aaron J. Riley,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,393,fdn-393-rite-of-the-dragoncaller.jpg,Rite of the Dragoncaller,Enchantment,Mythic,Olivier Bernard,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,394,fdn-394-searslicer-goblin.jpg,Searslicer Goblin,Creature,Rare,Arif Wijaya,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,395,fdn-395-twinflame-tyrant.jpg,Twinflame Tyrant,Creature,Mythic,Justin Gerard,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,396,fdn-396-genesis-wave.jpg,Genesis Wave,Sorcery,Rare,Liiga Smilshkalne,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,397,fdn-397-ghalta-primal-hunger.jpg,"Ghalta, Primal Hunger",Lgd. Creature,Rare,Justin Gerard,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,398,fdn-398-loot-exuberant-explorer.jpg,"Loot, Exuberant Explorer",Lgd. Creature,Rare,Rudy Siswanto,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,399,fdn-399-mossborn-hydra.jpg,Mossborn Hydra,Creature,Rare,Monztre,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,400,fdn-400-preposterous-proportions.jpg,Preposterous Proportions,Sorcery,Rare,Filipe Pagliuso,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,401,fdn-401-quilled-greatwurm.jpg,Quilled Greatwurm,Creature,Mythic,Maxime Minard,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,402,fdn-402-spinner-of-souls.jpg,Spinner of Souls,Creature,Rare,Xavier Ribeiro,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,403,fdn-403-sylvan-scavenging.jpg,Sylvan Scavenging,Enchantment,Rare,Quintin Gleim,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,404,fdn-404-alesha-who-laughs-at-fate.jpg,"Alesha, Who Laughs at Fate",Lgd. Creature,Rare,Dmitry Burmak,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,405,fdn-405-anthem-of-champions.jpg,Anthem of Champions,Enchantment,Rare,Ryan Pancoast,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,406,fdn-406-ashroot-animist.jpg,Ashroot Animist,Creature,Rare,Lie Setiawan,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,407,fdn-407-elenda-saint-of-dusk.jpg,"Elenda, Saint of Dusk",Lgd. Creature,Rare,Lie Setiawan,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,408,fdn-408-koma-world-eater.jpg,"Koma, World-Eater",Lgd. Creature,Rare,Néstor Ossandón Leal,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,409,fdn-409-kykar-zephyr-awakener.jpg,"Kykar, Zephyr Awakener",Lgd. Creature,Rare,Zezhou Chen,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,410,fdn-410-lathril-blade-of-the-elves.jpg,"Lathril, Blade of the Elves",Lgd. Creature,Rare,Ekaterina Burmak,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,411,fdn-411-niv-mizzet-visionary.jpg,"Niv-Mizzet, Visionary",Lgd. Creature,Mythic,Raymond Swanland,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,412,fdn-412-zimone-paradox-sculptor.jpg,"Zimone, Paradox Sculptor",Lgd. Creature,Mythic,Raluca Marinescu,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,413,fdn-413-banner-of-kinship.jpg,Banner of Kinship,Artifact,Rare,Chris Seaman,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,414,fdn-414-leyline-axe.jpg,Leyline Axe,Artifact,Rare,Julian Kok Joon Wen,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,415,fdn-415-scrawling-crawler.jpg,Scrawling Crawler,Artifact Creature,Rare,Maxime Minard,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,416,fdn-416-soulstone-sanctuary.jpg,Soulstone Sanctuary,Land,Rare,Jorge Jacinto,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,417,fdn-417-ajani-caller-of-the-pride.jpg,"Ajani, Caller of the Pride",Lgd. Planeswalker,Mythic,Victor Adame Minguez,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,418,fdn-418-kaito-cunning-infiltrator.jpg,"Kaito, Cunning Infiltrator",Lgd. Planeswalker,Mythic,Michal Ivan,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,419,fdn-419-liliana-dreadhorde-general.jpg,"Liliana, Dreadhorde General",Lgd. Planeswalker,Mythic,Dmitry Burmak,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,420,fdn-420-chandra-flameshaper.jpg,"Chandra, Flameshaper",Lgd. Planeswalker,Mythic,Lie Setiawan,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,421,fdn-421-vivien-reid.jpg,Vivien Reid,Lgd. Planeswalker,Mythic,Zara Alfonso,Mana Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,422,fdn-422-day-of-judgment.jpg,Day of Judgment,Sorcery,Mythic,Takayama Toshiaki,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,423,fdn-423-herald-of-eternal-dawn.jpg,Herald of Eternal Dawn,Creature,Mythic,Nijihayashi,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,424,fdn-424-kaito-cunning-infiltrator.jpg,"Kaito, Cunning Infiltrator",Lgd. Planeswalker,Mythic,Ittoku,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,425,fdn-425-think-twice.jpg,Think Twice,Instant,Mythic,HNCL,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,426,fdn-426-bloodthirsty-conqueror.jpg,Bloodthirsty Conqueror,Creature,Mythic,Raita Kazama,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,427,fdn-427-twinflame-tyrant.jpg,Twinflame Tyrant,Creature,Mythic,Mikio Masuda,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,428,fdn-428-doubling-season.jpg,Doubling Season,Enchantment,Mythic,Kawasumi,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,429,fdn-429-llanowar-elves.jpg,Llanowar Elves,Creature,Mythic,Hisashi Momose,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,430,fdn-430-muldrotha-the-gravetide.jpg,"Muldrotha, the Gravetide",Lgd. Creature,Mythic,KERA,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,431,fdn-431-progenitus.jpg,Progenitus,,Mythic,Sansyu,Japan Showcase,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,432,fdn-432-day-of-judgment.jpg,Day of Judgment,Sorcery,Mythic,Takayama Toshiaki,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,433,fdn-433-herald-of-eternal-dawn.jpg,Herald of Eternal Dawn,Creature,Mythic,Nijihayashi,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,434,fdn-434-kaito-cunning-infiltrator.jpg,"Kaito, Cunning Infiltrator",Lgd. Planeswalker,Mythic,Ittoku,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,435,fdn-435-think-twice.jpg,Think Twice,Instant,Mythic,HNCL,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,436,fdn-436-bloodthirsty-conqueror.jpg,Bloodthirsty Conqueror,Creature,Mythic,Raita Kazama,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,437,fdn-437-twinflame-tyrant.jpg,Twinflame Tyrant,Creature,Mythic,Mikio Masuda,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,438,fdn-438-doubling-season.jpg,Doubling Season,Enchantment,Mythic,Kawasumi,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,439,fdn-439-llanowar-elves.jpg,Llanowar Elves,Creature,Mythic,Hisashi Momose,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,440,fdn-440-muldrotha-the-gravetide.jpg,"Muldrotha, the Gravetide",Lgd. Creature,Mythic,KERA,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,441,fdn-441-progenitus.jpg,Progenitus,,Mythic,Sansyu,Fracture Foils,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,442,fdn-442-arahbo-the-first-fang.jpg,"Arahbo, the First Fang",Lgd. Creature,Rare,Simon Dominic,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,443,fdn-443-celestial-armor.jpg,Celestial Armor,Artifact,Rare,Olena Richards,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,444,fdn-444-crystal-barricade.jpg,Crystal Barricade,Artifact Creature,Rare,Rockey Chen,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,445,fdn-445-exemplar-of-light.jpg,Exemplar of Light,Creature,Rare,Ekaterina Burmak,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,446,fdn-446-herald-of-eternal-dawn.jpg,Herald of Eternal Dawn,Creature,Mythic,Martina Fačková,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,447,fdn-447-raise-the-past.jpg,Raise the Past,Sorcery,Rare,Nathaniel Himawan,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,448,fdn-448-skyknight-squire.jpg,Skyknight Squire,Creature,Rare,Alexander Mokhov,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,449,fdn-449-valkyrie-s-call.jpg,Valkyrie's Call,Enchantment,Mythic,Scott Murphy,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,450,fdn-450-archmage-of-runes.jpg,Archmage of Runes,Creature,Rare,Kai Carpenter,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,451,fdn-451-curator-of-destinies.jpg,Curator of Destinies,Creature,Rare,Ralph Horsley,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,452,fdn-452-drake-hatcher.jpg,Drake Hatcher,Creature,Rare,Chris Rallis,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,453,fdn-453-high-fae-trickster.jpg,High Fae Trickster,Creature,Rare,Justyna Dura,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,454,fdn-454-homunculus-horde.jpg,Homunculus Horde,Creature,Rare,Adrián Rodríguez Pérez,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,455,fdn-455-kiora-the-rising-tide.jpg,"Kiora, the Rising Tide",Lgd. Creature,Rare,Julian Kok Joon Wen,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,456,fdn-456-lunar-insight.jpg,Lunar Insight,Sorcery,Rare,Dan Murayama Scott,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,457,fdn-457-sphinx-of-forgotten-lore.jpg,Sphinx of Forgotten Lore,Creature,Mythic,Dmitry Burmak,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,458,fdn-458-abyssal-harvester.jpg,Abyssal Harvester,Creature,Rare,Diana Franco,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,459,fdn-459-blasphemous-edict.jpg,Blasphemous Edict,Sorcery,Rare,Andrew Mar,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,460,fdn-460-bloodthirsty-conqueror.jpg,Bloodthirsty Conqueror,Creature,Mythic,Dmitry Burmak,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,461,fdn-461-high-society-hunter.jpg,High-Society Hunter,Creature,Rare,Daneen Wilkerson,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,462,fdn-462-nine-lives-familiar.jpg,Nine-Lives Familiar,Creature,Rare,Bram Sels,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,463,fdn-463-tinybones-bauble-burglar.jpg,"Tinybones, Bauble Burglar",Lgd. Creature,Rare,Leonardo Santanna,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,464,fdn-464-zul-ashur-lich-lord.jpg,"Zul Ashur, Lich Lord",Lgd. Creature,Rare,Raluca Marinescu,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,465,fdn-465-electroduplicate.jpg,Electroduplicate,Sorcery,Rare,Warren Mahy,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,466,fdn-466-kellan-planar-trailblazer.jpg,"Kellan, Planar Trailblazer",Lgd. Creature,Rare,Zoltan Boros,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,467,fdn-467-rite-of-the-dragoncaller.jpg,Rite of the Dragoncaller,Enchantment,Mythic,PINDURSKI,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,468,fdn-468-searslicer-goblin.jpg,Searslicer Goblin,Creature,Rare,Wayne Reynolds,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,469,fdn-469-twinflame-tyrant.jpg,Twinflame Tyrant,Creature,Mythic,Xabi Gaztelua,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,470,fdn-470-loot-exuberant-explorer.jpg,"Loot, Exuberant Explorer",Lgd. Creature,Rare,Arif Wijaya,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,471,fdn-471-mossborn-hydra.jpg,Mossborn Hydra,Creature,Rare,Monztre,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,472,fdn-472-preposterous-proportions.jpg,Preposterous Proportions,Sorcery,Rare,Ben Wootten,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,473,fdn-473-quilled-greatwurm.jpg,Quilled Greatwurm,Creature,Mythic,Michal Ivan,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,474,fdn-474-spinner-of-souls.jpg,Spinner of Souls,Creature,Rare,Xavier Ribeiro,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,475,fdn-475-sylvan-scavenging.jpg,Sylvan Scavenging,Enchantment,Rare,"Josiah ""Jo"" Cameron",Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,476,fdn-476-alesha-who-laughs-at-fate.jpg,"Alesha, Who Laughs at Fate",Lgd. Creature,Rare,Ekaterina Burmak,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,477,fdn-477-anthem-of-champions.jpg,Anthem of Champions,Enchantment,Rare,Chris Rallis,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,478,fdn-478-ashroot-animist.jpg,Ashroot Animist,Creature,Rare,Caio Monteiro,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,479,fdn-479-elenda-saint-of-dusk.jpg,"Elenda, Saint of Dusk",Lgd. Creature,Rare,Chris Rahn,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,480,fdn-480-koma-world-eater.jpg,"Koma, World-Eater",Lgd. Creature,Rare,Mark Zug,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,481,fdn-481-kykar-zephyr-awakener.jpg,"Kykar, Zephyr Awakener",Lgd. Creature,Rare,Dmitry Burmak,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,482,fdn-482-niv-mizzet-visionary.jpg,"Niv-Mizzet, Visionary",Lgd. Creature,Mythic,Dan Murayama Scott,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,483,fdn-483-zimone-paradox-sculptor.jpg,"Zimone, Paradox Sculptor",Lgd. Creature,Mythic,Nathaniel Himawan,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,484,fdn-484-banner-of-kinship.jpg,Banner of Kinship,Artifact,Rare,Olena Richards,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,485,fdn-485-leyline-axe.jpg,Leyline Axe,Artifact,Rare,Edgar Sánchez Hidalgo,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,486,fdn-486-scrawling-crawler.jpg,Scrawling Crawler,Artifact Creature,Rare,Miro Petrov,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,487,fdn-487-soulstone-sanctuary.jpg,Soulstone Sanctuary,Land,Rare,Daniel Ljunggren,Extended Art,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,488,fdn-488-adamant-will.jpg,Adamant Will,Instant,Common,Irina Nordsol,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,489,fdn-489-ancestor-dragon.jpg,Ancestor Dragon,Creature,Rare,Shinchuen Chen,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,490,fdn-490-angelic-edict.jpg,Angelic Edict,Sorcery,Common,Trevor Claxton,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,491,fdn-491-bishop-s-soldier.jpg,Bishop's Soldier,Creature,Common,Scott Murphy,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,492,fdn-492-deadly-riposte.jpg,Deadly Riposte,Instant,Common,Olena Richards,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,493,fdn-493-elspeth-s-smite.jpg,Elspeth's Smite,Instant,Uncommon,Livia Prima,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,494,fdn-494-herald-of-faith.jpg,Herald of Faith,Creature,Uncommon,Tommy Arnold,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,495,fdn-495-ingenious-leonin.jpg,Ingenious Leonin,Creature,Uncommon,Eric Deschamps,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,496,fdn-496-inspiring-overseer.jpg,Inspiring Overseer,Creature,Common,Irina Nordsol,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,497,fdn-497-jazal-goldmane.jpg,Jazal Goldmane,Lgd. Creature,Rare,Aaron Miller,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,498,fdn-498-leonin-skyhunter.jpg,Leonin Skyhunter,Creature,Uncommon,Kev Walker,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,499,fdn-499-leonin-vanguard.jpg,Leonin Vanguard,Creature,Uncommon,Aaron Miller,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,500,fdn-500-moment-of-triumph.jpg,Moment of Triumph,Instant,Common,Steven Belledin,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,501,fdn-501-pacifism.jpg,Pacifism,Enchantment,Common,Kev Walker,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,502,fdn-502-prayer-of-binding.jpg,Prayer of Binding,Enchantment,Uncommon,Wylie Beckert,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,503,fdn-503-twinblade-paladin.jpg,Twinblade Paladin,Creature,Uncommon,Jana Schirmer,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,504,fdn-504-burrog-befuddler.jpg,Burrog Befuddler,Creature,Common,Zoltan Boros,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,505,fdn-505-cancel.jpg,Cancel,Instant,Common,Mathias Kollros,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,506,fdn-506-corsair-captain.jpg,Corsair Captain,Creature,Rare,Victor Adame Minguez,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,507,fdn-507-eaten-by-piranhas.jpg,Eaten by Piranhas,Enchantment,Uncommon,Abz J Harding,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,508,fdn-508-exclusion-mage.jpg,Exclusion Mage,Creature,Uncommon,Chris Seaman,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,509,fdn-509-into-the-roil.jpg,Into the Roil,Instant,Common,Campbell White,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,510,fdn-510-kitesail-corsair.jpg,Kitesail Corsair,Creature,Common,Greg Opalinski,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,511,fdn-511-mystic-archaeologist.jpg,Mystic Archaeologist,Creature,Rare,Eric Deschamps,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,512,fdn-512-opt.jpg,Opt,Instant,Common,Tyler Jacobson,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,513,fdn-513-quick-study.jpg,Quick Study,Instant,Common,Iris Compiet,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,514,fdn-514-starlight-snare.jpg,Starlight Snare,Enchantment,Common,Borja Pindado,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,515,fdn-515-storm-fleet-spy.jpg,Storm Fleet Spy,Creature,Uncommon,Scott Murphy,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,516,fdn-516-bloodtithe-collector.jpg,Bloodtithe Collector,Creature,Uncommon,Maria Zolotukhina,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,517,fdn-517-cemetery-recruitment.jpg,Cemetery Recruitment,Sorcery,Common,Kieran Yanner,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,518,fdn-518-crossway-troublemakers.jpg,Crossway Troublemakers,Creature,Rare,Aaron J. Riley,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,519,fdn-519-crow-of-dark-tidings.jpg,Crow of Dark Tidings,Creature,Common,Simon Dominic,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,520,fdn-520-deadly-plot.jpg,Deadly Plot,Instant,Uncommon,Peter Polach,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,521,fdn-521-death-baron.jpg,Death Baron,Creature,Rare,Nils Hamm,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,522,fdn-522-highborn-vampire.jpg,Highborn Vampire,Creature,Common,Denman Rooke,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,523,fdn-523-maalfeld-twins.jpg,Maalfeld Twins,Creature,Uncommon,Mike Sass,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,524,fdn-524-moment-of-craving.jpg,Moment of Craving,Instant,Common,Steven Belledin,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,525,fdn-525-offer-immortality.jpg,Offer Immortality,Instant,Common,A. M. Sartor,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,526,fdn-526-skeleton-archer.jpg,Skeleton Archer,Creature,Common,Randy Vargas,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,527,fdn-527-suspicious-shambler.jpg,Suspicious Shambler,Creature,Common,Javier Charro,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,528,fdn-528-undying-malice.jpg,Undying Malice,Instant,Common,Igor Kieryluk,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,529,fdn-529-untamed-hunger.jpg,Untamed Hunger,Enchantment,Common,Willian Murai,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,530,fdn-530-vampire-interloper.jpg,Vampire Interloper,Creature,Common,James Ryman,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,531,fdn-531-vampire-neonate.jpg,Vampire Neonate,Creature,Common,Daarken,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,532,fdn-532-vampire-spawn.jpg,Vampire Spawn,Creature,Common,Alex Brock,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,533,fdn-533-battle-rattle-shaman.jpg,Battle-Rattle Shaman,Creature,Uncommon,Warren Mahy,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,534,fdn-534-carnelian-orb-of-dragonkind.jpg,Carnelian Orb of Dragonkind,Artifact,Common,Lars Grant-West,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,535,fdn-535-dragon-fodder.jpg,Dragon Fodder,Sorcery,Common,Volkan Baǵa,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,536,fdn-536-dragonlord-s-servant.jpg,Dragonlord's Servant,Creature,Uncommon,Steve Prescott,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,537,fdn-537-dropkick-bomber.jpg,Dropkick Bomber,Creature,Rare,Quintin Gleim,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,538,fdn-538-fire-elemental.jpg,Fire Elemental,Creature,Common,Joe Slucher,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,539,fdn-539-goblin-oriflamme.jpg,Goblin Oriflamme,Enchantment,Uncommon,David Palumbo,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,540,fdn-540-goblin-smuggler.jpg,Goblin Smuggler,Creature,Common,Milivoj Ćeran,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,541,fdn-541-kargan-dragonrider.jpg,Kargan Dragonrider,Creature,Common,Greg Opalinski,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,542,fdn-542-kindled-fury.jpg,Kindled Fury,Instant,Common,Wayne Reynolds,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,543,fdn-543-raging-redcap.jpg,Raging Redcap,Creature,Common,Dan Murayama Scott,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,544,fdn-544-rapacious-dragon.jpg,Rapacious Dragon,Creature,Common,Johan Grenier,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,545,fdn-545-scorching-dragonfire.jpg,Scorching Dragonfire,Instant,Common,Eric Velhagen,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,546,fdn-546-seize-the-spoils.jpg,Seize the Spoils,Sorcery,Common,Brian Valeza,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,547,fdn-547-skyraker-giant.jpg,Skyraker Giant,Creature,Common,Anastasia Ovchinnikova,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,548,fdn-548-swab-goblin.jpg,Swab Goblin,Creature,Common,Josu Hernaiz,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,549,fdn-549-terror-of-mount-velus.jpg,Terror of Mount Velus,Creature,Rare,Billy Christian,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,550,fdn-550-volley-veteran.jpg,Volley Veteran,Creature,Uncommon,Olivier Bernard,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,551,fdn-551-aggressive-mammoth.jpg,Aggressive Mammoth,Creature,Rare,Filip Burburan,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,552,fdn-552-bear-cub.jpg,Bear Cub,Creature,Common,Ron Spencer,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,553,fdn-553-biogenic-upgrade.jpg,Biogenic Upgrade,Sorcery,Uncommon,Kev Fang,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,554,fdn-554-druid-of-the-cowl.jpg,Druid of the Cowl,Creature,Common,Magali Villeneuve,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,555,fdn-555-joraga-invocation.jpg,Joraga Invocation,Sorcery,Uncommon,Kieran Yanner,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,556,fdn-556-magnigoth-sentry.jpg,Magnigoth Sentry,Creature,Common,Dave Kendall,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,557,fdn-557-new-horizons.jpg,New Horizons,Enchantment,Common,Eytan Zana,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,558,fdn-558-tajuru-pathwarden.jpg,Tajuru Pathwarden,Creature,Common,Victor Adame Minguez,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,559,fdn-559-thornweald-archer.jpg,Thornweald Archer,Creature,Common,Dave Kendall,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,560,fdn-560-thrashing-brontodon.jpg,Thrashing Brontodon,Creature,Uncommon,Jakub Kasper,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,561,fdn-561-wildheart-invoker.jpg,Wildheart Invoker,Creature,Common,Erica Yang,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,562,fdn-562-goblin-firebomb.jpg,Goblin Firebomb,Artifact,Common,Noah Thatcher,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,563,fdn-563-pirate-s-cutlass.jpg,Pirate's Cutlass,Artifact,Common,John Stanko,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,564,fdn-564-uncharted-haven.jpg,Uncharted Haven,Land,Common,Adam Paquette,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,565,fdn-565-angelic-destiny.jpg,Angelic Destiny,Enchantment,Mythic,"Jana Schirmer, Johannes Voss",Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,566,fdn-566-archway-angel.jpg,Archway Angel,Creature,Uncommon,Milivoj Ćeran,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,567,fdn-567-ballyrush-banneret.jpg,Ballyrush Banneret,Creature,Common,Ralph Horsley,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,568,fdn-568-charming-prince.jpg,Charming Prince,Creature,Rare,Randy Vargas,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,569,fdn-569-crusader-of-odric.jpg,Crusader of Odric,Creature,Common,Michael Komarck,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,570,fdn-570-dawnwing-marshal.jpg,Dawnwing Marshal,Creature,Uncommon,Aldo Domínguez,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,571,fdn-571-devout-decree.jpg,Devout Decree,Sorcery,Uncommon,Zoltan Boros,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,572,fdn-572-disenchant.jpg,Disenchant,Instant,Common,Richard Kane Ferguson,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,573,fdn-573-felidar-cub.jpg,Felidar Cub,Creature,Common,Steve Prescott,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,574,fdn-574-felidar-retreat.jpg,Felidar Retreat,Enchantment,Rare,Ralph Horsley,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,575,fdn-575-fumigate.jpg,Fumigate,Sorcery,Rare,Svetlin Velinov,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,576,fdn-576-knight-of-grace.jpg,Knight of Grace,Creature,Uncommon,Sidharth Chaturvedi,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,577,fdn-577-linden-the-steadfast-queen.jpg,"Linden, the Steadfast Queen",Lgd. Creature,Rare,Ryan Pancoast,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,578,fdn-578-mentor-of-the-meek.jpg,Mentor of the Meek,Creature,Rare,"Jana Schirmer, Johannes Voss",Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,579,fdn-579-regal-caracal.jpg,Regal Caracal,Creature,Rare,Filip Burburan,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,580,fdn-580-release-the-dogs.jpg,Release the Dogs,Sorcery,Uncommon,Jason Kang,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,581,fdn-581-stasis-snare.jpg,Stasis Snare,Enchantment,Uncommon,Jason Felix,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,582,fdn-582-syr-alin-the-lion-s-claw.jpg,"Syr Alin, the Lion's Claw",Lgd. Creature,Uncommon,Paul Scott Canavan,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,583,fdn-583-valorous-stance.jpg,Valorous Stance,Instant,Uncommon,Willian Murai,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,584,fdn-584-zetalpa-primal-dawn.jpg,"Zetalpa, Primal Dawn",Lgd. Creature,Rare,Chris Rallis,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,585,fdn-585-arcanis-the-omnipotent.jpg,Arcanis the Omnipotent,Lgd. Creature,Rare,Justin Sweet,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,586,fdn-586-chart-a-course.jpg,Chart a Course,Sorcery,Uncommon,James Ryman,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,587,fdn-587-dictate-of-kruphix.jpg,Dictate of Kruphix,Enchantment,Rare,Daarken,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,588,fdn-588-dive-down.jpg,Dive Down,Instant,Common,Magali Villeneuve,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,589,fdn-589-finale-of-revelation.jpg,Finale of Revelation,Sorcery,Mythic,Johann Bodin,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,590,fdn-590-flashfreeze.jpg,Flashfreeze,Instant,Uncommon,Brian Despain,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,591,fdn-591-fog-bank.jpg,Fog Bank,Creature,Uncommon,Howard Lyon,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,592,fdn-592-gateway-sneak.jpg,Gateway Sneak,Creature,Uncommon,Matt Stewart,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,593,fdn-593-harbinger-of-the-tides.jpg,Harbinger of the Tides,Creature,Rare,Svetlin Velinov,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,594,fdn-594-mystical-teachings.jpg,Mystical Teachings,Instant,Uncommon,Ron Spears,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,595,fdn-595-river-s-rebuke.jpg,River's Rebuke,Sorcery,Rare,Raymond Swanland,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,596,fdn-596-shipwreck-dowser.jpg,Shipwreck Dowser,Creature,Uncommon,Caroline Gariba,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,597,fdn-597-sphinx-of-the-final-word.jpg,Sphinx of the Final Word,Creature,Mythic,Lius Lasahido,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,598,fdn-598-tempest-djinn.jpg,Tempest Djinn,Creature,Rare,Zezhou Chen,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,599,fdn-599-unsummon.jpg,Unsummon,Instant,Common,Ron Spencer,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,600,fdn-600-voracious-greatshark.jpg,Voracious Greatshark,Creature,Rare,Mathias Kollros,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,601,fdn-601-deathmark.jpg,Deathmark,Sorcery,Uncommon,Jeremy Jarvis,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,602,fdn-602-demonic-pact.jpg,Demonic Pact,Enchantment,Mythic,Manuel Castañón,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,603,fdn-603-desecration-demon.jpg,Desecration Demon,Creature,Rare,Jason Chan,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,604,fdn-604-dread-summons.jpg,Dread Summons,Sorcery,Rare,Izzy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,605,fdn-605-driver-of-the-dead.jpg,Driver of the Dead,Creature,Common,James Ryman,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,606,fdn-606-duress.jpg,Duress,Sorcery,Common,PINDURSKI,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,607,fdn-607-kalastria-highborn.jpg,Kalastria Highborn,Creature,Rare,D. Alexander Gregory,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,608,fdn-608-knight-of-malice.jpg,Knight of Malice,Creature,Uncommon,Sidharth Chaturvedi,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,609,fdn-609-midnight-reaper.jpg,Midnight Reaper,Creature,Rare,Sidharth Chaturvedi,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,610,fdn-610-myojin-of-night-s-reach.jpg,Myojin of Night's Reach,Lgd. Creature,Rare,Kev Walker,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,611,fdn-611-nullpriest-of-oblivion.jpg,Nullpriest of Oblivion,Creature,Rare,Yongjae Choi,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,612,fdn-612-pulse-tracker.jpg,Pulse Tracker,Creature,Common,Andrew Robinson,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,613,fdn-613-sanguine-indulgence.jpg,Sanguine Indulgence,Sorcery,Common,Andrey Kuzinskiy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,614,fdn-614-tribute-to-hunger.jpg,Tribute to Hunger,Instant,Uncommon,Dave Kendall,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,615,fdn-615-vampiric-rites.jpg,Vampiric Rites,Enchantment,Uncommon,Anastasia Ovchinnikova,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,616,fdn-616-vile-entomber.jpg,Vile Entomber,Creature,Uncommon,Chris Cold,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,617,fdn-617-wishclaw-talisman.jpg,Wishclaw Talisman,Artifact,Rare,Daarken,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,618,fdn-618-ball-lightning.jpg,Ball Lightning,Creature,Rare,Trevor Claxton,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,619,fdn-619-bolt-bend.jpg,Bolt Bend,Instant,Uncommon,Svetlin Velinov,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,620,fdn-620-crash-through.jpg,Crash Through,Sorcery,Common,Izzy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,621,fdn-621-dragon-mage.jpg,Dragon Mage,Creature,Uncommon,Matthew D. Wilson,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,622,fdn-622-dragonmaster-outcast.jpg,Dragonmaster Outcast,Creature,Mythic,Raymond Swanland,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,623,fdn-623-ghitu-lavarunner.jpg,Ghitu Lavarunner,Creature,Common,Jesper Ejsing,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,624,fdn-624-giant-cindermaw.jpg,Giant Cindermaw,Creature,Uncommon,Edgar Sánchez Hidalgo,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,625,fdn-625-harmless-offering.jpg,Harmless Offering,Sorcery,Rare,Howard Lyon,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,626,fdn-626-hoarding-dragon.jpg,Hoarding Dragon,Creature,Uncommon,Matt Cavotta,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,627,fdn-627-lathliss-dragon-queen.jpg,"Lathliss, Dragon Queen",Lgd. Creature,Rare,Alex Konstad,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,628,fdn-628-mindsparker.jpg,Mindsparker,Creature,Uncommon,Wayne Reynolds,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,629,fdn-629-obliterating-bolt.jpg,Obliterating Bolt,Sorcery,Uncommon,Campbell White,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,630,fdn-630-ravenous-giant.jpg,Ravenous Giant,Creature,Uncommon,Milivoj Ćeran,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,631,fdn-631-redcap-gutter-dweller.jpg,Redcap Gutter-Dweller,Creature,Rare,Alexey Kruglov,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,632,fdn-632-stromkirk-noble.jpg,Stromkirk Noble,Creature,Rare,James Ryman,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,633,fdn-633-taurean-mauler.jpg,Taurean Mauler,Creature,Rare,Dominick Domingo,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,634,fdn-634-viashino-pyromancer.jpg,Viashino Pyromancer,Creature,Common,Jesper Ejsing,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,635,fdn-635-circuitous-route.jpg,Circuitous Route,Sorcery,Uncommon,Milivoj Ćeran,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,636,fdn-636-fierce-empath.jpg,Fierce Empath,Creature,Common,Johann Bodin,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,637,fdn-637-fynn-the-fangbearer.jpg,"Fynn, the Fangbearer",Lgd. Creature,Uncommon,Lie Setiawan,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,638,fdn-638-gnarlback-rhino.jpg,Gnarlback Rhino,Creature,Uncommon,YW Tang,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,639,fdn-639-heroes-bane.jpg,Heroes' Bane,Creature,Rare,Raymond Swanland,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,640,fdn-640-mold-adder.jpg,Mold Adder,Creature,Uncommon,Matt Cavotta,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,641,fdn-641-ordeal-of-nylea.jpg,Ordeal of Nylea,Enchantment,Uncommon,David Palumbo,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,642,fdn-642-predator-ooze.jpg,Predator Ooze,Creature,Rare,Ryan Yee,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,643,fdn-643-primal-might.jpg,Primal Might,Sorcery,Rare,Randy Vargas,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,644,fdn-644-primeval-bounty.jpg,Primeval Bounty,Enchantment,Mythic,Christine Choi,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,645,fdn-645-rampaging-baloths.jpg,Rampaging Baloths,Creature,Rare,Steve Prescott,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,646,fdn-646-springbloom-druid.jpg,Springbloom Druid,Creature,Common,Randy Gallegos,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,647,fdn-647-surrak-the-hunt-caller.jpg,"Surrak, the Hunt Caller",Lgd. Creature,Rare,Wesley Burt,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,648,fdn-648-venom-connoisseur.jpg,Venom Connoisseur,Creature,Uncommon,Marta Nael,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,649,fdn-649-vizier-of-the-menagerie.jpg,Vizier of the Menagerie,Creature,Mythic,Victor Adame Minguez,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,650,fdn-650-wildborn-preserver.jpg,Wildborn Preserver,Creature,Rare,Lius Lasahido,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,651,fdn-651-aurelia-the-warleader.jpg,"Aurelia, the Warleader",Lgd. Creature,Mythic,Slawomir Maniak,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,652,fdn-652-ayli-eternal-pilgrim.jpg,"Ayli, Eternal Pilgrim",Lgd. Creature,Rare,Cynthia Sheppard,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,653,fdn-653-cloudblazer.jpg,Cloudblazer,Creature,Uncommon,Dan Murayama Scott,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,654,fdn-654-deadly-brew.jpg,Deadly Brew,Sorcery,Uncommon,Randy Vargas,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,655,fdn-655-drogskol-reaver.jpg,Drogskol Reaver,Creature,Rare,Vincent Proce,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,656,fdn-656-dryad-militant.jpg,Dryad Militant,Creature,Uncommon,Aaron J. Riley,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,657,fdn-657-enigma-drake.jpg,Enigma Drake,Creature,Uncommon,Steve Argyle,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,658,fdn-658-garna-bloodfist-of-keld.jpg,"Garna, Bloodfist of Keld",Lgd. Creature,Uncommon,Andrey Kuzinskiy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,659,fdn-659-halana-and-alena-partners.jpg,"Halana and Alena, Partners",Lgd. Creature,Rare,Jason Rainville,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,660,fdn-660-immersturm-predator.jpg,Immersturm Predator,Creature,Rare,Nicholas Gregory,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,661,fdn-661-maelstrom-pulse.jpg,Maelstrom Pulse,Sorcery,Rare,John Avon,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,662,fdn-662-mortify.jpg,Mortify,Instant,Uncommon,Nils Hamm,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,663,fdn-663-ovika-enigma-goliath.jpg,"Ovika, Enigma Goliath",Lgd. Creature,Rare,Antonio José Manzanedo,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,664,fdn-664-prime-speaker-zegana.jpg,Prime Speaker Zegana,Lgd. Creature,Rare,Willian Murai,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,665,fdn-665-savage-ventmaw.jpg,Savage Ventmaw,Creature,Uncommon,Slawomir Maniak,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,666,fdn-666-teach-by-example.jpg,Teach by Example,Instant,Uncommon,Johan Grenier,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,667,fdn-667-trygon-predator.jpg,Trygon Predator,Creature,Uncommon,Carl Critchlow,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,668,fdn-668-wilt-leaf-liege.jpg,Wilt-Leaf Liege,Creature,Rare,Jason Chan,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,669,fdn-669-basilisk-collar.jpg,Basilisk Collar,Artifact,Rare,Craig J Spearing,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,670,fdn-670-cultivator-s-caravan.jpg,Cultivator's Caravan,Artifact,Rare,Mark Zug,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,671,fdn-671-darksteel-colossus.jpg,Darksteel Colossus,Artifact Creature,Mythic,Carl Critchlow,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,672,fdn-672-diamond-mare.jpg,Diamond Mare,Artifact Creature,Uncommon,Alayna Danner,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,673,fdn-673-feldon-s-cane.jpg,Feldon's Cane,Artifact,Uncommon,Warren Mahy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,674,fdn-674-fireshrieker.jpg,Fireshrieker,Artifact,Uncommon,Christopher Moeller,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,675,fdn-675-gate-colossus.jpg,Gate Colossus,Artifact Creature,Uncommon,Izzy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,676,fdn-676-mazemind-tome.jpg,Mazemind Tome,Artifact,Rare,Randy Gallegos,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,677,fdn-677-pyromancer-s-goggles.jpg,Pyromancer's Goggles,Lgd. Artifact,Mythic,Kevin Sidharta,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,678,fdn-678-ramos-dragon-engine.jpg,"Ramos, Dragon Engine",Lgd. Artifact Creature,Mythic,Joseph Meehan,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,679,fdn-679-sorcerous-spyglass.jpg,Sorcerous Spyglass,Artifact,Uncommon,Kieran Yanner,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,680,fdn-680-soul-guide-lantern.jpg,Soul-Guide Lantern,Artifact,Uncommon,Iris Compiet,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,681,fdn-681-steel-hellkite.jpg,Steel Hellkite,Artifact Creature,Rare,Jaime Jones,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,682,fdn-682-three-tree-mascot.jpg,Three Tree Mascot,Artifact Creature,Common,Gina Matarazzo,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,683,fdn-683-azorius-guildgate.jpg,Azorius Guildgate,Land,Common,Drew Baker,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,684,fdn-684-boros-guildgate.jpg,Boros Guildgate,Land,Common,Titus Lunter,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,685,fdn-685-crawling-barrens.jpg,Crawling Barrens,Land,Rare,Jonas De Ro,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,686,fdn-686-cryptic-caves.jpg,Cryptic Caves,Land,Uncommon,Sung Choi,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,687,fdn-687-demolition-field.jpg,Demolition Field,Land,Uncommon,Kamila Szutenberg,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,688,fdn-688-dimir-guildgate.jpg,Dimir Guildgate,Land,Common,Cliff Childs,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,689,fdn-689-golgari-guildgate.jpg,Golgari Guildgate,Land,Common,Eytan Zana,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,690,fdn-690-gruul-guildgate.jpg,Gruul Guildgate,Land,Common,Randy Gallegos,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,691,fdn-691-izzet-guildgate.jpg,Izzet Guildgate,Land,Common,Kirsten Zirngibl,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,692,fdn-692-orzhov-guildgate.jpg,Orzhov Guildgate,Land,Common,John Avon,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,693,fdn-693-rakdos-guildgate.jpg,Rakdos Guildgate,Land,Common,Jonas De Ro,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,694,fdn-694-selesnya-guildgate.jpg,Selesnya Guildgate,Land,Common,Dimitar Marinski,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,695,fdn-695-simic-guildgate.jpg,Simic Guildgate,Land,Common,Svetlin Velinov,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,696,fdn-696-temple-of-abandon.jpg,Temple of Abandon,Land,Rare,Adam Paquette,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,697,fdn-697-temple-of-deceit.jpg,Temple of Deceit,Land,Rare,Jonas De Ro,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,698,fdn-698-temple-of-enlightenment.jpg,Temple of Enlightenment,Land,Rare,Piotr Dura,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,699,fdn-699-temple-of-epiphany.jpg,Temple of Epiphany,Land,Rare,Adam Paquette,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,700,fdn-700-temple-of-malady.jpg,Temple of Malady,Land,Rare,Titus Lunter,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,701,fdn-701-temple-of-malice.jpg,Temple of Malice,Land,Rare,Jonas De Ro,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,702,fdn-702-temple-of-mystery.jpg,Temple of Mystery,Land,Rare,Piotr Dura,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,703,fdn-703-temple-of-plenty.jpg,Temple of Plenty,Land,Rare,Chris Ostrowski,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,704,fdn-704-temple-of-silence.jpg,Temple of Silence,Land,Rare,Adam Paquette,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,705,fdn-705-temple-of-triumph.jpg,Temple of Triumph,Land,Rare,Piotr Dura,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,706,fdn-706-angel-of-vitality.jpg,Angel of Vitality,Creature,Uncommon,Johannes Voss,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,707,fdn-707-lyra-dawnbringer.jpg,Lyra Dawnbringer,Lgd. Creature,Mythic,Chris Rahn,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,708,fdn-708-make-a-stand.jpg,Make a Stand,Instant,Uncommon,Magali Villeneuve,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,709,fdn-709-confiscate.jpg,Confiscate,Enchantment,Uncommon,Caroline Gariba,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,710,fdn-710-negate.jpg,Negate,Instant,Common,Magali Villeneuve,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,711,fdn-711-rite-of-replication.jpg,Rite of Replication,Sorcery,Rare,Matt Cavotta,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,712,fdn-712-feed-the-swarm.jpg,Feed the Swarm,Sorcery,Common,Andrey Kuzinskiy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,713,fdn-713-gatekeeper-of-malakir.jpg,Gatekeeper of Malakir,Creature,Uncommon,Karl Kopinski,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,714,fdn-714-massacre-wurm.jpg,Massacre Wurm,Creature,Mythic,Jason Chan,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,715,fdn-715-gratuitous-violence.jpg,Gratuitous Violence,Enchantment,Rare,Jesper Ejsing,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,716,fdn-716-guttersnipe.jpg,Guttersnipe,Creature,Uncommon,Andrey Kuzinskiy,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,717,fdn-717-impact-tremors.jpg,Impact Tremors,Enchantment,Common,Lake Hurwitz,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,718,fdn-718-gigantosaurus.jpg,Gigantosaurus,Creature,Rare,Loïc Canavaggia,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,719,fdn-719-imperious-perfect.jpg,Imperious Perfect,Creature,Uncommon,Scott M. Fischer,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,720,fdn-720-pelakka-wurm.jpg,Pelakka Wurm,Creature,Uncommon,Daniel Ljunggren,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,721,fdn-721-boros-charm.jpg,Boros Charm,Instant,Uncommon,Zoltan Boros,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,722,fdn-722-unflinching-courage.jpg,Unflinching Courage,Enchantment,Uncommon,Mike Bierek,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,723,fdn-723-adaptive-automaton.jpg,Adaptive Automaton,Artifact Creature,Rare,Igor Kieryluk,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,724,fdn-724-expedition-map.jpg,Expedition Map,Artifact,Common,Franz Vohwinkel,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,725,fdn-725-gilded-lotus.jpg,Gilded Lotus,Artifact,Rare,Volkan Baǵa,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,726,fdn-726-hedron-archive.jpg,Hedron Archive,Artifact,Uncommon,Craig J Spearing,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,727,fdn-727-maze-s-end.jpg,Maze's End,Land,Mythic,Cliff Childs,Starter Collection,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,728,fdn-728-phyrexian-arena.jpg,Phyrexian Arena,Enchantment,Rare,Aaron J. Riley,Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,729,fdn-729-solemn-simulacrum.jpg,Solemn Simulacrum,Artifact Creature,Rare,Forrest Imel,Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations,FDN,,730,fdn-730-hinterland-sanctifier.jpg,Hinterland Sanctifier,Creature,Common,Justine Cruz,Beginner Box,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,1,tfdn-1-cat.jpg,Cat,Token Creature,Common,Leonardo Santanna,Promos,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,2,tfdn-2-cat.jpg,Cat,Token Creature,Common,Jesper Ejsing,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,3,tfdn-3-human.jpg,Human,Token Creature,Common,Julia Griffin,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,4,tfdn-4-knight.jpg,Knight,Token Creature,Common,Daneen Wilkerson,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,5,tfdn-5-rabbit.jpg,Rabbit,Token Creature,Common,Gina Matarazzo,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,6,tfdn-6-soldier.jpg,Soldier,Token Creature,Common,Greg Staples,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,7,tfdn-7-spirit.jpg,Spirit,Token Creature,Common,Ryan Yee,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,8,tfdn-8-drake.jpg,Drake,Token Creature,Common,Bayard Wu,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,9,tfdn-9-faerie.jpg,Faerie,Token Creature,Common,Irina Nordsol,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,10,tfdn-10-fish.jpg,Fish,Token Creature,Common,Rhonda Libbey,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,11,tfdn-11-koma-s-coil.jpg,Koma's Coil,Token Creature,Common,Simon Dominic,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,12,tfdn-12-ninja.jpg,Ninja,Token Creature,Common,Diana Cearley,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,13,tfdn-13-scion-of-the-deep.jpg,Scion of the Deep,Token Lgd. Creature,Common,Brent Hollowell,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,14,tfdn-14-rat.jpg,Rat,Token Creature,Common,Mike Bierek,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,15,tfdn-15-zombie.jpg,Zombie,Token Creature,Common,Anna Steinbauer,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,16,tfdn-16-dragon.jpg,Dragon,Token Creature,Common,Alexander Ostrowski,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,17,tfdn-17-dragon.jpg,Dragon,Token Creature,Common,Raymond Swanland,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,18,tfdn-18-goblin.jpg,Goblin,Token Creature,Common,Kev Walker,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,19,tfdn-19-elf-warrior.jpg,Elf Warrior,Token Creature,Common,Randy Vargas,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,20,tfdn-20-raccoon.jpg,Raccoon,Token Creature,Common,Mark Poole,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,21,tfdn-21-insect.jpg,Insect,Token Creature,Common,Helge C. Balzer,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,22,tfdn-22-food.jpg,Food,Token Artifact,Common,Alexander Mokhov,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,23,tfdn-23-treasure.jpg,Treasure,Token Artifact,Common,Alayna Danner,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,24,tfdn-24-kaito-cunning-infiltrator-emblem.jpg,"Kaito, Cunning Infiltrator Emblem",Emblem,Common,Evyn Fong,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,25,tfdn-25-vivien-reid-emblem.jpg,Vivien Reid Emblem,Emblem,Common,Anna Steinbauer,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,26,tfdn-26-copy.jpg,Copy,Token,Common,Brian Valeza,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,27,tfdn-27-cat.jpg,Cat,Token Creature,Common,Filip Burburan,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,28,tfdn-28-cat-beast.jpg,Cat Beast,Token Creature,Common,Bayard Wu,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,29,tfdn-29-dog.jpg,Dog,Token Creature,Common,Manuel Castañón,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,30,tfdn-30-rat.jpg,Rat,Token Creature,Common,Kim Sokol,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,31,tfdn-31-phyrexian-goblin.jpg,Phyrexian Goblin,Token Creature,Common,Jokubas Uogintas,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,32,tfdn-32-beast.jpg,Beast,Token Creature,Common,John Donahue,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Tokens,TFDN,FDN,33,tfdn-33-beast.jpg,Beast,Token Creature,Common,Steve Prescott,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,1,afdn-1-cat-collector_002.jpg,Cat Collector // Cat Collector,Card // Card,Common,Chris Seaman,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,2,afdn-2-celestial-armor.jpg,Celestial Armor // Celestial Armor,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,3,afdn-3-felidar-savior.jpg,Felidar Savior // Felidar Savior,Card // Card,Common,Ilse Gort,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,4,afdn-4-skyknight-squire_002.jpg,Skyknight Squire // Skyknight Squire,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,5,afdn-5-drake-hatcher_002.jpg,Drake Hatcher // Drake Hatcher,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,6,afdn-6-faebloom-trick.jpg,Faebloom Trick // Faebloom Trick,Card // Card,Common,Annie Stegg,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,7,afdn-7-mischievous-mystic.jpg,Mischievous Mystic // Mischievous Mystic,Card // Card,Common,Steve Prescott,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,8,afdn-8-nine-lives-familiar_002.jpg,Nine-Lives Familiar // Nine-Lives Familiar,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,9,afdn-9-soul-shackled-zombie_002.jpg,Soul-Shackled Zombie // Soul-Shackled Zombie,Card // Card,Common,Diana Franco,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,10,afdn-10-zul-ashur-lich-lord.jpg,"Zul Ashur, Lich Lord // Zul Ashur, Lich Lord",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,11,afdn-11-goblin-boarders_002.jpg,Goblin Boarders // Goblin Boarders,Card // Card,Common,Filipe Pagliuso,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,12,afdn-12-loot-exuberant-explorer_002.jpg,"Loot, Exuberant Explorer // Loot, Exuberant Explorer",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,13,afdn-13-spinner-of-souls_002.jpg,Spinner of Souls // Spinner of Souls,Card // Card,Common,Xavier Ribeiro,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,14,afdn-14-alesha-who-laughs-at-fate_002.jpg,"Alesha, Who Laughs at Fate // Alesha, Who Laughs at Fate",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,15,afdn-15-elenda-saint-of-dusk.jpg,"Elenda, Saint of Dusk // Elenda, Saint of Dusk",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,16,afdn-16-kykar-zephyr-awakener_002.jpg,"Kykar, Zephyr Awakener // Kykar, Zephyr Awakener",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,17,afdn-17-wardens-of-the-cycle_002.jpg,Wardens of the Cycle // Wardens of the Cycle,Card // Card,Common,Caroline Gariba,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,18,afdn-18-fishing-pole_002.jpg,Fishing Pole // Fishing Pole,Card // Card,Common,Franz Vohwinkel,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,19,afdn-19-soulstone-sanctuary_002.jpg,Soulstone Sanctuary // Soulstone Sanctuary,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,20,afdn-20-giada-font-of-hope.jpg,"Giada, Font of Hope // Giada, Font of Hope",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,21,afdn-21-plains_002.jpg,Plains // Plains,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,22,afdn-22-island_002.jpg,Island // Island,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,23,afdn-23-swamp.jpg,Swamp // Swamp,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,24,afdn-24-mountain_002.jpg,Mountain // Mountain,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,25,afdn-25-forest.jpg,Forest // Forest,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,26,afdn-26-arahbo-the-first-fang_002.jpg,"Arahbo, the First Fang // Arahbo, the First Fang",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,27,afdn-27-herald-of-eternal-dawn_002.jpg,Herald of Eternal Dawn // Herald of Eternal Dawn,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,28,afdn-28-youthful-valkyrie.jpg,Youthful Valkyrie // Youthful Valkyrie,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,29,afdn-29-drake-hatcher_002.jpg,Drake Hatcher // Drake Hatcher,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,30,afdn-30-kiora-the-rising-tide.jpg,"Kiora, the Rising Tide // Kiora, the Rising Tide",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,31,afdn-31-lunar-insight.jpg,Lunar Insight // Lunar Insight,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,32,afdn-32-omniscience.jpg,Omniscience // Omniscience,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,33,afdn-33-sphinx-of-forgotten-lore.jpg,Sphinx of Forgotten Lore // Sphinx of Forgotten Lore,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,34,afdn-34-abyssal-harvester.jpg,Abyssal Harvester // Abyssal Harvester,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,35,afdn-35-blasphemous-edict.jpg,Blasphemous Edict // Blasphemous Edict,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,36,afdn-36-nine-lives-familiar_002.jpg,Nine-Lives Familiar // Nine-Lives Familiar,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,37,afdn-37-rise-of-the-dark-realms.jpg,Rise of the Dark Realms // Rise of the Dark Realms,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,38,afdn-38-rite-of-the-dragoncaller_002.jpg,Rite of the Dragoncaller // Rite of the Dragoncaller,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,39,afdn-39-searslicer-goblin_002.jpg,Searslicer Goblin // Searslicer Goblin,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,40,afdn-40-genesis-wave.jpg,Genesis Wave // Genesis Wave,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,41,afdn-41-ghalta-primal-hunger.jpg,"Ghalta, Primal Hunger // Ghalta, Primal Hunger",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,42,afdn-42-mossborn-hydra.jpg,Mossborn Hydra // Mossborn Hydra,Card // Card,Common,Monztre,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,43,afdn-43-preposterous-proportions.jpg,Preposterous Proportions // Preposterous Proportions,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,44,afdn-44-quilled-greatwurm_002.jpg,Quilled Greatwurm // Quilled Greatwurm,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,45,afdn-45-reclamation-sage_002.jpg,Reclamation Sage // Reclamation Sage,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,46,afdn-46-sylvan-scavenging_002.jpg,Sylvan Scavenging // Sylvan Scavenging,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,47,afdn-47-anthem-of-champions_002.jpg,Anthem of Champions // Anthem of Champions,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,48,afdn-48-lathril-blade-of-the-elves_002.jpg,"Lathril, Blade of the Elves // Lathril, Blade of the Elves",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,49,afdn-49-leyline-axe_002.jpg,Leyline Axe // Leyline Axe,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,50,afdn-50-scrawling-crawler_002.jpg,Scrawling Crawler // Scrawling Crawler,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,51,afdn-51-kaito-cunning-infiltrator_002.jpg,"Kaito, Cunning Infiltrator // Kaito, Cunning Infiltrator",Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,52,afdn-52-confiscate_002.jpg,Confiscate // Confiscate,Card // Card,Common,Caroline Gariba,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,53,afdn-53-gigantosaurus_002.jpg,Gigantosaurus // Gigantosaurus,Card // Card,Common,Loïc Canavaggia,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Art Series,AFDN,FDN,54,afdn-54-bloom-tender_002.jpg,Bloom Tender // Bloom Tender,Card // Card,Common,,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Front Cards,FFDN,FDN,1,fdn-1-cats.jpg,Cats,Card,Common,PINDURSKI,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Front Cards,FFDN,FDN,2,fdn-2-vampires.jpg,Vampires,Card,Common,PINDURSKI,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Commander,FDC,FDN,1,fdc-1-arcane-signet.jpg,Arcane Signet,Artifact,Uncommon,Dan Murayama Scott,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Commander,FDC,FDN,2,fdc-2-sol-ring.jpg,Sol Ring,Artifact,Uncommon,Mike Bierek,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Commander,FDC,FDN,3,fdc-3-command-tower.jpg,Command Tower,Land,Common,Ryan Yee,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,1,pfdn-1-sol-ring.jpg,Sol Ring,Artifact,Rare,Mike Bierek,,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,1s,pfdn-1s-sire-of-seven-deaths.jpg,Sire of Seven Deaths,Creature,Mythic,Lius Lasahido,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,2s,pfdn-2s-arahbo-the-first-fang.jpg,"Arahbo, the First Fang",Lgd. Creature,Rare,Simon Dominic,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,5s,pfdn-5s-celestial-armor.jpg,Celestial Armor,Artifact,Rare,Olena Richards,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,7s,pfdn-7s-crystal-barricade.jpg,Crystal Barricade,Artifact Creature,Rare,Rockey Chen,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,11s,pfdn-11s-exemplar-of-light.jpg,Exemplar of Light,Creature,Rare,Ekaterina Burmak,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,17s,pfdn-17s-herald-of-eternal-dawn.jpg,Herald of Eternal Dawn,Creature,Mythic,Martina Fačková,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,22s,pfdn-22s-raise-the-past.jpg,Raise the Past,Sorcery,Rare,Nathaniel Himawan,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,23s,pfdn-23s-skyknight-squire.jpg,Skyknight Squire,Creature,Rare,Alexander Mokhov,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,27s,pfdn-27s-valkyrie-s-call.jpg,Valkyrie's Call,Enchantment,Mythic,Scott Murphy,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,30s,pfdn-30s-archmage-of-runes.jpg,Archmage of Runes,Creature,Rare,Kai Carpenter,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,34s,pfdn-34s-curator-of-destinies.jpg,Curator of Destinies,Creature,Rare,Ralph Horsley,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,35s,pfdn-35s-drake-hatcher.jpg,Drake Hatcher,Creature,Rare,Chris Rallis,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,40s,pfdn-40s-high-fae-trickster.jpg,High Fae Trickster,Creature,Rare,Justyna Dura,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,41s,pfdn-41s-homunculus-horde.jpg,Homunculus Horde,Creature,Rare,Adrián Rodríguez Pérez,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,44s,pfdn-44s-kaito-cunning-infiltrator.jpg,"Kaito, Cunning Infiltrator",Lgd. Planeswalker,Mythic,Evyn Fong,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,45s,pfdn-45s-kiora-the-rising-tide.jpg,"Kiora, the Rising Tide",Lgd. Creature,Rare,Julian Kok Joon Wen,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,46s,pfdn-46s-lunar-insight.jpg,Lunar Insight,Sorcery,Rare,Dan Murayama Scott,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,51s,pfdn-51s-sphinx-of-forgotten-lore.jpg,Sphinx of Forgotten Lore,Creature,Mythic,Dmitry Burmak,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,54s,pfdn-54s-abyssal-harvester.jpg,Abyssal Harvester,Creature,Rare,Diana Franco,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,57s,pfdn-57s-blasphemous-edict.jpg,Blasphemous Edict,Sorcery,Rare,Andrew Mar,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,58s,pfdn-58s-bloodthirsty-conqueror.jpg,Bloodthirsty Conqueror,Creature,Mythic,Dmitry Burmak,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,61s,pfdn-61s-high-society-hunter.jpg,High-Society Hunter,Creature,Rare,Daneen Wilkerson,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,66s,pfdn-66s-nine-lives-familiar.jpg,Nine-Lives Familiar,Creature,Rare,Bram Sels,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,72s,pfdn-72s-tinybones-bauble-burglar.jpg,"Tinybones, Bauble Burglar",Lgd. Creature,Rare,Leonardo Santanna,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,77s,pfdn-77s-zul-ashur-lich-lord.jpg,"Zul Ashur, Lich Lord",Lgd. Creature,Rare,Raluca Marinescu,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,81s,pfdn-81s-chandra-flameshaper.jpg,"Chandra, Flameshaper",Lgd. Planeswalker,Mythic,Mark Winters,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,85s,pfdn-85s-electroduplicate.jpg,Electroduplicate,Sorcery,Rare,Warren Mahy,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,91s,pfdn-91s-kellan-planar-trailblazer.jpg,"Kellan, Planar Trailblazer",Lgd. Creature,Rare,Zoltan Boros,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,92s,pfdn-92s-rite-of-the-dragoncaller.jpg,Rite of the Dragoncaller,Enchantment,Mythic,PINDURSKI,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,93s,pfdn-93s-searslicer-goblin.jpg,Searslicer Goblin,Creature,Rare,Wayne Reynolds,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,97s,pfdn-97s-twinflame-tyrant.jpg,Twinflame Tyrant,Creature,Mythic,Xabi Gaztelua,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,106s,pfdn-106s-loot-exuberant-explorer.jpg,"Loot, Exuberant Explorer",Lgd. Creature,Rare,Arif Wijaya,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,107s,pfdn-107s-mossborn-hydra.jpg,Mossborn Hydra,Creature,Rare,Monztre,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,109s,pfdn-109s-preposterous-proportions.jpg,Preposterous Proportions,Sorcery,Rare,Ben Wootten,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,111s,pfdn-111s-quilled-greatwurm.jpg,Quilled Greatwurm,Creature,Mythic,Michal Ivan,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,112s,pfdn-112s-spinner-of-souls.jpg,Spinner of Souls,Creature,Rare,Xavier Ribeiro,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,113s,pfdn-113s-sylvan-scavenging.jpg,Sylvan Scavenging,Enchantment,Rare,"Josiah ""Jo"" Cameron",Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,115p,pfdn-115p-alesha-who-laughs-at-fate.jpg,"Alesha, Who Laughs at Fate",Lgd. Creature,Rare,Ekaterina Burmak,Stamped Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,115s,pfdn-115s-alesha-who-laughs-at-fate.jpg,"Alesha, Who Laughs at Fate",Lgd. Creature,Rare,Ekaterina Burmak,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,116p,pfdn-116p-anthem-of-champions.jpg,Anthem of Champions,Enchantment,Rare,Chris Rallis,Stamped Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,116s,pfdn-116s-anthem-of-champions.jpg,Anthem of Champions,Enchantment,Rare,Chris Rallis,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,117s,pfdn-117s-ashroot-animist.jpg,Ashroot Animist,Creature,Rare,Caio Monteiro,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,119s,pfdn-119s-elenda-saint-of-dusk.jpg,"Elenda, Saint of Dusk",Lgd. Creature,Rare,Chris Rahn,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,121p,pfdn-121p-koma-world-eater.jpg,"Koma, World-Eater",Lgd. Creature,Rare,Mark Zug,Stamped Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,121s,pfdn-121s-koma-world-eater.jpg,"Koma, World-Eater",Lgd. Creature,Rare,Mark Zug,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,122p,pfdn-122p-kykar-zephyr-awakener.jpg,"Kykar, Zephyr Awakener",Lgd. Creature,Rare,Dmitry Burmak,Stamped Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,122s,pfdn-122s-kykar-zephyr-awakener.jpg,"Kykar, Zephyr Awakener",Lgd. Creature,Rare,Dmitry Burmak,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,123p,pfdn-123p-niv-mizzet-visionary.jpg,"Niv-Mizzet, Visionary",Lgd. Creature,Mythic,Dan Murayama Scott,Stamped Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,123s,pfdn-123s-niv-mizzet-visionary.jpg,"Niv-Mizzet, Visionary",Lgd. Creature,Mythic,Dan Murayama Scott,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,126s,pfdn-126s-zimone-paradox-sculptor.jpg,"Zimone, Paradox Sculptor",Lgd. Creature,Mythic,Nathaniel Himawan,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,127p,pfdn-127p-banner-of-kinship.jpg,Banner of Kinship,Artifact,Rare,Olena Richards,Stamped Cards,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,127s,pfdn-127s-banner-of-kinship.jpg,Banner of Kinship,Artifact,Rare,Olena Richards,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,129s,pfdn-129s-leyline-axe.jpg,Leyline Axe,Artifact,Rare,Edgar Sánchez Hidalgo,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,132s,pfdn-132s-scrawling-crawler.jpg,Scrawling Crawler,Artifact Creature,Rare,Miro Petrov,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,133s,pfdn-133s-soulstone-sanctuary.jpg,Soulstone Sanctuary,Land,Rare,Daniel Ljunggren,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,134s,pfdn-134s-ajani-caller-of-the-pride.jpg,"Ajani, Caller of the Pride",Lgd. Planeswalker,Mythic,D. Alexander Gregory,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,137s,pfdn-137s-authority-of-the-consuls.jpg,Authority of the Consuls,Enchantment,Rare,Lake Hurwitz,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,140s,pfdn-140s-day-of-judgment.jpg,Day of Judgment,Sorcery,Rare,Vincent Proce,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,141s,pfdn-141s-giada-font-of-hope.jpg,"Giada, Font of Hope",Lgd. Creature,Rare,Kai Carpenter,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,154s,pfdn-154s-extravagant-replication.jpg,Extravagant Replication,Enchantment,Rare,Pauline Voss,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,161s,pfdn-161s-omniscience.jpg,Omniscience,Enchantment,Mythic,Jason Chan,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,166s,pfdn-166s-time-stop.jpg,Time Stop,Instant,Rare,Scott M. Fischer,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,176s,pfdn-176s-liliana-dreadhorde-general.jpg,"Liliana, Dreadhorde General",Lgd. Planeswalker,Mythic,Chris Rallis,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,179s,pfdn-179s-painful-quandary.jpg,Painful Quandary,Enchantment,Rare,David Palumbo,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,180s,pfdn-180s-phyrexian-arena.jpg,Phyrexian Arena,Enchantment,Rare,Svetlin Velinov,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,183s,pfdn-183s-rise-of-the-dark-realms.jpg,Rise of the Dark Realms,Sorcery,Mythic,Michael Komarck,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,184s,pfdn-184s-rune-scarred-demon.jpg,Rune-Scarred Demon,Creature,Rare,Michael Komarck,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,190s,pfdn-190s-brass-s-bounty.jpg,Brass's Bounty,Sorcery,Rare,Grzegorz Rutkowski,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,193s,pfdn-193s-drakuseth-maw-of-flames.jpg,"Drakuseth, Maw of Flames",Lgd. Creature,Rare,Grzegorz Rutkowski,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,194s,pfdn-194s-etali-primal-storm.jpg,"Etali, Primal Storm",Lgd. Creature,Rare,Raymond Swanland,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,198s,pfdn-198s-flamewake-phoenix.jpg,Flamewake Phoenix,Creature,Rare,Min Yum,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,204s,pfdn-204s-krenko-mob-boss.jpg,"Krenko, Mob Boss",Lgd. Creature,Rare,Lie Setiawan,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,207s,pfdn-207s-slagstorm.jpg,Slagstorm,Sorcery,Rare,Dan Murayama Scott,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,216s,pfdn-216s-doubling-season.jpg,Doubling Season,Enchantment,Mythic,Chuck Lukacs,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,219s,pfdn-219s-elvish-archdruid.jpg,Elvish Archdruid,Creature,Rare,Karl Kopinski,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,221s,pfdn-221s-genesis-wave.jpg,Genesis Wave,Sorcery,Rare,Arif Wijaya,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,222s,pfdn-222s-ghalta-primal-hunger.jpg,"Ghalta, Primal Hunger",Lgd. Creature,Rare,Chase Stone,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,232s,pfdn-232s-scavenging-ooze.jpg,Scavenging Ooze,Creature,Rare,Austin Hsu,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,234s,pfdn-234s-vivien-reid.jpg,Vivien Reid,Lgd. Planeswalker,Mythic,Anna Steinbauer,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,238s,pfdn-238s-consuming-aberration.jpg,Consuming Aberration,Creature,Rare,Karl Kopinski,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,242s,pfdn-242s-lathril-blade-of-the-elves.jpg,"Lathril, Blade of the Elves",Lgd. Creature,Rare,Caroline Gariba,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,243s,pfdn-243s-muldrotha-the-gravetide.jpg,"Muldrotha, the Gravetide",Lgd. Creature,Mythic,Jason Rainville,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,244s,pfdn-244s-progenitus.jpg,Progenitus,,Mythic,Jaime Jones,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,246s,pfdn-246s-swiftblade-vindicator.jpg,Swiftblade Vindicator,Creature,Rare,Viktor Titov,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,248s,pfdn-248s-thousand-year-storm.jpg,Thousand-Year Storm,Enchantment,Rare,Dimitar Marinski,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+
+2024,15/11/2024,Magic: The Gathering,Foundations Promos,PFDN,FDN,257s,pfdn-257s-solemn-simulacrum.jpg,Solemn Simulacrum,Artifact Creature,Rare,Dan Murayama Scott,Datestamped Promos ,Wizards of the Coast,English,English,,,,,9+

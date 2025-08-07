@@ -1,0 +1,746 @@
+﻿entity_id,images,card_set,card_set_abbreviation,card_release,release_type,release_date,release_year,card_manufacturer,language,card_series,card_print_version,bar_code,bar_code_no,age_level,card_set_jp,card_era,number_of_cards,language_version,card_release_jp,
+1,,Base Set,BS,Base Set,,01/09/1999,1999,Wizards of the Coast,English,Original Series,,,,6+,,,102,English,,Pokemon
+3,,Fossil,FO,Fossil,,10/10/1999,1999,Wizards of the Coast,English,Original Series,,,,6+,,,62,English,,Pokemon
+4,,Base Set 2,B2,Base Set 2,,24/02/2000,2000,Wizards of the Coast,English,Original Series,,,,6+,,,130,English,,Pokemon
+5,,Team Rocket,TR,Team Rocket,,24/04/2000,2000,Wizards of the Coast,English,Original Series,,,,6+,,,82,English,,Pokemon
+6,,Gym Heroes,G1,Gym Heroes,,14/08/2000,2000,Wizards of the Coast,English,Original Series,,,,6+,,,132,English,,Pokemon
+7,,Gym Challenge,G2,Gym Challenge,,16/10/2000,2000,Wizards of the Coast,English,Original Series,,,,6+,,,132,English,,Pokemon
+8,,Neo Genesis,N1,Neo Genesis,,16/12/2000,2000,Wizards of the Coast,English,Neo Series,,,,6+,,,111,English,,Pokemon
+9,,Neo Discovery,N2,Neo Discovery,,06/01/2001,2001,Wizards of the Coast,English,Neo Series,,,,6+,,,75,English,,Pokemon
+10,,Neo Revelation,N3,Neo Revelation,,21/09/2001,2001,Wizards of the Coast,English,Neo Series,,,,6+,,,64,English,,Pokemon
+11,,Neo Destiny,N4,Neo Destiny,,28/02/2002,2002,Wizards of the Coast,English,Neo Series,,,,6+,,,105,English,,Pokemon
+12,,Legendary Collection,LC,Legendary Collection,,24/05/2002,2002,Wizards of the Coast,English,Legendary Collection Series,,,,6+,,,110,English,,Pokemon
+13,,Expedition Base Set,EX,Expedition Base Set,,15/09/2002,2002,Wizards of the Coast,English,e-Card Series,,,,6+,,,165,English,,Pokemon
+14,,Aquapolis,AQ,Aquapolis,,15/01/2003,2003,Wizards of the Coast,English,e-Card Series,,,,6+,,,186,English,,Pokemon
+15,,Skyridge,SK,Skyridge,,05/12/2003,2003,Wizards of the Coast,English,e-Card Series,,,,6+,,,182,English,,Pokemon
+16,,EX Ruby & Sapphire,RS,EX Ruby & Sapphire,,18/06/2003,2003,Nintendo,English,EX Series,,,,6+,,,109,English,,Pokemon
+17,,EX Sandstorm,SS,EX Sandstorm,,17/09/2003,2003,Nintendo,English,EX Series,,,,6+,,,100,English,,Pokemon
+18,,EX Dragon,DR,EX Dragon,,24/11/2003,2003,Nintendo,English,EX Series,,,,6+,,,100,English,,Pokemon
+19,,EX Team Magma vs Team Aqua,MA,EX Team Magma vs Team Aqua,,15/03/2004,2004,Nintendo,English,EX Series,,,,6+,,,97,English,,Pokemon
+20,,EX Hidden Legends,HL,EX Hidden Legends,,14/06/2004,2004,Nintendo,English,EX Series,,,,6+,,,102,English,,Pokemon
+21,,EX FireRed & LeafGreen,FL,EX FireRed & LeafGreen,,30/08/2004,2004,Nintendo,English,EX Series,,,,6+,,,116,English,,Pokemon
+22,,EX Team Rocket Returns,TRR,EX Team Rocket Returns,,11/08/2004,2004,Nintendo,English,EX Series,,,,6+,,,111,English,,Pokemon
+23,,EX Deoxys,DX,EX Deoxys,,14/02/2005,2005,Nintendo,English,EX Series,,,,6+,,,108,English,,Pokemon
+24,,EX Emerald,EM,EX Emerald,,05/09/2005,2005,Nintendo,English,EX Series,,,,6+,,,107,English,,Pokemon
+25,,EX Unseen Forces,UF,EX Unseen Forces,,22/08/2005,2005,Nintendo,English,EX Series,,,,6+,,,145,English,,Pokemon
+26,,EX Delta Species,DS,EX Delta Species,,31/10/2005,2005,Nintendo,English,EX Series,,,,6+,,,114,English,,Pokemon
+27,,EX Legend Maker,LM,EX Legend Maker,,13/02/2006,2006,Nintendo,English,EX Series,,,,6+,,,93,English,,Pokemon
+28,,EX Holon Phantoms,HP,EX Holon Phantoms,,05/03/2006,2006,Nintendo,English,EX Series,,,,6+,,,111,English,,Pokemon
+29,,EX Crystal Guardians,CG,EX Crystal Guardians,,30/08/2006,2006,Nintendo,English,EX Series,,,,6+,,,100,English,,Pokemon
+30,,EX Dragon Frontiers,DF,EX Dragon Frontiers,,11/08/2006,2006,Nintendo,English,EX Series,,,,6+,,,101,English,,Pokemon
+31,,EX Power Keepers,PK,EX Power Keepers,,14/02/2007,2007,Nintendo,English,EX Series,,,,6+,,,108,English,,Pokemon
+32,,Diamond & Pearl,DP,Diamond & Pearl,,23/05/2007,2007,Nintendo,English,Diamond & Pearl Series,,,,6+,,,130,English,,Pokemon
+33,,Mysterious Treasures,MT,Mysterious Treasures,,22/08/2007,2007,Nintendo,English,Diamond & Pearl Series,,,,6+,,,124,English,,Pokemon
+34,,Secret Wonders,SW,Secret Wonders,,11/07/2007,2007,Nintendo,English,Diamond & Pearl Series,,,,6+,,,132,English,,Pokemon
+35,,Great Encounters,GE,Great Encounters,,13/02/2008,2008,Nintendo,English,Diamond & Pearl Series,,,,6+,,,106,English,,Pokemon
+36,,Majestic Dawn,MD,Majestic Dawn,,21/05/2008,2008,Nintendo,English,Diamond & Pearl Series,,,,6+,,,100,English,,Pokemon
+37,,Legends Awakened,LA,Legends Awakened,,20/08/2008,2008,Nintendo,English,Diamond & Pearl Series,,,,6+,,,146,English,,Pokemon
+38,,Stormfront,SF,Stormfront,,11/05/2008,2008,Nintendo,English,Diamond & Pearl Series,,,,6+,,,106,English,,Pokemon
+39,,Platinum,PL,Platinum,,02/11/2009,2009,Nintendo,English,Platinum Series,,,,6+,,,133,English,,Pokemon
+40,,Rising Rivals,RR,Rising Rivals,,16/05/2009,2009,Nintendo,English,Platinum Series,,,,6+,,,120,English,,Pokemon
+41,,Supreme Victors,SV,Supreme Victors,,19/08/2009,2009,Nintendo,English,Platinum Series,,,,6+,,,153,English,,Pokemon
+42,,Arceus,AR,Arceus,,11/04/2009,2009,Nintendo,English,Platinum Series,,,,6+,,,111,English,,Pokemon
+43,,HeartGold & SoulSilver,HS,HeartGold & SoulSilver,,02/10/2010,2010,Nintendo,English,HeartGold & SoulSilver Series,,,,6+,,,123,English,,Pokemon
+44,,Unleashed,UL,Unleashed,,05/12/2010,2010,Nintendo,English,HeartGold & SoulSilver Series,,,,6+,,,96,English,,Pokemon
+45,,Undaunted,UD,Undaunted,,18/08/2010,2010,Nintendo,English,HeartGold & SoulSilver Series,,,,6+,,,91,English,,Pokemon
+46,,Triumphant,TM,Triumphant,,11/02/2010,2010,Nintendo,English,HeartGold & SoulSilver Series,,,,6+,,,103,English,,Pokemon
+47,,Call of Legends,CL,Call of Legends,,02/09/2011,2011,Nintendo,English,Call of Legends Series,,,,6+,,,106,English,,Pokemon
+48,,Black & White,BLW,Black & White,,25/04/2011,2011,Nintendo,English,Black & White Series,,,,6+,,,115,English,,Pokemon
+49,,Emerging Powers,EPO,Emerging Powers,,31/08/2011,2011,Nintendo,English,Black & White Series,,,,6+,,,98,English,,Pokemon
+50,,Noble Victories,NVI,Noble Victories,,16/11/2011,2011,Nintendo,English,Black & White Series,,,,6+,,,102,English,,Pokemon
+51,,Next Destinies,NXD,Next Destinies,,02/08/2012,2012,Nintendo,English,Black & White Series,,,,6+,,,103,English,,Pokemon
+52,,Dark Explorers,DEX,Dark Explorers,,05/09/2012,2012,Nintendo,English,Black & White Series,,,,6+,,,111,English,,Pokemon
+53,,Dragons Exalted,DRX,Dragons Exalted,,15/08/2012,2012,Nintendo,English,Black & White Series,,,,6+,,,128,English,,Pokemon
+54,,Dragon Vault,DRV,Dragon Vault,,10/06/2012,2012,Nintendo,English,Black & White Series,,,,6+,,,21,English,,Pokemon
+55,,Boundaries Crossed,BCR,Boundaries Crossed,,11/07/2012,2012,Nintendo,English,Black & White Series,,,,6+,,,153,English,,Pokemon
+56,,Plasma Storm,PLS,Plasma Storm,,02/06/2013,2013,Nintendo,English,Black & White Series,,,,6+,,,138,English,,Pokemon
+57,,Plasma Freeze,PLF,Plasma Freeze,,05/08/2013,2013,Nintendo,English,Black & White Series,,,,6+,,,122,English,,Pokemon
+58,,Plasma Blast,PLB,Plasma Blast,,14/08/2013,2013,Nintendo,English,Black & White Series,,,,6+,,,105,English,,Pokemon
+59,,Legendary Treasures,LTR,Legendary Treasures,,11/06/2013,2013,Nintendo,English,Black & White Series,,,,6+,,,140,English,,Pokemon
+60,,Kalos Starter Set,KSS,Kalos Starter Set,,11/08/2013,2013,Nintendo,English,XY Series,,,,6+,,,39,English,,Pokemon
+61,,XY,XY,XY,,02/05/2014,2014,Nintendo,English,XY Series,,,,6+,,,146,English,,Pokemon
+62,,Flashfire,FLF,Flashfire,,05/07/2014,2014,Nintendo,English,XY Series,,,,6+,,,109,English,,Pokemon
+63,,Furious Fists,FFI,Furious Fists,,13/08/2014,2014,Nintendo,English,XY Series,,,,6+,,,113,English,,Pokemon
+64,,Phantom Forces,PHF,Phantom Forces,,11/05/2014,2014,Nintendo,English,XY Series,,,,6+,,,122,English,,Pokemon
+65,,Primal Clash,PRC,Primal Clash,,02/04/2015,2015,Nintendo,English,XY Series,,,,6+,,,164,English,,Pokemon
+66,,Double Crisis,DCR,Double Crisis,,25/03/2015,2015,Nintendo,English,XY Series,,,,6+,,,34,English,,Pokemon
+67,,Roaring Skies,ROS,Roaring Skies,,05/06/2015,2015,Nintendo,English,XY Series,,,,6+,,,110,English,,Pokemon
+68,,Ancient Origins,AOR,Ancient Origins,,08/12/2015,2015,Nintendo,English,XY Series,,,,6+,,,100,English,,Pokemon
+69,,BREAKthrough,BKT,BREAKthrough,,11/04/2015,2015,Nintendo,English,XY Series,,,,6+,,,164,English,,Pokemon
+70,,BREAKpoint,BKP,BREAKpoint,,02/02/2016,2016,Nintendo,English,XY Series,,,,6+,,,123,English,,Pokemon
+71,,Generations,GEN,Generations,,22/02/2016,2016,Nintendo,English,XY Series,,,,6+,,,115,English,,Pokemon
+72,,Fates Collide,FCO,Fates Collide,,05/02/2016,2016,Nintendo,English,XY Series,,,,6+,,,124,English,,Pokemon
+73,,Steam Siege,STS,Steam Siege,,08/03/2016,2016,Nintendo,English,XY Series,,,,6+,,,114,English,,Pokemon
+74,,Evolutions,EVO,Evolutions,,11/02/2016,2016,Nintendo,English,XY Series,,,,6+,,,108,English,,Pokemon
+75,,Sun & Moon,SUM,Sun & Moon,,02/03/2017,2017,Nintendo,English,Sun & Moon Series,,,,6+,,,163,English,,Pokemon
+76,,Guardians Rising,GRI,Guardians Rising,,05/05/2017,2017,Nintendo,English,Sun & Moon Series,,,,6+,,,169,English,,Pokemon
+77,,Burning Shadows,BUS,Burning Shadows,,08/04/2017,2017,Nintendo,English,Sun & Moon Series,,,,6+,,,169,English,,Pokemon
+78,,Shining Legends,SLG,Shining Legends,,10/06/2017,2017,Nintendo,English,Sun & Moon Series,,,,6+,,,78,English,,Pokemon
+79,,Crimson Invasion,CIN,Crimson Invasion,,11/03/2017,2017,Nintendo,English,Sun & Moon Series,,,,6+,,,124,English,,Pokemon
+80,,Ultra Prism,UPR,Ultra Prism,,02/02/2018,2018,Nintendo,English,Sun & Moon Series,,,,6+,,,173,English,,Pokemon
+81,,Forbidden Light,FLI,Forbidden Light,,05/04/2018,2018,Nintendo,English,Sun & Moon Series,,,,6+,,,146,English,,Pokemon
+82,,Celestial Storm,CES,Celestial Storm,,08/03/2018,2018,Nintendo,English,Sun & Moon Series,,,,6+,,,183,English,,Pokemon
+83,,Dragon Majesty,DRM,Dragon Majesty,,09/07/2018,2018,Nintendo,English,Sun & Moon Series,,,,6+,,,78,English,,Pokemon
+84,,Lost Thunder,LOT,Lost Thunder,,11/02/2018,2018,Nintendo,English,Sun & Moon Series,,,,6+,,,236,English,,Pokemon
+85,,Team Up,TEU,Team Up,,02/01/2019,2019,Nintendo,English,Sun & Moon Series,,,,6+,,,196,English,,Pokemon
+86,,Detective Pikachu,DET,Detective Pikachu,,29/03/2019,2019,Nintendo,English,Sun & Moon Series,,,,6+,,,18,English,,Pokemon
+87,,Unbroken Bonds,UNB,Unbroken Bonds,,05/03/2019,2019,Nintendo,English,Sun & Moon Series,,,,6+,,,234,English,,Pokemon
+88,,Unified Minds,UNM,Unified Minds,,08/02/2019,2019,Nintendo,English,Sun & Moon Series,,,,6+,,,258,English,,Pokemon
+89,,Hidden Fates,HIF,Hidden Fates,,23/08/2019,2019,Nintendo,English,Sun & Moon Series,,,,6+,,,163,English,,Pokemon
+90,,Cosmic Eclipse,CEC,Cosmic Eclipse,,11/01/2019,2019,Nintendo,English,Sun & Moon Series,,,,6+,,,271,English,,Pokemon
+91,,Sword & Shield,SSH,Sword & Shield,,02/07/2020,2020,Nintendo,English,Sword & Shield Series,,,,6+,,,216,English,,Pokemon
+92,,Rebel Clash,RCL,Rebel Clash,,05/01/2020,2020,Nintendo,English,Sword & Shield Series,,,,6+,,,209,English,,Pokemon
+93,,Darkness Ablaze,DAA,Darkness Ablaze,,14/08/2020,2020,Nintendo,English,Sword & Shield Series,,,,6+,,,201,English,,Pokemon
+94,,Champion's Path,CPA,Champion's Path,,25/09/2020,2020,Nintendo,English,Sword & Shield Series,,,,6+,,,80,English,,Pokemon
+95,,Vivid Voltage,VIV,Vivid Voltage,,13/11/2020,2020,Nintendo,English,Sword & Shield Series,,,,6+,,,203,English,,Pokemon
+96,,Shining Fates,SHF,Shining Fates,,19/02/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,195,English,,Pokemon
+97,,Battle Styles,BST,Battle Styles,,19/03/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,183,English,,Pokemon
+98,,Chilling Reign,CRE,Chilling Reign,,18/06/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,133,English,,Pokemon
+99,,Evolving Skies,EVS,Evolving Skies,,27/08/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,237,English,,Pokemon
+100,,Celebrations,CEL,Celebrations,,10/08/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,50,English,,Pokemon
+101,,Fusion Strike,FST,Fusion Strike,,11/12/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,284,English,,Pokemon
+102,,Brilliant Stars,BRS,Brilliant Stars,,25/02/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,216,English,,Pokemon
+103,,Astral Radiance,ASR,Astral Radiance,,27/05/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,246,English,,Pokemon
+104,,Pokémon GO,PGO,Pokémon GO,,07/01/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,88,English,,Pokemon
+105,,Lost Origin,LOR,Lost Origin,,09/09/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,247,English,,Pokemon
+106,,Silver Tempest,SIT,Silver Tempest,,11/11/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,245,English,,Pokemon
+107,,Crown Zenith,CRZ,Crown Zenith,,20/01/2023,2023,Nintendo,English,Sword & Shield Series,,,,6+,,,230,English,,Pokemon
+108,,Scarlet & Violet,SVI,Scarlet & Violet,,31/03/2023,2023,Nintendo,English,Scarlet & Violet Series,,,,6+,,,258,English,,Pokemon
+109,,Paldea Evolved,PAL,Paldea Evolved,,06/09/2023,2023,Nintendo,English,Scarlet & Violet Series,,,,6+,,,279,English,,Pokemon
+110,,Obsidian Flames,OBF,Obsidian Flames,,08/11/2023,2023,Nintendo,English,Scarlet & Violet Series,,,,6+,,,230,English,,Pokemon
+111,,Scarlet & Violet 151,MEW,Scarlet & Violet 151,,22/09/2023,2023,Nintendo,English,Scarlet & Violet Series,,,,6+,,,207,English,,Pokemon
+112,,Paradox Rift,PAR,Paradox Rift,,11/03/2023,2023,Nintendo,English,Scarlet & Violet Series,,,,6+,,,266,English,,Pokemon
+113,,Paldean Fates,PAF,Paldean Fates,,26/01/2024,2024,Nintendo,English,Scarlet & Violet Series,,,,6+,,,245,English,,Pokemon
+114,,Temporal Forces,TEF,Temporal Forces,,22/03/2024,2024,Nintendo,English,Scarlet & Violet Series,,,,6+,,,218,English,,Pokemon
+115,,Twilight Masquerade,TWM,Twilight Masquerade,,24/05/2024,2024,Nintendo,English,Scarlet & Violet Series,,,,6+,,,226,English,,Pokemon
+116,,Shrouded Fable,SFA,Shrouded Fable,,08/02/2024,2024,Nintendo,English,Scarlet & Violet Series,,,,6+,,,99,English,,Pokemon
+117,,Stellar Crown,SCR,Stellar Crown,,13/09/2024,2024,Nintendo,English,Scarlet & Violet Series,,,,6+,,,175,English,,Pokemon
+118,,Surging Sparks,SSP,Surging Sparks,,11/08/2024,2024,Nintendo,English,Scarlet & Violet Series,,,,6+,,,252,English,,Pokemon
+119,,Prismatic Evolutions,PRE,Prismatic Evolutions,,17/01/2025,2025,Nintendo,English,Scarlet & Violet Series,,,,6+,,,180,English,,Pokemon
+120,,Scarlet & Violet Energies,SVE,Scarlet & Violet Energies,,31/03/2023,2023,Nintendo,English,Scarlet & Violet Series,,,,6+,,,16,English,,Pokemon
+121,,Wizards Black Star Promos,WP,Wizards Black Star Promos,,07/01/1999,1999,Wizards of the Coast,English,Original Series,,,,6+,,,53,English,,Pokemon
+122,,Nintendo Black Star Promos,NP,Nintendo Black Star Promos,,09/01/2003,2003,Nintendo,English,EX Series,,,,6+,,,40,English,,Pokemon
+123,,DP Black Star Promos,DPP,DP Black Star Promos,,05/01/2007,2007,Nintendo,English,Diamond & Pearl Series,,,,6+,,,56,English,,Pokemon
+124,,HGSS Black Star Promos,HSP,HGSS Black Star Promos,,02/01/2010,2020,Nintendo,English,HeartGold & SoulSilver Series,,,,6+,,,25,English,,Pokemon
+125,,BW Black Star Promos,BWP,BW Black Star Promos,,03/01/2011,2011,Nintendo,English,Black & White Series,,,,6+,,,101,English,,Pokemon
+126,,XY Black Star Promos,XYP,XY Black Star Promos,,10/01/2013,2013,Nintendo,English,XY Series,,,,6+,,,211,English,,Pokemon
+127,,SM Black Star Promos,SMP,SM Black Star Promos,,11/01/2016,2016,Nintendo,English,Sun & Moon Series,,,,6+,,,248,English,,Pokemon
+128,,SWSH Black Star Promos,SSP,SWSH Black Star Promos,,11/01/2019,2019,Nintendo,English,Sword & Shield Series,,,,6+,,,307,English,,Pokemon
+129,,SV Black Star Promos,SVP,SV Black Star Promos,,01/01/2023,2023,Nintendo,English,Scarlet & Violet Series,,,,6+,,,202,English,,Pokemon
+130,,McDonald's Collection 2011,M11,McDonald's Collection 2011,,01/07/1999,2011,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+131,,McDonald's Collection 2012,M12,McDonald's Collection 2012,,15/06/2012,2012,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+132,,McDonald's Collection 2013,M13,McDonald's Collection 2013,,13/10/2013,2013,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+133,,McDonald's Collection 2014,M14,McDonald's Collection 2014,,23/05/2014,2014,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+134,,McDonald's Collection 2015,M15,McDonald's Collection 2015,,14/10/2015,2015,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+135,,McDonald's Collection 2016,M16,McDonald's Collection 2016,,19/08/2016,2016,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+136,,McDonald's Collection 2017,M17,McDonald's Collection 2017,,07/01/2017,2017,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+137,,McDonald's Collection 2018,M18,McDonald's Collection 2018,,16/10/2018,2018,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+138,,McDonald's Collection 2018 (French),M18F,McDonald's Collection 2018 (French),,13/06/2018,2018,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+139,,McDonald's Collection 2019,M19,McDonald's Collection 2019,,15/10/2019,2019,Nintendo,English,McDonald's Series,,,,6+,,,12,English,,Pokemon
+140,,McDonald's Collection 2019 (French),M19F,McDonald's Collection 2019 (French),,30/10/2019,2019,Nintendo,English,McDonald's Series,,,,6+,,,40,English,,Pokemon
+141,,McDonald's Collection 2021,M21,McDonald's Collection 2021,,02/09/2021,2021,Nintendo,English,McDonald's Series,,,,6+,,,25,English,,Pokemon
+142,,McDonald's Match Battle 2022,M22,McDonald's Match Battle 2022,,08/03/2022,2022,Nintendo,English,McDonald's Series,,,,6+,,,15,English,,Pokemon
+143,,McDonald's Match Battle 2023,M23,McDonald's Match Battle 2023,,27/07/2023,2023,Nintendo,English,McDonald's Series,,,,6+,,,15,English,,Pokemon
+144,,Trick or Trade 2022,,Trick or Trade 2022,,09/01/2022,2022,Nintendo,English,Others,,,,6+,,,30,English,,Pokemon
+145,,Trick or Trade 2023,,Trick or Trade 2023,,09/01/2023,2023,Nintendo,English,Others,,,,6+,,,30,English,,Pokemon
+146,,POP Series 1,POP1,POP Series 1,,09/01/2004,2004,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+147,,POP Series 2,POP2,POP Series 2,,08/01/2005,2005,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+148,,POP Series 3,POP3,POP Series 3,,04/01/2006,2006,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+149,,POP Series 4,POP4,POP Series 4,,08/01/2006,2006,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+150,,POP Series 5,POP5,POP Series 5,,03/01/2007,2007,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+151,,POP Series 6,POP6,POP Series 6,,09/01/2007,2007,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+152,,POP Series 7,POP7,POP Series 7,,03/01/2008,2008,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+153,,POP Series 8,POP8,POP Series 8,,09/01/2008,2008,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+154,,POP Series 9,POP9,POP Series 9,,03/01/2009,2009,Nintendo,English,Play! Pokémon Series,,,,6+,,,17,English,,Pokemon
+155,,Play! Pokémon Prize Pack Series One,,Play! Pokémon Prize Pack Series One,,11/09/2022,2022,Nintendo,English,Play! Pokémon Series,,,,6+,,,170,English,,Pokemon
+156,,Play! Pokémon Prize Pack Series Two,,Play! Pokémon Prize Pack Series Two,,19/01/2023,2023,Nintendo,English,Play! Pokémon Series,,,,6+,,,154,English,,Pokemon
+157,,Play! Pokémon Prize Pack Series Three,,Play! Pokémon Prize Pack Series Three,,14/08/2023,2023,Nintendo,English,Play! Pokémon Series,,,,6+,,,200,English,,Pokemon
+158,,Southern Islands,SI,Southern Islands,,31/07/2001,2001,Nintendo,English,Others,,,,6+,,,18,English,,Pokemon
+159,,Best of Game,BG,Best of Game,,12/01/2002,2002,Nintendo,English,Others,,,,6+,,,9,English,,Pokemon
+160,,Poké Card Creator Pack,PCP,Poké Card Creator Pack,,07/01/2004,2004,Nintendo,English,Others,,,,6+,,,5,English,,Pokemon
+161,,Pokémon Rumble,RM,Pokémon Rumble,,12/02/2009,2009,Nintendo,English,Others,,,,6+,,,16,English,,Pokemon
+162,,Pokémon Futsal,FUT20,Pokémon Futsal,,09/11/2020,2020,Nintendo,English,Others,,,,6+,,,5,English,,Pokemon
+163,,Pokémon Trading Card Game Classic,CL,Pokémon Trading Card Game Classic,,17/11/2023,2023,Nintendo,English,Others,,,,6+,,,102,English,,Pokemon
+165,,Wild Force,SV5K,Wild Force,Expansion,26/01/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ワイルドフォース,,100,Japanese,,Pokemon
+166,,Cyber Judge,SV5M,Cyber Judge,Expansion,26/01/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,サイバージャッジ,,100,Japanese,,Pokemon
+167,,Mask of Change,SV6,Mask of Change,Expansion,26/04/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,変幻の仮面,,133,Japanese,,Pokemon
+168,,Stellar Miracle,SV7,Stellar Miracle,Expansion,19/07/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ステラミラクル,,135,Japanese,,Pokemon
+169,,Super Electric Breaker,SV8,Super Electric Breaker,Expansion,18/10/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,超電ブレイカー,,138,Japanese,,Pokemon
+170,,Crimson Haze,SV5a,Crimson Haze,Enhanced Expansion,22/03/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,クリムゾンヘイズ,,96,Japanese,,Pokemon
+171,,Night Wanderer,SV6a,Night Wanderer,Enhanced Expansion,06/07/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ナイトワンダラー,,94,Japanese,,Pokemon
+172,,Paradise Dragona,SV7a,Paradise Dragona,Enhanced Expansion,13/09/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,楽園ドラゴーナ,,94,Japanese,,Pokemon
+173,,Terastal Festival ex,SV8a,Terastal Festival ex,High Class Expansion,12/06/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,テラスタルフェスex,,237,Japanese,,Pokemon
+174,,Scarlet ex,SV1S,Scarlet ex,Expansion,20/01/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スカーレットex,,108,Japanese,,Pokemon
+175,,Violet ex,SV1V,Violet ex,Expansion,20/01/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,バイオレットex,,108,Japanese,,Pokemon
+176,,Snow Hazard,SV2P,Snow Hazard,Expansion,14/04/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スノーハザード,,99,Japanese,,Pokemon
+177,,Clay Burst,SV2D,Clay Burst,Expansion,14/04/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,クレイバースト,,99,Japanese,,Pokemon
+178,,Ruler of the Black Flame,SV3,Ruler of the Black Flame,Expansion,28/07/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,黒炎の支配者,,141,Japanese,,Pokemon
+179,,Ancient Roar,SV4K,Ancient Roar,Expansion,27/10/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,古代の咆哮,,95,Japanese,,Pokemon
+180,,Future Flash,SV4M,Future Flash,Expansion,27/10/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,未来の一閃,,95,Japanese,,Pokemon
+181,,Triplet Beat,SV1a,Triplet Beat,Enhanced Expansion,03/10/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,トリプレットビート,,103,Japanese,,Pokemon
+182,,Pokémon Card 151,SV2a,Pokémon Card 151,Enhanced Expansion,16/06/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ポケモンカード151,,110,Japanese,,Pokemon
+183,,Raging Surf,SV3a,Raging Surf,Enhanced Expansion,22/09/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,レイジングサーフ,,92,Japanese,,Pokemon
+184,,Shiny Treasure ex,SV4a,Shiny Treasure ex,High Class Expansion,12/01/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,シャイニートレジャーex,,360,Japanese,,Pokemon
+185,,Star Birth,S9,Star Birth,,14/01/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,スターバース,,127,Japanese,,Pokemon
+186,,Time Gazer,S10D,Time Gazer,,04/08/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,タイムゲイザー,,88,Japanese,,Pokemon
+187,,Space Juggler,S10P,Space Juggler,,04/08/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,スペースジャグラー,,88,Japanese,,Pokemon
+188,,Lost Abyss,S11,Lost Abyss,,15/07/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,ロストアビス,,127,Japanese,,Pokemon
+189,,Paradigm Trigger,S12,Paradigm Trigger,,21/10/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,パラダイムトリガー,,125,Japanese,,Pokemon
+190,,Battle Region,S9a,Battle Region,,25/02/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,バトルリージョン,,93,Japanese,,Pokemon
+191,,Dark Phantasma,S10a,Dark Phantasma,,13/05/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,ダークファンタズマ,,99,Japanese,,Pokemon
+192,,Pokémon GO,S10b,Pokémon GO,,17/06/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,Pokémon GO,,101,Japanese,,Pokemon
+193,,Incandescent Arcana,S11a,Incandescent Arcana,,09/02/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,白熱のアルカナ,,94,Japanese,,Pokemon
+194,,VSTAR Universe,S12a,VSTAR Universe,,12/02/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,VSTARユニバース,,262,Japanese,,Pokemon
+195,,Single Strike Master,S5I,Single Strike Master,,22/01/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,一撃マスター,,91,Japanese,,Pokemon
+196,,Rapid Strike Master,S5R,Rapid Strike Master,,22/01/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,連撃マスター,,91,Japanese,,Pokemon
+197,,Silver Lance,S6H,Silver Lance,,23/04/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,白銀のランス,,95,Japanese,,Pokemon
+198,,Jet-Black Spirit,S6K,Jet-Black Spirit,,23/04/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,漆黒のガイスト,,95,Japanese,,Pokemon
+199,,Skyscraping Perfection,S7D,Skyscraping Perfection,,07/09/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,摩天パーフェクト,,90,Japanese,,Pokemon
+200,,Blue Sky Stream,S7R,Blue Sky Stream,,07/09/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,蒼空ストリーム,,90,Japanese,,Pokemon
+201,,Fusion Arts,S8,Fusion Arts,,24/09/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,フュージョンアーツ,,129,Japanese,,Pokemon
+202,,Matchless Fighter,S5a,Matchless Fighter,,19/03/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,双璧のファイター,,86,Japanese,,Pokemon
+203,,Eevee Heroes,S6a,Eevee Heroes,,28/05/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,イーブイヒーローズ,,101,Japanese,,Pokemon
+204,,25th Anniversary Collection,S8a,25th Anniversary Collection,,22/10/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,25th ANNIVERSARY COLLECTION,,38,Japanese,,Pokemon
+205,,VMAX Climax,S8b,VMAX Climax,,12/03/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,VMAXクライマックス,,293,Japanese,,Pokemon
+206,,Rebellion Crash,S2,Rebellion Crash,,03/06/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,反逆クラッシュ,,115,Japanese,,Pokemon
+207,,Infinity Zone,S3,Infinity Zone,,06/05/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,ムゲンゾーン,,119,Japanese,,Pokemon
+208,,Amazing Volt Tackle,S4,Amazing Volt Tackle,,18/09/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,仰天のボルテッカー,,121,Japanese,,Pokemon
+209,,VMAX Rising,S1a,VMAX Rising,,02/07/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,VMAXライジング,,96,Japanese,,Pokemon
+210,,Explosive Walker,S2a,Explosive Walker,,24/04/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,爆炎ウォーカー,,96,Japanese,,Pokemon
+211,,Legendary Heartbeat,S3a,Legendary Heartbeat,,07/10/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,伝説の鼓動,,94,Japanese,,Pokemon
+212,,Shiny Star V,S4a,Shiny Star V,,20/11/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,シャイニースターV,,330,Japanese,,Pokemon
+213,,Sword,S1W,Sword,,12/06/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,ソード,,75,Japanese,,Pokemon
+214,,Shield,S1H,Shield,,12/06/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,シールド,,75,Japanese,,Pokemon
+215,,Double Blaze,SM10,Double Blaze,,03/01/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,ダブルブレイズ,,116,Japanese,,Pokemon
+216,,Miracle Twin,SM11,Miracle Twin,,31/05/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,ミラクルツイン,,116,Japanese,,Pokemon
+217,,Alter Genesis,SM12,Alter Genesis,,09/06/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,オルタージェネシス,,117,Japanese,,Pokemon
+218,,Night Unison,SM9a,Night Unison,,01/11/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,ナイトユニゾン,,70,Japanese,,Pokemon
+219,,Full Metal Wall,SM9b,Full Metal Wall,,02/01/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,フルメタルウォール,,69,Japanese,,Pokemon
+220,,GG End,SM10a,GG End,,04/05/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,ジージーエンド,,69,Japanese,,Pokemon
+221,,Sky Legend,SM10b,Sky Legend,,26/04/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,スカイレジェンド,,69,Japanese,,Pokemon
+222,,Remix Bout,SM11a,Remix Bout,,07/05/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,リミックスバウト,,80,Japanese,,Pokemon
+223,,Dream League,SM11b,Dream League,,08/02/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,ドリームリーグ,,75,Japanese,,Pokemon
+224,,Tag All Stars,SM12a,Tag All Stars,,10/04/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,TAG TEAM GX タッグオールスターズ,,126,Japanese,,Pokemon
+225,,Forbidden Light,SM6,Forbidden Light,,03/02/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,禁断の光,,110,Japanese,,Pokemon
+226,,Sky-Splitting Charisma,SM7,Sky-Splitting Charisma,,06/01/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,裂空のカリスマ,,112,Japanese,,Pokemon
+227,,Super-Burst Impact,SM8,Super-Burst Impact,,09/07/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,超爆インパクト,,111,Japanese,,Pokemon
+228,,Tag Bolt,SM9,Tag Bolt,,12/07/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,タッグボルト,,118,Japanese,,Pokemon
+229,,Ultra Force,SM5+,Ultra Force,,19/01/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,ウルトラフォース,,63,Japanese,,Pokemon
+230,,Dragon Storm,SM6a,Dragon Storm,,04/06/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,ドラゴンストーム,,66,Japanese,,Pokemon
+231,,Champion Road,SM6b,Champion Road,,30/05/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,チャンピオンロード,,86,Japanese,,Pokemon
+232,,Thunderclap Spark,SM7a,Thunderclap Spark,,07/06/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,迅雷スパーク,,73,Japanese,,Pokemon
+233,,Fairy Rise,SM7b,Fairy Rise,,08/03/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,フェアリーライズ,,63,Japanese,,Pokemon
+234,,Dark Order,SM8a,Dark Order,,10/05/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,ダークオーダー,,63,Japanese,,Pokemon
+235,,GX Ultra Shiny,SM8b,GX Ultra Shiny,,11/01/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,GXウルトラシャイニー,,250,Japanese,,Pokemon
+236,,Islands Await You,SM2K,Islands Await You,,17/03/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,キミを待つ島々,,62,Japanese,,Pokemon
+237,,Alolan Moonlight,SM2L,Alolan Moonlight,,17/03/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,アローラの月光,,62,Japanese,,Pokemon
+238,,To Have Seen the Battle Rainbow,SM3H,To Have Seen the Battle Rainbow,,16/06/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,闘う虹を見たか,,64,Japanese,,Pokemon
+239,,Darkness that Consumes Light,SM3N,Darkness that Consumes Light,,16/06/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,光を喰らう闇,,64,Japanese,,Pokemon
+240,,Awakened Heroes,SM4S,Awakened Heroes,,15/09/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,覚醒の勇者,,62,Japanese,,Pokemon
+241,,Ultradimensional Beasts,SM4A,Ultradimensional Beasts,,15/09/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,超次元の暴獣,,62,Japanese,,Pokemon
+242,,Ultra Sun,SM5S,Ultra Sun,,12/08/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,ウルトラサン,,78,Japanese,,Pokemon
+243,,Ultra Moon,SM5M,Ultra Moon,,12/08/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,ウルトラムーン,,78,Japanese,,Pokemon
+244,,Strength Expansion Pack Sun & Moon,SM1+,Strength Expansion Pack Sun & Moon,,27/01/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,サン＆ムーン,,73,Japanese,,Pokemon
+245,,Facing a New Trial,SM2+,Facing a New Trial,,21/04/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,新たなる試練の向こう,,66,Japanese,,Pokemon
+246,,Shining Legends,SM3+,Shining Legends,,15/07/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,ひかる伝説,,82,Japanese,,Pokemon
+247,,GX Battle Boost,SM4+,GX Battle Boost,,20/10/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,GXバトルブースト,,125,Japanese,,Pokemon
+248,,Pikachu's New Friends,SM0,Pikachu's New Friends,,18/11/2016,2016,Nintendo,Japanese,Sun & Moon Era,,,,6+,ピカチュウと新しい仲間たち,,4,Japanese,,Pokemon
+249,,Collection Sun,SM1S,Collection Sun,,12/09/2016,2016,Nintendo,Japanese,Sun & Moon Era,,,,6+,コレクション サン,,73,Japanese,,Pokemon
+250,,Collection Moon,SM1M,Collection Moon,,12/09/2016,2016,Nintendo,Japanese,Sun & Moon Era,,,,6+,コレクション ムーン,,73,Japanese,,Pokemon
+251,,Undone Seal,,Undone Seal,,16/01/2004,2004,Nintendo,Japanese,ADV Era,,,,6+,とかれた封印,,83,Japanese,,Pokemon
+252,,ADV Expansion Pack,,ADV Expansion Pack,,31/01/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,拡張パック,,55,Japanese,,Pokemon
+253,,Miracle of the Desert,,Miracle of the Desert,,18/04/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,砂漠のきせき,,53,Japanese,,Pokemon
+254,,Rulers of the Heavens,,Rulers of the Heavens,,25/05/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,天空の覇者,,54,Japanese,,Pokemon
+255,,Magma VS Aqua: Two Ambitions,,Magma VS Aqua: Two Ambitions,,24/10/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,マグマVSアクア ふたつの野望,,80,Japanese,,Pokemon
+256,,Megalo Cannon,BW9,Megalo Cannon,,15/03/2013,2013,Nintendo,Japanese,Black & White Era,,,,6+,メガロキャノン,,86,Japanese,,Pokemon
+257,,Shiny Collection,SC,Shiny Collection,,02/01/2013,2013,Nintendo,Japanese,Black & White Era,,,,6+,シャイニーコレクション,,25,Japanese,,Pokemon
+258,,EX Battle Boost,EBB,EX Battle Boost,,13/07/2013,2013,Nintendo,Japanese,Black & White Era,,,,6+,EXバトルブースト,,99,Japanese,,Pokemon
+259,,Dragon Blast,BW5-Brz,Dragon Blast,,16/03/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,リューズブラスト,,55,Japanese,,Pokemon
+260,,Dragon Blade,BW5-Brn,Dragon Blade,,16/03/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,リューノブレード,,55,Japanese,,Pokemon
+261,,Freeze Bolt,BW6-Bf,Freeze Bolt,,13/07/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,フリーズボルト,,65,Japanese,,Pokemon
+262,,Cold Flare,BW6-Bc,Cold Flare,,13/07/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,コールドフレア,,65,Japanese,,Pokemon
+263,,Plasma Gale,BW7,Plasma Gale,,14/09/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,プラズマゲイル,,79,Japanese,,Pokemon
+264,,Spiral Force,BW8-Brf,Spiral Force,,14/12/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,ラセンフォース,,58,Japanese,,Pokemon
+265,,Thunder Knuckle,BW8-Brn,Thunder Knuckle,,14/12/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,ライデンナックル,,58,Japanese,,Pokemon
+266,,Dragon Selection,DS,Dragon Selection,,27/01/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,ドラゴンセレクション,,20,Japanese,,Pokemon
+267,,Red Collection,BW2,Red Collection,,01/01/1970,2011,Nintendo,Japanese,Black & White Era,,,,6+,レッドコレクション,,72,Japanese,,Pokemon
+268,,Psycho Drive,BW3-Bp,Psycho Drive,,16/09/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,サイコドライブ,,57,Japanese,,Pokemon
+269,,Hail Blizzard,BW3-Bh,Hail Blizzard,,16/09/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,ヘイルブリザード,,57,Japanese,,Pokemon
+270,,Dark Rush,BW4,Dark Rush,,16/09/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,ダークラッシュ,,76,Japanese,,Pokemon
+271,,Black Collection,BW1-Bb,Black Collection,,17/12/2010,2010,Nintendo,Japanese,Black & White Era,,,,6+,ブラックコレクション,,56,Japanese,,Pokemon
+272,,White Collection,BW1-Bw,White Collection,,17/12/2010,2010,Nintendo,Japanese,Black & White Era,,,,6+,ホワイトコレクション,,56,Japanese,,Pokemon
+273,,Cry from the Mysterious,DP5,Cry from the Mysterious,,14/03/2008,2008,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,秘境の叫び,,65,Japanese,,Pokemon
+274,,Temple of Anger,DP5,Temple of Anger,,14/03/2008,2008,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,怒りの神殿,,65,Japanese,,Pokemon
+275,,Intense Fight in the Destroyed Sky,DPS,Intense Fight in the Destroyed Sky,,07/10/2008,2008,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,破空の激闘,,92,Japanese,,Pokemon
+276,,Secret of the Lakes,DP2,Secret of the Lakes,,03/02/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,湖の秘密,,123,Japanese,,Pokemon
+277,,Shining Darkness,DP3,Shining Darkness,,07/05/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,ひかる闇,,119,Japanese,,Pokemon
+278,,Moonlit Pursuit,DP4,Moonlit Pursuit,,26/10/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,月光の追跡,,70,Japanese,,Pokemon
+279,,Dawn Dash,DP4,Dawn Dash,,26/10/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,夜明けの疾走,,70,Japanese,,Pokemon
+280,,Space-Time Creation,DP1,Space-Time Creation,,30/11/2006,2006,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,時空の創造: ダイヤモンドコレクション,,127,Japanese,,Pokemon
+281,,World Champions Pack,,World Champions Pack,,07/05/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,時空の創造: パールコレクション,,108,Japanese,,Pokemon
+282,,Beat of the Frontier,DPt3,Beat of the Frontier,,03/06/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,フロンティアの鼓動,,100,Japanese,,Pokemon
+283,,Advent of Arceus,DPt4,Advent of Arceus,,07/08/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,アルセウス光臨,,90,Japanese,,Pokemon
+284,,Galactic's Conquest,DPt1,Galactic's Conquest,,10/10/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,ギンガの覇道,,96,Japanese,,Pokemon
+285,,Bonds to the End of Time,DPt2,Bonds to the End of Time,,01/01/1970,2008,Nintendo,Japanese,Platinum Era,,,,6+,時の果ての絆,,90,Japanese,,Pokemon
+286,,The Town on No Map,,The Town on No Map,,03/08/2002,2002,Nintendo,Japanese,e-Card Era,,,,6+,地図にない町,,92,Japanese,,Pokemon
+287,,Wind from the Sea,,Wind from the Sea,,24/05/2002,2002,Nintendo,Japanese,e-Card Era,,,,6+,海からの風,,90,Japanese,,Pokemon
+288,,Split Earth,,Split Earth,,23/08/2002,2002,Nintendo,Japanese,e-Card Era,,,,6+,裂けた大地,,91,Japanese,,Pokemon
+289,,Mysterious Mountains,,Mysterious Mountains,,10/04/2002,2002,Nintendo,Japanese,e-Card Era,,,,6+,神秘なる山,,91,Japanese,,Pokemon
+290,,Base Expansion Pack,,Base Expansion Pack,,12/01/2001,2001,Nintendo,Japanese,e-Card Era,,,,6+,基本拡張パック,,128,Japanese,,Pokemon
+291,,Reviving Legends,L2,Reviving Legends,,02/11/2010,2010,Nintendo,Japanese,LEGEND Era,,,,6+,よみがえる伝説,,81,Japanese,,Pokemon
+292,,Clash at the Summit,L3,Clash at the Summit,,07/08/2010,2010,Nintendo,Japanese,LEGEND Era,,,,6+,頂上大激突,,81,Japanese,,Pokemon
+293,,Lost Link,LL,Lost Link,,16/04/2010,2010,Nintendo,Japanese,LEGEND Era,,,,6+,ロストリンク,,40,Japanese,,Pokemon
+294,,Heart Gold Collection,L1-Bhg,Heart Gold Collection,,10/09/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,ハートゴールドコレクション,,70,Japanese,,Pokemon
+295,,Soul Silver Collection,L1-Bss,Soul Silver Collection,,10/09/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,ソウルシルバーコレクション,,71,Japanese,,Pokemon
+296,,"Darkness, and to Light",,"Darkness, and to Light",,20/04/2001,2001,Nintendo,Japanese,neo Era,,,,6+,闇、そして光へ,,113,Japanese,,Pokemon
+297,,"Gold, Silver, to a New World",,"Gold, Silver, to a New World",,02/04/2000,2000,Nintendo,Japanese,neo Era,,,,6+,金、銀、新世界へ,,96,Japanese,,Pokemon
+298,,Crossing the Ruins,,Crossing the Ruins,,07/07/2000,2000,Nintendo,Japanese,neo Era,,,,6+,遺跡をこえて,,56,Japanese,,Pokemon
+299,,Awakening Legends,,Awakening Legends,,23/11/2000,2000,Nintendo,Japanese,neo Era,,,,6+,めざめる伝説,,57,Japanese,,Pokemon
+300,,Challenge from the Darkness,,Challenge from the Darkness,,25/06/1999,1999,Nintendo,Japanese,Original Era,,,,6+,闇からの挑戦,,98,Japanese,,Pokemon
+301,,Leaders' Stadium,,Leaders' Stadium,,24/10/1998,1998,Nintendo,Japanese,Original Era,,,,6+,リーダーズスタジアム,,96,Japanese,,Pokemon
+302,,Pokémon Jungle,,Pokémon Jungle,,03/05/1997,1997,Nintendo,Japanese,Original Era,,,,6+,ポケモンジャングル,,48,Japanese,,Pokemon
+303,,Mystery of the Fossils,,Mystery of the Fossils,,21/06/1997,1997,Nintendo,Japanese,Original Era,,,,6+,化石の秘密,,48,Japanese,,Pokemon
+304,,Rocket Gang,,Rocket Gang,,21/11/1997,1997,Nintendo,Japanese,Original Era,,,,6+,ロケット団,,65,Japanese,,Pokemon
+305,,Expansion Pack,,Expansion Pack,,20/10/1996,1996,Nintendo,Japanese,Original Era,,,,6+,拡張パック,,102,Japanese,,Pokemon
+306,,Imprison! Gardevoir ex Constructed Standard Deck,,Imprison! Gardevoir ex Constructed Standard Deck,,29/06/2006,2006,Nintendo,Japanese,PCG Era,,,,6+,ワールドチャンピオンズパック,,,Japanese,,Pokemon
+307,,Holon Phantom,,Holon Phantom,,27/01/2006,2006,Nintendo,Japanese,PCG Era,,,,6+,ホロンの幻影,,52,Japanese,,Pokemon
+308,,Miracle Crystal,,Miracle Crystal,,03/10/2006,2006,Nintendo,Japanese,PCG Era,,,,6+,きせきの結晶,,75,Japanese,,Pokemon
+309,,Offense and Defense of the Furthest Ends,,Offense and Defense of the Furthest Ends,,29/05/2006,2006,Nintendo,Japanese,PCG Era,,,,6+,さいはての攻防,,68,Japanese,,Pokemon
+310,,"Golden Sky, Silvery Ocean",,"Golden Sky, Silvery Ocean",,04/08/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,金の空、銀の海,,106,Japanese,,Pokemon
+311,,Mirage Forest,,Mirage Forest,,30/06/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,まぼろしの森,,86,Japanese,,Pokemon
+312,,Holon Research Tower,,Holon Research Tower,,28/10/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,ホロンの研究塔,,86,Japanese,,Pokemon
+313,,Flight of Legends,,Flight of Legends,,04/09/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,伝説の飛翔,,82,Japanese,,Pokemon
+314,,Clash of the Blue Sky,,Clash of the Blue Sky,,07/01/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,蒼空の激突,,82,Japanese,,Pokemon
+315,,Rocket Gang Strikes Back,,Rocket Gang Strikes Back,,15/10/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,ロケット団の逆襲,,85,Japanese,,Pokemon
+316,,Scarlet & Violet Promos,SVP,Scarlet & Violet Promos,,18/11/2022,2022,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,,,235,Japanese,,Pokemon
+317,,Promo Card Pack 25th Anniversary Edition,S8a-P,Promo Card Pack 25th Anniversary Edition,,22/10/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,プロモカードパック 25th ANNIVERSARY edition,,25,Japanese,,Pokemon
+318,,Sword & Shield Promos,SP,Sword & Shield Promos,,11/01/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,340,Japanese,,Pokemon
+319,,Great Detective Pikachu,SMP2,Great Detective Pikachu,,26/04/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,ムービースペシャルパック 名探偵ピカチュウ,,25,Japanese,,Pokemon
+320,,Sun & Moon Promos,SMP,Sun & Moon Promos,,11/01/2016,2016,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,409,Japanese,,Pokemon
+321,,XY Promos,XYP,XY Promos,,08/01/2013,2013,Nintendo,Japanese,XY Era,,,,6+,,,298,Japanese,,Pokemon
+322,,World Collection,,World Collection,,07/08/2010,2010,Nintendo,Japanese,Other,,,,6+,,,10,Japanese,,Pokemon
+323,,Black & White Promos,BWP,Black & White Promos,,12/01/2010,2010,Nintendo,Japanese,Black & White Era,,,,6+,,,236,Japanese,,Pokemon
+324,,Unnumbered Promos,,Unnumbered Promos,,15/10/1996,1996,Nintendo,Japanese,Other,,,,6+,コレクションシート 旅立ちの仲間,,35,Japanese,,Pokemon
+325,,LEGEND Promos,LP,LEGEND Promos,,09/01/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,,,79,Japanese,,Pokemon
+326,,11th Movie Commemoration Set,,11th Movie Commemoration Set,,19/07/2008,2008,Nintendo,Japanese,Movie Commemorations,,,,6+,映画公開記念　プレミアムシート,,9,Japanese,,Pokemon
+327,,Platinum Promos,DPtP,Platinum Promos,,10/01/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,51,Japanese,,Pokemon
+328,,PPP Promos PPP,,PPP Promos PPP,,05/01/2007,2007,Nintendo,Japanese,Other,,,,6+,,,7,Japanese,,Pokemon
+329,,10th Movie Commemoration Set,,10th Movie Commemoration Set,,14/07/2007,2007,Nintendo,Japanese,Movie Commemorations,,,,6+,映画10周年記念　プレミアムシート,,11,Japanese,,Pokemon
+330,,Diamond & Pearl Promos,DPP,Diamond & Pearl Promos,,12/01/2006,2006,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,127,Japanese,,Pokemon
+331,,PCG Promos,,PCG Promos,,02/01/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,154,Japanese,,Pokemon
+332,,ADV Promos,,ADV Promos,,01/01/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,63,Japanese,,Pokemon
+333,,PLAY Promos,,PLAY Promos,,01/01/2003,2003,Nintendo,Japanese,Other,,,,6+,,,32,Japanese,,Pokemon
+334,,T Promos,,T Promos,,01/01/2002,2002,Nintendo,Japanese,Other,,,,6+,,,24,Japanese,,Pokemon
+335,,McDonald's Pokémon-e Minimum Pack,,McDonald's Pokémon-e Minimum Pack,,26/01/2002,2002,Nintendo,Japanese,Other,,,,6+,マクドナルドオリジナル ミニマム★パック,,24,Japanese,,Pokemon
+336,,P Promos,,P Promos,,07/01/2001,2001,Nintendo,Japanese,e-Card Era,,,,6+,,,47,Japanese,,Pokemon
+337,,J Promos,,J Promos,,08/01/2001,2001,Nintendo,Japanese,e-Card Era,,,,6+,,,2,Japanese,,Pokemon
+338,,Vending Machine Series 1 (Blue),,Vending Machine Series 1 (Blue),,23/03/1998,1998,Nintendo,Japanese,Vending Machine Series,,,,6+,拡張シート,,36,Japanese,,Pokemon
+339,,Vending Machine Series 2 (Red),,Vending Machine Series 2 (Red),,17/06/1998,1998,Nintendo,Japanese,Vending Machine Series,,,,6+,,,36,Japanese,,Pokemon
+340,,Vending Machine Series 3 (Green),,Vending Machine Series 3 (Green),,24/11/1998,1998,Nintendo,Japanese,Vending Machine Series,,,,6+,,,53,Japanese,,Pokemon
+341,,Southern Islands,,Southern Islands,,17/07/1999,1998,Nintendo,Japanese,Other,,,,6+,サザンアイランド,,18,Japanese,,Pokemon
+342,,Pokémon VS,,Pokémon VS,,19/07/2001,2001,Nintendo,Japanese,VS Era,,,,6+,ポケモンカード★VS,,142,Japanese,,Pokemon
+343,,Pokémon Web,,Pokémon Web,,10/10/2001,2001,Nintendo,Japanese,web Era,,,,6+,ポケモンカード★web,,48,Japanese,,Pokemon
+344,,The Best of XY,XY,The Best of XY,,21/04/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,THE BEST OF XY,,188,Japanese,,Pokemon
+345,,Awakening Psychic King,XY10,Awakening Psychic King,,18/03/2016,2016,Nintendo,Japanese,XY Era,,,,6+,めざめる超王,,88,Japanese,,Pokemon
+346,,Fever-Burst Fighter,XY11-Bb,Fever-Burst Fighter,,17/06/2016,2016,Nintendo,Japanese,XY Era,,,,6+,爆熱の闘士,,59,Japanese,,Pokemon
+347,,Cruel Traitor,XY11-Br,Cruel Traitor,,17/06/2016,2016,Nintendo,Japanese,XY Era,,,,6+,冷酷の反逆者,,59,Japanese,,Pokemon
+348,,PokéKyun Collection,CP3,PokéKyun Collection,,29/01/2016,2016,Nintendo,Japanese,XY Era,,,,6+,ポケキュンコレクション,,32,Japanese,,Pokemon
+349,,Premium Champion Pack,CP4,Premium Champion Pack,,16/04/2016,2016,Nintendo,Japanese,XY Era,,,,6+,プレミアムチャンピオンパック EX×M×BREAK,,131,Japanese,,Pokemon
+350,,Mythical & Legendary Dream Shine Collection,CP5,Mythical & Legendary Dream Shine Collection,,16/07/2016,2016,Nintendo,Japanese,XY Era,,,,6+,幻・伝説ドリームキラコレクション,,38,Japanese,,Pokemon
+351,,Expansion Pack 20th Anniversary,CP6,Expansion Pack 20th Anniversary,,16/09/2016,2016,Nintendo,Japanese,XY Era,,,,6+,拡張パック 20th Anniversary,,103,Japanese,,Pokemon
+352,,Blue Shock,XY8,Blue Shock,,25/09/2015,2015,Nintendo,Japanese,XY Era,,,,6+,青い衝撃,,65,Japanese,,Pokemon
+353,,Red Flash,XY8-Br,Red Flash,,25/09/2015,2015,Nintendo,Japanese,XY Era,,,,6+,赤い閃光,,65,Japanese,,Pokemon
+354,,Rage of the Broken Heavens,XY9,Rage of the Broken Heavens,,12/11/2015,2015,Nintendo,Japanese,XY Era,,,,6+,破天の怒り,,89,Japanese,,Pokemon
+355,,Emerald Break,XY6,Emerald Break,,14/03/2015,2015,Nintendo,Japanese,XY Era,,,,6+,エメラルドブレイク,,91,Japanese,,Pokemon
+356,,Bandit Ring,XY7,Bandit Ring,,20/06/2015,2015,Nintendo,Japanese,XY Era,,,,6+,バンデットリング,,97,Japanese,,Pokemon
+357,,Magma Gang VS Aqua Gang: Double Crisis,CP1,Magma Gang VS Aqua Gang: Double Crisis,,30/01/2015,2015,Nintendo,Japanese,XY Era,,,,6+,マグマ団VSアクア団 ダブルクライシス,,34,Japanese,,Pokemon
+358,,Legendary Shine Collection,CP2,Legendary Shine Collection,,18/07/2015,2015,Nintendo,Japanese,XY Era,,,,6+,伝説キラコレクション,,27,Japanese,,Pokemon
+359,,Wild Blaze,XY2,Wild Blaze,,15/03/2014,2014,Nintendo,Japanese,XY Era,,,,6+,ワイルドブレイズ,,90,Japanese,,Pokemon
+360,,Rising Fist,XY3,Rising Fist,,14/06/2014,2014,Nintendo,Japanese,XY Era,,,,6+,ライジングフィスト,,105,Japanese,,Pokemon
+361,,Phantom Gate,XY4,Phantom Gate,,13/09/2014,2014,Nintendo,Japanese,XY Era,,,,6+,ファントムゲート,,97,Japanese,,Pokemon
+362,,Gaia Volcano,XY5-Bg,Gaia Volcano,,13/12/2014,2014,Nintendo,Japanese,XY Era,,,,6+,ガイアボルケーノ,,80,Japanese,,Pokemon
+363,,Tidal Storm,XY5-Bt,Tidal Storm,,13/12/2014,2014,Nintendo,Japanese,XY Era,,,,6+,タイダルストーム,,80,Japanese,,Pokemon
+364,,Collection X,XY1-Bx,Collection X,,13/12/2013,2013,Nintendo,Japanese,XY Era,,,,6+,コレクションX,,63,Japanese,,Pokemon
+365,,Collection Y,XY1-By,Collection Y,,13/12/2013,2013,Nintendo,Japanese,XY Era,,,,6+,コレクションY,,63,Japanese,,Pokemon
+366,,XY Beginning Set,HXY,XY Beginning Set,,11/08/2013,2013,Nintendo,Japanese,XY Era,,,,6+,,,45,Japanese,,Pokemon
+2590,,Base Set (Shadowless),BS,Base Set (Shadowless),,01/09/1999,1999,Wizards of the Coast,English,Original Series,,,,6+,,,102,English,,Pokemon
+2591,,Jungle,JU,Jungle,,16/06/1999,1999,Wizards of the Coast,English,Original Series,,,,6+,,,64,English,,Pokemon
+2592,,Crown Zenith (Galarian Gallery),CRZ,Crown Zenith (Galarian Gallery),,20/01/2023,2023,Nintendo,English,Sword & Shield Series,,,,6+,,,70,English,,Pokemon
+2593,,Silver Tempest (Trainer Gallery),SIT,Silver Tempest (Trainer Gallery),,11/11/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,30,English,,Pokemon
+2594,,Lost Origin (Trainer Gallery),LOR,Lost Origin (Trainer Gallery),,09/09/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,30,English,,Pokemon
+2595,,Astral Radiance (Trainer Gallery),ASR,Astral Radiance (Trainer Gallery),,27/05/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,30,English,,Pokemon
+2596,,Brilliant Stars (Trainer Gallery),BRS,Brilliant Stars (Trainer Gallery),,25/02/2022,2022,Nintendo,English,Sword & Shield Series,,,,6+,,,30,English,,Pokemon
+2597,,Celebrations (Classic Collection),CEL,Celebrations (Classic Collection),,10/08/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,25,English,,Pokemon
+2598,,Shining Fates (Shiny Vault),SHF,Shining Fates (Shiny Vault),,19/02/2021,2021,Nintendo,English,Sword & Shield Series,,,,6+,,,122,English,,Pokemon
+2599,,Hidden fates (Shiny Vault),HIF,Hidden fates (Shiny Vault),,23/08/2019,2019,Nintendo,English,Sun & Moon Series,,,,6+,,,94,English,,Pokemon
+2600,,Generations (Radiant Collection),GEN,Generations (Radiant Collection),,22/02/2016,2016,Nintendo,English,XY Series,,,,6+,,,32,English,,Pokemon
+2601,,Legendary Treasures (Radiant Collection),LTR,Legendary Treasures (Radiant Collection),,11/06/2013,2013,Nintendo,English,Black & White Series,,,,6+,,,25,English,,Pokemon
+2602,,Journey Together,JTG,Journey Together,,28/03/2025,2025,Nintendo,English,Scarlet & Violet Series,,,,6+,,,190,English,,Pokemon
+2603,,Destined Rivals,DRI,Destined Rivals,,30/05/2025,2025,Nintendo,English,Scarlet & Violet Series,,,,6+,,,244,English,,Pokemon
+2604,,McDonald's Dragon Discovery 2024,M24,McDonald's Dragon Discovery 2024,,12/04/2024,2024,Nintendo,English,McDonald's Series,,,,6+,,,15,English,,Pokemon
+2605,,Play! Pokémon Prize Pack Series Four,,Play! Pokémon Prize Pack Series Four,,14/02/2024,2024,Nintendo,English,Play! Pokémon Series,,,,6+,,,86,English,,Pokemon
+2606,,Play! Pokémon Prize Pack Series Five,,Play! Pokémon Prize Pack Series Five,,14/08/2024,2024,Nintendo,English,Play! Pokémon Series,,,,6+,,,86,English,,Pokemon
+2607,,Play! Pokémon Prize Pack Series Six,,Play! Pokémon Prize Pack Series Six,,14/02/2025,2025,Nintendo,English,Play! Pokémon Series,,,,6+,,,94,English,,Pokemon
+2608,,Trick or Trade 2024,,Trick or Trade 2024,,30/08/2024,2024,Nintendo,English,Others,,,,6+,,,30,English,,Pokemon
+2609,,Burger King Collection 2008,,Burger King Collection 2008,,07/07/2008,2008,Nintendo,English,Others,,,,6+,,,12,English,,Pokemon
+2610,,Burger King Collection 2009,,Burger King Collection 2009,,01/06/2009,2009,Nintendo,English,Others,,,,6+,,,12,English,,Pokemon
+2611,,Countdown Calendar,,Countdown Calendar,,01/10/2008,2008,Nintendo,English,Others,,,,6+,,,24,English,,Pokemon
+2612,,Gym Series One,,Gym Series One,,24/05/2024,2024,Nintendo,English,Others,,,,6+,,,24,English,,Pokemon
+2613,,Gym Series Two,,Gym Series Two,,28/03/2025,2025,Nintendo,English,Others,,,,6+,,,24,English,,Pokemon
+2614,,Holiday Calendar 2022,,Holiday Calendar 2022,,01/09/2022,2022,Nintendo,English,Others,,,,6+,,,8,English,,Pokemon
+2615,,Holiday Calendar 2023,,Holiday Calendar 2023,,01/09/2023,2023,Nintendo,English,Others,,,,6+,,,8,English,,Pokemon
+2616,,Holiday Calendar 2024,,Holiday Calendar 2024,,23/08/2024,2024,Nintendo,English,Others,,,,6+,,,8,English,,Pokemon
+2617,,Überraschungskalender,,Überraschungskalender,,01/10/2010,2020,Nintendo,English,Others,,,,6+,,,24,English,,Pokemon
+2618,,Unnumbered Promos,UP,Unnumbered Promos,,09/01/1999,1999,Nintendo,English,Others,,,,6+,,,8,English,,Pokemon
+2619,,Box Toppers (e-Card Series),BOX2,Box Toppers (e-Card Series),,15/09/2002,2002,Nintendo,English,Others,,,,6+,,,12,English,,Pokemon
+2620,,Box Toppers (Legendary Collection),BOX1,Box Toppers (Legendary Collection),,24/05/2002,2002,Nintendo,English,Others,,,,6+,,,4,English,,Pokemon
+2621,,Yellow A Alternate,,Yellow A Alternate,,19/05/2017,2017,Nintendo,English,Others,,,,6+,,,79,English,,Pokemon
+2622,,2005 Energies,EN05,2005 Energies,,01/01/2005,2005,Nintendo,English,Unnumbered Energies,,,,6+,,,6,English,,Pokemon
+2623,,2006 Energies,EN06,2006 Energies,,01/01/2006,2006,Nintendo,English,Unnumbered Energies,,,,6+,,,6,English,,Pokemon
+2624,,2007 Energies,EN07,2007 Energies,,23/05/2007,2007,Nintendo,English,Unnumbered Energies,,,,6+,,,8,English,,Pokemon
+2625,,2009 Energies,EN09,2009 Energies,,01/01/2009,2009,Nintendo,English,Unnumbered Energies,,,,6+,,,8,English,,Pokemon
+2626,,2010 Energies,EN10,2010 Energies,,01/01/2010,2010,Nintendo,English,Unnumbered Energies,,,,6+,,,8,English,,Pokemon
+2627,,2011 Energies,EN11,2011 Energies,,01/01/2011,2011,Nintendo,English,Unnumbered Energies,,,,6+,,,8,English,,Pokemon
+2628,,2013 Energies,EN13,2013 Energies,,01/01/2013,2013,Nintendo,English,Unnumbered Energies,,,,6+,,,9,English,,Pokemon
+2629,,2017 Energies,EN17,2017 Energies,,03/02/2017,2017,Nintendo,English,Unnumbered Energies,,,,6+,,,9,English,,Pokemon
+2630,,2019 Energies,EN19,2019 Energies,,01/02/2019,2019,Nintendo,English,Unnumbered Energies,,,,6+,,,9,English,,Pokemon
+2631,,2020 Energies,EN20,2020 Energies,,07/02/2020,2020,Nintendo,English,Unnumbered Energies,,,,6+,,,9,English,,Pokemon
+2632,,2022 Energies,EN22,2022 Energies,,25/02/2022,2022,Nintendo,English,Unnumbered Energies,,,,6+,,,8,English,,Pokemon
+2633,,Energize Your Game Cycle 2002,EN02,Energize Your Game Cycle 2002,,01/01/2002,2002,Nintendo,English,Unnumbered Energies,,,,6+,,,8,English,,Pokemon
+2634,,My First Battle (Bulbasaur),FBB,My First Battle (Bulbasaur),,29/09/2023,2023,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2635,,My First Battle (Charmander),FBC,My First Battle (Charmander),,29/09/2023,2023,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2636,,My First Battle (Pikachu),FBP,My First Battle (Pikachu),,29/09/2023,2023,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2637,,My First Battle (Squirtle),FBS,My First Battle (Squirtle),,29/09/2023,2023,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2638,,Trainer Deck A,,Trainer Deck A,,09/01/1999,1999,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2639,,Trainer Deck B,,Trainer Deck B,,09/01/1999,1999,Nintendo,English,Trainer & Deck Kits,,,,6+,,,13,English,,Pokemon
+2640,,Battle Academy 2020 (Charizard),,Battle Academy 2020 (Charizard),,21/06/2020,2020,Nintendo,English,Trainer & Deck Kits,,,,6+,,,20,English,,Pokemon
+2641,,Battle Academy 2020 (Mewtwo),,Battle Academy 2020 (Mewtwo),,21/06/2020,2020,Nintendo,English,Trainer & Deck Kits,,,,6+,,,17,English,,Pokemon
+2642,,Battle Academy 2020 (Pikachu),,Battle Academy 2020 (Pikachu),,21/06/2020,2020,Nintendo,English,Trainer & Deck Kits,,,,6+,,,18,English,,Pokemon
+2643,,Battle Academy 2022 (Cinderace),,Battle Academy 2022 (Cinderace),,25/05/2022,2022,Nintendo,English,Trainer & Deck Kits,,,,6+,,,19,English,,Pokemon
+2644,,Battle Academy 2022 (Eevee),,Battle Academy 2022 (Eevee),,25/05/2022,2022,Nintendo,English,Trainer & Deck Kits,,,,6+,,,18,English,,Pokemon
+2645,,Battle Academy 2022 (Pikachu),,Battle Academy 2022 (Pikachu),,25/05/2022,2022,Nintendo,English,Trainer & Deck Kits,,,,6+,,,20,English,,Pokemon
+2646,,Battle Academy 2024 (Armarouge),,Battle Academy 2024 (Armarouge),,21/06/2024,2024,Nintendo,English,Trainer & Deck Kits,,,,6+,,,20,English,,Pokemon
+2647,,Battle Academy 2024 (Darkrai),,Battle Academy 2024 (Darkrai),,21/06/2024,2024,Nintendo,English,Trainer & Deck Kits,,,,6+,,,19,English,,Pokemon
+2648,,Battle Academy 2024 (Pikachu),,Battle Academy 2024 (Pikachu),,21/06/2024,2024,Nintendo,English,Trainer & Deck Kits,,,,6+,,,20,English,,Pokemon
+2649,,BW Trainer Kit (Excadrill),TK5E,BW Trainer Kit (Excadrill),,01/09/2011,2011,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2650,,BW Trainer Kit (Zoroark),TK5Z,BW Trainer Kit (Zoroark),,01/09/2011,2011,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2651,,DP Trainer Kit (Lucario),TK3L,DP Trainer Kit (Lucario),,01/09/2007,2007,Nintendo,English,Trainer & Deck Kits,,,,6+,,,11,English,,Pokemon
+2652,,DP Trainer Kit (Manaphy),TK3M,DP Trainer Kit (Manaphy),,01/09/2007,2007,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2653,,EX Trainer Kit (Latias),TK1A,EX Trainer Kit (Latias),,01/06/2004,2004,Nintendo,English,Trainer & Deck Kits,,,,6+,,,10,English,,Pokemon
+2654,,EX Trainer Kit (Latios),TK1O,EX Trainer Kit (Latios),,01/06/2004,2004,Nintendo,English,Trainer & Deck Kits,,,,6+,,,10,English,,Pokemon
+2655,,EX Trainer Kit 2 (Minun),TK2M,EX Trainer Kit 2 (Minun),,15/03/2005,2005,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2656,,EX Trainer Kit 2 (Plusle),TK2P,EX Trainer Kit 2 (Plusle),,15/03/2005,2005,Nintendo,English,Trainer & Deck Kits,,,,6+,,,12,English,,Pokemon
+2657,,HGSS Trainer Kit (Gyarados),TK4G,HGSS Trainer Kit (Gyarados),,01/05/2010,2010,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2658,,HGSS Trainer Kit (Raichu),TK4R,HGSS Trainer Kit (Raichu),,01/05/2010,2010,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2659,,Pokémon TCG Classic (Blastoise),CLB,Pokémon TCG Classic (Blastoise),,17/11/2023,2023,Nintendo,English,Trainer & Deck Kits,,,,6+,,,34,English,,Pokemon
+2660,,Pokémon TCG Classic (Charizard),CLC,Pokémon TCG Classic (Charizard),,17/11/2023,2023,Nintendo,English,Trainer & Deck Kits,,,,6+,,,34,English,,Pokemon
+2661,,Pokémon TCG Classic (Venusaur),CLV,Pokémon TCG Classic (Venusaur),,17/11/2023,2023,Nintendo,English,Trainer & Deck Kits,,,,6+,,,34,English,,Pokemon
+2662,,SM Trainer Kit (Alolan Ninetales),,SM Trainer Kit (Alolan Ninetales),,01/06/2018,2018,Nintendo,English,Trainer & Deck Kits,,,,6+,,,15,English,,Pokemon
+2663,,SM Trainer Kit (Alolan Raichu),TK10R,SM Trainer Kit (Alolan Raichu),,21/04/2017,2017,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2664,,SM Trainer Kit (Alolan Sandslash),,SM Trainer Kit (Alolan Sandslash),,01/06/2018,2018,Nintendo,English,Trainer & Deck Kits,,,,6+,,,15,English,,Pokemon
+2665,,SM Trainer Kit (Lycanroc),TK10L,SM Trainer Kit (Lycanroc),,21/04/2017,2017,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2666,,XY Trainer Kit (Bisharp),TK7B,XY Trainer Kit (Bisharp),,01/11/2014,2014,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2667,,XY Trainer Kit (Latias),TK8A,XY Trainer Kit (Latias),,29/04/2015,2015,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2668,,XY Trainer Kit (Latios),TK8O,XY Trainer Kit (Latios),,29/04/2015,2015,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2669,,XY Trainer Kit (Noivern),TK6N,XY Trainer Kit (Noivern),,12/03/2014,2014,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2670,,XY Trainer Kit (Pikachu Libre),TK9P,XY Trainer Kit (Pikachu Libre),,27/04/2016,2016,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2671,,XY Trainer Kit (Suicune),TK9S,XY Trainer Kit (Suicune),,27/04/2016,2016,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2672,,XY Trainer Kit (Sylveon),TK6S,XY Trainer Kit (Sylveon),,12/03/2014,2014,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2673,,XY Trainer Kit (Wigglytuff),TK7W,XY Trainer Kit (Wigglytuff),,01/11/2014,2014,Nintendo,English,Trainer & Deck Kits,,,,6+,,,30,English,,Pokemon
+2674,,WC Deck 2004 (Blaziken Tech),,WC Deck 2004 (Blaziken Tech),,01/11/2004,2004,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2675,,WC Deck 2004 (Magma Spirit),,WC Deck 2004 (Magma Spirit),,01/11/2004,2004,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2676,,WC Deck 2004 (Rocky Beach),,WC Deck 2004 (Rocky Beach),,01/11/2004,2004,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2677,,WC Deck 2004 (Team Rushdown),,WC Deck 2004 (Team Rushdown),,01/11/2004,2004,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2678,,WC Deck 2005 (Bright Aura),,WC Deck 2005 (Bright Aura),,31/10/2005,2005,Nintendo,English,World Championships Decks,,,,6+,,,18,English,,Pokemon
+2679,,WC Deck 2005 (Dark Tyranitar),,WC Deck 2005 (Dark Tyranitar),,31/10/2005,2005,Nintendo,English,World Championships Decks,,,,6+,,,26,English,,Pokemon
+2680,,WC Deck 2005 (King of the West),,WC Deck 2005 (King of the West),,31/10/2005,2005,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2681,,WC Deck 2005 (Queendom),,WC Deck 2005 (Queendom),,31/10/2005,2005,Nintendo,English,World Championships Decks,,,,6+,,,20,English,,Pokemon
+2682,,WC Deck 2006 (B-L-S),,WC Deck 2006 (B-L-S),,31/10/2006,2006,Nintendo,English,World Championships Decks,,,,6+,,,23,English,,Pokemon
+2683,,WC Deck 2006 (Eeveelutions),,WC Deck 2006 (Eeveelutions),,31/10/2006,2006,Nintendo,English,World Championships Decks,,,,6+,,,27,English,,Pokemon
+2684,,WC Deck 2006 (Mewtrick),,WC Deck 2006 (Mewtrick),,31/10/2006,2006,Nintendo,English,World Championships Decks,,,,6+,,,20,English,,Pokemon
+2685,,WC Deck 2006 (Suns & Moons),,WC Deck 2006 (Suns & Moons),,31/10/2006,2006,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2686,,WC Deck 2007 (Flyvees),,WC Deck 2007 (Flyvees),,19/11/2007,2007,Nintendo,English,World Championships Decks,,,,6+,,,28,English,,Pokemon
+2687,,WC Deck 2007 (Legendary Ascent),,WC Deck 2007 (Legendary Ascent),,19/11/2007,2007,Nintendo,English,World Championships Decks,,,,6+,,,26,English,,Pokemon
+2688,,WC Deck 2007 (Rambolt),,WC Deck 2007 (Rambolt),,19/11/2007,2007,Nintendo,English,World Championships Decks,,,,6+,,,27,English,,Pokemon
+2689,,WC Deck 2007 (Swift Empoleon),,WC Deck 2007 (Swift Empoleon),,19/11/2007,2007,Nintendo,English,World Championships Decks,,,,6+,,,20,English,,Pokemon
+2690,,WC Deck 2008 (Bliss Control),,WC Deck 2008 (Bliss Control),,05/11/2008,2008,Nintendo,English,World Championships Decks,,,,6+,,,19,English,,Pokemon
+2691,,WC Deck 2008 (Empotech),,WC Deck 2008 (Empotech),,05/11/2008,2008,Nintendo,English,World Championships Decks,,,,6+,,,29,English,,Pokemon
+2692,,WC Deck 2008 (Intimidation),,WC Deck 2008 (Intimidation),,05/11/2008,2008,Nintendo,English,World Championships Decks,,,,6+,,,20,English,,Pokemon
+2693,,WC Deck 2008 (Psychic Lock),,WC Deck 2008 (Psychic Lock),,05/11/2008,2008,Nintendo,English,World Championships Decks,,,,6+,,,27,English,,Pokemon
+2694,,WC Deck 2009 (Crowned Tiger),,WC Deck 2009 (Crowned Tiger),,28/10/2009,2009,Nintendo,English,World Championships Decks,,,,6+,,,32,English,,Pokemon
+2695,,WC Deck 2009 (Luxdrill),,WC Deck 2009 (Luxdrill),,28/10/2009,2009,Nintendo,English,World Championships Decks,,,,6+,,,27,English,,Pokemon
+2696,,WC Deck 2009 (Queengar),,WC Deck 2009 (Queengar),,28/10/2009,2009,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2697,,WC Deck 2009 (Stallgon),,WC Deck 2009 (Stallgon),,28/10/2009,2009,Nintendo,English,World Championships Decks,,,,6+,,,28,English,,Pokemon
+2698,,WC Deck 2010 (Boltevoir),,WC Deck 2010 (Boltevoir),,01/11/2010,2010,Nintendo,English,World Championships Decks,,,,6+,,,32,English,,Pokemon
+2699,,WC Deck 2010 (Happy Luck),,WC Deck 2010 (Happy Luck),,01/11/2010,2010,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2700,,WC Deck 2010 (LuxChomp of the Spirit),,WC Deck 2010 (LuxChomp of the Spirit),,01/11/2010,2010,Nintendo,English,World Championships Decks,,,,6+,,,30,English,,Pokemon
+2701,,WC Deck 2010 (Power Cottonweed),,WC Deck 2010 (Power Cottonweed),,01/11/2010,2010,Nintendo,English,World Championships Decks,,,,6+,,,23,English,,Pokemon
+2702,,WC Deck 2011 (Megazone),,WC Deck 2011 (Megazone),,01/10/2011,2011,Nintendo,English,World Championships Decks,,,,6+,,,21,English,,Pokemon
+2703,,WC Deck 2011 (Reshiphlosion),,WC Deck 2011 (Reshiphlosion),,01/10/2011,2011,Nintendo,English,World Championships Decks,,,,6+,,,19,English,,Pokemon
+2704,,WC Deck 2011 (The Truth),,WC Deck 2011 (The Truth),,01/10/2011,2011,Nintendo,English,World Championships Decks,,,,6+,,,28,English,,Pokemon
+2705,,WC Deck 2011 (Twinboar),,WC Deck 2011 (Twinboar),,01/10/2011,2011,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2706,,WC Deck 2012 (CMT),,WC Deck 2012 (CMT),,01/11/2012,2012,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2707,,WC Deck 2012 (Eeltwo),,WC Deck 2012 (Eeltwo),,01/11/2012,2012,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2708,,WC Deck 2012 (Pesadelo Prism),,WC Deck 2012 (Pesadelo Prism),,01/11/2012,2012,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2709,,WC Deck 2012 (Terraki-Mewtwo),,WC Deck 2012 (Terraki-Mewtwo),,01/11/2012,2012,Nintendo,English,World Championships Decks,,,,6+,,,20,English,,Pokemon
+2710,,WC Deck 2013 (American Gothic),,WC Deck 2013 (American Gothic),,04/11/2013,2013,Nintendo,English,World Championships Decks,,,,6+,,,27,English,,Pokemon
+2711,,WC Deck 2013 (Anguille Sous Roche),,WC Deck 2013 (Anguille Sous Roche),,04/11/2013,2013,Nintendo,English,World Championships Decks,,,,6+,,,19,English,,Pokemon
+2712,,WC Deck 2013 (Darkrai),,WC Deck 2013 (Darkrai),,04/11/2013,2013,Nintendo,English,World Championships Decks,,,,6+,,,20,English,,Pokemon
+2713,,WC Deck 2013 (Ultimate Team Plasma),,WC Deck 2013 (Ultimate Team Plasma),,04/11/2013,2013,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2714,,WC Deck 2014 (Crazy Punch),,WC Deck 2014 (Crazy Punch),,01/11/2014,2014,Nintendo,English,World Championships Decks,,,,6+,,,29,English,,Pokemon
+2715,,WC Deck 2014 (Emerald King),,WC Deck 2014 (Emerald King),,01/11/2014,2014,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2716,,WC Deck 2014 (Plasma Power),,WC Deck 2014 (Plasma Power),,01/11/2014,2014,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2717,,WC Deck 2014 (Trevgor),,WC Deck 2014 (Trevgor),,01/11/2014,2014,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2718,,WC Deck 2015 (HonorStoise),,WC Deck 2015 (HonorStoise),,01/11/2015,2015,Nintendo,English,World Championships Decks,,,,6+,,,23,English,,Pokemon
+2719,,WC Deck 2015 (Primal Groudon),,WC Deck 2015 (Primal Groudon),,01/11/2015,2015,Nintendo,English,World Championships Decks,,,,6+,,,26,English,,Pokemon
+2720,,WC Deck 2015 (Punches 'n' Bites),,WC Deck 2015 (Punches 'n' Bites),,01/11/2015,2015,Nintendo,English,World Championships Decks,,,,6+,,,23,English,,Pokemon
+2721,,WC Deck 2015 (The Flying Hammer),,WC Deck 2015 (The Flying Hammer),,01/11/2015,2015,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2722,,WC Deck 2016 (Bebe Deck),,WC Deck 2016 (Bebe Deck),,01/11/2016,2016,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2723,,WC Deck 2016 (Black Dragon),,WC Deck 2016 (Black Dragon),,01/11/2016,2016,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2724,,WC Deck 2016 (Magical Symphony),,WC Deck 2016 (Magical Symphony),,01/11/2016,2016,Nintendo,English,World Championships Decks,,,,6+,,,26,English,,Pokemon
+2725,,WC Deck 2016 (Ninja Blitz),,WC Deck 2016 (Ninja Blitz),,01/11/2016,2016,Nintendo,English,World Championships Decks,,,,6+,,,21,English,,Pokemon
+2726,,WC Deck 2017 (Golisodor),,WC Deck 2017 (Golisodor),,17/11/2017,2017,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2727,,WC Deck 2017 (Ice Path FTW),,WC Deck 2017 (Ice Path FTW),,17/11/2017,2017,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2728,,WC Deck 2017 (Infinite Force),,WC Deck 2017 (Infinite Force),,17/11/2017,2017,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2729,,WC Deck 2017 (Samurai Sniper),,WC Deck 2017 (Samurai Sniper),,17/11/2017,2017,Nintendo,English,World Championships Decks,,,,6+,,,23,English,,Pokemon
+2730,,WC Deck 2018 (Buzzroc),,WC Deck 2018 (Buzzroc),,14/11/2018,2018,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2731,,WC Deck 2018 (Dragones y Sombras),,WC Deck 2018 (Dragones y Sombras),,14/11/2018,2018,Nintendo,English,World Championships Decks,,,,6+,,,21,English,,Pokemon
+2732,,WC Deck 2018 (Garbanette),,WC Deck 2018 (Garbanette),,14/11/2018,2018,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2733,,WC Deck 2018 (Victory Map),,WC Deck 2018 (Victory Map),,14/11/2018,2018,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2734,,WC Deck 2019 (Fire Box),,WC Deck 2019 (Fire Box),,22/11/2019,2019,Nintendo,English,World Championships Decks,,,,6+,,,19,English,,Pokemon
+2735,,WC Deck 2019 (Mind Blown),,WC Deck 2019 (Mind Blown),,22/11/2019,2019,Nintendo,English,World Championships Decks,,,,6+,,,22,English,,Pokemon
+2736,,WC Deck 2019 (Perfection),,WC Deck 2019 (Perfection),,22/11/2019,2019,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2737,,WC Deck 2019 (Pikarom Judge),,WC Deck 2019 (Pikarom Judge),,22/11/2019,2019,Nintendo,English,World Championships Decks,,,,6+,,,26,English,,Pokemon
+2738,,WC Deck 2022 (ADP),,WC Deck 2022 (ADP),,03/03/2023,2023,Nintendo,English,World Championships Decks,,,,6+,,,24,English,,Pokemon
+2739,,WC Deck 2022 (Cheryl Again),,WC Deck 2022 (Cheryl Again),,03/03/2023,2023,Nintendo,English,World Championships Decks,,,,6+,,,30,English,,Pokemon
+2740,,WC Deck 2022 (Ice Rider Palkia),,WC Deck 2022 (Ice Rider Palkia),,03/03/2023,2023,Nintendo,English,World Championships Decks,,,,6+,,,30,English,,Pokemon
+2741,,WC Deck 2022 (The Shape of Mew),,WC Deck 2022 (The Shape of Mew),,03/03/2023,2023,Nintendo,English,World Championships Decks,,,,6+,,,20,English,,Pokemon
+2742,,WC Deck 2023 (Colorless Lugia),,WC Deck 2023 (Colorless Lugia),,01/04/2024,2024,Nintendo,English,World Championships Decks,,,,6+,,,25,English,,Pokemon
+2743,,WC Deck 2023 (Lost Box Kyogre),,WC Deck 2023 (Lost Box Kyogre),,01/04/2024,2024,Nintendo,English,World Championships Decks,,,,6+,,,26,English,,Pokemon
+2744,,WC Deck 2023 (Mew's Revenge),,WC Deck 2023 (Mew's Revenge),,01/04/2024,2024,Nintendo,English,World Championships Decks,,,,6+,,,26,English,,Pokemon
+2745,,WC Deck 2023 (Psychic Elegance),,WC Deck 2023 (Psychic Elegance),,01/04/2024,2024,Nintendo,English,World Championships Decks,,,,6+,,,28,English,,Pokemon
+2746,,City Gym Decks,,City Gym Decks,,26/04/1998,1998,Nintendo,Japanese,Original Era,,,,6+,,,71,Japanese,,Pokemon
+2747,,Intro Pack (Bulbasaur),,Intro Pack (Bulbasaur),,30/07/1999,1999,Nintendo,Japanese,Original Era,,,,6+,,,41,Japanese,,Pokemon
+2748,,Intro Pack (Squirtle),,Intro Pack (Squirtle),,30/07/1999,1999,Nintendo,Japanese,Original Era,,,,6+,,,41,Japanese,,Pokemon
+2749,,Guren Town Gym Deck,,Guren Town Gym Deck,,26/02/1999,1999,Nintendo,Japanese,Original Era,,,,6+,,,25,Japanese,,Pokemon
+2750,,Hanada City Gym Deck,,Hanada City Gym Deck,,26/04/1998,1998,Nintendo,Japanese,Original Era,,,,6+,,,24,Japanese,,Pokemon
+2751,,Kuchiba City Gym Deck,,Kuchiba City Gym Deck,,25/07/1998,1998,Nintendo,Japanese,Original Era,,,,6+,,,25,Japanese,,Pokemon
+2752,,Nivi City Gym Deck,,Nivi City Gym Deck,,26/04/1998,1998,Nintendo,Japanese,Original Era,,,,6+,,,25,Japanese,,Pokemon
+2753,,Tamamushi City Gym Deck,,Tamamushi City Gym Deck,,25/07/1998,1998,Nintendo,Japanese,Original Era,,,,6+,,,28,Japanese,,Pokemon
+2754,,Yamabuki City Gym Deck,,Yamabuki City Gym Deck,,26/02/1999,1999,Nintendo,Japanese,Original Era,,,,6+,,,26,Japanese,,Pokemon
+2755,,Intro Pack Neo (Chikorita),,Intro Pack Neo (Chikorita),,06/04/2001,2001,Nintendo,Japanese,neo Era,,,,6+,,,30,Japanese,,Pokemon
+2756,,Intro Pack Neo (Totodile),,Intro Pack Neo (Totodile),,06/04/2001,2001,Nintendo,Japanese,neo Era,,,,6+,,,30,Japanese,,Pokemon
+2757,,Neo Premium File 1,,Neo Premium File 1,,10/12/1999,1999,Nintendo,Japanese,neo Era,,,,6+,,,9,Japanese,,Pokemon
+2758,,Neo Premium File 2,,Neo Premium File 2,,07/07/2000,2000,Nintendo,Japanese,neo Era,,,,6+,,,9,Japanese,,Pokemon
+2759,,Neo Premium File 3,,Neo Premium File 3,,23/11/2000,2000,Nintendo,Japanese,neo Era,,,,6+,,,9,Japanese,,Pokemon
+2760,,Pokémon-e Starter Deck,,Pokémon-e Starter Deck,,01/12/2001,2001,Nintendo,Japanese,e-Card Era,,,,6+,,,,Japanese,,Pokemon
+2761,,Metagross Constructed Starter Deck,,Metagross Constructed Starter Deck,,16/01/2004,2004,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2762,,Gift Box (Latias),,Gift Box (Latias),,17/11/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2763,,Gift Box (Latios),,Gift Box (Latios),,17/11/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2764,,Aqua Deck Kit,,Aqua Deck Kit,,24/10/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2765,,Magma Deck Kit,,Magma Deck Kit,,24/10/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2766,,Flygon Constructed Starter Deck,,Flygon Constructed Starter Deck,,25/06/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2767,,Salamence Constructed Starter Deck,,Salamence Constructed Starter Deck,,25/06/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2768,,Mudkip Constructed Starter Deck,,Mudkip Constructed Starter Deck,,31/01/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2769,,Torchic Constructed Starter Deck,,Torchic Constructed Starter Deck,,31/01/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2770,,Treecko Constructed Starter Deck,,Treecko Constructed Starter Deck,,31/01/2003,2003,Nintendo,Japanese,ADV Era,,,,6+,,,,Japanese,,Pokemon
+2771,,Shockwave! Tyranitar ex Constructed Standard Deck,,Shockwave! Tyranitar ex Constructed Standard Deck,,29/06/2006,2006,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2772,,Earth's Groudon ex Constructed Starter Deck,,Earth's Groudon ex Constructed Starter Deck,,03/03/2006,2006,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2773,,Ocean's Kyogre ex Constructed Starter Deck,,Ocean's Kyogre ex Constructed Starter Deck,,03/03/2006,2006,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2774,,Mew • Lucario Gift Box (Crawdaunt),,Mew • Lucario Gift Box (Crawdaunt),,16/11/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2775,,Mew • Lucario Gift Box (Lucario),,Mew • Lucario Gift Box (Lucario),,16/11/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2776,,Mew • Lucario Gift Box (Mew),,Mew • Lucario Gift Box (Mew),,16/11/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2777,,Mew • Lucario Gift Box (Mightyena),,Mew • Lucario Gift Box (Mightyena),,16/11/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2778,,Mew • Lucario Gift Box (Pokémon ☆),,Mew • Lucario Gift Box (Pokémon ☆),,16/11/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2779,,Holon Research Tower Fire Quarter Deck,,Holon Research Tower Fire Quarter Deck,,30/09/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,15,Japanese,,Pokemon
+2780,,Holon Research Tower Lightning Quarter Deck,,Holon Research Tower Lightning Quarter Deck,,30/09/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2781,,Holon Research Tower Water Quarter Deck,,Holon Research Tower Water Quarter Deck,,30/09/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2782,,Master Kit (Bulbasaur),,Master Kit (Bulbasaur),,15/07/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2783,,Master Kit (Side Deck),,Master Kit (Side Deck),,15/07/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2784,,Master Kit (Torchic),,Master Kit (Torchic),,15/07/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2785,,Mirage's Mew Constructed Starter Deck,,Mirage's Mew Constructed Starter Deck,,30/06/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,16,Japanese,,Pokemon
+2786,,Feraligatr Constructed Starter Deck,,Feraligatr Constructed Starter Deck,,05/03/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2787,,Meganium Constructed Starter Deck,,Meganium Constructed Starter Deck,,05/03/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2788,,Typhlosion Constructed Starter Deck,,Typhlosion Constructed Starter Deck,,05/03/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2789,,Fighting Quick Construction Pack,,Fighting Quick Construction Pack,,16/01/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,15,Japanese,,Pokemon
+2790,,Fire Quick Construction Pack,,Fire Quick Construction Pack,,16/01/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,15,Japanese,,Pokemon
+2791,,Grass Quick Construction Pack,,Grass Quick Construction Pack,,16/01/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,15,Japanese,,Pokemon
+2792,,Lightning Quick Construction Pack,,Lightning Quick Construction Pack,,16/01/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,15,Japanese,,Pokemon
+2793,,Psychic Quick Construction Pack,,Psychic Quick Construction Pack,,16/01/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,15,Japanese,,Pokemon
+2794,,Water Quick Construction Pack,,Water Quick Construction Pack,,16/01/2005,2005,Nintendo,Japanese,PCG Era,,,,6+,,,15,Japanese,,Pokemon
+2795,,Emerald Gift Box (Deoxys),,Emerald Gift Box (Deoxys),,19/11/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2796,,Emerald Gift Box (Rayquaza),,Emerald Gift Box (Rayquaza),,19/11/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2797,,Black Deck Kit,,Black Deck Kit,,15/10/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,20,Japanese,,Pokemon
+2798,,Silver Deck Kit,,Silver Deck Kit,,15/10/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2799,,Deoxys Constructed Starter Deck,,Deoxys Constructed Starter Deck,,01/07/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2800,,Rayquaza Constructed Starter Deck,,Rayquaza Constructed Starter Deck,,01/07/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2801,,"Venusaur, Charizard & Blastoise Random Constructed Starter Decks",,"Venusaur, Charizard & Blastoise Random Constructed Starter Decks",,19/03/2004,2004,Nintendo,Japanese,PCG Era,,,,6+,,,,Japanese,,Pokemon
+2802,,Giratina vs Dialga Deck Kit (Dialga),,Giratina vs Dialga Deck Kit (Dialga),,10/07/2008,2008,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2803,,Giratina vs Dialga Deck Kit (Giratina),,Giratina vs Dialga Deck Kit (Giratina),,10/07/2008,2008,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2804,,Heatran vs Regigigas Deck Kit,,Heatran vs Regigigas Deck Kit,,14/03/2008,2008,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2805,,Entry Pack '08,,Entry Pack '08,,30/11/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2806,,Magmortar vs Electivire Deck Kit,,Magmortar vs Electivire Deck Kit,,26/10/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2807,,Dialga LV.X Constructed Standard Deck,,Dialga LV.X Constructed Standard Deck,,05/07/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2808,,Palkia LV.X Constructed Standard Deck,,Palkia LV.X Constructed Standard Deck,,05/07/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2809,,Bastiodon the Defender Constructed Half Deck,,Bastiodon the Defender Constructed Half Deck,,02/03/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2810,,Rampardos the Attacker Constructed Half Deck,,Rampardos the Attacker Constructed Half Deck,,02/03/2007,2007,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2811,,Entry Pack,,Entry Pack,,27/10/2006,2006,Nintendo,Japanese,Diamond & Pearl Era,,,,6+,,,,Japanese,,Pokemon
+2812,,Arceus LV.X Deck: Grass & Fire,DPt4-Sgf,Arceus LV.X Deck: Grass & Fire,,08/07/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,,,17,Japanese,,Pokemon
+2813,,Arceus LV.X Deck: Lightning & Psychic,DPt4-Slp,Arceus LV.X Deck: Lightning & Psychic,,08/07/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,,,17,Japanese,,Pokemon
+2814,,Mewtwo LV.X Collection Pack,DPtM,Mewtwo LV.X Collection Pack,,18/04/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,,,12,Japanese,,Pokemon
+2815,,Regigigas LV.X Collection Pack,DPtR,Regigigas LV.X Collection Pack,,18/04/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,,,12,Japanese,,Pokemon
+2816,,Shaymin LV.X Collection Pack,DPtS,Shaymin LV.X Collection Pack,,18/04/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,,,12,Japanese,,Pokemon
+2817,,Garchomp vs Charizard SP Deck Kit (Charizard),,Garchomp vs Charizard SP Deck Kit (Charizard),,06/03/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2818,,Garchomp vs Charizard SP Deck Kit (Garchomp),,Garchomp vs Charizard SP Deck Kit (Garchomp),,06/03/2009,2009,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2819,,Infernape vs Gallade SP Deck Kit (Gallade),Pt,Infernape vs Gallade SP Deck Kit (Gallade),,26/12/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,18,Japanese,,Pokemon
+2820,,Infernape vs Gallade SP Deck Kit (Infernape),Pt,Infernape vs Gallade SP Deck Kit (Infernape),,26/12/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,18,Japanese,,Pokemon
+2821,,DPt Gift Box (Chimchar),Pt,DPt Gift Box (Chimchar),,20/11/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2822,,DPt Gift Box (Pikachu),Pt,DPt Gift Box (Pikachu),,20/11/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2823,,DPt Gift Box (Piplup),Pt,DPt Gift Box (Piplup),,20/11/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2824,,DPt Gift Box (Turtwig),Pt,DPt Gift Box (Turtwig),,20/11/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2825,,DPt Entry Pack (Dialga),,DPt Entry Pack (Dialga),,10/10/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2826,,DPt Entry Pack (Giratina),,DPt Entry Pack (Giratina),,10/10/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2827,,DPt Entry Pack (Palkia),,DPt Entry Pack (Palkia),,10/10/2008,2008,Nintendo,Japanese,Platinum Era,,,,6+,,,,Japanese,,Pokemon
+2828,,Steelix Constructed Standard Deck,L2,Steelix Constructed Standard Deck,,11/02/2010,2010,Nintendo,Japanese,LEGEND Era,,,,6+,,,19,Japanese,,Pokemon
+2829,,Tyranitar Constructed Standard Deck,L2,Tyranitar Constructed Standard Deck,,11/02/2010,2010,Nintendo,Japanese,LEGEND Era,,,,6+,,,,Japanese,,Pokemon
+2830,,Battle Starter Deck (Blastoise),B,Battle Starter Deck (Blastoise),,20/11/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,,,10,Japanese,,Pokemon
+2831,,Battle Starter Deck (Magmortar),B,Battle Starter Deck (Magmortar),,20/11/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,,,9,Japanese,,Pokemon
+2832,,Battle Starter Deck (Raichu),B,Battle Starter Deck (Raichu),,20/11/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,,,11,Japanese,,Pokemon
+2833,,Battle Starter Deck (Torterra),B,Battle Starter Deck (Torterra),,20/11/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,,,10,Japanese,,Pokemon
+2834,,Leafeon vs Metagross Expert Deck (Leafeon),E,Leafeon vs Metagross Expert Deck (Leafeon),,20/11/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,,,15,Japanese,,Pokemon
+2835,,Leafeon vs Metagross Expert Deck (Metagross),E,Leafeon vs Metagross Expert Deck (Metagross),,20/11/2009,2009,Nintendo,Japanese,LEGEND Era,,,,6+,,,,Japanese,,Pokemon
+2836,,Black Kyurem-EX Battle Strength Deck,BKB,Black Kyurem-EX Battle Strength Deck,,19/10/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,20,Japanese,,Pokemon
+2837,,Blastoise + Kyurem-EX Combo Deck,K+K,Blastoise + Kyurem-EX Combo Deck,,15/03/2013,2013,Nintendo,Japanese,Black & White Era,,,,6+,,,19,Japanese,,Pokemon
+2838,,Everyone's Exciting Battle,WAK,Everyone's Exciting Battle,,16/11/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,55,Japanese,,Pokemon
+2839,,Garchomp Half Deck,GBR,Garchomp Half Deck,,16/03/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,18,Japanese,,Pokemon
+2840,,Hydreigon Half Deck,SZD,Hydreigon Half Deck,,16/03/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,18,Japanese,,Pokemon
+2841,,Keldeo Battle Strength Deck,KLD,Keldeo Battle Strength Deck,,20/04/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,18,Japanese,,Pokemon
+2842,,Master Deck Build Box,MDB,Master Deck Build Box,,14/09/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,46,Japanese,,Pokemon
+2843,,Mewtwo vs Genesect Deck Kit (Genesect),MG,Mewtwo vs Genesect Deck Kit (Genesect),,13/07/2013,2013,Nintendo,Japanese,Black & White Era,,,,6+,,,17,Japanese,,Pokemon
+2844,,Mewtwo vs Genesect Deck Kit (Mewtwo),MG,Mewtwo vs Genesect Deck Kit (Mewtwo),,13/07/2013,2013,Nintendo,Japanese,Black & White Era,,,,6+,,,17,Japanese,,Pokemon
+2845,,Team Plasma Battle Gift Set,PBG,Team Plasma Battle Gift Set,,16/11/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,18,Japanese,,Pokemon
+2846,,Team Plasma Powered Half Deck,PPD,Team Plasma Powered Half Deck,,14/09/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,19,Japanese,,Pokemon
+2847,,White Kyurem-EX Battle Strength Deck,BKW,White Kyurem-EX Battle Strength Deck,,19/10/2012,2012,Nintendo,Japanese,Black & White Era,,,,6+,,,20,Japanese,,Pokemon
+2848,,Beginning Set Pikachu (Oshawott),HSP,Beginning Set Pikachu (Oshawott),,18/11/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2849,,Beginning Set Pikachu (Snivy),HSP,Beginning Set Pikachu (Snivy),,18/11/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2850,,Beginning Set Pikachu (Tepig),HSP,Beginning Set Pikachu (Tepig),,18/11/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2851,,Thundurus vs Tornadus Battle Gift Set,BGS,Thundurus vs Tornadus Battle Gift Set,,18/11/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,26,Japanese,,Pokemon
+2852,,Reshiram-EX Battle Strength Deck,BKR,Reshiram-EX Battle Strength Deck,,21/10/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,20,Japanese,,Pokemon
+2853,,Zekrom-EX Battle Strength Deck,BKZ,Zekrom-EX Battle Strength Deck,,21/10/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,20,Japanese,,Pokemon
+2854,,Beginning Set + (Oshawott),HS+,Beginning Set + (Oshawott),,05/08/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2855,,Beginning Set + (Snivy),HS+,Beginning Set + (Snivy),,05/08/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2856,,Beginning Set + (Tepig),HS+,Beginning Set + (Tepig),,05/08/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2857,,Victini Battle Theme Deck,BTV,Victini Battle Theme Deck,,17/06/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,24,Japanese,,Pokemon
+2858,,Cobalion Battle Strength Deck,BKc,Cobalion Battle Strength Deck,,18/03/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,16,Japanese,,Pokemon
+2859,,Terrakion Battle Strength Deck,BKt,Terrakion Battle Strength Deck,,18/03/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,17,Japanese,,Pokemon
+2860,,Virizion Battle Strength Deck,BKv,Virizion Battle Strength Deck,,18/03/2011,2011,Nintendo,Japanese,Black & White Era,,,,6+,,,17,Japanese,,Pokemon
+2861,,Beginning Set (Oshawott),HS,Beginning Set (Oshawott),,29/10/2010,2010,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2862,,Beginning Set (Snivy),HS,Beginning Set (Snivy),,29/10/2010,2010,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2863,,Beginning Set (Tepig),HS,Beginning Set (Tepig),,29/10/2010,2010,Nintendo,Japanese,Black & White Era,,,,6+,,,,Japanese,,Pokemon
+2864,,Journey Partners,CS1,Journey Partners,,18/09/2010,2010,Nintendo,Japanese,Black & White Era,,,,6+,,,9,Japanese,,Pokemon
+2865,,Ash vs Rocket Gang Deck Kit,SMD,Ash vs Rocket Gang Deck Kit,,21/04/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,30,Japanese,,Pokemon
+2866,,"Flareon-GX, Vaporeon-GX & Jolteon-GX Starter Sets",SMI,"Flareon-GX, Vaporeon-GX & Jolteon-GX Starter Sets",,23/11/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,38,Japanese,,Pokemon
+2867,,BREAK Starter Pack 20th,,BREAK Starter Pack 20th,,27/02/2016,2016,Nintendo,Japanese,XY Era,,,,6+,,,84,Japanese,,Pokemon
+2868,,Dialga-EX + Aegislash-EX Hyper Metal Chain Deck,XYB,Dialga-EX + Aegislash-EX Hyper Metal Chain Deck,,13/09/2014,2014,Nintendo,Japanese,XY Era,,,,6+,,,20,Japanese,,Pokemon
+2869,,Emboar-EX vs Togekiss-EX Deck Kit,XYE,Emboar-EX vs Togekiss-EX Deck Kit,,18/07/2015,2015,Nintendo,Japanese,XY Era,,,,6+,,,26,Japanese,,Pokemon
+2870,,Golduck BREAK + Palkia-EX Combo Deck,XYF,Golduck BREAK + Palkia-EX Combo Deck,,09/10/2015,2015,Nintendo,Japanese,XY Era,,,,6+,,,17,Japanese,,Pokemon
+2871,,M Audino-EX Mega Battle Deck,XYH,M Audino-EX Mega Battle Deck,,18/03/2016,2016,Nintendo,Japanese,XY Era,,,,6+,,,27,Japanese,,Pokemon
+2872,,M Charizard-EX Mega Battle Deck,XYA,M Charizard-EX Mega Battle Deck,,15/03/2014,2014,Nintendo,Japanese,XY Era,,,,6+,,,23,Japanese,,Pokemon
+2873,,M Master Deck Build Box Power Style,MMB-P,M Master Deck Build Box Power Style,,07/08/2015,2015,Nintendo,Japanese,XY Era,,,,6+,,,49,Japanese,,Pokemon
+2874,,M Master Deck Build Box Speed Style,MMB-S,M Master Deck Build Box Speed Style,,07/08/2015,2015,Nintendo,Japanese,XY Era,,,,6+,,,49,Japanese,,Pokemon
+2875,,M Rayquaza-EX Mega Battle Deck,XYD,M Rayquaza-EX Mega Battle Deck,,14/03/2015,2015,Nintendo,Japanese,XY Era,,,,6+,,,20,Japanese,,Pokemon
+2876,,Noivern BREAK Evolution Pack,SNPo,Noivern BREAK Evolution Pack,,26/09/2015,2015,Nintendo,Japanese,XY Era,,,,6+,,,10,Japanese,,Pokemon
+2877,,Raichu BREAK Evolution Pack,SNPr,Raichu BREAK Evolution Pack,,26/09/2015,2015,Nintendo,Japanese,XY Era,,,,6+,,,10,Japanese,,Pokemon
+2878,,Xerneas Half Deck,X30,Xerneas Half Deck,,31/01/2014,2014,Nintendo,Japanese,XY Era,,,,6+,,,15,Japanese,,Pokemon
+2879,,Xerneas-EX & Yveltal-EX Super Legend Set,XYC,Xerneas-EX & Yveltal-EX Super Legend Set,,14/11/2014,2014,Nintendo,Japanese,XY Era,,,,6+,,,25,Japanese,,Pokemon
+2880,,Yveltal Half Deck,Y30,Yveltal Half Deck,,31/01/2014,2014,Nintendo,Japanese,XY Era,,,,6+,,,15,Japanese,,Pokemon
+2881,,Zygarde-EX Perfect Battle Deck,XYG,Zygarde-EX Perfect Battle Deck,,18/03/2016,2016,Nintendo,Japanese,XY Era,,,,6+,,,20,Japanese,,Pokemon
+2882,,GX Starter Decks,SMH,GX Starter Decks,,13/07/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,131,Japanese,,Pokemon
+2883,,Premium Trainer Box,SMB,Premium Trainer Box,,09/12/2016,2016,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,18,Japanese,,Pokemon
+2884,,Rockruff Full Power Deck,SMP1,Rockruff Full Power Deck,,15/12/2016,2016,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,13,Japanese,,Pokemon
+2885,,Solgaleo-GX & Lunala-GX Legendary Starter Set,SME,Solgaleo-GX & Lunala-GX Legendary Starter Set,,10/11/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,21,Japanese,,Pokemon
+2886,,Sun & Moon Family Box,SML,Sun & Moon Family Box,,15/03/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,51,Japanese,,Pokemon
+2887,,Sun & Moon Starter Set,SMA,Sun & Moon Starter Set,,09/12/2016,2016,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,59,Japanese,,Pokemon
+2888,,Tag Team GX Deck Build Box,SMN,Tag Team GX Deck Build Box,,01/03/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,29,Japanese,,Pokemon
+2889,,Tag Team GX Premium Trainer Box,SMJ,Tag Team GX Premium Trainer Box,,07/12/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,35,Japanese,,Pokemon
+2890,,Tag Team GX Starter Sets,SMM,Tag Team GX Starter Sets,,31/05/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,31,Japanese,,Pokemon
+2891,,Tapu Bulu-GX Enhanced Starter Set,SMC,Tapu Bulu-GX Enhanced Starter Set,,17/03/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,21,Japanese,,Pokemon
+2892,,Trainer Battle Decks,SMK,Trainer Battle Decks,,25/01/2019,2019,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,31,Japanese,,Pokemon
+2893,,Ultra Sun & Ultra Moon Deck Build Boxes,SMG,Ultra Sun & Ultra Moon Deck Build Boxes,,16/02/2018,2018,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,41,Japanese,,Pokemon
+2894,,Ultra Sun & Ultra Moon Premium Trainer Box,SMF,Ultra Sun & Ultra Moon Premium Trainer Box,,08/12/2017,2017,Nintendo,Japanese,Sun & Moon Era,,,,6+,,,20,Japanese,,Pokemon
+2895,,25th Anniversary Golden Box,S8a-G,25th Anniversary Golden Box,,01/12/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,16,Japanese,,Pokemon
+2896,,Blastoise Starter Set VMAX,SEK,Blastoise Starter Set VMAX,,04/12/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,20,Japanese,,Pokemon
+2897,,Charizard Starter Set VMAX 2,SC2,Charizard Starter Set VMAX 2,,04/12/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,21,Japanese,,Pokemon
+2898,,Charizard Starter Set VMAX,SC,Charizard Starter Set VMAX,,27/03/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,21,Japanese,,Pokemon
+2899,,Charizard VSTAR vs Rayquaza VMAX Special Deck Set,SO,Charizard VSTAR vs Rayquaza VMAX Special Deck Set,,04/11/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,32,Japanese,,Pokemon
+2900,,Darkrai Starter Set VSTAR,SLD,Darkrai Starter Set VSTAR,,25/02/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,20,Japanese,,Pokemon
+2901,,Deoxys VSTAR & VMAX High-Class Deck,SPD,Deoxys VSTAR & VMAX High-Class Deck,,15/07/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,21,Japanese,,Pokemon
+2902,,Eevee Heroes VMAX Special Set,SP4,Eevee Heroes VMAX Special Set,,28/05/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,8,Japanese,,Pokemon
+2903,,Fighting Starter Set V,SA,Fighting Starter Set V,,29/11/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,24,Japanese,,Pokemon
+2904,,Fire Starter Set V,SA,Fire Starter Set V,,29/11/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,23,Japanese,,Pokemon
+2905,,Gengar VMAX High-Class Deck,SGG,Gengar VMAX High-Class Deck,,28/05/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,21,Japanese,,Pokemon
+2906,,Grass Starter Set V,SA,Grass Starter Set V,,29/11/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,23,Japanese,,Pokemon
+2907,,Grimmsnarl Starter Set VMAX,SC,Grimmsnarl Starter Set VMAX,,27/03/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,20,Japanese,,Pokemon
+2908,,Inteleon VMAX High-Class Deck,SGI,Inteleon VMAX High-Class Deck,,28/05/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,24,Japanese,,Pokemon
+2909,,Lightning Starter Set V,SA,Lightning Starter Set V,,29/11/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,24,Japanese,,Pokemon
+2910,,Lucario Starter Set VSTAR,SLL,Lucario Starter Set VSTAR,,25/02/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,21,Japanese,,Pokemon
+2911,,Silver Lance & Jet-Black Spirit Jumbo Pack Set,SP3,Silver Lance & Jet-Black Spirit Jumbo Pack Set,,23/04/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,6,Japanese,,Pokemon
+2912,,Single Strike & Rapid Strike Premium Trainer Boxes,SF,Single Strike & Rapid Strike Premium Trainer Boxes,,22/01/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,33,Japanese,,Pokemon
+2913,,Starter Deck 100 CoroCoro Comic Version,SN,Starter Deck 100 CoroCoro Comic Version,,01/03/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,25,Japanese,,Pokemon
+2914,,Starter Deck 100,SI,Starter Deck 100,,17/12/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,430,Japanese,,Pokemon
+2915,,Sword & Shield Family Pokémon Card Game,SH,Sword & Shield Family Pokémon Card Game,,09/07/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,53,Japanese,,Pokemon
+2916,,Sword & Shield Premium Trainer Box,SB,Sword & Shield Premium Trainer Box,,06/12/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,24,Japanese,,Pokemon
+2917,,V Starter Decks,SD,V Starter Decks,,10/07/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,127,Japanese,,Pokemon
+2918,,V-UNION Special Card Sets,SP5,V-UNION Special Card Sets,,20/08/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,13,Japanese,,Pokemon
+2919,,Venusaur Starter Set VMAX,SEF,Venusaur Starter Set VMAX,,04/12/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,21,Japanese,,Pokemon
+2920,,VMAX Special Set,SP2,VMAX Special Set,,23/10/2020,2020,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,8,Japanese,,Pokemon
+2921,,VSTAR Premium Trainer Box,SK,VSTAR Premium Trainer Box,,14/01/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,30,Japanese,,Pokemon
+2922,,VSTAR Special Set,SP6,VSTAR Special Set,,05/08/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,6,Japanese,,Pokemon
+2923,,Water Starter Set V,SA,Water Starter Set V,,29/11/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,23,Japanese,,Pokemon
+2924,,Zacian & Zamazenta vs Eternatus Special Deck Set,SJ,Zacian & Zamazenta vs Eternatus Special Deck Set,,05/11/2021,2021,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,30,Japanese,,Pokemon
+2925,,Zacian + Zamazenta Box,SP1,Zacian + Zamazenta Box,,27/12/2019,2019,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,7,Japanese,,Pokemon
+2926,,Zeraora VSTAR & VMAX High-Class Deck,SPZ,Zeraora VSTAR & VMAX High-Class Deck,,15/07/2022,2022,Nintendo,Japanese,Sword & Shield Era,,,,6+,,,21,Japanese,,Pokemon
+2927,,Ancient Koraidon ex Starter Deck & Build Set,SVHK,Ancient Koraidon ex Starter Deck & Build Set,,26/01/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターデッキ＆ビルドセット「古代のコライドンex,,53,Japanese,,Pokemon
+2928,,Battle Academy,SVI,Battle Academy,,08/03/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ポケモンカードゲーム スカーレット&バイオレット バトルアカデミー,,74,Japanese,,Pokemon
+2929,,Battle Partners Deck Build Box,SVN,Battle Partners Deck Build Box,,24/01/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,デッキビルドBOX バトルパートナーズ,,45,Japanese,,Pokemon
+2930,,Battle Partners,SV9,Battle Partners,Expansion,24/01/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,バトルパートナーズ,,132,Japanese,,Pokemon
+2931,,Ceruledge ex Stellar Tera Type Starter Set,SVLS,Ceruledge ex Stellar Tera Type Starter Set,,30/08/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセット テラスタイプ：ステラ ソウブレイズex,,22,Japanese,,Pokemon
+2932,,Chien-Pao ex Battle Master Deck,SVJP,Chien-Pao ex Battle Master Deck,,17/05/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,バトルマスターデッキ パオジアンex,,19,Japanese,,Pokemon
+2933,,ex Premium Trainer Box,SVB,ex Premium Trainer Box,,20/01/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,プレミアムトレーナーボックスex,,28,Japanese,,Pokemon
+2934,,ex Special Set,SVP1,ex Special Set,,19/05/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,exスペシャルセット,,7,Japanese,,Pokemon
+2935,,ex Starter Decks,SVD,ex Starter Decks,,07/07/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,exスタートデッキ ex,,139,Japanese,,Pokemon
+2936,,Fuecoco & Ampharos ex Starter Set ex,SVAL,Fuecoco & Ampharos ex Starter Set ex,,20/01/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットex ホゲータ＆デンリュウex,,21,Japanese,,Pokemon
+2937,,Future Miraidon ex Starter Deck & Build Set,SVHM,Future Miraidon ex Starter Deck & Build Set,,26/01/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターデッキ＆ビルドセット「未来のミライドンex,,53,Japanese,,Pokemon
+2938,,Generations Starter Decks,SVM,Generations Starter Decks,,22/11/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スタートデッキ,,175,Japanese,,Pokemon
+2939,,Glory of the Rocket Gang,SV10,Glory of the Rocket Gang,Expansion,18/04/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ロケット団の栄光,,132,Japanese,,Pokemon
+2940,,Hot Air Arena,SV9a,Hot Air Arena,Enhanced Expansion,14/03/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,強化拡張パック 熱風のアリーナ,,92,Japanese,,Pokemon
+2941,,Marnie's Morpeko & Grimmsnarl ex Starter Set ex,SVOM,Marnie's Morpeko & Grimmsnarl ex Starter Set ex,,21/02/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットex マリィのモルペコ&オーロンゲex,,20,Japanese,,Pokemon
+2942,,Mewtwo ex Terastal Starter Set,SVEM,Mewtwo ex Terastal Starter Set,,22/09/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットテラスタルミュウツーex,,20,Japanese,,Pokemon
+2943,,Pikachu ex & Pawmot Starter Set ex,SVC,Pikachu ex & Pawmot Starter Set ex,,24/03/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットex ピカチュウex&パーモット,,21,Japanese,,Pokemon
+2944,,Pokémon TCG Classic (Blastoise),CLK,Pokémon TCG Classic (Blastoise),,31/10/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ポケモンカードゲーム Classic,,34,Japanese,,Pokemon
+2945,,Pokémon TCG Classic (Charizard),CLL,Pokémon TCG Classic (Charizard),,31/10/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ポケモンカードゲーム Classic,,34,Japanese,,Pokemon
+2946,,Pokémon TCG Classic (Venusaur),CLF,Pokémon TCG Classic (Venusaur),,31/10/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ポケモンカードゲーム Classic,,34,Japanese,,Pokemon
+2947,,Quaxly & Mimikyu ex Starter Set ex,SVAW,Quaxly & Mimikyu ex Starter Set ex,,20/01/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットex クワッス＆ミミッキュex,,23,Japanese,,Pokemon
+2948,,Ruler of the Black Flame Deck Build Box,SVF,Ruler of the Black Flame Deck Build Box,,28/07/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,デッキビルドBOX 黒炎の支配者,,38,Japanese,,Pokemon
+2949,,Skeledirge ex Terastal Starter Set,SVEL,Skeledirge ex Terastal Starter Set,,22/09/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットテラスタルラウドボーンex,,20,Japanese,,Pokemon
+2950,,Sprigatito & Lucario ex Starter Set ex,SVAM,Sprigatito & Lucario ex Starter Set ex,,20/01/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットex ニャオハ＆ルカリオex,,23,Japanese,,Pokemon
+2951,,Stellar Miracle Deck Build Box,SVK,Stellar Miracle Deck Build Box,,19/07/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,デッキビルドBOX ステラミラクル,,44,Japanese,,Pokemon
+2952,,Steven's Beldum & Metagross ex Starter Set ex,SVOD,Steven's Beldum & Metagross ex Starter Set ex,,21/02/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセットex ダイゴのダンバル&メタグロスex,,19,Japanese,,Pokemon
+2953,,Sylveon ex Stellar Tera Type Starter Set,SVLN,Sylveon ex Stellar Tera Type Starter Set,,30/08/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スターターセット テラスタイプ：ステラ ニンフィアex,,22,Japanese,,Pokemon
+2954,,Terastal Charizard ex Battle Master Deck,SVJL,Terastal Charizard ex Battle Master Deck,,17/05/2024,2024,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,バトルマスターデッキ テラスタル リザードン,,21,Japanese,,Pokemon
+2955,,"Venusaur, Charizard & Blastoise Special Deck Set ex",SVG,"Venusaur, Charizard & Blastoise Special Deck Set ex",,10/11/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,スペシャルデッキセットex フシギバナ・リザードン・カメックス,,52,Japanese,,Pokemon
+2956,,World Championships 2023 Yokohama Deck: Pikachu,WCS23,World Championships 2023 Yokohama Deck: Pikachu,,28/07/2023,2023,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ,,32,Japanese,,Pokemon
+2957,,Movie Commemoration Random Pack,,Movie Commemoration Random Pack,,18/07/2009,2009,Nintendo,Japanese,Movie Commemorations,,,,6+,,,30,Japanese,,Pokemon
+2958,,Movie Commemoration VS Pack: Sea's Manaphy,,Movie Commemoration VS Pack: Sea's Manaphy,,15/07/2006,2006,Nintendo,Japanese,Movie Commemorations,,,,6+,,,,Japanese,,Pokemon
+2959,,Movie Commemoration VS Pack: Aura's Lucario,,Movie Commemoration VS Pack: Aura's Lucario,,16/07/2005,2005,Nintendo,Japanese,Movie Commemorations,,,,6+,,,,Japanese,,Pokemon
+2960,,Movie Commemoration VS Pack: Sky-Splitting Deoxys,,Movie Commemoration VS Pack: Sky-Splitting Deoxys,,17/07/2004,2004,Nintendo,Japanese,Movie Commemorations,,,,6+,,,19,Japanese,,Pokemon
+2961,,Movie Commemoration VS Pack,,Movie Commemoration VS Pack,,19/07/2003,2003,Nintendo,Japanese,Movie Commemorations,,,,6+,,,,Japanese,,Pokemon
+2962,,Theater Limited VS Pack,,Theater Limited VS Pack,,13/07/2002,2002,Nintendo,Japanese,Movie Commemorations,,,,6+,,,,Japanese,,Pokemon
+2963,,PokéPark Blue,,PokéPark Blue,,18/03/2005,2005,Nintendo,Japanese,Other,,,,6+,,,9,Japanese,,Pokemon
+2964,,PokéPark Forest,,PokéPark Forest,,18/03/2005,2005,Nintendo,Japanese,Other,,,,6+,,,9,Japanese,,Pokemon
+2965,,Pikachu World Collection PW,,Pikachu World Collection PW,,08/07/2010,2010,Nintendo,Japanese,Other,,,,6+,,,,Japanese,,Pokemon
+2966,,Melee! Pokémon Scramble,,Melee! Pokémon Scramble,,10/07/2009,2009,Nintendo,Japanese,Other,,,,6+,,,19,Japanese,,Pokemon
+4735,,Black Bolt,SV11B,Black Bolt,Expansion,06/06/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ブラックボルト,,174,Japanese,,Pokemon
+4736,,White Flare,SV11W,White Flare,Expansion,06/06/2025,2025,Nintendo,Japanese,Scarlet & Violet Era,,,,6+,ホワイトフレア,,174,Japanese,,Pokemon
+4737,,Black Bolt,BLK,Black Bolt,Expansion,18/07/2025,2025,Nintendo,English,Scarlet & Violet Series,,,,6+,,,,English,,Pokemon
+4738,,White Flare,WHT,White Flare,Expansion,18/07/2025,2025,Nintendo,English,Scarlet & Violet Series,,,,6+,,,,English,,Pokemon

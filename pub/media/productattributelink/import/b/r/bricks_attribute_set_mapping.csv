@@ -1,0 +1,35 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Bricks,Bricks,,,,Bricks
+Bricks | LEGO,,bricks_brand,LEGO,1,Bricks |LEGO
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | LEGO | Box Sets/Packs
+Bricks | Minifigures,,bricks_product_type,Minifigures,2,Bricks | LEGO | Minifigures
+Bricks | Parts,,bricks_product_type,Parts,2,Bricks | LEGO | Parts
+Bricks | Accessories,,bricks_product_type,Accessories,2,Bricks | LEGO | Accessories
+Bricks | Mould King,,bricks_brand,Mould King,1,Bricks | Mould King
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Mould King | Box Sets/Packs
+Bricks | Cada,,bricks_brand,Cada,1,Bricks | Cada
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Cada | Box Sets/Packs
+Bricks | Nanoblock,,bricks_brand,Nanoblock,1,Bricks | Nanoblock
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Nanoblock | Box Sets/Packs
+Bricks | FunWhole,,bricks_brand,FunWhole,1,Bricks | FunWhole
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | FunWhole | Box Sets/Packs
+Bricks | Cobi,,bricks_brand,Cobi,1,Bricks | Cobi
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Cobi | Box Sets/Packs
+Bricks | Sluban,,bricks_brand,Sluban,1,Bricks | Sluban
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Sluban | Box Sets/Packs
+Bricks | Sembo,,bricks_brand,Sembo,1,Bricks | Sembo
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Sembo | Box Sets/Packs
+Bricks | Zhegao,,bricks_brand,Zhegao,1,Bricks | Zhegao
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Zhegao | Box Sets/Packs
+Bricks | Reobrix,,bricks_brand,Reobrix,1,Bricks | Reobrix
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Reobrix | Box Sets/Packs
+Bricks | Wange,,bricks_brand,Wange,1,Bricks | Wange
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Wange | Box Sets/Packs
+Bricks | Jiestar,,bricks_brand,Jiestar,1,Bricks | Jiestar
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Jiestar | Box Sets/Packs
+Bricks | Panlos,,bricks_brand,Panlos,1,Bricks | Panlos
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Panlos | Box Sets/Packs
+Bricks | Moyu,,bricks_brand,Moyu,1,Bricks | Moyu
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Moyu | Box Sets/Packs
+Bricks | Jaki,,bricks_brand,Jaki,1,Bricks | Jaki
+Bricks | Box Sets/Packs,,bricks_product_type,Box Sets/Packs,2,Bricks | Jaki | Box Sets/Packs

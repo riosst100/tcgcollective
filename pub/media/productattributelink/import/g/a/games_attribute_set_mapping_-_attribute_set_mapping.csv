@@ -1,0 +1,20 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Games,Collectible Card Games,,,Collectible Card Games,
+Magic: The Gathering,,card_game,Magic: The Gathering,Magic: The Gathering,1
+Magic: The Gathering,,card_product_type,Singles,Magic: The Gathering | Singles,2
+Magic: The Gathering,,card_product_type,Sealed Products,Magic: The Gathering | Sealed Products,2
+Magic: The Gathering,,card_product_type,Sets,Magic: The Gathering | Sets,2
+Magic: The Gathering,,card_product_type,Lots,Magic: The Gathering | Lots,2
+Pokemon,,card_game,Pokemon,Pokemon,1
+Pokemon,,card_product_type,Singles,Pokemon | Singles,2
+Pokemon,,card_product_type,Sealed Products,Pokemon | Sealed Products,2
+Pokemon,,card_product_type,Sets,Pokemon | Sets,2
+Pokemon,,card_product_type,Lots,Pokemon | Lots,2
+Games,Living Card Games,,,Living Card Games,
+Marvel Champions,,living_card_game,Marvel Champions,Marvel Champions,1
+Marvel Champions,,card_product_type,Sealed Products,Marvel Champions,2
+Games,Miniature Games,,,Miniature Games,
+HeroClix,,miniature_game,HeroClix,HeroClix,1
+HeroClix,,card_product_type,Sealed Products,HeroClix | Sealed Products,2
+HeroClix,,card_product_type,Singles,HeroClix | Singles,2
+HeroClix,,card_product_type,Sets,HeroClix | Sets,2

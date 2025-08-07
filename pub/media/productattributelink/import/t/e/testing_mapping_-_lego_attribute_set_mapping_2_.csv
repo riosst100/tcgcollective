@@ -1,0 +1,6 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Lego,Lego,,,Lego,1
+Lego,,lego_product_type,Sets,Lego | Sets,2
+Lego Minifigures,Lego Minifigures,,,Lego Minifigures,1
+Lego Minifigures,,lego_product_type,Sets,Lego Minifigures | Sets,2
+Lego Minifigures,,lego_product_type,Singles,Lego Minifigures | Singles,2

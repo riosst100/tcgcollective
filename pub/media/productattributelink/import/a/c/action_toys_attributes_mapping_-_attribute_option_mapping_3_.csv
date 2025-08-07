@@ -1,0 +1,9 @@
+group,category,attribute_code,attribute_option,target_attribute_code,target_attribute_options,priority
+Action Toys,Action Toys,,,toys_brands,Good Smile Company|Hasbro,
+Action Toys,Action Toys,,,toys_product_line,,
+Action Toys,Action Toys,,,toys_franchise,Transformers|Avatar|Disney|Star Wars|LIGHTYEAR|X-Men|The Avengers|Fallout|G.I. Joe,
+Action Toys,Action Toys,,,toys_character,Buzz Lightyear|Iron Man|Wolverine,
+Action Toys,Action Toys,,,toys_scale,1:1 Scale|1:10 Scale,
+Action Toys,,toys_brands,Good Smile Company,toys_product_line,Pop Up Parade|Scale Figures|Figma|Nendoroid|Nendoroid Suprise|Nendoroid Dolls|Nendoroid Plus|Nendoroid Mode|Hello! Good Smile|Plastic Model Kit|Harmonia|Pocket Maquette,
+Action Toys,,toys_brands,Hasbro,toys_franchise,Transformers,
+Action Toys,,toys_franchise,Transformers,toys_brands,Hasbro,

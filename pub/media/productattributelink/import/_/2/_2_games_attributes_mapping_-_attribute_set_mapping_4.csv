@@ -1,0 +1,167 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Games,Collectible Card Games,,,Collectible Card Games,
+Magic: The Gathering,,card_game,Magic: The Gathering,Magic: The Gathering,1
+Magic: The Gathering,,card_product_type,Singles,Magic: The Gathering | Singles,2
+Magic: The Gathering,,card_product_type,Sealed Products,Magic: The Gathering | Sealed Products,2
+Magic: The Gathering,,card_product_type,Sets,Magic: The Gathering | Sets,2
+Magic: The Gathering,,card_product_type,Lots,Magic: The Gathering | Lots,2
+Pokemon,,card_game,Pokemon,Pokemon,1
+Pokemon,,card_product_type,Singles,Pokemon | Singles,2
+Pokemon,,card_product_type,Sealed Products,Pokemon | Sealed Products,2
+Pokemon,,card_product_type,Sets,Pokemon | Sets,2
+Pokemon,,card_product_type,Lots,Pokemon | Lots,2
+One Piece,,card_game,One Piece,One Piece,1
+One Piece,,card_product_type,Singles,One Piece | Singles,2
+One Piece,,card_product_type,Sealed Products,One Piece | Sealed Products,2
+One Piece,,card_product_type,Sets,One Piece | Sets,2
+One Piece,,card_product_type,Lots,One Piece | Lots,2
+Akora TCG,,card_game,Akora TCG,Akora TCG,1
+Akora TCG,,card_product_type,Singles,Akora TCG | Singles,2
+Akora TCG,,card_product_type,Sealed Products,Akora TCG | Sealed Products,2
+Akora TCG,,card_product_type,Sets,Akora TCG | Sets,2
+Akora TCG,,card_product_type,Lots,Akora TCG | Lots,2
+Battle Spirits Saga,,card_game,Battle Spirits Saga,Battle Spirits Saga,1
+Battle Spirits Saga,,card_product_type,Singles,Battle Spirits Saga | Singles,2
+Battle Spirits Saga,,card_product_type,Sealed Products,Battle Spirits Sage | Sealed Products,2
+Battle Spirits Saga,,card_product_type,Sets,Battle Spirits Saga | Sets,2
+Battle Spirits Saga,,card_product_type,Lots,Battle Spirits Saga | Lots,2
+Buddy Fight,,card_game,Buddy Fight,Buddy Fight,1
+Buddy Fight,,card_product_type,Singles,Buddy Fight | Singles,2
+Buddy Fight,,card_product_type,Sealed Products,Buddy Fight | Sealed Products,2
+Buddy Fight,,card_product_type,Sets,Buddy Fight | Sets,2
+Buddy Fight,,card_product_type,Lots,Buddy Fight | Lots,2
+Cardfight!! Vanguard,,card_game,Cardfight!! Vanguard,Cardfight!! Vanguard,1
+Cardfight!! Vanguard,,card_product_type,Singles,Cardfight!! Vanguard | Singles,2
+Cardfight!! Vanguard,,card_product_type,Sealed Products,Cardfight!! Vanguard | Sealed Products,2
+Cardfight!! Vanguard,,card_product_type,Sets,Cardfight!! Vanguard | Sets,2
+Cardfight!! Vanguard,,card_product_type,Lots,Cardfight!! Vanguard | Lots,2
+Digimon,,card_game,Digimon,Digimon,1
+Digimon,,card_product_type,Singles,Digimon | Singles,2
+Digimon,,card_product_type,Sealed Products,Digimon | Sealed Products,2
+Digimon,,card_product_type,Sets,Digimon | Sets,2
+Digimon,,card_product_type,Lots,Digimon| Lots,2
+Disney Lorcana,,card_game,Disney Lorcana,Disney Lorcana,1
+Disney Lorcana,,card_product_type,Singles,Disney Lorcana | Singles,2
+Disney Lorcana,,card_product_type,Sealed Products,Disney Lorcana | Sealed Product,2
+Disney Lorcana,,card_product_type,Sets,Disney Lorcana | Sets,2
+Disney Lorcana,,card_product_type,Lots,Disney Lorcana | Lots,2
+Dragon Ball Super: Fusion World,,card_game,Dragon Ball Super: Fusion World,Dragon Ball Super: Fusion World,1
+Dragon Ball Super: Fusion World,,card_product_type,Singles,Dragon Ball Super: Fusion World | Singles,2
+Dragon Ball Super: Fusion World,,card_product_type,Sealed Products,Dragon Ball Super: Fusion World | Sealed Products,2
+Dragon Ball Super: Fusion World,,card_product_type,Sets,Dragon Ball Super: Fusion World | Sets,2
+Dragon Ball Super: Fusion World,,card_product_type,Lots,Dragon Ball Super: Fusion World | Lots,2
+Dragon Ball Super: Masters,,card_game,Dragon Ball Super: Masters,Dragon Ball Super: Masters,1
+Dragon Ball Super: Masters,,card_product_type,Singles,Dragon Ball Super: Masters | Singles,2
+Dragon Ball Super: Masters,,card_product_type,Sealed Products,Dragon Ball Super: Masters | Sealed Products,2
+Dragon Ball Super: Masters,,card_product_type,Sets,Dragon Ball Super: Masters | Sets,2
+Dragon Ball Super: Masters,,card_product_type,Lots,Dragon Ball Super: Masters | Lots,2
+Dragon Ball Z,,card_game,Dragon Ball Z,Dragon Ball Z,1
+Dragon Ball Z,,card_product_type,Singles,Dragon Ball Z | Singles,2
+Dragon Ball Z,,card_product_type,Sealed Products,Dragon Ball Z I Sealed Products,2
+Dragon Ball Z,,card_product_type,Sets,Dragon Ball Z | Sets,2
+Dragon Ball Z,,card_product_type,Lots,Dragon Ball Z | Lots,2
+Duel Masters,,card_game,Duel Masters,Duel Masters,1
+Duel Masters,,card_product_type,Singles,Duel Masters | Singles,2
+Duel Masters,,card_product_type,Sealed Products,Duel Masters | Sealed Products,2
+Duel Masters,,card_product_type,Sets,Duel Masters | Sets,2
+Duel Masters,,card_product_type,Lots,Duel Masters | Lots,2
+Exodus,,card_game,Exodus,Exodus,1
+Exodus,,card_product_type,Singles,Exodus | Singles,2
+Exodus,,card_product_type,Sealed Products,Exodus | Sealed Products,2
+Exodus,,card_product_type,Sets,Exodus | Sets,2
+Exodus,,card_product_type,Lots,Exodus | Lots,2
+Final Fantasy,,card_game,Final Fantasy,Final Fantasy,1
+Final Fantasy,,card_product_type,Singles,Final Fantasy | Singles,2
+Final Fantasy,,card_product_type,Sealed Products,Final Fantasy | Sealed Products,2
+Final Fantasy,,card_product_type,Sets,Final Fantasy | Sets,2
+Final Fantasy,,card_product_type,Lots,Final Fantasy | Lots,2
+Five Emblem,,card_game,Five Emblem,Five Emblem,1
+Five Emblem,,card_product_type,Singles,Five Emblem | Singles,2
+Five Emblem,,card_product_type,Sealed Products,Five Emblem | Sealed Products,2
+Five Emblem,,card_product_type,Sets,Five Emblem | Sets,2
+Five Emblem,,card_product_type,Lots,Five Emblem | Lots,2
+Flesh and Blood,,card_game,Flesh and Blood,Flesh and Blood,1
+Flesh and Blood,,card_product_type,Singles,Flesh and Blood | Singles,2
+Flesh and Blood,,card_product_type,Sealed Products,Flesh and Blood | Sealed Products,2
+Flesh and Blood,,card_product_type,Sets,Flesh and Blood | Sets,2
+Flesh and Blood,,card_product_type,Lots,Flesh and Blood | Lots,2
+Grand Achive,,card_game,Grand Achive,Grand Achive,1
+Grand Achive,,card_product_type,Singles,Grand Achive | Singles,2
+Grand Achive,,card_product_type,Sealed Products,Grand Achive | Sealed Products,2
+Grand Achive,,card_product_type,Sets,Grand Achive | Sets,2
+Grand Achive,,card_product_type,Lots,Grand Achive | Lots,2
+Lycee,,card_game,Lycee,Lycee,1
+Lycee,,card_product_type,Singles,Lycee | Singles,2
+Lycee,,card_product_type,Sealed Products,Lycee | Sealed Products,2
+Lycee,,card_product_type,Sets,Lycee | Sets,2
+Lycee,,card_product_type,Lots,Lycee | Lots,2
+Metazoo,,card_game,Metazoo,Metazoo,1
+Metazoo,,card_product_type,Singles,Metazoo | Singles,2
+Metazoo,,card_product_type,Sealed Products,Metazoo | Sealed Products,2
+Metazoo,,card_product_type,Sets,Metazoo | Sets,2
+Metazoo,,card_product_type,Lots,Metazoo | Lots,2
+Monster Collection,,card_game,Monster Collection,Monster Collection,1
+Monster Collection,,card_product_type,Singles,Monster Collection | Singles,2
+Monster Collection,,card_product_type,Sealed Products,Monster Collection | Sealed Products,2
+Monster Collection,,card_product_type,Sets,Monster Collection | Sets,2
+Monster Collection,,card_product_type,Lots,Monster Collection | Lots,2
+My Hero Academia,,card_game,My Hero Academia,My Hero Academia,1
+My Hero Academia,,card_product_type,Singles,My Hero Academia | Singles,2
+My Hero Academia,,card_product_type,Sealed Products,My Hero Academia | Sealed Products,2
+My Hero Academia,,card_product_type,Sets,My Hero Academia | Sets,2
+My Hero Academia,,card_product_type,Lots,My Hero Academia | Lots,2
+Precious Memories,,card_game,Precious Memories,Precious Memories,1
+Precious Memories,,card_product_type,Singles,Precious Memories | Singles,2
+Precious Memories,,card_product_type,Sealed Products,Precious Memories | Sealed Products,2
+Precious Memories,,card_product_type,Sets,Precious Memories | Sets,2
+Precious Memories,,card_product_type,Lots,Precious Memories | Lots,2
+Rebirth For You,,card_game,Rebirth For You,Rebirth For You,1
+Rebirth For You,,card_product_type,Singles,Rebirth For You | Singles,2
+Rebirth For You,,card_product_type,Sealed Products,Rebirth For You | Sealed Products,2
+Rebirth For You,,card_product_type,Sets,Rebirth For You | Sets,2
+Rebirth For You,,card_product_type,Lots,Rebirth For You | Lots,2
+Shadowverse: Evolve,,card_game,Shadowverse: Evolve,Shadowverse: Evolve,1
+Shadowverse: Evolve,,card_product_type,Singles,Shadowverse: Evolve | Singles,2
+Shadowverse: Evolve,,card_product_type,Sealed Products,Shadowverse: Evolve | Sealed Products,2
+Shadowverse: Evolve,,card_product_type,Sets,Shadowverse: Evolve | Sets,2
+Shadowverse: Evolve,,card_product_type,Lots,Shadowverse: Evolve | Lots,2
+Star Wars: Destiny,,card_game,Star Wars: Destiny,Star Wars: Destiny,1
+Star Wars: Destiny,,card_product_type,Singles,Star Wars: Destiny | Singles,2
+Star Wars: Destiny,,card_product_type,Sealed Products,Star Wars: Destiny | Sealed Products,2
+Star Wars: Destiny,,card_product_type,Sets,Star Wars: Destiny | Sets,2
+Star Wars: Destiny,,card_product_type,Lots,Star Wars: Destiny | Lots,2
+Transformer,,card_game,Transformer,Transformer,1
+Transformer,,card_product_type,Singles,Transformer | Singles,2
+Transformer,,card_product_type,Sealed Products,Transformer | Sealed Products,2
+Transformer,,card_product_type,Sets,Transformer | Sets,2
+Transformer,,card_product_type,Lots,Transformer | Lots,2
+Union Avenue,,card_game,Union Avenue,Union Avenue,1
+Union Avenue,,card_product_type,Singles,Union Avenue | Singles,2
+Union Avenue,,card_product_type,Sealed Products,Union Avenue | Sealed Products,2
+Union Avenue,,card_product_type,Sets,Union Avenue | Sets,2
+Union Avenue,,card_product_type,Lots,Union Avenue | Lots,2
+Vividz,,card_game,Vividz,Vividz,1
+Vividz,,card_product_type,Singles,Vividz | Singles,2
+Vividz,,card_product_type,Sealed Products,Vividz | Sealed Products,2
+Vividz,,card_product_type,Sets,Vividz | Sets,2
+Vividz,,card_product_type,Lots,Vividz | Lots,2
+Weiss Schwarz,,card_game,Weiss Schwarz,Weiss Schwarz,1
+Weiss Schwarz,,card_product_type,Singles,Weiss Schwarz | Singles,2
+Weiss Schwarz,,card_product_type,Sealed Products,Weiss Schwarz | Sealed Products,2
+Weiss Schwarz,,card_product_type,Sets,Weiss Schwarz | Sets,2
+Weiss Schwarz,,card_product_type,Lots,Weiss Schwarz | Lots,2
+WIXOSS,,card_game,WIXOSS,WIXOSS,1
+WIXOSS,,card_product_type,Singles,WIXOSS | Singles,2
+WIXOSS,,card_product_type,Sealed Products,WIXOSS | Sealed Products,2
+WIXOSS,,card_product_type,Sets,WIXOSS | Sets,2
+WIXOSS,,card_product_type,Lots,WIXOSS | Lots,2
+Yu Gi Oh!,,card_game,Yu Gi Oh!,Yu Gi Oh!,1
+Yu Gi Oh!,,card_product_type,Singles,Yu Gi Oh! | Singles,2
+Yu Gi Oh!,,card_product_type,Sealed Products,Yu Gi Oh! | Sealed Products,2
+Yu Gi Oh!,,card_product_type,Sets,Yu Gi Oh! | Sets,2
+Yu Gi Oh!,,card_product_type,Lots,Yu Gi Oh! | Lots,2
+Z/X,,card_game,Z/X,Z/X,1
+Z/X,,card_product_type,Singles,Z/X | Singles,2
+Z/X,,card_product_type,Sealed Products,Z/X | Sealed Products,2
+Z/X,,card_product_type,Sets,Z/X | Sets,2
+Z/X,,card_product_type,Lots,Z/X | Lots,2

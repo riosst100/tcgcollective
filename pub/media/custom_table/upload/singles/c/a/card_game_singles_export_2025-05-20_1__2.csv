@@ -1,0 +1,136 @@
+entity_id,images,card_name,card_rarity,color,card_type,card_artist,language_version,language,card_feature,card_manufacturer,card_sub_type,release_type,card_number,release_date,release_year,card_energy_type,card_hp,card_stage,print_version,card_series,type_of_card,card_illustration,card_category,card_attribute,card_ink,card_franchise,parent_set_code,card_name_jp,card_foil,secret_lair_drop,secret_lair_card_set,insert_card_set_abbreviation,bar_code,bar_code_number,card_set,card_set_jp,card_set_abbreviation
+13394,Stellar-Miracle-sv7-jp-001.jpeg,Ledyba,Common,,,,Japanese,Japanese,,Nintendo,,,1,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,レディバ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13395,Stellar-Miracle-sv7-jp-002.jpeg,Ledian,Rare,,,,Japanese,Japanese,,Nintendo,,,2,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,レディアン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13396,Stellar-Miracle-sv7-jp-003.jpeg,Lileep,Common,,,,Japanese,Japanese,,Nintendo,,,3,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,リリーラ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13397,Stellar-Miracle-sv7-jp-004.jpeg,Cradily,Uncommon,,,,Japanese,Japanese,,Nintendo,,,4,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,ユレイドル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13398,Stellar-Miracle-sv7-jp-005.jpeg,Carnivine,Common,,,,Japanese,Japanese,,Nintendo,,,5,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,マスキッパ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13399,Stellar-Miracle-sv7-jp-006.jpeg,Mow Rotom,Common,,,,Japanese,Japanese,,Nintendo,,,6,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,カットロトム,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13400,Stellar-Miracle-sv7-jp-007.jpeg,Grubbin,Common,,,,Japanese,Japanese,,Nintendo,,,7,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,アゴジムシ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13401,Stellar-Miracle-sv7-jp-008.jpeg,Gossifleur,Common,,,,Japanese,Japanese,,Nintendo,,,8,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ヒメンカ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13402,Stellar-Miracle-sv7-jp-009.jpeg,Eldegoss,Uncommon,,,,Japanese,Japanese,,Nintendo,,,9,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ワタシラガ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13403,Stellar-Miracle-sv7-jp-010.jpeg,Applin,Common,,,,Japanese,Japanese,,Nintendo,,,10,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,カジッチュ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13404,Stellar-Miracle-sv7-jp-011.jpeg,Dipplin,Common,,,,Japanese,Japanese,,Nintendo,,,11,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,カミッチュ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13405,Stellar-Miracle-sv7-jp-012.jpeg,Hydrapple ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,12,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,カミツオロチex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13406,Stellar-Miracle-sv7-jp-013.jpeg,Salandit,Common,,,,Japanese,Japanese,,Nintendo,,,13,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ヤトウモリ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13407,Stellar-Miracle-sv7-jp-014.jpeg,Salazzle,Uncommon,,,,Japanese,Japanese,,Nintendo,,,14,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,エンニュート,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13408,Stellar-Miracle-sv7-jp-015.jpeg,Turtonator,Common,,,,Japanese,Japanese,,Nintendo,,,15,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,バクガメス,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13409,Stellar-Miracle-sv7-jp-016.jpeg,Scorbunny,Common,,,,Japanese,Japanese,,Nintendo,,,16,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ヒバニー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13410,Stellar-Miracle-sv7-jp-017.jpeg,Raboot,Common,,,,Japanese,Japanese,,Nintendo,,,17,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ラビフット,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13411,Stellar-Miracle-sv7-jp-018.jpeg,Cinderace ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,18,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,エースバーンex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13412,Stellar-Miracle-sv7-jp-019.jpeg,Lapras ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,19,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ラプラスex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13413,Stellar-Miracle-sv7-jp-020.jpeg,Finneon,Common,,,,Japanese,Japanese,,Nintendo,,,20,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ケイコウオ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13414,Stellar-Miracle-sv7-jp-021.jpeg,Lumineon,Uncommon,,,,Japanese,Japanese,,Nintendo,,,21,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ネオラント,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13415,Stellar-Miracle-sv7-jp-022.jpeg,Tirtouga,Common,,,,Japanese,Japanese,,Nintendo,,,22,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,プロトーガ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13416,Stellar-Miracle-sv7-jp-023.jpeg,Carracosta,Uncommon,,,,Japanese,Japanese,,Nintendo,,,23,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,アバゴーラ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13417,Stellar-Miracle-sv7-jp-024.jpeg,Crabominable,Uncommon,,,,Japanese,Japanese,,Nintendo,,,24,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ケケンカニ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13418,Stellar-Miracle-sv7-jp-025.jpeg,Chewtle,Common,,,,Japanese,Japanese,,Nintendo,,,25,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,カムカメ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13419,Stellar-Miracle-sv7-jp-026.jpeg,Drednaw,Rare,,,,Japanese,Japanese,,Nintendo,,,26,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,カジリガメ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13420,Stellar-Miracle-sv7-jp-027.jpeg,Veluza,Uncommon,,,,Japanese,Japanese,,Nintendo,,,27,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ミガルーサ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13421,Stellar-Miracle-sv7-jp-028.jpeg,Electabuzz,Common,,,,Japanese,Japanese,,Nintendo,,,28,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,エレブー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13422,Stellar-Miracle-sv7-jp-029.jpeg,Electivire,Uncommon,,,,Japanese,Japanese,,Nintendo,,,29,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,エレキブル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13423,Stellar-Miracle-sv7-jp-030.jpeg,Chinchou,Common,,,,Japanese,Japanese,,Nintendo,,,30,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,チョンチー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13424,Stellar-Miracle-sv7-jp-031.jpeg,Lanturn,Uncommon,,,,Japanese,Japanese,,Nintendo,,,31,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ランターン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13425,Stellar-Miracle-sv7-jp-032.jpeg,Joltik,Common,,,,Japanese,Japanese,,Nintendo,,,32,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,バチュル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13426,Stellar-Miracle-sv7-jp-033.jpeg,Galvantula ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,33,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,デンチュラex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13427,Stellar-Miracle-sv7-jp-034.jpeg,Charjabug,Common,,,,Japanese,Japanese,,Nintendo,,,34,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,デンヂムシ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13428,Stellar-Miracle-sv7-jp-035.jpeg,Vikavolt,Uncommon,,,,Japanese,Japanese,,Nintendo,,,35,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,クワガノン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13429,Stellar-Miracle-sv7-jp-036.jpeg,Togedemaru,Uncommon,,,,Japanese,Japanese,,Nintendo,,,36,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,トゲデマル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13430,Stellar-Miracle-sv7-jp-037.jpeg,Zeraora,Rare,,,,Japanese,Japanese,,Nintendo,,,37,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ゼラオラ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13431,Stellar-Miracle-sv7-jp-038.jpeg,Slowpoke,Common,,,,Japanese,Japanese,,Nintendo,,,38,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ヤドン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13432,Stellar-Miracle-sv7-jp-039.jpeg,Slowking,Uncommon,,,,Japanese,Japanese,,Nintendo,,,39,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ヤドキング,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13433,Stellar-Miracle-sv7-jp-040.jpeg,Drifloon,Common,,,,Japanese,Japanese,,Nintendo,,,40,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,フワンテ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13434,Stellar-Miracle-sv7-jp-041.jpeg,Drifblim,Uncommon,,,,Japanese,Japanese,,Nintendo,,,41,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,フワライド,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13435,Stellar-Miracle-sv7-jp-042.jpeg,Comfey,Common,,,,Japanese,Japanese,,Nintendo,,,42,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,キュワワー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13436,Stellar-Miracle-sv7-jp-043.jpeg,Milcery,Common,,,,Japanese,Japanese,,Nintendo,,,43,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,マホミル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13437,Stellar-Miracle-sv7-jp-044.jpeg,Alcremie,Uncommon,,,,Japanese,Japanese,,Nintendo,,,44,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,マホイップ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13438,Stellar-Miracle-sv7-jp-045.jpeg,Fidough,Common,,,,Japanese,Japanese,,Nintendo,,,45,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,パピモッチ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13439,Stellar-Miracle-sv7-jp-046.jpeg,Dachsbun ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,46,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,バウッツェルex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13440,Stellar-Miracle-sv7-jp-047.jpeg,Iron Boulder,Rare,,,,Japanese,Japanese,,Nintendo,,,47,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,テツノイワオ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13441,Stellar-Miracle-sv7-jp-048.jpeg,Cubone,Common,,,,Japanese,Japanese,,Nintendo,,,48,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,カラカラ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13442,Stellar-Miracle-sv7-jp-049.jpeg,Marowak,Uncommon,,,,Japanese,Japanese,,Nintendo,,,49,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ガラガラ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13443,Stellar-Miracle-sv7-jp-050.jpeg,Rhyhorn,Common,,,,Japanese,Japanese,,Nintendo,,,50,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,サイホーン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13444,Stellar-Miracle-sv7-jp-051.jpeg,Rhydon,Common,,,,Japanese,Japanese,,Nintendo,,,51,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,サイドン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13445,Stellar-Miracle-sv7-jp-052.jpeg,Rhyperior,Rare,,,,Japanese,Japanese,,Nintendo,,,52,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,ドサイドン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13446,Stellar-Miracle-sv7-jp-053.jpeg,Meditite,Common,,,,Japanese,Japanese,,Nintendo,,,53,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,アサナン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13447,Stellar-Miracle-sv7-jp-054.jpeg,Medicham ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,54,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,チャーレムex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13448,Stellar-Miracle-sv7-jp-055.jpeg,Mienfoo,Common,,,,Japanese,Japanese,,Nintendo,,,55,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,コジョフー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13449,Stellar-Miracle-sv7-jp-056.jpeg,Mienshao,Uncommon,,,,Japanese,Japanese,,Nintendo,,,56,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,コジョンド,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13450,Stellar-Miracle-sv7-jp-057.jpeg,Pancham,Common,,,,Japanese,Japanese,,Nintendo,,,57,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ヤンチャム,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13451,Stellar-Miracle-sv7-jp-058.jpeg,Diancie,Uncommon,,,,Japanese,Japanese,,Nintendo,,,58,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ディアンシー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13452,Stellar-Miracle-sv7-jp-059.jpeg,Crabrawler,Common,,,,Japanese,Japanese,,Nintendo,,,59,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,マケンカニ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13453,Stellar-Miracle-sv7-jp-060.jpeg,Falinks,Common,,,,Japanese,Japanese,,Nintendo,,,60,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,タイレーツ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13454,Stellar-Miracle-sv7-jp-061.jpeg,Gulpin,Common,,,,Japanese,Japanese,,Nintendo,,,61,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ゴクリン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13455,Stellar-Miracle-sv7-jp-062.jpeg,Swalot,Uncommon,,,,Japanese,Japanese,,Nintendo,,,62,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,マルノーム,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13456,Stellar-Miracle-sv7-jp-063.jpeg,Pangoro,Uncommon,,,,Japanese,Japanese,,Nintendo,,,63,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ゴロンダ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13457,Stellar-Miracle-sv7-jp-064.jpeg,Impidimp,Common,,,,Japanese,Japanese,,Nintendo,,,64,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ベロバー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13458,Stellar-Miracle-sv7-jp-065.jpeg,Morgrem,Common,,,,Japanese,Japanese,,Nintendo,,,65,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ギモー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13459,Stellar-Miracle-sv7-jp-066.jpeg,Grimmsnarl,Uncommon,,,,Japanese,Japanese,,Nintendo,,,66,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,オーロンゲ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13460,Stellar-Miracle-sv7-jp-067.jpeg,Klink,Common,,,,Japanese,Japanese,,Nintendo,,,67,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ギアル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13461,Stellar-Miracle-sv7-jp-068.jpeg,Klang,Common,,,,Japanese,Japanese,,Nintendo,,,68,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ギギアル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13462,Stellar-Miracle-sv7-jp-069.jpeg,Klinklang,Rare,,,,Japanese,Japanese,,Nintendo,,,69,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,ギギギアル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13463,Stellar-Miracle-sv7-jp-070.jpeg,Meltan,Common,,,,Japanese,Japanese,,Nintendo,,,70,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,メルタン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13464,Stellar-Miracle-sv7-jp-071.jpeg,Melmetal,Uncommon,,,,Japanese,Japanese,,Nintendo,,,71,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,メルメタル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13465,Stellar-Miracle-sv7-jp-072.jpeg,Duraludon,Common,,,,Japanese,Japanese,,Nintendo,,,72,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ジュラルドン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13466,Stellar-Miracle-sv7-jp-073.jpeg,Archaludon,Rare,,,,Japanese,Japanese,,Nintendo,,,73,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ブリジュラス,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13467,Stellar-Miracle-sv7-jp-074.jpeg,Orthworm ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,74,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ミミズズex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13468,Stellar-Miracle-sv7-jp-075.jpeg,Raging Bolt,Rare,,,,Japanese,Japanese,,Nintendo,,,75,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,タケルライコ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13469,Stellar-Miracle-sv7-jp-076.jpeg,Hoothoot,Common,,,,Japanese,Japanese,,Nintendo,,,76,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ホーホー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13470,Stellar-Miracle-sv7-jp-077.jpeg,Noctowl,Rare,,,,Japanese,Japanese,,Nintendo,,,77,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ヨルノズク,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13471,Stellar-Miracle-sv7-jp-078.jpeg,Glameow,Common,,,,Japanese,Japanese,,Nintendo,,,78,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ニャルマー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13472,Stellar-Miracle-sv7-jp-079.jpeg,Purugly,Common,,,,Japanese,Japanese,,Nintendo,,,79,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ブニャット,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13473,Stellar-Miracle-sv7-jp-080.jpeg,Fan Rotom,Common,,,,Japanese,Japanese,,Nintendo,,,80,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,スピンロトム,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13474,Stellar-Miracle-sv7-jp-081.jpeg,Bouffalant,Uncommon,,,,Japanese,Japanese,,Nintendo,,,81,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,バッフロン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13475,Stellar-Miracle-sv7-jp-082.jpeg,Tornadus,Uncommon,,,,Japanese,Japanese,,Nintendo,,,82,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,トルネロス,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13476,Stellar-Miracle-sv7-jp-083.jpeg,Fletchling,Common,,,,Japanese,Japanese,,Nintendo,,,83,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ヤヤコマ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13477,Stellar-Miracle-sv7-jp-084.jpeg,Fletchinder,Common,,,,Japanese,Japanese,,Nintendo,,,84,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ヒノヤコマ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13478,Stellar-Miracle-sv7-jp-085.jpeg,Talonflame,Uncommon,,,,Japanese,Japanese,,Nintendo,,,85,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,ファイアロー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13479,Stellar-Miracle-sv7-jp-086.jpeg,Wooloo,Common,,,,Japanese,Japanese,,Nintendo,,,86,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ウールー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13480,Stellar-Miracle-sv7-jp-087.jpeg,Dubwool,Uncommon,,,,Japanese,Japanese,,Nintendo,,,87,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,バイウールー,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13481,Stellar-Miracle-sv7-jp-088.jpeg,Terapagos ex,Double Rare,,,,Japanese,Japanese,,Nintendo,,,88,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,テラパゴスex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13482,Stellar-Miracle-sv7-jp-089.jpeg,Glass Trumpet,Uncommon,,,,Japanese,Japanese,,Nintendo,,,89,19/7/24,2024,,,Item,Unlimited,Scarlet & Violet Era,,,,,,,,ガラスのラッパ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13483,Stellar-Miracle-sv7-jp-090.jpeg,Antique Root Fossil,Common,,,,Japanese,Japanese,,Nintendo,,,90,19/7/24,2024,,,Item,Unlimited,Scarlet & Violet Era,,,,,,,,古びたねっこの化石,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13484,Stellar-Miracle-sv7-jp-091.jpeg,Antique Cover Fossil,Common,,,,Japanese,Japanese,,Nintendo,,,91,19/7/24,2024,,,Item,Unlimited,Scarlet & Violet Era,,,,,,,,古びたふたの化石,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13485,Stellar-Miracle-sv7-jp-092.jpeg,Payapa Berry,Uncommon,,,,Japanese,Japanese,,Nintendo,,,92,19/7/24,2024,,,Tool,Unlimited,Scarlet & Violet Era,,,,,,,,ウタンのみ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13486,Stellar-Miracle-sv7-jp-093.jpeg,Occa Berry,Uncommon,,,,Japanese,Japanese,,Nintendo,,,93,19/7/24,2024,,,Tool,Unlimited,Scarlet & Violet Era,,,,,,,,オッカのみ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13487,Stellar-Miracle-sv7-jp-094.jpeg,Sparkling Crystal,,,,,Japanese,Japanese,,Nintendo,,,94,19/7/24,2024,,,Tool,Unlimited,Scarlet & Violet Era,,,,,,,,きらめく結晶,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13488,Stellar-Miracle-sv7-jp-095.jpeg,Gravity Orb,Uncommon,,,,Japanese,Japanese,,Nintendo,,,95,19/7/24,2024,,,Tool,Unlimited,Scarlet & Violet Era,,,,,,,,重力玉,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13489,Stellar-Miracle-sv7-jp-096.jpeg,Deluxe Bomb,,,,,Japanese,Japanese,,Nintendo,,,96,19/7/24,2024,,,Tool,Unlimited,Scarlet & Violet Era,,,,,,,,デラックスボム,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13490,Stellar-Miracle-sv7-jp-097.jpeg,Crispin,Uncommon,,,,Japanese,Japanese,,Nintendo,,,97,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,アカマツ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13491,Stellar-Miracle-sv7-jp-098.jpeg,Lacey,Uncommon,,,,Japanese,Japanese,,Nintendo,,,98,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,タロ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13492,Stellar-Miracle-sv7-jp-099.jpeg,Kofu,Uncommon,,,,Japanese,Japanese,,Nintendo,,,99,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,ハイダイ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13493,Stellar-Miracle-sv7-jp-100.jpeg,Briar,Uncommon,,,,Japanese,Japanese,,Nintendo,,,100,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,ブライア,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13494,Stellar-Miracle-sv7-jp-101.jpeg,Great Big Tree,,,,,Japanese,Japanese,,Nintendo,,,101,19/7/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era,,,,,,,,偉大な大樹,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13495,Stellar-Miracle-sv7-jp-102.jpeg,Area Zero Underdepths,Uncommon,,,,Japanese,Japanese,,Nintendo,,,102,19/7/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era,,,,,,,,ゼロの大空洞,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13496,Stellar-Miracle-sv7-jp-103.jpeg,Ledian,Art Rare,,,,Japanese,Japanese,,Nintendo,,,103,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,レディアン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13497,Stellar-Miracle-sv7-jp-104.jpeg,Lileep,Art Rare,,,,Japanese,Japanese,,Nintendo,,,104,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,リリーラ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13498,Stellar-Miracle-sv7-jp-105.jpeg,Turtonator,Art Rare,,,,Japanese,Japanese,,Nintendo,,,105,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,バクガメス,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13499,Stellar-Miracle-sv7-jp-106.jpeg,Raboot,Art Rare,,,,Japanese,Japanese,,Nintendo,,,106,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ラビフット,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13500,Stellar-Miracle-sv7-jp-107.jpeg,Crabominable,Art Rare,,,,Japanese,Japanese,,Nintendo,,,107,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ケケンカニ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13501,Stellar-Miracle-sv7-jp-108.jpeg,Joltik,Art Rare,,,,Japanese,Japanese,,Nintendo,,,108,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,バチュル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13502,Stellar-Miracle-sv7-jp-109.jpeg,Zeraora,Art Rare,,,,Japanese,Japanese,,Nintendo,,,109,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ゼラオラ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13503,Stellar-Miracle-sv7-jp-110.jpeg,Milcery,Art Rare,,,,Japanese,Japanese,,Nintendo,,,110,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,マホミル,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13504,Stellar-Miracle-sv7-jp-111.jpeg,Meditite,Art Rare,,,,Japanese,Japanese,,Nintendo,,,111,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,アサナン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13505,Stellar-Miracle-sv7-jp-112.jpeg,Gulpin,Art Rare,,,,Japanese,Japanese,,Nintendo,,,112,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ゴクリン,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13506,Stellar-Miracle-sv7-jp-113.jpeg,Archaludon,Art Rare,,,,Japanese,Japanese,,Nintendo,,,113,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ブリジュラス,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13507,Stellar-Miracle-sv7-jp-114.jpeg,Noctowl,Art Rare,,,,Japanese,Japanese,,Nintendo,,,114,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,ヨルノズク,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13508,Stellar-Miracle-sv7-jp-115.jpeg,Hydrapple ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,115,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,カミツオロチex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13509,Stellar-Miracle-sv7-jp-116.jpeg,Cinderace ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,116,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,エースバーンex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13510,Stellar-Miracle-sv7-jp-117.jpeg,Lapras ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,117,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ラプラスex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13511,Stellar-Miracle-sv7-jp-118.jpeg,Galvantula ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,118,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,デンチュラex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13512,Stellar-Miracle-sv7-jp-119.jpeg,Dachsbun ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,119,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,バウッツェルex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13513,Stellar-Miracle-sv7-jp-120.jpeg,Medicham ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,120,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,チャーレムex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13514,Stellar-Miracle-sv7-jp-121.jpeg,Orthworm ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,121,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,ミミズズex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13515,Stellar-Miracle-sv7-jp-122.jpeg,Terapagos ex,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,122,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,テラパゴスex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13516,Stellar-Miracle-sv7-jp-123.jpeg,Crispin,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,123,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,アカマツ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13517,Stellar-Miracle-sv7-jp-124.jpeg,Lacey,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,124,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,タロ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13518,Stellar-Miracle-sv7-jp-125.jpeg,Kofu,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,125,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,ハイダイ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13519,Stellar-Miracle-sv7-jp-126.jpeg,Briar,Secret Rare,,,,Japanese,Japanese,,Nintendo,,,126,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,ブライア,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13520,Stellar-Miracle-sv7-jp-127.jpeg,Hydrapple ex,Special Art Rare,,,,Japanese,Japanese,,Nintendo,,,127,19/7/24,2024,,,Stage 2,Unlimited,Scarlet & Violet Era,,,,,,,,カミツオロチex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13521,Stellar-Miracle-sv7-jp-128.jpeg,Galvantula ex,Special Art Rare,,,,Japanese,Japanese,,Nintendo,,,128,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,デンチュラex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13522,Stellar-Miracle-sv7-jp-129.jpeg,Dachsbun ex,Special Art Rare,,,,Japanese,Japanese,,Nintendo,,,129,19/7/24,2024,,,Stage 1,Unlimited,Scarlet & Violet Era,,,,,,,,バウッツェルex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13523,Stellar-Miracle-sv7-jp-130.jpeg,Terapagos ex,Special Art Rare,,,,Japanese,Japanese,,Nintendo,,,130,19/7/24,2024,,,Basic,Unlimited,Scarlet & Violet Era,,,,,,,,テラパゴスex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13524,Stellar-Miracle-sv7-jp-131.jpeg,Lacey,Special Art Rare,,,,Japanese,Japanese,,Nintendo,,,131,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,タロ,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13525,Stellar-Miracle-sv7-jp-132.jpeg,Briar,Special Art Rare,,,,Japanese,Japanese,,Nintendo,,,132,19/7/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era,,,,,,,,ブライア,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13526,Stellar-Miracle-sv7-jp-133.jpeg,Terapagos ex,Ultra Rare,,,,Japanese,Japanese,,Nintendo,,,133,19/7/24,2024,,,C Basic,Unlimited,Scarlet & Violet Era,,,,,,,,テラパゴスex,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13527,Stellar-Miracle-sv7-jp-134.jpeg,Charm of Courage,Ultra Rare,,,,Japanese,Japanese,,Nintendo,,,134,19/7/24,2024,,,Tool,Unlimited,Scarlet & Violet Era,,,,,,,,勇気のおまもり,,,,,,,Stellar Miracle,ステラミラクル,SV7
+13528,Stellar-Miracle-sv7-jp-135.jpeg,Area Zero Underdepths,Ultra Rare,,,,Japanese,Japanese,,Nintendo,,,135,19/7/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era,,,,,,,,ゼロの大空洞,,,,,,,Stellar Miracle,ステラミラクル,SV7

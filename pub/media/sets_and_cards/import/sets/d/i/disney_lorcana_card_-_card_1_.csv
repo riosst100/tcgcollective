@@ -1,0 +1,921 @@
+images,release_year,release_date,card_game,card_set,card_set_abbreviation,card_number,card_name,card_ink,card_type,card_rarity,card_feature,card_illustrator,franchise,card_manufacturer,language
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,1/204,Ariel - On Human Legs,Amber,Character,Uncommon,,Matthew Robert Davies,The Little Mermaid,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,2/204,Ariel - Spectacular Singer,Amber,Character,Super Rare,,Alice Pisoni,The Little Mermaid,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,3/204,Cinderella - Gentle and Kind,Amber,Character,Uncommon,,Javier Salas,Cinderella,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,4/204,Goofy - Musketeer,Amber,Character,Uncommon,,Jochem van Gool,"Mickey, Donald, Goofy: The Three Musketeers",Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,5/204,Hades - King of Olympus,Amber,Character,Rare,,Alex Accorsi,Hercules,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,6/204,Hades - Lord of the Underworld,Amber,Character,Rare,,Randy Bishop,Hercules,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,7/204,HeiHei - Boat Snack,Amber,Character,Common,,Jenna Gray,Moana,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,8/204,LeFou - Bumbler,Amber,Character,Uncommon,,Andrey Chumak,Beauty and the Beast,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,9/204,Lilo - Making a Wish,Amber,Character,Rare,,Dave Beauchene,Lilo & Stitch,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,10/204,Maximus - Palace Horse,Amber,Character,Super Rare,,Brian Weisz,Tangled,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,11/204,Maximus - Relentless Pursuer,Amber,Character,Uncommon,,Kendall Hale,Tangled,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,12/204,Mickey Mouse - True Friend,Amber,Character,Uncommon,,Dave Beauchene,Mickey Mouse & Friends,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,13/204,Minnie Mouse - Beloved Princess,Amber,Character,Common,,Kendall Hale,Mickey Mouse & Friends,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,14/204,Moana - Of Motunui,Amber,Character,Rare,,Nicholas Kole,Moana,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,15/204,Mr. Smee - Loyal First Mate,Amber,Character,Common,,Eri Welli / Kamil Murzyn,Peter Pan,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,16/204,Prince Phillip - Dragonslayer,Amber,Character,Uncommon,,Philipp Kruse,Sleeping Beauty,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,17/204,Pumbaa - Friendly Warthog,Amber,Character,Common,,Jenna Gray,The Lion King,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,18/204,Rapunzel - Gifted with Healing,Amber,Character,Legendary,,Jochem van Gool,Tangled,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,19/204,Sebastian - Court Composer,Amber,Character,Common,,Isaiah Mesq,The Little Mermaid,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,20/204,Simba - Protective Cub,Amber,Character,Common,,Filipe Laurentino,The Lion King,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,21/204,Stitch - Carefree Surfer,Amber,Character,Legendary,,Marcel Berg,Lilo & Stitch,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,22/204,Stitch - New Dog,Amber,Character,Common,,Alex Accorsi,Lilo & Stitch,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,23/204,Stitch - Rock Star,Amber,Character,Super Rare,,Simangaliso Sibaya,Lilo & Stitch,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,24/204,Timon - Grub Rustler,Amber,Character,Common,,Juan Diego Leon,The Lion King,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,25/204,Be Our Guest,Amber,Action,Uncommon,,Rosa la Barbera / Leonardo Giammichele,Beauty and the Beast,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,26/204,Control Your Temper!,Amber,Action,Common,,Amber Kommavongsa,Beauty and the Beast,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,27/204,Hakuna Matata,Amber,Action,Common,,Juan Diego Leon,The Lion King,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,28/204,Healing Glow,Amber,Action,Common,,Philipp Kruse,Tangled,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,29/204,Just in Time,Amber,Action,Rare,,Leonardo Giammichele,Moana,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,30/204,Part of Your World,Amber,Action,Rare,,Samanta Erdini,The Little Mermaid,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,31/204,You Have Forgotten Me,Amber,Action,Uncommon,,Alice Pisoni,Lion King,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,32/204,Dinglehopper,Amber,Item,Common,,Eri Welli,The Little Mermaid,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,33/204,Lantern,Amber,Item,Rare,,Eri Welli,Tangled,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,34/204,Ursula's Shell Necklace,Amber,Item,Rare,,Jenna Gray,The Little Mermaid,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,35/204,Anna - Heir to Arendelle,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,36/204,Archimedes - Highly Educated Owl,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,37/204,Dr. Facilier - Agent Provocateur,Amethyst,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,38/204,Dr. Facilier - Charlatan,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,39/204,Dr. Facilier - Remarkable Gentleman,Amethyst,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,40/204,Elsa - Queen Regent,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,41/204,Elsa - Snow Queen,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,42/204,Elsa - Spirit of Winter,Amethyst,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,43/204,Flotsam - Ursula's Spy,Amethyst,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,44/204,Jafar - Keeper of Secrets,Amethyst,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,45/204,Jafar - Wicked Sorcerer,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,46/204,Jetsam - Ursula's Spy,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,47/204,Magic Broom - Bucket Brigade,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,48/204,Maleficent - Biding Her Time,Amethyst,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,49/204,Maleficent - Sorceress,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,50/204,Marshmallow - Persistent Guardian,Amethyst,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,51/204,Mickey Mouse - Wayward Sorcerer,Amethyst,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,52/204,Olaf - Friendly Snowman,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,53/204,Pascal - Rapunzel's Companion,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,54/204,Rafiki - Mysterious Sage,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,55/204,Sven - Official Ice Deliverer,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,56/204,The Queen - Wicked and Vain,Amethyst,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,57/204,The Wardrobe - Belle's Confidant,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,58/204,Tinker Bell - Peter Pan's Ally,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,59/204,Ursula - Power Hungry,Amethyst,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,60/204,Yzma - Alchemist,Amethyst,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,61/204,Zeus - God of Lightning,Amethyst,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,62/204,Befuddle,Amethyst,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,63/204,Freeze,Amethyst,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,64/204,Friends on the Other Side,Amethyst,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,65/204,Reflection,Amethyst,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,66/204,Magic Mirror,Amethyst,Item,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,67/204,Ursula's Cauldron,Amethyst,Item,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,68/204,White Rabbit's Pocket Watch,Amethyst,Item,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,69/204,Aladdin - Prince Ali,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,70/204,Beast - Wolfsbane,Emerald,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,71/204,Cheshire Cat - Not All There,Emerald,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,72/204,Cruella De Vil - Miserable as Usual,Emerald,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,73/204,Duke of Weselton - Opportunistic Official,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,74/204,Flynn Rider - Charming Rogue,Emerald,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,75/204,Genie - On the Job,Emerald,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,76/204,Genie - Powers Unleashed,Emerald,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,77/204,Genie - The Ever Impressive,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,78/204,Hans - Scheming Prince,Emerald,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,79/204,Horace - No‐Good Scoundrel,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,80/204,Iago - Loud‐Mouthed Parrot,Emerald,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,81/204,Jasper - Common Crook,Emerald,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,82/204,John Silver - Alien Pirate,Emerald,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,83/204,Jumba Jookiba - Renegade Scientist,Emerald,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,84/204,Kuzco - Temperamental Emperor,Emerald,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,85/204,Lady Tremaine - Wicked Stepmother,Emerald,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,86/204,Mad Hatter - Gracious Host,Emerald,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,87/204,Megara - Pulling the Strings,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,88/204,Mickey Mouse - Artful Rogue,Emerald,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,89/204,Mickey Mouse - Steamboat Pilot,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,90/204,Mother Gothel - Selfish Manipulator,Emerald,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,91/204,Peter Pan - Never Landing,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,92/204,Tamatoa - Drab Little Crab,Emerald,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,93/204,Tinker Bell - Most Helpful,Emerald,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,94/204,Do It Again!,Emerald,Action,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,95/204,Mother Knows Best,Emerald,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,96/204,Stampede,Emerald,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,97/204,Steal from the Rich,Emerald,Action,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,98/204,Sudden Chill,Emerald,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,99/204,The Beast is Mine!,Emerald,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,100/204,Vicious Betrayal,Emerald,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,101/204,Dr. Facilier's Cards,Emerald,Item,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,102/204,Stolen Scimitar,Emerald,Item,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,103/204,Abu - Mischievous Monkey,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,104/204,Aladdin - Heroic Outlaw,Ruby,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,105/204,Aladdin - Street Rat,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,106/204,Captain - Colonel's Lieutenant,Ruby,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,107/204,Captain Hook - Ruthless Pirate,Ruby,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,108/204,Donald Duck - Boisterous Fowl,Ruby,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,109/204,Elsa - Ice Surfer,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,110/204,Gaston - Arrogant Hunter,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,111/204,Goofy - Daredevil,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,112/204,LeFou - Instigator,Ruby,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,113/204,Maleficent - Monstrous Dragon,Ruby,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,114/204,Maui - Hero to All,Ruby,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,115/204,Mickey Mouse - Brave Little Tailor,Ruby,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,116/204,Minnie Mouse - Always Classy,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,117/204,Moana - Chosen by the Ocean,Ruby,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,118/204,Mulan - Imperial Soldier,Ruby,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,119/204,Peter Pan - Fearless Fighter,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,120/204,Pongo - Ol' Rascal,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,121/204,Rapunzel - Letting Down Her Hair,Ruby,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,122/204,Scar - Fiery Usurper,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,123/204,Scar - Shameless Firebrand,Ruby,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,124/204,Sergeant Tibbs - Courageous Cat,Ruby,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,125/204,Stitch - Abomination,Ruby,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,126/204,Te Kā - The Burning One,Ruby,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,127/204,Tigger - Wonderful Thing,Ruby,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,128/204,Be Prepared,Ruby,Action,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,129/204,Cut to the Chase,Ruby,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,130/204,Dragon Fire,Ruby,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,131/204,Fan the Flames,Ruby,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,132/204,He's Got a Sword!,Ruby,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,133/204,Tangle,Ruby,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,134/204,Poisoned Apple,Ruby,Item,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,135/204,Shield of Virtue,Ruby,Item,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,136/204,Sword of Truth,Ruby,Item,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,137/204,Ariel - Whoseit Collector,Sapphire,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,138/204,Aurora - Briar Rose,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,139/204,Aurora - Dreaming Guardian,Sapphire,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,140/204,Aurora - Regal Princess,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,141/204,Belle - Inventive Engineer,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,142/204,Belle - Strange but Special,Sapphire,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,143/204,Chief Tui - Respected Leader,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,144/204,Donald Duck - Strutting His Stuff,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,145/204,Flounder - Voice of Reason,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,146/204,Gramma Tala - Storyteller,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,147/204,Hades - Infernal Schemer,Sapphire,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,148/204,Jasmine - Disguised,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,149/204,Jasmine - Queen of Agrabah,Sapphire,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,150/204,Maleficent - Sinister Visitor,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,151/204,Maleficent - Uninvited,Sapphire,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,152/204,Maurice - World‐Famous Inventor,Sapphire,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,153/204,Merlin - Self‐Appointed Mentor,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,154/204,Mickey Mouse - Detective,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,155/204,Mufasa - King of the Pride Lands,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,156/204,Philoctetes - Trainer of Heroes,Sapphire,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,157/204,Robin Hood - Unrivaled Archer,Sapphire,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,158/204,Scar - Mastermind,Sapphire,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,159/204,Tamatoa - So Shiny!,Sapphire,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,160/204,Triton - The Sea King,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,161/204,Develop Your Brain,Sapphire,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,162/204,If it's Not Baroque,Sapphire,Action,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,163/204,Let It Go,Sapphire,Action,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,164/204,One Jump Ahead,Sapphire,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,165/204,Work Together,Sapphire,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,166/204,Coconut Basket,Sapphire,Item,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,167/204,Eye of the Fates,Sapphire,Item,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,168/204,Fishbone Quill,Sapphire,Item,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,169/204,Magic Golden Flower,Sapphire,Item,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,170/204,Scepter of Arendelle,Sapphire,Item,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,171/204,Aladdin - Cornered Swordsman,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,172/204,Beast - Hardheaded,Steel,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,173/204,Captain Hook - Captain of the Jolly Roger,Steel,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,174/204,Captain Hook - Forceful Duelist,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,175/204,Captain Hook - Thinking a Happy Thought,Steel,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,176/204,Cerberus - Three‐Headed Dog,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,177/204,Donald Duck - Musketeer,Steel,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,178/204,Gantu - Galactic Federation Captain,Steel,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,179/204,Goons - Maleficent's Underlings,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,180/204,Hans - Thirteenth in Line,Steel,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,181/204,Hercules - True Hero,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,182/204,Kristoff - Official Ice Master,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,183/204,Kronk - Right‐Hand Man,Steel,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,184/204,Lilo - Galactic Hero,Steel,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,185/204,Maui - Demigod,Steel,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,186/204,Mickey Mouse - Musketeer,Steel,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,187/204,Prince Eric - Dashing and Brave,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,188/204,Simba - Future King,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,189/204,Simba - Returned King,Steel,Character,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,190/204,Simba - Rightful Heir,Steel,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,191/204,Starkey - Hook's Henchman,Steel,Character,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,192/204,Te Kā - Heartless,Steel,Character,Legendary,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,193/204,Tinker Bell - Giant Fairy,Steel,Character,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,194/204,Tinker Bell - Tiny Tactician,Steel,Character,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,195/204,A Whole New World,Steel,Action,Super Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,196/204,Break,Steel,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,197/204,Fire the Cannons!,Steel,Action,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,198/204,Grab Your Sword,Steel,Action,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,199/204,Ransack,Steel,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,200/204,Smash,Steel,Action,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,201/204,Beast's Mirror,Steel,Item,Common,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,202/204,Frying Pan,Steel,Item,Uncommon,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,203/204,Musketeer Tabard,Steel,Item,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,204/204,Plasma Blaster,Steel,Item,Rare,,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,205/204,Hades - King of Olympus,Amber,Character,Enchanted,Alternative Art,Juan Diego Leon,Hades,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,206/204,Stitch - Carefree Surfer,Amber,Character,Enchanted,Alternative Art,Milica Celikovic,Lilo & Stitch,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,207/204,Elsa - Spirit of Winter,Amethyst,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,208/204,Mickey Mouse - Wayward Sorcerer,Amethyst,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,209/204,Genie - On the Job,Emerald,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,210/204,Mickey Mouse - Artful Rogue,Emerald,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,211/204,Aladdin - Heroic Outlaw,Ruby,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,212/204,Maui - Hero to All,Ruby,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,213/204,Aurora - Dreaming Guardian,Sapphire,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,214/204,Belle - Strange but Special,Sapphire,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,215/204,Simba - Returned King,Steel,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,August 18th 2023,Disney Lorcana,The First Chapter,TFC,216/204,Tinker Bell - Giant Fairy,Steel,Character,Enchanted,Alternative Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,1/204,Bashful - Hopeless Romantic,Amber,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,2/204,Christopher Robin - Adventurer,Amber,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,3/204,Cinderella - Ballroom Sensation,Amber,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,4/204,Cobra Bubbles - Just a Social Worker,Amber,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,5/204,Doc - Leader of the Seven Dwarfs,Amber,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,6/204,Dopey - Always Playful,Amber,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,7/204,Eudora - Accomplished Seamstress,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,8/204,Gaston - Baritone Bully,Amber,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,9/204,Grand Duke - Advisor to the King,Amber,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,10/204,Grumpy - Bad‐Tempered,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,11/204,Happy - Good‐Natured,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,12/204,King Louie - Jungle VIP,Amber,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,13/204,Mickey Mouse - Friendly Face,Amber,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,14/204,Mufasa - Betrayed Leader,Amber,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,15/204,Mulan - Free Spirit,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,16/204,Mulan - Reflecting,Amber,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,17/204,Nana - Darling Family Pet,Amber,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,18/204,Piglet - Very Small Animal,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,19/204,Rapunzel - Gifted Artist,Amber,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,20/204,Rapunzel - Sunshine,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,21/204,Sleepy - Nodding Off,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,22/204,Sneezy - Very Allergic,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,23/204,Snow White - Lost in the Forest,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,24/204,Snow White - Unexpected Houseguest,Amber,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,25/204,Snow White - Well Wisher,Amber,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,26/204,The Queen - Commanding Presence,Amber,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,27/204,The Queen - Regal Monarch,Amber,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,28/204,Hold Still,Amber,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,29/204,Last Stand,Amber,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,30/204,Painting the Roses Red,Amber,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,31/204,World's Greatest Criminal Mind,Amber,Action,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,32/204,Zero to Hero,Amber,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,33/204,Dragon Gem,Amber,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,34/204,Sleepy's Flute,Amber,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,35/204,Arthur - Wizard's Apprentice,Amethyst,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,36/204,Blue Fairy - Rewarding Good Deeds,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,37/204,Chip the Teacup - Gentle Soul,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,38/204,Dr. Facilier - Savvy Opportunist,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,39/204,Elsa - Gloves Off,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,40/204,Fairy Godmother - Here to Help,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,41/204,Fairy Godmother - Mystic Armorer,Amethyst,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,42/204,Fairy Godmother - Pure Heart,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,43/204,HeiHei - Persistent Presence,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,44/204,Jiminy Cricket - Pinocchio's Conscience,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,45/204,Kuzco - Wanted Llama,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,46/204,Madam Mim - Fox,Amethyst,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,47/204,Madam Mim - Purple Dragon,Amethyst,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,48/204,Madam Mim - Rival of Merlin,Amethyst,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,49/204,Madam Mim - Snake,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,50/204,Merlin - Crab,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,51/204,Merlin - Goat,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,52/204,Merlin - Rabbit,Amethyst,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,53/204,Merlin - Shapeshifter,Amethyst,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,54/204,Merlin - Squirrel,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,55/204,Peter Pan's Shadow - Not Sewn On,Amethyst,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,56/204,Pinocchio - Star Attraction,Amethyst,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,57/204,Pinocchio - On the Run,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,58/204,Pinocchio - Talkative Puppet,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,59/204,Winnie the Pooh - Hunny Wizard,Amethyst,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,60/204,Yzma - Scary Beyond All Reason,Amethyst,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,61/204,Yzma - Without Beauty Sleep,Amethyst,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,62/204,Gruesome and Grim,Amethyst,Action,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,63/204,I'm Stuck!,Amethyst,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,64/204,Legend of the Sword in the Stone,Amethyst,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,65/204,Binding Contract,Amethyst,Item,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,66/204,Croquet Mallet,Amethyst,Item,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,67/204,Perplexing Signposts,Amethyst,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,68/204,The Sorcerer's Spellbook,Amethyst,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,69/204,Arthur - Trained Swordsman,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,70/204,Beast - Relentless,Emerald,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,71/204,Belle - Bookworm,Emerald,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,72/204,Belle - Hidden Archer,Emerald,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,73/204,Bucky - Squirrel Squeak Tutor,Emerald,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,74/204,Cheshire Cat - Always Grinning,Emerald,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,75/204,Cheshire Cat - From the Shadows,Emerald,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,76/204,Daisy Duck - Secret Agent,Emerald,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,77/204,Donald Duck - Perfect Gentleman,Emerald,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,78/204,Donald Duck - Sleepwalker,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,79/204,Dr. Facilier - Fortune Teller,Emerald,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,80/204,Enchantress - Unexpected Judge,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,81/204,Flynn Rider - Confident Vagabond,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,82/204,Flynn Rider - His Own Biggest Fan,Emerald,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,83/204,Gaston - Scheming Suitor,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,84/204,Little John - Loyal Friend,Emerald,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,85/204,Lucifer - Cunning Cat,Emerald,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,86/204,Pain - Underworld Imp,Emerald,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,87/204,Panic - Underworld Imp,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,88/204,Pete - Bad Guy,Emerald,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,89/204,Prince John - Greediest of All,Emerald,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,90/204,Queen of Hearts - Quick‐Tempered,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,91/204,Ratigan - Criminal Mastermind,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,92/204,Ray - Easygoing Firefly,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,93/204,The Queen - Disguised Peddler,Emerald,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,94/204,Tiana - True Princess,Emerald,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,95/204,Virana - Fang Chief,Emerald,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,96/204,Bibbidi Bobbidi Boo,Emerald,Action,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,97/204,Bounce,Emerald,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,98/204,Hypnotize,Emerald,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,99/204,Improvise,Emerald,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,100/204,Pack Tactics,Emerald,Action,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,101/204,Ring the Bell,Emerald,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,102/204,Ratigan's Marvelous Trap,Emerald,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,103/204,Baloo - Fun‐Loving Bear,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,104/204,Boun - Precocious Entrepreneur,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,105/204,Card Soldiers - Full Deck,Ruby,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,106/204,Donald Duck - Not Again!,Ruby,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,107/204,Felicia - Always Hungry,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,108/204,Fidget - Ratigan's Henchman,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,109/204,Honest John - Not That Honest,Ruby,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,110/204,Lady Tremaine - Imperious Queen,Ruby,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,111/204,Lady Tremaine - Overbearing Matriarch,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,112/204,Lumiere - Hotheaded Candelabra,Ruby,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,113/204,Minnie Mouse - Stylish Surfer,Ruby,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,114/204,Minnie Mouse - Wide‐Eyed Diver,Ruby,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,115/204,Minnie Mouse - Zipping Around,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,116/204,Mother Gothel - Withered and Wicked,Ruby,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,117/204,Mulan - Soldier in Training,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,118/204,Namaari - Nemesis,Ruby,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,119/204,Queen of Hearts - Impulsive Ruler,Ruby,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,120/204,Queen of Hearts - Sensing Weakness,Ruby,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,121/204,Ratigan - Very Large Mouse,Ruby,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,122/204,Raya - Headstrong,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,123/204,Raya - Leader of Heart,Ruby,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,124/204,Raya - Warrior of Kumandra,Ruby,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,125/204,Scar - Vicious Cheater,Ruby,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,126/204,Shere Khan - Menacing Predator,Ruby,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,127/204,Tigger - One of a Kind,Ruby,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,128/204,Tuk Tuk - Wrecking Ball,Ruby,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,129/204,Go the Distance,Ruby,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,130/204,Teeth and Ambitions,Ruby,Action,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,131/204,The Most Diabolical Scheme,Ruby,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,132/204,What Did You Call Me?,Ruby,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,133/204,You Can Fly!,Ruby,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,134/204,Dinner Bell,Ruby,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,135/204,Peter Pan's Dagger,Ruby,Item,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,136/204,Sword in the Stone,Ruby,Item,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,137/204,Alice - Growing Girl,Sapphire,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,138/204,Basil - Great Mouse Detective,Sapphire,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,139/204,Basil - Of Baker Street,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,140/204,Basil - Perceptive Investigator,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,141/204,Caterpillar - Calm and Collected,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,142/204,Cogsworth - Grandfather Clock,Sapphire,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,143/204,Cogsworth - Talking Clock,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,144/204,Cruella De Vil - Fashionable Cruiser,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,145/204,Cruella De Vil - Perfectly Wretched,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,146/204,Duke Weaselton - Small‐Time Crook,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,147/204,Gaston - Intellectual Powerhouse,Sapphire,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,148/204,Grand Pabbie - Oldest and Wisest,Sapphire,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,149/204,Hiram Flaversham - Toymaker,Sapphire,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,150/204,James - Role Model,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,151/204,Jasmine - Heir of Agrabah,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,152/204,Judy Hopps - Optimistic Officer,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,153/204,Mrs. Judson - Housekeeper,Sapphire,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,154/204,Nick Wilde - Wily Fox,Sapphire,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,155/204,Noi - Orphaned Thief,Sapphire,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,156/204,Owl - Logical Lecturer,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,157/204,Prince Charming - Heir to the Throne,Sapphire,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,158/204,Rabbit - Reluctant Host,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,159/204,Sisu - Divine Water Dragon,Sapphire,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,160/204,The Nokk - Water Spirit,Sapphire,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,161/204,Winnie the Pooh - Having a Think,Sapphire,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,162/204,Falling Down the Rabbit Hole,Sapphire,Action,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,163/204,Four Dozen Eggs,Sapphire,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,164/204,Launch,Sapphire,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,165/204,Nothing to Hide,Sapphire,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,166/204,Fang Crossbow,Sapphire,Item,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,167/204,Gumbo Pot,Sapphire,Item,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,168/204,Maurice's Workshop,Sapphire,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,169/204,Pawpsicle,Sapphire,Item,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,170/204,Sardine Can,Sapphire,Item,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,171/204,Beast - Forbidding Recluse,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,172/204,Beast - Selfless Protector,Steel,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,173/204,Beast - Tragic Hero,Steel,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,174/204,Benja - Guardian of the Dragon Gem,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,175/204,Chief Bogo - Respected Officer,Steel,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,176/204,Cinderella - Knight in Training,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,177/204,Cinderella - Stouthearted,Steel,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,178/204,Donald Duck - Deep‐Sea Diver,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,179/204,Eli La Bouff - Big Daddy,Steel,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,180/204,Goofy - Knight for a Day,Steel,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,181/204,Hercules - Divine Hero,Steel,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,182/204,Hercules - Hero in Training,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,183/204,Jafar - Dreadnought,Steel,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,184/204,Jafar - Royal Vizier,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,185/204,Kronk - Junior Chipmunk,Steel,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,186/204,Lawrence - Jealous Manservant,Steel,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,187/204,Li Shang - Archery Instructor,Steel,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,188/204,Magic Broom - Industrial Model,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,189/204,Namaari - Morning Mist,Steel,Character,Legendary,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,190/204,Pacha - Village Leader,Steel,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,191/204,Prince Naveen - Penniless Royal,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,192/204,Queen of Hearts - Capricious Monarch,Steel,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,193/204,Robin Hood - Capable Fighter,Steel,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,194/204,The Huntsman - Reluctant Enforcer,Steel,Character,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,195/204,The Prince - Never Gives Up,Steel,Character,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,196/204,Tiana - Celebrating Princess,Steel,Character,Super Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,197/204,Tiana - Diligent Waitress,Steel,Character,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,198/204,Charge!,Steel,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,199/204,Let the Storm Rage On,Steel,Action,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,200/204,Pick a Fight,Steel,Action,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,201/204,Strength of a Raging Fire,Steel,Action,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,202/204,Last Cannon,Steel,Item,Common,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,203/204,Mouse Armor,Steel,Item,Uncommon,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,204/204,Weight Set,Steel,Item,Rare,,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,205/204,Cinderella - Ballroom Sensation,Amber,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,206/204,Snow White - Well Wisher,Amber,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,207/204,Arthur - Wizard's Apprentice,Amethyst,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,208/204,Madam Mim - Purple Dragon,Amethyst,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,209/204,Pete - Bad Guy,Emerald,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,210/204,Beast - Relentless,Emerald,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,211/204,Lady Tremaine - Imperious Queen,Ruby,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,212/204,Shere Khan - Menacing Predator,Ruby,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,213/204,Alice - Growing Girl,Sapphire,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,214/204,Sisu - Divine Water Dragon,Sapphire,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,215/204,Hercules - Divine Hero,Steel,Character,Enchanted,Alternate Art,,,Disney,English
+,2023,"November 17, 2023",Disney Lorcana,Rise of the Floodborn,ROF,216/204,Namaari - Morning Mist,Steel,Character,Enchanted,Alternate Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,1/204,Baloo - von Bruinwald XIII,Amber,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,2/204,Bernard - Brand‐New Agent,Amber,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,3/204,Chernabog - Evildoer,Amber,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,4/204,Dalmatian Puppy - Tail Wagger,Amber,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,5/204,Joshua Sweet - The Doctor,Amber,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,6/204,Kida - Atlantean,Amber,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,7/204,Kida - Protector of Atlantis,Amber,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,8/204,Lucky - The 15th Puppy,Amber,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,9/204,Minnie Mouse - Musical Artist,Amber,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,10/204,Miss Bianca - Rescue Aid Society Agent,Amber,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,11/204,Mr. Snoops - Inept Businessman,Amber,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,12/204,Nani - Protective Sister,Amber,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,13/204,Orville - Ace Pilot,Amber,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,14/204,Patch - Intimidating Pup,Amber,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,15/204,Perdita - Devoted Mother,Amber,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,16/204,Piglet - Pooh Pirate Captain,Amber,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,17/204,Pluto - Determined Defender,Amber,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,18/204,Pluto - Friendly Pooch,Amber,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,19/204,Pongo - Determined Father,Amber,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,20/204,Queen of Hearts - Wonderland Empress,Amber,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,21/204,Rolly - Hungry Pup,Amber,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,22/204,Tinker Bell - Generous Fairy,Amber,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,23/204,Wendy Darling - Talented Sailor,Amber,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,24/204,99 Puppies,Amber,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,25/204,Boss's Orders,Amber,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,26/204,Heal What Has Been Hurt,Amber,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,27/204,Quick Patch,Amber,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,28/204,The Bare Necessities,Amber,Action,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,29/204,Cleansing Rainwater,Amber,Item,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,30/204,Heart of Atlantis,Amber,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,31/204,Wildcat's Wrench,Amber,Item,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,32/204,Never Land - Mermaid Lagoon,Amber,Location,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,33/204,Pride Lands - Pride Rock,Amber,Location,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,34/204,Tiana's Palace - Jazz Restaurant,Amber,Location,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,35/204,Alice - Tea Alchemist,Amethyst,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,36/204,Chernabog's Followers - Creatures of Evil,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,37/204,Diablo - Faithful Pet,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,38/204,Genie - Supportive Friend,Amethyst,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,39/204,Hydros - Ice Titan,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,40/204,Iago - Pretty Polly,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,41/204,Jafar - Lamp Thief,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,42/204,Jafar - Striking Illusionist,Amethyst,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,43/204,Lena Sabrewing - Rebellious Teenager,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,44/204,Magic Broom - Dancing Duster,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,45/204,Magic Broom - Swift Cleaner,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,46/204,Magic Broom - The Big Sweeper,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,47/204,Magic Carpet - Flying Rug,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,48/204,Magica De Spell - Ambitious Witch,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,49/204,Magica De Spell - The Midas Touch,Amethyst,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,50/204,Magica De Spell - Thieving Sorceress,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,51/204,Maleficent - Mistress of All Evil,Amethyst,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,52/204,Mama Odie - Voice of Wisdom,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,53/204,Pua - Potbellied Buddy,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,54/204,Rafiki - Mystical Fighter,Amethyst,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,55/204,Stratos - Tornado Titan,Amethyst,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,56/204,The Firebird - Force of Destruction,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,57/204,The Queen - Hateful Rival,Amethyst,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,58/204,Treasure Guardian - Protector of the Cave,Amethyst,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,59/204,Ursula - Sea Witch,Amethyst,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,60/204,Bestow a Gift,Amethyst,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,61/204,It Calls Me,Amethyst,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,62/204,Last‐Ditch Effort,Amethyst,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,63/204,The Boss is on a Roll,Amethyst,Action,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,64/204,The Lamp,Amethyst,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,65/204,The Sorcerer's Hat,Amethyst,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,66/204,Forbidden Mountain - Maleficent's Castle,Amethyst,Location,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,67/204,The Queen's Castle - Mirror Chamber,Amethyst,Location,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,68/204,The Sorcerer's Tower - Wondrous Workspace,Amethyst,Location,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,69/204,Cubby - Mighty Lost Boy,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,70/204,Cursed Merfolk - Ursula's Handiwork,Emerald,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,71/204,Don Karnage - Prince of Pirates,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,72/204,Flotsam - Riffraff,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,73/204,Friar Tuck - Priest of Nottingham,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,74/204,Helga Sinclair - Femme Fatale,Emerald,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,75/204,Helga Sinclair - Vengeful Partner,Emerald,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,76/204,Jetsam - Riffraff,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,77/204,Kit Cloudkicker - Tough Guy,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,78/204,Lyle Tiberius Rourke - Cunning Mercenary,Emerald,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,79/204,Milo Thatch - Clever Cartographer,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,80/204,Milo Thatch - King of Atlantis,Emerald,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,81/204,Morph - Space Goo,Emerald,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,82/204,Peter Pan - Lost Boy Leader,Emerald,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,83/204,Prince John - Phony King,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,84/204,Robin Hood - Daydreamer,Emerald,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,85/204,Shenzi - Hyena Pack Leader,Emerald,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,86/204,Sir Hiss - Aggravating Asp,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,87/204,Skippy - Energetic Rabbit,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,88/204,Starkey - Devious Pirate,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,89/204,Stitch - Covert Agent,Emerald,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,90/204,Ursula - Deceiver,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,91/204,Ursula - Deceiver of All,Emerald,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,92/204,Wildcat - Mechanic,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,93/204,Zazu - Steward of the Pride Lands,Emerald,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,94/204,Has Set My Heaaaaaaart...,Emerald,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,95/204,I Will Find My Way,Emerald,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,96/204,Strike a Good Match,Emerald,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,97/204,Airfoil,Emerald,Item,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,98/204,Robin's Bow,Emerald,Item,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,99/204,Starlight Vial,Emerald,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,100/204,De Vil Manor - Cruella's Estate,Emerald,Location,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,101/204,Fang - River City,Emerald,Location,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,102/204,Kuzco's Palace - Home of the Emperor,Emerald,Location,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,103/204,Ariel - Adventurous Collector,Ruby,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,104/204,Billy Bones - Keeper of the Map,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,105/204,Captain Hook - Master Swordsman,Ruby,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,106/204,Della Duck - Unstoppable Mom,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,107/204,HeiHei - Accidental Explorer,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,108/204,Hydra - Deadly Serpent,Ruby,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,109/204,Jim Hawkins - Space Traveler,Ruby,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,110/204,Jim Hawkins - Thrill Seeker,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,111/204,Kakamora - Menacing Sailor,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,112/204,Madame Medusa - The Boss,Ruby,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,113/204,Maui - Soaring Demigod,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,114/204,Maui - Whale,Ruby,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,115/204,Milo Thatch - Spirited Scholar,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,116/204,Moana - Born Leader,Ruby,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,117/204,Moana - Undeterred Voyager,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,118/204,Nutsy - Vulture Henchman,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,119/204,Peter Pan - Never Land Hero,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,120/204,Peter Pan - Pirate's Bane,Ruby,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,121/204,Prince Eric - Expert Helmsman,Ruby,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,122/204,Scroop - Backstabber,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,123/204,Simba - Scrappy Cub,Ruby,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,124/204,Slightly - Lost Boy,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,125/204,Stitch - Little Rocket,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,126/204,Trigger - Not‐So‐Sharp Shooter,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,127/204,Webby Vanderquack - Enthusiastic Duck,Ruby,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,128/204,Divebomb,Ruby,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,129/204,I've Got a Dream,Ruby,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,130/204,On Your Feet! Now!,Ruby,Action,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,131/204,Voyage,Ruby,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,132/204,Maui's Fish Hook,Ruby,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,133/204,Sumerian Talisman,Ruby,Item,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,134/204,Agrabah - Marketplace,Ruby,Location,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,135/204,Jolly Roger - Hook's Ship,Ruby,Location,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,136/204,RLS Legacy - Solar Galleon,Ruby,Location,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,137/204,Audrey Ramirez - The Engineer,Sapphire,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,138/204,Captain Amelia - First in Command,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,139/204,Dewey - Showy Nephew,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,140/204,Flintheart Glomgold - Lone Cheater,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,141/204,Genie - Cramped in the Lamp,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,142/204,Gramma Tala - Keeper of Ancient Stories,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,143/204,Gramma Tala - Spirit of the Ocean,Sapphire,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,144/204,Gyro Gearloose - Gadget Whiz,Sapphire,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,145/204,Huey - Savvy Nephew,Sapphire,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,146/204,King Louie - Bandleader,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,147/204,Kit Cloudkicker - Navigator,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,148/204,Kit Cloudkicker - Spunky Bear Cub,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,149/204,Louie - Chill Nephew,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,150/204,Maid Marian - Delightful Dreamer,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,151/204,Mama Odie - Mystical Maven,Sapphire,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,152/204,Pluto - Mickey's Clever Friend,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,153/204,Rufus - Orphanage Cat,Sapphire,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,154/204,Scrooge McDuck - Richest Duck in the World,Sapphire,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,155/204,Scrooge McDuck - Uncle Moneybags,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,156/204,The Queen - Mirror Seeker,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,157/204,Tinker Bell - Very Clever Fairy,Sapphire,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,158/204,Wendy Darling - Authority on Peter Pan,Sapphire,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,159/204,Distract,Sapphire,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,160/204,Friend Like Me,Sapphire,Action,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,161/204,How Far I'll Go,Sapphire,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,162/204,Repair,Sapphire,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,163/204,Aurelian Gyrosensor,Sapphire,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,164/204,Heart of Te Fiti,Sapphire,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,165/204,Lucky Dime,Sapphire,Item,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,166/204,Scrooge's Top Hat,Sapphire,Item,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,167/204,Vault Door,Sapphire,Item,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,168/204,Belle's House - Maurice's Workshop,Sapphire,Location,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,169/204,McDuck Manor - Scrooge's Mansion,Sapphire,Location,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,170/204,Motunui - Island Paradise,Sapphire,Location,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,171/204,Chief Tui - Proud of Motunui,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,172/204,Eeyore - Overstuffed Donkey,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,173/204,Gustav the Giant - Terror of the Kingdom,Steel,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,174/204,Hades - Hotheaded Ruler,Steel,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,175/204,Helga Sinclair - Right‐Hand Woman,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,176/204,John Silver - Greedy Treasure Seeker,Steel,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,177/204,Kida - Royal Warrior,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,178/204,Little John - Resourceful Outlaw,Steel,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,179/204,Little John - Robin's Pal,Steel,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,180/204,Lythos - Rock Titan,Steel,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,181/204,Mickey Mouse - Stalwart Explorer,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,182/204,Mickey Mouse - Trumpeter,Steel,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,183/204,Minnie Mouse - Funky Spelunker,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,184/204,Mr. Smee - Bumbling Mate,Steel,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,185/204,Mufasa - Champion of the Pride Lands,Steel,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,186/204,Nala - Fierce Friend,Steel,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,187/204,Pyros - Lava Titan,Steel,Character,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,188/204,Razoul - Palace Guard,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,189/204,Robin Hood - Beloved Outlaw,Steel,Character,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,190/204,Robin Hood - Champion of Sherwood,Steel,Character,Legendary,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,191/204,Sheriff of Nottingham - Corrupt Official,Steel,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,192/204,Simba - Fighting Prince,Steel,Character,Super Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,193/204,Simba - Rightful King,Steel,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,194/204,Thaddeus E. Klang - Metallic Leader,Steel,Character,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,195/204,And Then Along Came Zeus,Steel,Action,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,196/204,Ba‐Boom!,Steel,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,197/204,Olympus Would Be That Way,Steel,Action,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,198/204,Rise of the Titans,Steel,Action,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,199/204,Captain Hook's Rapier,Steel,Item,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,200/204,Gizmosuit,Steel,Item,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,201/204,Map of Treasure Planet,Steel,Item,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,202/204,Maui's Place of Exile - Hidden Island,Steel,Location,Rare,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,203/204,Nottingham - Prince John's Castle,Steel,Location,Common,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,204/204,The Bayou - Mysterious Swamp,Steel,Location,Uncommon,,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,4a/204,Dalmatian Puppy - Tail Wagger,Amber,Character,Common,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,4b/204,Dalmatian Puppy - Tail Wagger,Amber,Character,Common,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,4c/204,Dalmatian Puppy - Tail Wagger,Amber,Character,Common,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,4d/204,Dalmatian Puppy - Tail Wagger,Amber,Character,Common,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,4e/204,Dalmatian Puppy - Tail Wagger,Amber,Character,Common,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,205/204,Chernabog - Evildoer,Amber,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,206/204,Kida - Protector of Atlantis,Amber,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,207/204,Pride Lands - Pride Rock,Amber,Location,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,208/204,Jafar - Striking Illusionist,Amethyst,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,209/204,Maleficent - Mistress of All Evil,Amethyst,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,210/204,The Sorcerer's Hat,Amethyst,Item,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,211/204,Morph - Space Goo,Emerald,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,212/204,Ursula - Deceiver of All,Emerald,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,213/204,Kuzco's Palace - Home of the Emperor,Emerald,Location,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,214/204,Captain Hook - Master Swordsman,Ruby,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,215/204,Peter Pan - Pirate's Bane,Ruby,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,216/204,RLS Legacy - Solar Galleon,Ruby,Location,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,217/204,Gramma Tala - Spirit of the Ocean,Sapphire,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,218/204,Scrooge McDuck - Richest Duck in the World,Sapphire,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,219/204,Belle's House - Maurice's Workshop,Sapphire,Location,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,220/204,Mickey Mouse - Trumpeter,Steel,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,221/204,Robin Hood - Champion of Sherwood,Steel,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,222/204,And Then Along Came Zeus,Steel,"Action, Song",Enchanted,Alternative Art,,,Disney,English
+,2024,"Feb 23rd, 2024",Disney Lorcana,Into the Inklands,ITI,223/204,Piglet - Pooh Pirate Captain,Amber,Character,Super Rare,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,1/204,Agustin Madrigal - Clumsy Dad,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,2/204,Alma Madrigal - Family Matriarch,Amber,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,3/204,Ariel - Singing Mermaid,Amber,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,4/204,Cinderella - Melody Weaver,Amber,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,5/204,Cogsworth - Majordomo,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,6/204,Daisy Duck - Lovely Lady,Amber,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,7/204,Daisy Duck - Musketeer Spy,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,8/204,Donald Duck - Musketeer Soldier,Amber,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,9/204,Félix Madrigal - Fun‐Loving Family Man,Amber,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,10/204,Gaston - Despicable Dealer,Amber,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,11/204,Golden Harp - Enchanter of the Land,Amber,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,12/204,Goofy - Musketeer Swordsman,Amber,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,13/204,Julieta Madrigal - Excellent Cook,Amber,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,14/204,Max - Loyal Sheepdog,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,15/204,Mickey Mouse - Leader of the Band,Amber,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,16/204,Mickey Mouse - Musketeer Captain,Amber,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,17/204,Minnie Mouse - Musketeer Champion,Amber,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,18/204,Mirabel Madrigal - Gift of the Family,Amber,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,19/204,Mirabel Madrigal - Prophecy Finder,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,20/204,Pluto - Rescue Dog,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,21/204,Prince Eric - Seafaring Prince,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,22/204,Prince Eric - Ursula's Groom,Amber,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,23/204,Stitch - Alien Dancer,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,24/204,Ursula - Eric's Bride,Amber,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,25/204,Ursula - Vanessa,Amber,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,26/204,Bruno's Return,Amber,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,27/204,First Aid,Amber,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,28/204,Look at this Family,Amber,Action,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,29/204,Lost in the Woods,Amber,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,30/204,Sign the Scroll,Amber,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,31/204,Miracle Candle,Amber,Item,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,32/204,Record Player,Amber,Item,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,33/204,Atlantica - Concert Hall,Amber,Location,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,34/204,The Underworld - River Styx,Amber,Location,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,35/204,Antonio Madrigal - Animal Expert,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,36/204,Belle - Accomplished Mystic,Amethyst,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,37/204,Belle - Untrained Mystic,Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,38/204,Bruno Madrigal - Out of the Shadows,Amethyst,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,39/204,Bruno Madrigal - Undetected Uncle,Amethyst,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,40/204,Camilo Madrigal - Prankster,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,41/204,Dolores Madrigal - Easy Listener,Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,42/204,Elsa - Storm Chaser,Amethyst,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,43/204,"Flotsam - Ursula's ""Baby""",Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,44/204,Flotsam & Jetsam - Entangling Eels,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,45/204,Isabela Madrigal - Golden Child,Amethyst,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,46/204,"Jetsam - Ursula's ""Baby""",Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,47/204,Luisa Madrigal - Magically Strong One,Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,48/204,Magic Broom - Illuminary Keeper,Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,49/204,Magic Broom - Lively Sweeper,Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,50/204,Magical Maid - Feather Duster,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,51/204,Marshmallow - Terrifying Snowman,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,52/204,Mrs. Potts - Enchanted Teapot,Amethyst,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,53/204,Pepa Madrigal - Weather Maker,Amethyst,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,54/204,Peter Pan - Shadow Finder,Amethyst,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,55/204,Pico - Helpful Toucan,Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,56/204,Tick‐Tock - Ever‐Present Pursuer,Amethyst,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,57/204,Ursula - Mad Sea Witch,Amethyst,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,58/204,Ursula - Sea Witch Queen,Amethyst,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,59/204,Yen Sid - Powerful Sorcerer,Amethyst,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,60/204,Poor Unfortunate Souls,Amethyst,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,61/204,Second Star to the Right,Amethyst,Action,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,62/204,Swing Into Action,Amethyst,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,63/204,Ursula's Plan,Amethyst,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,64/204,Mystical Rose,Amethyst,Item,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,65/204,Rose Lantern,Amethyst,Item,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,66/204,Triton's Trident,Amethyst,Item,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,67/204,Casa Madrigal - Casita,Amethyst,Location,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,68/204,Ursula's Lair - Eye of the Storm,Amethyst,Location,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,69/204,Cri‐Kee - Lucky Cricket,Emerald,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,70/204,Diablo - Devoted Herald,Emerald,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,71/204,Diablo - Maleficent's Spy,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,72/204,Gunther - Interior Designer,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,73/204,Gus - Champion of Cheese,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,74/204,Hades - Double Dealer,Emerald,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,75/204,HeiHei - Bumbling Rooster,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,76/204,Hera - Queen of the Gods,Emerald,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,77/204,Jaq - Connoisseur of Climbing,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,78/204,Jasmine - Desert Warrior,Emerald,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,79/204,Megara - Captivating Cynic,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,80/204,Megara - Liberated One,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,81/204,Pain - Immortal Sidekick,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,82/204,Panic - Immortal Sidekick,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,83/204,Pegasus - Cloud Racer,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,84/204,Pegasus - Gift for Hercules,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,85/204,Pete - Born to Cheat,Emerald,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,86/204,Pete - Rotten Guy,Emerald,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,87/204,Prince Phillip - Vanquisher of Foes,Emerald,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,88/204,Prince Phillip - Warden of the Woods,Emerald,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,89/204,The Fates - Only One Eye,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,90/204,The Muses - Proclaimers of Heroes,Emerald,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,91/204,Tor - Florist,Emerald,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,92/204,Zeus - Mr. Lightning Bolts,Emerald,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,93/204,Dodge!,Emerald,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,94/204,Make the Potion,Emerald,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,95/204,Under the Sea,Emerald,Action,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,96/204,Ursula's Trickery,Emerald,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,97/204,We Don't Talk About Bruno,Emerald,Action,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,98/204,Hidden Inkcaster,Emerald,Item,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,99/204,Signed Contract,Emerald,Item,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,100/204,Vision Slab,Emerald,Item,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,101/204,Hidden Cove - Tranquil Haven,Emerald,Location,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,102/204,Ursula's Garden - Full of the Unfortunate,Emerald,Location,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,103/204,Beast - Wounded,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,104/204,Benja - Bold Uniter,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,105/204,Fa Zhou - Mulan's Father,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,106/204,Flynn Rider - Frenemy,Ruby,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,107/204,Goofy - Super Goof,Ruby,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,108/204,Hercules - Clumsy Kid,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,109/204,Hercules - Daring Demigod,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,110/204,Khan - Beloved Steed,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,111/204,Li Shang - General's Son,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,112/204,Li Shang - Valorous General,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,113/204,Lumiere - Fiery Friend,Ruby,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,114/204,Mulan - Elite Archer,Ruby,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,115/204,Mulan - Enemy of Entanglement,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,116/204,Mulan - Injured Soldier,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,117/204,Namaari - Heir of Fang,Ruby,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,118/204,Nessus - River Guardian,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,119/204,Noi - Acrobatic Baby,Ruby,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,120/204,Pegasus - Flying Steed,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,121/204,Raya - Fierce Protector,Ruby,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,122/204,Raya - Guardian of the Dragon Gem,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,123/204,Sisu - Daring Visitor,Ruby,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,124/204,Sisu - Emboldened Warrior,Ruby,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,125/204,Sisu - Empowered Sibling,Ruby,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,126/204,Tong - Survivor,Ruby,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,127/204,Tuk Tuk - Lively Partner,Ruby,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,128/204,A Pirate's Life,Ruby,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,129/204,Be King Undisputed,Ruby,Action,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,130/204,Brawl,Ruby,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,131/204,Imperial Proclamation,Ruby,Item,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,132/204,Medallion Weights,Ruby,Item,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,133/204,The Plank,Ruby,Item,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,134/204,Vitalisphere,Ruby,Item,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,135/204,Snuggly Duckling - Disreputable Pub,Ruby,Location,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,136/204,Training Grounds - Impossible Pillar,Ruby,Location,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,137/204,Anna - Braving the Storm,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,138/204,Anna - True‐Hearted,Sapphire,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,139/204,Ariel - Treasure Collector,Sapphire,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,140/204,Aurora - Lore Guardian,Sapphire,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,141/204,Aurora - Tranquil Princess,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,142/204,Dang Hu - Talon Chief,Sapphire,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,143/204,Fa Li - Mulan's Mother,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,144/204,Flounder - Collector's Companion,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,145/204,Hades - Meticulous Plotter,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,146/204,Hans - Noble Scoundrel,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,147/204,Iduna - Caring Mother,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,148/204,John Silver - Terror of the Realm,Sapphire,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,149/204,Olaf - Carrot Enthusiast,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,150/204,Olaf - Trusting Companion,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,151/204,Pascal - Inquisitive Pet,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,152/204,Prince Phillip - Gallant Defender,Sapphire,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,153/204,Rapunzel - Appreciative Artist,Sapphire,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,154/204,Scuttle - Expert on Humans,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,155/204,Sisu - Wise Friend,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,156/204,The Queen - Diviner,Sapphire,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,157/204,Transformed Chef - Castle Stove,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,158/204,Triton - Champion of Atlantica,Sapphire,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,159/204,Triton - Discerning King,Sapphire,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,160/204,Triton - Young Prince,Sapphire,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,161/204,Tuk Tuk - Curious Partner,Sapphire,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,162/204,Dig a Little Deeper,Sapphire,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,163/204,Glean,Sapphire,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,164/204,Seldom All They Seem,Sapphire,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,165/204,Treasures Untold,Sapphire,Action,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,166/204,Field of Ice,Sapphire,Item,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,167/204,Great Stone Dragon,Sapphire,Item,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,168/204,Ice Block,Sapphire,Item,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,169/204,Ariel's Grotto - A Secret Place,Sapphire,Location,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,170/204,Winter Camp - Medical Tent,Sapphire,Location,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,171/204,Aladdin - Brave Rescuer,Steel,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,172/204,Aladdin - Resolute Swordsman,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,173/204,Arges - The Cyclops,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,174/204,Ariel - Determined Mermaid,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,175/204,Ariel - Sonic Warrior,Steel,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,176/204,Beast - Thick‐Skinned,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,177/204,Chi‐Fu - Imperial Advisor,Steel,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,178/204,Chien‐Po - Imperial Soldier,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,179/204,Donald Duck - Buccaneer,Steel,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,180/204,Hercules - Beloved Hero,Steel,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,181/204,LeFou - Opportunistic Flunky,Steel,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,182/204,Li Shang - Imperial Captain,Steel,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,183/204,Ling - Imperial Soldier,Steel,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,184/204,Luisa Madrigal - Rock of the Family,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,185/204,Magic Broom - Aerial Cleaner,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,186/204,Magic Broom - Brigade Commander,Steel,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,187/204,Mickey Mouse - Playful Sorcerer,Steel,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,188/204,Mickey Mouse - Standard Bearer,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,189/204,Mulan - Armored Fighter,Steel,Character,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,190/204,Philoctetes - No‐Nonsense Instructor,Steel,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,191/204,Piglet - Sturdy Swordsman,Steel,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,192/204,Rajah - Royal Protector,Steel,Character,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,193/204,Raya - Unstoppable Force,Steel,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,194/204,Yao - Imperial Soldier,Steel,Character,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,195/204,Avalanche,Steel,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,196/204,"I Find 'em, I Flatten 'em",Steel,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,197/204,One Last Hope,Steel,Action,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,198/204,The Mob Song,Steel,Action,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,199/204,Triton's Decree,Steel,Action,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,200/204,Fortisphere,Steel,Item,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,201/204,Imperial Bow,Steel,Item,Uncommon,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,202/204,RLS Legacy's Cannon,Steel,Item,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,203/204,The Wall - Border Fortress,Steel,Location,Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,204/204,Thebes - The Big Olive,Steel,Location,Common,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,205/204,Cinderella - Melody Weaver,Amber,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,206/204,Minnie Mouse - Musketeer Champion,Amber,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,207/204,Look at this Family,Amber,Action,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,208/204,Ursula - Sea Witch Queen,Amethyst,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,209/204,Yen Sid - Powerful Sorcerer,Amethyst,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,210/204,Second Star to the Right,Amethyst,Action,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,211/204,Diablo - Devoted Herald,Emerald,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,212/204,Jasmine - Desert Warrior,Emerald,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,213/204,We Don't Talk About Bruno,Emerald,Action,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,214/204,Goofy - Super Goof,Ruby,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,215/204,Sisu - Empowered Sibling,Ruby,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,216/204,Snuggly Duckling - Disreputable Pub,Ruby,Location,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,217/204,Anna - True‐Hearted,Sapphire,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,218/204,The Queen - Diviner,Sapphire,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,219/204,Ariel's Grotto - A Secret Place,Sapphire,Location,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,220/204,Ariel - Sonic Warrior,Steel,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,221/204,Piglet - Sturdy Swordsman,Steel,Character,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,222/204,The Wall - Border Fortress,Steel,Location,Enchanted,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,223/204,Yen Sid - Powerful Sorcerer,Amethyst,Character,Legendary,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,224/204,Mulan - Elite Archer,Ruby,Character,Legendary,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Ursula's Return,,225/204,Mickey Mouse - Playful Sorcerer,Steel,Character,Rare,Alternative Art,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,1/31·EN·Q1,Anna - Ensnared Sister,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,2/31,Bruno Madrigal - Unspeakable Seer,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,3/31,Captain Hook - Devious Duelist,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,4/31,Flotsam - Wicked Defender,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,5/31,Gaston - Egotistical Bully,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,6/31,HeiHei - Peckish Pal,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,7/31,Hercules - Manipulated Hero,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,8/31,Jafar - Double-Crossing Vizier,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,9/31,Jetsam - Wicked Whisperer,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,10/31,Mad Hatter - Sinister Host,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,11/31,Magica De Spell - Shadowy Sorceress,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,12/31,Minnie Mouse - Wild-Eyed Diver,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,13/31,Prince Eric - Grim Groom,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,14/31,Shark - Toothy Terror,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,15/31,Tamatoa - Grabby Crab,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,16/31,Triton's Daughters - Discordant Chorus,,Character,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,17/31,Capsize,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,18/31,Choppy Waters,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,19/31,Crushing Wave,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,20/31,Entangling Magic,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,21/31,Fortunate Hit,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,22/31,Lash Out,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,23/31,Lightning Storm,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,24/31,Riptide,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,25/31,Tentacle Swipe,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,26/31,Tsunami,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,27/31,Typhoon,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,28/31,Whirlpool,,Action,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,29/31,The Hexwell Crown,,Item,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,30/31,Ursula's Contract,,Item,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,31/31,Ursula's Stolen Trident,,Item,,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,223/204·EN·3,Piglet - Pooh Pirate Captain,Amber,Character,Super Rare,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,223/204·EN·4,Yen Sid - Powerful Sorcerer,Amethyst,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,224/204·EN·4,Mulan - Elite Archer,Ruby,Character,Legendary,,,,Disney,English
+,2024,"May 17, 2024",Disney Lorcana,Illumineer's Quest,Deep Trouble,225/204·EN·4,Mickey Mouse - Playful Sorcerer,Steel,Character,Rare,,,,Disney,English

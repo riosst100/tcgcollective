@@ -1,0 +1,58 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Diecast  Vehicles,Vehicles,,,,Diecast | Vehicles
+Diecast  Vehicles,,diecast_categories,Vehicles,1,Diecast | Vehicles
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,Road Cars,2,Diecast | Vehicles | Brands | Road Cars
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,Formula Racing,2,Diecast | Vehicles | Brands | Formula Racing
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,Motorsports,2,Diecast | Vehicles | Brands | Motorsports
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,Bikes,2,Diecast | Vehicles | Brands | Bikes
+Diecast  Vehicles | Brands,,diecast_bikes_categories,Road Bikes,3,Diecast | Vehicles | Brands | Bikes | Road Bikes
+Diecast  Vehicles | Brands,,diecast_bikes_categories,Racing Bikes,3,Diecast | Vehicles | Brands | Bikes | Racing Bikes
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,Emergency Services,2,Diecast | Vehicles | Brands | Emergency Services
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,Heavy Machinery,2,Diecast | Vehicles | Brands | Heavy Machinery
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,Transport Vehicles,2,Diecast | Vehicles | Brands | Transport Vehicles
+Diecast  Vehicles | Brands,,diecast_vehicles_categories,TV/Movies Vehicles,2,Diecast | Vehicles | Brands | TV/Movies Vehicles
+Diecast Aircarfts,Aircrafts,,,,Diecast | Aircrafts
+Diecast Aircrafts,,diecast_categories,Aircrafts,1,Diecast | Aircrafts
+Diecast Aircrafts | Brands,,diecast_aircrafts_categories,Aircrafts,2,Diecast | Aircrafts | Brands | Aircrafts
+Diecast Aircrafts | Brands,,diecast_aircrafts_categories,Helicopters,2,Diecast | Aircrafts | Brands | Helicopters
+Diecast Military,Military,,,,Diecast | Military
+Diecast Military,,diecast_categories,Military,1,Diecast | Military
+Diecast Military | Brands,,diecast_military_vehicles_categories,Military Aircrafts,2,Diecast | Military | Brands | Military Aircrafts
+Diecast Military | Brands,,diecast_military_vehicles_categories,Military Helicopters,2,Diecast | Military | Brands | Military Helicopters
+Diecast Military | Brands,,diecast_military_vehicles_categories,Military Vehicles,2,Diecast | Military | Brands | Military Vehicles
+Diecast Military | Brands,,diecast_military_vehicles_categories,Military Tanks,2,Diecast | Military | Brands | Military Tanks
+Diecast Military | Brands,,diecast_military_vehicles_categories,Military Ships,2,Diecast | Military | Brands | Military Ships
+Diecast Military | Brands,,diecast_military_vehicles_categories,Military Artillery,2,Diecast | Military | Brands | Military Artillery
+Diecast Military | Brands,,diecast_military_vehicles_categories,Military Submarines,2,Diecast | Military | Brands | Military Submarines
+Diecast Accessories,Accessories,,,,Diecast | Accessories
+Diecast Accessories,,diecast_categories,Accessories,1,Diecast | Accessories
+Diecast Accessories | Brands,,diecast_accessories_categories,Helmets,2,Diecast | Accessories | Brands | Helmets
+Diecast Accessories | Brands,,diecast_accessories_categories,Engines,2,Diecast | Accessories | Brands | Engines
+Diecast Accessories | Brands,,diecast_accessories_categories,Figures,2,Diecast | Accessories | Brands | Figures
+Diecast Accessories | Brands,,diecast_accessories_categories,Wheels,2,Diecast | Accessories | Brands | Wheels
+Diecast Accessories | Brands,,diecast_accessories_categories,Others,2,Diecast | Accessories | Brands | Others
+Diecast  Vehicles | Hot Wheels,,diecast_model_kits_brand,Hot Wheels,1,Diecast | Hot Wheels
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,Road Cars,2,Diecast | Vehicles | Hot Wheels | Road Cars
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,Formula Racing,2,Diecast | Vehicles | Hot Wheels | Formula Racing
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,Motorsports,2,Diecast | Vehicles | Hot Wheels | Motorsports
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,Bikes,2,Diecast | Vehicles | Hot Wheels | Bikes
+Diecast  Vehicles | Hot Wheels,,diecast_bikes_categories,Road Bikes,3,Diecast | Vehicles | Hot Wheels | Bikes | Road Bikes
+Diecast  Vehicles | Hot Wheels,,diecast_bikes_categories,Racing Bikes,3,Diecast | Vehicles | Hot Wheels | Bikes | Racing Bikes
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,Emergency Services,2,Diecast | Vehicles | Hot Wheels | Emergency Services
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,Heavy Machinery,2,Diecast | Vehicles | Hot Wheels | Heavy Machinery
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,Transport Vehicles,2,Diecast | Vehicles | Hot Wheels | Transport Vehicles
+Diecast  Vehicles | Hot Wheels,,diecast_vehicles_categories,TV/Movies Vehicles,2,Diecast | Vehicles | Hot Wheels | TV/Movies Vehicles
+Diecast Aircrafts | Hot Wheels,,diecast_aircrafts_categories,Aircrafts,2,Diecast | Aircrafts | Hot Wheels | Aircrafts
+Diecast Aircrafts | Hot Wheels,,diecast_aircrafts_categories,Helicopters,2,Diecast | Aircrafts | Hot Wheels | Helicopters
+Diecast Military | Hot Wheels,,diecast_military_vehicles_categories,Military Aircrafts,2,Diecast | Military | Hot Wheels | Military Aircrafts
+Diecast Military | Hot Wheels,,diecast_military_vehicles_categories,Military Helicopters,2,Diecast | Military | Hot Wheels | Military Helicopters
+Diecast Military | Hot Wheels,,diecast_military_vehicles_categories,Military Vehicles,2,Diecast | Military | Hot Wheels | Military Vehicles
+Diecast Military | Hot Wheels,,diecast_military_vehicles_categories,Military Tanks,2,Diecast | Military | Hot Wheels | Military Tanks
+Diecast Military | Hot Wheels,,diecast_military_vehicles_categories,Military Ships,2,Diecast | Military | Hot Wheels | Military Ships
+Diecast Military | Hot Wheels,,diecast_military_vehicles_categories,Military Artillery,2,Diecast | Military | Hot Wheels | Military Artillery
+Diecast Military | Hot Wheels,,diecast_military_vehicles_categories,Military Submarines,2,Diecast | Military | Hot Wheels | Military Submarines
+Diecast Accessories | Hot Wheels,,diecast_accessories_categories,Helmets,2,Diecast | Accessories | Hot Wheels | Helmets
+Diecast Accessories | Hot Wheels,,diecast_accessories_categories,Engines,2,Diecast | Accessories | Hot Wheels | Engines
+Diecast Accessories | Hot Wheels,,diecast_accessories_categories,Figures,2,Diecast | Accessories | Hot Wheels | Figures
+Diecast Accessories | Hot Wheels,,diecast_accessories_categories,Wheels,2,Diecast | Accessories | Hot Wheels | Wheels
+Diecast Accessories | Hot Wheels,,diecast_accessories_categories,Others,2,Diecast | Accessories | Hot Wheels | Others

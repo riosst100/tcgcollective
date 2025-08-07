@@ -1,0 +1,50 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Dolls | Fashion Dolls,Fashion Dolls,,,,Dolls | Fashion Dolls
+Dolls | Fashion Dolls,,dolls_categories,Fashion Dolls,1,Dolls | Fashion Dolls
+Dolls | Fashion Dolls,,dolls_categories,Fashion Dolls,2,Dolls | Brands | Fashion Dolls
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Complete Dolls,3,Dolls | Brands | Fashion Dolls | Complete Dolls
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Doll Parts,3,Dolls | Brands | Fashion Dolls | Doll Parts
+Dolls | Fashion Dolls,,dolls_parts_categories,Body,4,Dolls | Brands | Fashion Dolls | Doll Parts | Body
+Dolls | Fashion Dolls,,dolls_parts_categories,Head,4,Dolls | Brands | Fashion Dolls | Doll Parts | Head
+Dolls | Fashion Dolls,,dolls_parts_categories,Face,4,Dolls | Brands | Fashion Dolls | Doll Parts | Face
+Dolls | Fashion Dolls,,dolls_parts_categories,Hands,4,Dolls | Brands | Fashion Dolls | Doll Parts | Hands
+Dolls | Fashion Dolls,,dolls_parts_categories,Feet,4,Dolls | Brands | Fashion Dolls | Doll Parts | Feet
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Eyes,3,Dolls | Brands | Fashion Dolls | Eyes
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Fashion,3,Dolls | Brands | Fashion Dolls | Fashion
+Dolls | Fashion Dolls,,dolls_fashion_categories,Clothes,4,Dolls | Brands | Fashion Dolls | Fashion | Clothes
+Dolls | Fashion Dolls,,dolls_fashion_categories,Underwear,4,Dolls | Brands | Fashion Dolls | Fashion | Underwear
+Dolls | Fashion Dolls,,dolls_fashion_categories,Shoes,4,Dolls | Brands | Fashion Dolls | Fashion | Shoes
+Dolls | Fashion Dolls,,dolls_fashion_categories,Socks,4,Dolls | Brands | Fashion Dolls | Fashion | Socks
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Wigs & Hair,3,Dolls | Brands | Fashion Dolls | Wigs & Hair 
+Dolls | Accessories,Accessories,,,,Dolls | Accessories
+Dolls | Accessories,,dolls_categories,Accessories,1,Dolls | Accessories
+Dolls | Accessories,,dolls_categories,Accessories,2,Dolls | Brands | Accessories
+Dolls | Accessories,,dolls_accessories_categories,Make Up,3,Dolls | Brands | Accessories | Make Up
+Dolls | Accessories,,dolls_accessories_categories,Eyelashes,3,Dolls | Brands | Accessories | Eyelashes
+Dolls | Accessories,,dolls_accessories_categories,Jewellery,3,Dolls | Brands | Accessories | Jewellery
+Dolls | Accessories,,dolls_accessories_categories,Doll Stands,3,Dolls | Brands | Accessories | Doll Stands
+Dolls | Accessories,,dolls_accessories_categories,Carry Cases,3,Dolls | Brands | Accessories | Carry Cases
+Dolls | Accessories,,dolls_accessories_categories,Furniture,3,Dolls | Brands | Accessories | Furniture
+Dolls | Good Smile Company,,toys_brand,Good Smile Company,1,Dolls | Good Smile Company
+Dolls | Fashion Dolls | Good Smile Company,,dolls_categories,Fashion Dolls,2,Dolls | Good Smile Company | Fashion Dolls
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_dolls_categories,Complete Dolls,3,Dolls | Good Smile Company | Fashion Dolls | Complete Dolls
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_dolls_categories,Doll Parts,3,Dolls | Good Smile Company | Fashion Dolls | Doll Parts
+Dolls | Fashion Dolls | Good Smile Company,,dolls_parts_categories,Body,4,Dolls | Good Smile Company | Fashion Dolls | Doll Parts | Body
+Dolls | Fashion Dolls | Good Smile Company,,dolls_parts_categories,Head,4,Dolls | Good Smile Company | Fashion Dolls | Doll Parts | Head
+Dolls | Fashion Dolls | Good Smile Company,,dolls_parts_categories,Face,4,Dolls | Good Smile Company | Fashion Dolls | Doll Parts | Face
+Dolls | Fashion Dolls | Good Smile Company,,dolls_parts_categories,Hands,4,Dolls | Good Smile Company | Fashion Dolls | Doll Parts | Hands
+Dolls | Fashion Dolls | Good Smile Company,,dolls_parts_categories,Feet,4,Dolls | Good Smile Company | Fashion Dolls | Doll Parts | Feet
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_dolls_categories,Eyes,3,Dolls | Good Smile Company | Fashion Dolls | Eyes
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_dolls_categories,Fashion,3,Dolls | Good Smile Company | Fashion Dolls | Fashion
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_categories,Clothes,4,Dolls | Good Smile Company | Fashion Dolls | Fashion | Clothes
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_categories,Underwear,4,Dolls | Good Smile Company | Fashion Dolls | Fashion | Underwear
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_categories,Shoes,4,Dolls | Good Smile Company | Fashion Dolls | Fashion | Shoes
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_categories,Socks,4,Dolls | Good Smile Company | Fashion Dolls | Fashion | Socks
+Dolls | Fashion Dolls | Good Smile Company,,dolls_fashion_dolls_categories,Wigs & Hair,3,Dolls | Good Smile Company | Fashion Dolls | Wigs & Hair 
+Dolls | Accessories | Good Smile Company,,dolls_categories,Accessories,2,Dolls | Good Smile Company | Accessories
+Dolls | Accessories | Good Smile Company,,dolls_accessories_categories,Make Up,3,Dolls | Good Smile Company | Accessories | Make Up
+Dolls | Accessories | Good Smile Company,,dolls_accessories_categories,Eyelashes,3,Dolls | Good Smile Company | Accessories | Eyelashes
+Dolls | Accessories | Good Smile Company,,dolls_accessories_categories,Jewellery,3,Dolls | Good Smile Company | Accessories | Jewellery
+Dolls | Accessories | Good Smile Company,,dolls_accessories_categories,Doll Stands,3,Dolls | Good Smile Company | Accessories | Doll Stands
+Dolls | Accessories | Good Smile Company,,dolls_accessories_categories,Carry Cases,3,Dolls | Good Smile Company | Accessories | Carry Cases
+Dolls | Accessories | Good Smile Company,,dolls_accessories_categories,Furniture,3,Dolls | Good Smile Company | Accessories | Furniture

@@ -1,0 +1,408 @@
+﻿release_year,release_date,card_game,card_set,card_set_abbreviation,card_number,card_name,card_rarity,card_energy_type,card_hp,card_stage,card_print_version,card_series,card_manufacturer,card_language,images,card_feature
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,001,Surskit,Common,Grass,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_001.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,002,Masquerain,Uncommon,Grass,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_002.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,003,Froslass ex,Double Rare,Grass,250,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_003.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,004,Pansage,Common,Grass,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_004.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,005,Simisage,Uncommon,Grass,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_005.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,006,Dwebble,Common,Grass,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_006.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,007,Crustle,Common,Grass,130,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_007.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,008,Bounsweet,Common,Grass,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_008.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,009,Steenee,Uncommon,Grass,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_009.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,010,Blipbug,Common,Grass,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_010.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,011,Dottler,Common,Grass,80,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_011.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,012,Orbeetle,Uncommon,Grass,130,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_012.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,013,Nymble,Common,Grass,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_013.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,014,Nymble,Common,Grass,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_014.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,015,Toedscool,Common,Grass,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_015.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,016,Toedscool,Common,Grass,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_016.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,017,Toedscruel,Uncommon,Grass,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_017.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,018,Wo-Chien,Rare,Grass,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_018.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,019,Magby,Common,Fire,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_019.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,020,Pansear,Common,Fire,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_020.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,021,Simisear,Uncommon,Fire,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_021.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,022,Volcanion,Rare,Fire,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_022.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,023,Fuecoco,Common,Fire,80,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_023.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,024,Crocalor,Uncommon,Fire,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_024.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,025,Charcadet,Common,Fire,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_025.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,026,Charcadet,Common,Fire,80,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_026.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,027,Armarouge ex,Double Rare,Fire,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_027.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,028,Iron Moth,Rare,Fire,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_028.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,029,Chi-Yu,Rare,Fire,110,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_029.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,030,Horsea,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_030.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,031,Seadra,Common,Water,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_031.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,032,Kingdra,Rare,Water,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_032.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,033,Remoraid,Common,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_033.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,034,Octillery,Common,Water,110,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_034.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,035,Feebas,Common,Water,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_035.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,036,Milotic,Rare,Water,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_036.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,037,Snorunt,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_037.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,038,Garchomp ex,Double Rare,Water,320,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_038.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,039,Mantyke,Common,Water,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_039.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,040,Palkia,Rare,Water,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_040.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,041,Panpour,Common,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_041.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,042,Simipour,Uncommon,Water,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_042.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,043,Vanillite,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_043.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,044,Vanillish,Common,Water,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_044.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,045,Vanilluxe,Uncommon,Water,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_045.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,046,Tsareena ex,Double Rare,Water,310,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_046.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,047,Wimpod,Common,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_047.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,048,Wimpod,Common,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_048.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,049,Golisopod,Rare,Water,140,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_049.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,050,Golisopod ex,Double Rare,Water,270,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_050.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,051,Wiglett,Common,Water,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_051.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,052,Wiglett,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_052.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,053,Wugtrio,Uncommon,Water,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_053.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,054,Veluza,Uncommon,Water,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_054.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,055,Dondozo,Uncommon,Water,160,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_055.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,056,Iron Bundle,Uncommon,Water,100,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_056.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,057,Chien-Pao,Rare,Water,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_057.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,058,Mewtwo ex,Double Rare,Lightning,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_058.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,059,Elekid,Common,Lightning,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_059.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,060,Plusle,Common,Lightning,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_060.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,061,Minun,Common,Lightning,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_061.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,062,Blitzle,Common,Lightning,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_062.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,063,Zebstrika,Uncommon,Lightning,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_063.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,064,Joltik,Common,Lightning,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_064.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,065,Galvantula,Common,Lightning,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_065.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,066,Zekrom,Rare,Lightning,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_066.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,067,Oricorio,Common,Lightning,90,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_067.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,068,Tapu Koko ex,Double Rare,Lightning,210,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_068.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,069,Toxel,Common,Lightning,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_069.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,070,Iron Hands ex,Double Rare,Lightning,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_070.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,071,Natu,Common,Psychic,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_071.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,072,Xatu,Rare,Psychic,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_072.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,073,Latios,Rare,Psychic,110,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_073.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,074,Deoxys,Rare,Psychic,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_074.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,075,Yamask,Common,Psychic,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_075.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,076,Cofagrigus ex,Double Rare,Psychic,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_076.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,077,Pumpkaboo,Common,Psychic,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_077.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,078,Gourgeist,Uncommon,Psychic,110,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_078.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,079,Flittle,Common,Psychic,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_079.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,080,Flittle,Common,Psychic,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_080.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,081,Espathra,Rare,Psychic,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_081.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,082,Tinkatink,Common,Psychic,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_082.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,083,Tinkatink,Common,Psychic,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_083.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,084,Tinkatuff,Common,Psychic,130,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_084.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,085,Tinkaton,Uncommon,Psychic,130,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_085.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,086,Scream Tail,Uncommon,Psychic,90,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_086.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,087,Gimmighoul,Common,Psychic,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_087.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,088,Gimmighoul,Common,Psychic,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_088.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,089,Iron Valiant ex,Double Rare,Psychic,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_089.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,090,Onix,Common,Fighting,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_090.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,091,Gligar,Common,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_091.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,092,Gliscor,Uncommon,Fighting,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_092.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,093,Groudon,Rare,Fighting,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_093.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,094,Gible,Common,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_094.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,095,Gabite,Uncommon,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_095.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,096,Mienfoo,Common,Fighting,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_096.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,097,Mienshao,Uncommon,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_097.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,098,Hoopa ex,Double Rare,Fighting,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_098.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,099,Minnior,Uncommon,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_099.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,100,Toxtricity ex,Double Rare,Fighting,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_100.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,101,Nacli,Common,Fighting,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_101.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,102,Nacli,Common,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_102.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,103,Naclstack,Common,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_103.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,104,Garganacl,Rare,Fighting,160,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_104.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,105,Klawf,Uncommon,Fighting,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_105.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,106,Flamigo,Common,Fighting,110,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_106.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,107,Slither Wing,Uncommon,Fighting,140,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_107.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,108,Sandy Shocks ex,Double Rare,Fighting,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_108.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,109,Ting-Lu,Rare,Fighting,140,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_109.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,110,Zubat,Common,Darkness,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_110.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,111,Golbat,Common,Darkness,80,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_111.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,112,Crobat,Uncommon,Darkness,130,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_112.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,113,Absol,Uncommon,Darkness,100,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_113.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,114,Purrloin,Common,Darkness,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_114.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,115,Liepard,Common,Darkness,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_115.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,116,Trubbish,Common,Darkness,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_116.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,117,Garbodor,Uncommon,Darkness,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_117.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,118,Yveltal,Rare,Darkness,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_118.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,119,Nickit,Common,Darkness,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_119.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,120,Thievul,Rare,Darkness,110,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_120.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,121,Morpeko,Rare,Darkness,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_121.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,122,Lokix,Rare,Darkness,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_122.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,123,Brute Bonnet,Rare,Darkness,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_123.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,124,Roaring Moon ex,Double Rare,Darkness,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_124.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,125,Steelix,Rare,Metal,180,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_125.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,126,Jirachi,Common,Metal,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_126.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,127,Ferroseed,Common,Metal,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_127.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,128,Ferrothorn,Uncommon,Metal,140,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_128.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,129,Durant,Uncommon,Metal,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_129.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,130,Honedge,Common,Metal,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_130.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,131,Honedge,Common,Metal,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_131.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,132,Doublade,Common,Metal,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_132.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,133,Doublade,Common,Metal,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_133.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,134,Aegislash,Rare,Metal,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_134.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,135,Aegislash ex,Double Rare,Metal,330,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_135.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,136,Zacian,Rare,Metal,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_136.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,137,Skeledirge ex,Double Rare,Metal,330,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_137.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,138,Orthworm,Uncommon,Metal,140,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_138.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,139,Gholdengo ex,Double Rare,Metal,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_139.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,140,Altaria ex,Double Rare,Dragon,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_140.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,141,Tatsugiri,Uncommon,Dragon,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_141.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,142,Porygon,Common,Colorless,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_142.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,143,Porygon2,Common,Colorless,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_143.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,144,Porygon-Z,Rare,Colorless,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_144.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,145,Aipom,Common,Colorless,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_145.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,146,Ambipom,Uncommon,Colorless,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_146.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,147,Miltank,Common,Colorless,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_147.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,148,Whismur,Common,Colorless,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_148.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,149,Loudred,Common,Colorless,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_149.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,150,Exploud,Uncommon,Colorless,160,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_150.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,151,Spinda,Common,Colorless,80,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_151.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,152,Swablu,Common,Colorless,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_152.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,153,Tandemaus,Common,Colorless,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_153.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,154,Tandemaus,Common,Colorless,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_154.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,155,Maushold ex,Double Rare,Colorless,230,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_155.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,156,Bombirdier ex,Double Rare,Colorless,200,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_156.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,157,Cyclizar,Uncommon,Colorless,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_157.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,158,Iron Jugulis,Rare,Colorless,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_158.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,159,Ancient Booster Energy Capsule,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_159.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,160,Counter Catcher,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_160.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,161,Cursed Duster,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_161.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,162,Defiance Vest,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_162.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,163,Earthen Vessel,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_163.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,164,Future Booster Energy Capsule,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_164.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,165,Larry,Common,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_165.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,166,Luxurious Cape,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_166.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,167,Mela,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_167.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,168,Norman,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_168.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,169,Parasol Lady,Common,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_169.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,170,Professor Sada's Vitality,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_170.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,171,Professor Turo's Scenario,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_171.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,172,Rika,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_172.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,173,Roark,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_173.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,174,Shauntal,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_174.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,175,Snorlax Doll,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_175.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,176,Technical Machine: Blindside,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_176.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,177,Technical Machine: Devolution,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_177.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,178,Technical Machine: Evolution,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_178.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,179,Technical Machine: Turbo Energize,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_179.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,180,Techno Radar,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_180.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,181,Tulip,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_181.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,182,Medical Energy,Uncommon,Energy,,Special Energy,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_182.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,183,Crustle,Illustration Rare,Grass,130,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_183.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,184,Dottler,Illustration Rare,Grass,80,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_184.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,185,Toedscruel,Illustration Rare,Grass,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_185.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,186,Magby,Illustration Rare,Fire,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_186.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,187,Iron Moth,Illustration Rare,Fire,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_187.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,188,Snorunt,Illustration Rare,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_188.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,189,Mantyke,Illustration Rare,Water,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_189.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,190,Vanillish,Illustration Rare,Water,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_190.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,191,Wimpod,Illustration Rare,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_191.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,192,Veluza,Illustration Rare,Water,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_192.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,193,Plusle,Illustration Rare,Lightning,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_193.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,194,Minun,Illustration Rare,Lightning,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_194.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,195,Blitzle,Illustration Rare,Lightning,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_195.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,196,Joltik,Illustration Rare,Lightning,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_196.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,197,Espathra,Illustration Rare,Psychic,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_197.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,198,Gimmighoul,Illustration Rare,Psychic,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_198.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,199,Groudon,Illustration Rare,Fighting,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_199.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,200,Mienshao,Illustration Rare,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_200.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,201,Minior,Illustration Rare,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_201.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,202,Garganacl,Illustration Rare,Fighting,160,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_202.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,203,Slither Wing,Illustration Rare,Fighting,140,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_203.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,204,Garbodor,Illustration Rare,Darkness,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_204.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,205,Yveltal,Illustration Rare,Darkness,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_205.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,206,Morpeko,Illustration Rare,Darkness,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_206.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,207,Brute Bonnet,Illustration Rare,Darkness,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_207.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,208,Steelix,Illustration Rare,Metal,180,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_208.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,209,Ferrothorn,Illustration Rare,Metal,140,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_209.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,210,Aegislash,Illustration Rare,Metal,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_210.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,211,Aipom,Illustration Rare,Colorless,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_211.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,212,Loudred,Illustration Rare,Colorless,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_212.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,213,Swablu,Illustration Rare,Colorless,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_213.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,214,Porygon-Z,Illustration Rare,Colorless,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_214.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,215,Cyclizar,Illustration Rare,Colorless,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_215.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,216,Iron Jugulis,Illustration Rare,Colorless,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_216.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,217,Froslass ex,Ultra Rare,Grass,250,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_217.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,218,Armarouge ex,Ultra Rare,Fire,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_218.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,219,Garchomp ex,Ultra Rare,Water,320,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_219.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,220,Tsareena ex,Ultra Rare,Water,310,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_220.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,221,Golisopod ex,Ultra Rare,Water,270,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_221.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,222,Tapu Koko ex,Ultra Rare,Lightning,210,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_222.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,223,Iron Hands ex,Ultra Rare,Lightning,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_223.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,224,Cofagrigus ex,Ultra Rare,Psychic,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_224.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,225,Iron Valiant ex,Ultra Rare,Psychic,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_225.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,226,Hoopa ex,Ultra Rare,Fighting,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_226.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,227,Toxtricity ex,Ultra Rare,Fighting,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_227.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,228,Sandy Shocks ex,Ultra Rare,Fighting,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_228.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,229,Roaring Moon ex,Ultra Rare,Darkness,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_229.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,230,Aegislash ex,Ultra Rare,Metal,330,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_230.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,231,Gholdengo ex,Ultra Rare,Metal,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_231.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,232,Altaria ex,Ultra Rare,Dragon,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_232.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,233,Maushold ex,Ultra Rare,Colorless,230,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_233.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,234,Bombirdier ex,Ultra Rare,Colorless,200,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_234.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,235,Larry,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_235.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,236,Mela,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_236.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,237,Norman,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_237.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,238,Parasol Lady,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_238.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,239,Professor Sada's Vitality,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_239.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,240,Professor Turo's Scenario,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_240.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,241,Rika,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_241.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,242,Roark,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_242.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,243,Shauntal,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_243.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,244,Tulip,Ultra Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_244.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,245,Garchomp ex,Special Illustration Rare,Water,320,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_245.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,246,Golisopod ex,Special Illustration Rare,Water,270,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_246.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,247,Tapu Koko ex,Special Illustration Rare,Lightning,210,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_247.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,248,Iron Hands ex,Special Illustration Rare,Lightning,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_248.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,249,Iron Valiant ex,Special Illustration Rare,Psychic,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_249.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,250,Sandy Shocks ex,Special Illustration Rare,Fighting,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_250.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,251,Roaring Moon ex,Special Illustration Rare,Darkness,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_251.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,252,Gholdengo ex,Special Illustration Rare,Metal,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_252.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,253,Altaria ex,Special Illustration Rare,Dragon,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_253.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,254,Mela,Special Illustration Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_254.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,255,Parasol Lady,Special Illustration Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_255.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,256,Professor Sada's Vitality,Special Illustration Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_256.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,257,Professor Turo's Scenario,Special Illustration Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_257.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,258,Rika,Special Illustration Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_258.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,259,Tulip,Special Illustration Rare,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_259.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,260,Garchomp ex,Hyper Rare,Water,320,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_260.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,261,Iron Valiant ex,Hyper Rare,Psychic,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_261.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,262,Roaring Moon ex,Hyper Rare,Darkness,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_262.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,263,Beach Court,Hyper Rare,Trainer,,Stadium,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_263.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,264,Counter Catcher,Hyper Rare,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_264.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,265,Luxurious Cape,Hyper Rare,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_265.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,266,Reversal Energy,Hyper Rare,Energy,,Special Energy,Unlimited,Scarlet & Violet Series,Nintendo,English,sv4_en_266.jpg,
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,024,Crocalor,Uncommon,Fire,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,025,Charcadet,Common,Fire,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,026,Charcadet,Common,Fire,80,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,027,Armarouge ex,Double Rare,Fire,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,029,Chi-Yu,Rare,Fire,110,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,030,Horsea,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,031,Seadra,Common,Water,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,032,Kingdra,Rare,Water,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,033,Remoraid,Common,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,034,Octillery,Common,Water,110,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,035,Feebas,Common,Water,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,036,Milotic,Rare,Water,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,037,Snorunt,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,038,Garchomp ex,Double Rare,Water,320,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,040,Palkia,Rare,Water,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,041,Panpour,Common,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,042,Simipour,Uncommon,Water,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,043,Vanillite,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,044,Vanillish,Common,Water,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,045,Vanilluxe,Uncommon,Water,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,046,Tsareena ex,Double Rare,Water,310,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,048,Wimpod,Common,Water,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,049,Golisopod,Rare,Water,140,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,050,Golisopod ex,Double Rare,Water,270,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,052,Wiglett,Common,Water,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,053,Wugtrio,Uncommon,Water,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,054,Veluza,Uncommon,Water,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,055,Dondozo,Uncommon,Water,160,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,056,Iron Bundle,Uncommon,Water,100,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,057,Chien-Pao,Rare,Water,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,058,Mewtwo ex,Double Rare,Lightning,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,060,Plusle,Common,Lightning,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,061,Minun,Common,Lightning,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,062,Blitzle,Common,Lightning,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,063,Zebstrika,Uncommon,Lightning,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,064,Joltik,Common,Lightning,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,065,Galvantula,Common,Lightning,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,066,Zekrom,Rare,Lightning,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,067,Oricorio,Common,Lightning,90,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,068,Tapu Koko ex,Double Rare,Lightning,210,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,070,Iron Hands ex,Double Rare,Lightning,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,072,Xatu,Rare,Psychic,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,073,Latios,Rare,Psychic,110,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,074,Deoxys,Rare,Psychic,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,075,Yamask,Common,Psychic,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,076,Cofagrigus ex,Double Rare,Psychic,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,078,Gourgeist,Uncommon,Psychic,110,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,079,Flittle,Common,Psychic,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,080,Flittle,Common,Psychic,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,081,Espathra,Rare,Psychic,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,082,Tinkatink,Common,Psychic,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,083,Tinkatink,Common,Psychic,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,084,Tinkatuff,Common,Psychic,130,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,085,Tinkaton,Uncommon,Psychic,130,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,086,Scream Tail,Uncommon,Psychic,90,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,087,Gimmighoul,Common,Psychic,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,088,Gimmighoul,Common,Psychic,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,089,Iron Valiant ex,Double Rare,Psychic,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,091,Gligar,Common,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,092,Gliscor,Uncommon,Fighting,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,093,Groudon,Rare,Fighting,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,094,Gible,Common,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,095,Gabite,Uncommon,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,096,Mienfoo,Common,Fighting,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,097,Mienshao,Uncommon,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,098,Hoopa ex,Double Rare,Fighting,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,100,Toxtricity ex,Double Rare,Fighting,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,102,Nacli,Common,Fighting,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,103,Naclstack,Common,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,104,Garganacl,Rare,Fighting,160,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,105,Klawf,Uncommon,Fighting,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,106,Flamigo,Common,Fighting,110,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,107,Slither Wing,Uncommon,Fighting,140,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,108,Sandy Shocks ex,Double Rare,Fighting,220,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,110,Zubat,Common,Darkness,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,111,Golbat,Common,Darkness,80,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,112,Crobat,Uncommon,Darkness,130,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,113,Absol,Uncommon,Darkness,100,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,114,Purrloin,Common,Darkness,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,115,Liepard,Common,Darkness,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,116,Trubbish,Common,Darkness,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,117,Garbodor,Uncommon,Darkness,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,118,Yveltal,Rare,Darkness,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,119,Nickit,Common,Darkness,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,120,Thievul,Rare,Darkness,110,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,121,Morpeko,Rare,Darkness,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,122,Lokix,Rare,Darkness,120,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,123,Brute Bonnet,Rare,Darkness,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,124,Roaring Moon ex,Double Rare,Darkness,230,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,126,Jirachi,Common,Metal,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,127,Ferroseed,Common,Metal,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,128,Ferrothorn,Uncommon,Metal,140,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,129,Durant,Uncommon,Metal,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,130,Honedge,Common,Metal,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,131,Honedge,Common,Metal,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,132,Doublade,Common,Metal,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,133,Doublade,Common,Metal,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,134,Aegislash,Rare,Metal,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,135,Aegislash ex,Double Rare,Metal,330,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,137,Skeledirge ex,Double Rare,Metal,330,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,139,Gholdengo ex,Double Rare,Metal,260,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,142,Porygon,Common,Colorless,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,143,Porygon2,Common,Colorless,90,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,144,Porygon-Z,Rare,Colorless,150,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,145,Aipom,Common,Colorless,60,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,146,Ambipom,Uncommon,Colorless,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,147,Miltank,Common,Colorless,120,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,148,Whismur,Common,Colorless,70,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,149,Loudred,Common,Colorless,100,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,150,Exploud,Uncommon,Colorless,160,Stage 2,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,151,Spinda,Common,Colorless,80,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,152,Swablu,Common,Colorless,50,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,153,Tandemaus,Common,Colorless,30,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,154,Tandemaus,Common,Colorless,40,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,155,Maushold ex,Double Rare,Colorless,230,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,158,Iron Jugulis,Rare,Colorless,130,Basic,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,159,Ancient Booster Energy Capsule,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,160,Counter Catcher,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,161,Cursed Duster,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,162,Defiance Vest,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,163,Earthen Vessel,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,164,Future Booster Energy Capsule,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,165,Larry,Common,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,166,Luxurious Cape,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,167,Mela,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,168,Norman,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,169,Parasol Lady,Common,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,170,Professor Sada's Vitality,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,171,Professor Turo's Scenario,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,172,Rika,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,173,Roark,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,174,Shauntal,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,175,Snorlax Doll,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,176,Technical Machine: Blindside,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,177,Technical Machine: Devolution,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,178,Technical Machine: Evolution,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,179,Technical Machine: Turbo Energize,Uncommon,Trainer,,Tool,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,180,Techno Radar,Uncommon,Trainer,,Item,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,181,Tulip,Uncommon,Trainer,,Supporter,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,182,Medical Energy,Uncommon,Energy,,Special Energy,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo
+2023,3 November 2023,Pokemon,Paradox Rift,PAR,183,Crustle,Illustration Rare,Grass,130,Stage 1,Unlimited,Scarlet & Violet Series,Nintendo,English,,Rev Holo

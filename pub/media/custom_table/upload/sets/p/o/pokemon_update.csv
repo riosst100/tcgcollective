@@ -1,0 +1,365 @@
+﻿entity_id,card_game,images,card_set,card_set_abbreviation,release_date,release_year,number_of_cards,card_manufacturer,language,card_series,print_version
+1,Pokemon,,Base Set,BS,9/1/99,1999,102,Wizards of the Coast,English,Original Series,1999-2000 Print
+3,Pokemon,,Fossil,FO,10/10/99,1999,62,Wizards of the Coast,English,Original Series,Unlimited
+4,Pokemon,,Base Set 2,B2,24/2/00,2000,130,Wizards of the Coast,English,Original Series,Unlimited
+5,Pokemon,,Team Rocket,TR,24/4/00,2000,82,Wizards of the Coast,English,Original Series,1st Edition
+6,Pokemon,,Gym Heroes,G1,14/8/00,2000,132,Wizards of the Coast,English,Original Series,1st Edition
+7,Pokemon,,Gym Challenge,G2,16/10/00,2000,132,Wizards of the Coast,English,Original Series,Unlimited
+8,Pokemon,,Neo Genesis,N1,16/12/00,2000,111,Wizards of the Coast,English,Neo Series,Unlimited
+9,Pokemon,,Neo Discovery,N2,1/6/01,2001,75,Wizards of the Coast,English,Neo Series,Unlimited
+10,Pokemon,,Neo Revelation,N3,21/9/01,2001,64,Wizards of the Coast,English,Neo Series,Unlimited
+11,Pokemon,,Neo Destiny,N4,28/2/02,2002,105,Wizards of the Coast,English,Neo Series,Unlimited
+121,Pokemon,,Wizards Black Star Promos,WP,1/7/99,1999,53,Wizards of the Coast,English,Original Series,Unlimited
+12,Pokemon,,Legendary Collection,LC,24/5/02,2002,110,Wizards of the Coast,English,Legendary Collection Series,Unlimited
+13,Pokemon,,Expedition Base Set,EX,15/9/02,2002,165,Wizards of the Coast,English,e-Card Series,Unlimited
+14,Pokemon,,Aquapolis,AQ,15/1/03,2003,186,Wizards of the Coast,English,e-Card Series,Unlimited
+15,Pokemon,,Skyridge,SK,12/5/03,2003,182,Wizards of the Coast,English,e-Card Series,Unlimited
+16,Pokemon,,EX Ruby & Sapphire,RS,18/6/03,2003,109,Nintendo,English,EX Series,Unlimited
+17,Pokemon,,EX Sandstorm,SS,17/9/03,2003,100,Nintendo,English,EX Series,Unlimited
+18,Pokemon,,EX Dragon,DR,24/11/03,2003,100,Nintendo,English,EX Series,Unlimited
+19,Pokemon,,EX Team Magma vs Team Aqua,MA,15/3/04,2004,97,Nintendo,English,EX Series,Unlimited
+20,Pokemon,,EX Hidden Legends,HL,14/6/04,2004,102,Nintendo,English,EX Series,Unlimited
+21,Pokemon,,EX FireRed & LeafGreen,FL,30/8/04,2004,116,Nintendo,English,EX Series,Unlimited
+22,Pokemon,,EX Team Rocket Returns,TRR,8/11/04,2004,111,Nintendo,English,EX Series,Unlimited
+23,Pokemon,,EX Deoxys,DX,14/2/05,2005,108,Nintendo,English,EX Series,Unlimited
+24,Pokemon,,EX Emerald,EM,9/5/05,2005,107,Nintendo,English,EX Series,Unlimited
+25,Pokemon,,EX Unseen Forces,UF,22/8/05,2005,145,Nintendo,English,EX Series,Unlimited
+26,Pokemon,,EX Delta Species,DS,31/10/05,2005,114,Nintendo,English,EX Series,Unlimited
+27,Pokemon,,EX Legend Maker,LM,13/2/06,2006,93,Nintendo,English,EX Series,Unlimited
+28,Pokemon,,EX Holon Phantoms,HP,3/5/06,2006,111,Nintendo,English,EX Series,Unlimited
+29,Pokemon,,EX Crystal Guardians,CG,30/8/06,2006,100,Nintendo,English,EX Series,Unlimited
+30,Pokemon,,EX Dragon Frontiers,DF,8/11/06,2006,101,Nintendo,English,EX Series,Unlimited
+31,Pokemon,,EX Power Keepers,PK,14/2/07,2007,108,Nintendo,English,EX Series,Unlimited
+122,Pokemon,,Nintendo Black Star Promos,NP,1/9/03,2003,40,Nintendo,English,EX Series,Unlimited
+32,Pokemon,,Diamond & Pearl,DP,23/5/07,2007,130,Nintendo,English,Diamond & Pearl Series,Unlimited
+33,Pokemon,,Mysterious Treasures,MT,22/8/07,2007,124,Nintendo,English,Diamond & Pearl Series,Unlimited
+34,Pokemon,,Secret Wonders,SW,7/11/07,2007,132,Nintendo,English,Diamond & Pearl Series,Unlimited
+35,Pokemon,,Great Encounters,GE,13/2/08,2008,106,Nintendo,English,Diamond & Pearl Series,Unlimited
+36,Pokemon,,Majestic Dawn,MD,21/5/08,2008,100,Nintendo,English,Diamond & Pearl Series,Unlimited
+37,Pokemon,,Legends Awakened,LA,20/8/08,2008,146,Nintendo,English,Diamond & Pearl Series,Unlimited
+38,Pokemon,,Stormfront,SF,5/11/08,2008,106,Nintendo,English,Diamond & Pearl Series,Unlimited
+123,Pokemon,,DP Black Star Promos,DPP,1/5/07,2007,56,Nintendo,English,Diamond & Pearl Series,Unlimited
+39,Pokemon,,Platinum,PL,11/2/09,2009,133,Nintendo,English,Platinum Series,Unlimited
+40,Pokemon,,Rising Rivals,RR,16/5/09,2009,120,Nintendo,English,Platinum Series,Unlimited
+41,Pokemon,,Supreme Victors,SV,19/8/09,2009,153,Nintendo,English,Platinum Series,Unlimited
+42,Pokemon,,Arceus,AR,4/11/09,2009,111,Nintendo,English,Platinum Series,Unlimited
+43,Pokemon,,HeartGold & SoulSilver,HS,10/2/10,2010,123,Nintendo,English,HeartGold & SoulSilver Series,Unlimited
+44,Pokemon,,Unleashed,UL,12/5/10,2010,96,Nintendo,English,HeartGold & SoulSilver Series,Unlimited
+45,Pokemon,,Undaunted,UD,18/8/10,2010,91,Nintendo,English,HeartGold & SoulSilver Series,Unlimited
+46,Pokemon,,Triumphant,TM,2/11/10,2010,103,Nintendo,English,HeartGold & SoulSilver Series,Unlimited
+124,Pokemon,,HGSS Black Star Promos ,HSP,1/2/10,2020,25,Nintendo,English,HeartGold & SoulSilver Series,Unlimited
+47,Pokemon,,Call of Legends,CL,9/2/11,2011,106,Nintendo,English,Call of Legends Series,Unlimited
+48,Pokemon,,Black & White,BLW,25/4/11,2011,115,Nintendo,English,Black & White Series,Unlimited
+49,Pokemon,,Emerging Powers,EPO,31/8/11,2011,98,Nintendo,English,Black & White Series,Unlimited
+50,Pokemon,,Noble Victories,NVI,16/11/11,2011,102,Nintendo,English,Black & White Series,Unlimited
+51,Pokemon,,Next Destinies,NXD,8/2/12,2012,103,Nintendo,English,Black & White Series,Unlimited
+52,Pokemon,,Dark Explorers,DEX,9/5/12,2012,111,Nintendo,English,Black & White Series,Unlimited
+53,Pokemon,,Dragons Exalted,DRX,15/8/12,2012,128,Nintendo,English,Black & White Series,Unlimited
+54,Pokemon,,Dragon Vault,DRV,6/10/12,2012,21,Nintendo,English,Black & White Series,Unlimited
+55,Pokemon,,Boundaries Crossed,BCR,7/11/12,2012,153,Nintendo,English,Black & White Series,Unlimited
+56,Pokemon,,Plasma Storm,PLS,6/2/13,2013,138,Nintendo,English,Black & White Series,Unlimited
+57,Pokemon,,Plasma Freeze,PLF,8/5/13,2013,122,Nintendo,English,Black & White Series,Unlimited
+58,Pokemon,,Plasma Blast,PLB,14/8/13,2013,105,Nintendo,English,Black & White Series,Unlimited
+59,Pokemon,,Legendary Treasures,LTR,6/11/13,2013,140,Nintendo,English,Black & White Series,Unlimited
+125,Pokemon,,BW Black Star Promos ,BWP,1/3/11,2011,101,Nintendo,English,Black & White Series,Unlimited
+60,Pokemon,,Kalos Starter Set,KSS,8/11/13,2013,39,Nintendo,English,XY Series,Unlimited
+61,Pokemon,,XY,XY,5/2/14,2014,146,Nintendo,English,XY Series,Unlimited
+62,Pokemon,,Flashfire,FLF,7/5/14,2014,109,Nintendo,English,XY Series,Unlimited
+63,Pokemon,,Furious Fists,FFI,13/8/14,2014,113,Nintendo,English,XY Series,Unlimited
+64,Pokemon,,Phantom Forces,PHF,5/11/14,2014,122,Nintendo,English,XY Series,Unlimited
+65,Pokemon,,Primal Clash,PRC,4/2/15,2015,164,Nintendo,English,XY Series,Unlimited
+66,Pokemon,,Double Crisis,DCR,25/3/15,2015,34,Nintendo,English,XY Series,Unlimited
+67,Pokemon,,Roaring Skies,ROS,6/5/15,2015,110,Nintendo,English,XY Series,Unlimited
+68,Pokemon,,Ancient Origins,AOR,12/8/15,2015,100,Nintendo,English,XY Series,Unlimited
+69,Pokemon,,BREAKthrough,BKT,4/11/15,2015,164,Nintendo,English,XY Series,Unlimited
+70,Pokemon,,BREAKpoint,BKP,2/2/16,2016,123,Nintendo,English,XY Series,Unlimited
+71,Pokemon,,Generations,GEN,22/2/16,2016,115,Nintendo,English,XY Series,Unlimited
+72,Pokemon,,Fates Collide,FCO,2/5/16,2016,124,Nintendo,English,XY Series,Unlimited
+73,Pokemon,,Steam Siege,STS,3/8/16,2016,114,Nintendo,English,XY Series,Unlimited
+74,Pokemon,,Evolutions,EVO,2/11/16,2016,108,Nintendo,English,XY Series,Unlimited
+126,Pokemon,,XY Black Star Promos ,XYP,1/10/13,2013,211,Nintendo,English,XY Series,Unlimited
+75,Pokemon,,Sun & Moon,SUM,3/2/17,2017,163,Nintendo,English,Sun & Moon Series,Unlimited
+76,Pokemon,,Guardians Rising,GRI,5/5/17,2017,169,Nintendo,English,Sun & Moon Series,Unlimited
+77,Pokemon,,Burning Shadows,BUS,4/8/17,2017,169,Nintendo,English,Sun & Moon Series,Unlimited
+78,Pokemon,,Shining Legends,SLG,6/10/17,2017,78,Nintendo,English,Sun & Moon Series,Unlimited
+79,Pokemon,,Crimson Invasion,CIN,3/11/17,2017,124,Nintendo,English,Sun & Moon Series,Unlimited
+80,Pokemon,,Ultra Prism,UPR,2/2/18,2018,173,Nintendo,English,Sun & Moon Series,Unlimited
+81,Pokemon,,Forbidden Light,FLI,4/5/18,2018,146,Nintendo,English,Sun & Moon Series,Unlimited
+82,Pokemon,,Celestial Storm,CES,3/8/18,2018,183,Nintendo,English,Sun & Moon Series,Unlimited
+83,Pokemon,,Dragon Majesty,DRM,7/9/18,2018,78,Nintendo,English,Sun & Moon Series,Unlimited
+84,Pokemon,,Lost Thunder,LOT,2/11/18,2018,236,Nintendo,English,Sun & Moon Series,Unlimited
+85,Pokemon,,Team Up,TEU,1/2/19,2019,196,Nintendo,English,Sun & Moon Series,Unlimited
+86,Pokemon,,Detective Pikachu,DET,29/3/19,2019,18,Nintendo,English,Sun & Moon Series,Unlimited
+87,Pokemon,,Unbroken Bonds,UNB,3/5/19,2019,234,Nintendo,English,Sun & Moon Series,Unlimited
+88,Pokemon,,Unified Minds,UNM,2/8/19,2019,258,Nintendo,English,Sun & Moon Series,Unlimited
+89,Pokemon,,Hidden Fates,HIF,23/8/19,2019,163,Nintendo,English,Sun & Moon Series,Unlimited
+90,Pokemon,,Cosmic Eclipse,CEC,1/11/19,2019,271,Nintendo,English,Sun & Moon Series,Unlimited
+127,Pokemon,,SM Black Star Promos ,SMP,1/11/16,2016,248,Nintendo,English,Sun & Moon Series,Unlimited
+91,Pokemon,,Sword & Shield,SSH,7/2/20,2020,216,Nintendo,English,Sword & Shield Series,Unlimited
+92,Pokemon,,Rebel Clash,RCL,1/5/20,2020,209,Nintendo,English,Sword & Shield Series,Unlimited
+93,Pokemon,,Darkness Ablaze,DAA,14/8/20,2020,201,Nintendo,English,Sword & Shield Series,Unlimited
+94,Pokemon,,Champion's Path,CPA,25/9/20,2020,80,Nintendo,English,Sword & Shield Series,Unlimited
+95,Pokemon,,Vivid Voltage,VIV,13/11/20,2020,203,Nintendo,English,Sword & Shield Series,Unlimited
+96,Pokemon,,Shining Fates,SHF,19/2/21,2021,195,Nintendo,English,Sword & Shield Series,Unlimited
+97,Pokemon,,Battle Styles,BST,19/3/21,2021,183,Nintendo,English,Sword & Shield Series,Unlimited
+98,Pokemon,,Chilling Reign,CRE,18/6/21,2021,133,Nintendo,English,Sword & Shield Series,Unlimited
+99,Pokemon,,Evolving Skies,EVS,27/8/21,2021,237,Nintendo,English,Sword & Shield Series,Unlimited
+100,Pokemon,,Celebrations,CEL,8/10/21,2021,50,Nintendo,English,Sword & Shield Series,Unlimited
+101,Pokemon,,Fusion Strike,FST,12/11/21,2021,284,Nintendo,English,Sword & Shield Series,Unlimited
+102,Pokemon,,Brilliant Stars,BRS,25/2/22,2022,216,Nintendo,English,Sword & Shield Series,Unlimited
+103,Pokemon,,Astral Radiance,ASR,27/5/22,2022,246,Nintendo,English,Sword & Shield Series,Unlimited
+104,Pokemon,,Pokémon GO,PGO,1/7/22,2022,88,Nintendo,English,Sword & Shield Series,Unlimited
+105,Pokemon,,Lost Origin,LOR,9/9/22,2022,247,Nintendo,English,Sword & Shield Series,Unlimited
+106,Pokemon,,Silver Tempest,SIT,11/11/22,2022,245,Nintendo,English,Sword & Shield Series,Unlimited
+107,Pokemon,,Crown Zenith,CRZ,20/1/23,2023,230,Nintendo,English,Sword & Shield Series,Unlimited
+128,Pokemon,,SWSH Black Star Promos,SSP,1/11/19,2019,307,Nintendo,English,Sword & Shield Series,Unlimited
+108,Pokemon,,Scarlet & Violet,SVI,31/3/23,2023,258,Nintendo,English,Scarlet & Violet Series,Unlimited
+109,Pokemon,,Paldea Evolved,PAL,9/6/23,2023,279,Nintendo,English,Scarlet & Violet Series,Unlimited
+110,Pokemon,,Obsidian Flames,OBF,11/8/23,2023,230,Nintendo,English,Scarlet & Violet Series,Unlimited
+111,Pokemon,,Scarlet & Violet 151,MEW,22/9/23,2023,207,Nintendo,English,Scarlet & Violet Series,Unlimited
+112,Pokemon,,Paradox Rift,PAR,3/11/23,2023,266,Nintendo,English,Scarlet & Violet Series,Unlimited
+113,Pokemon,,Paldean Fates,PAF,26/1/24,2024,245,Nintendo,English,Scarlet & Violet Series,Unlimited
+114,Pokemon,,Temporal Forces,TEF,22/3/24,2024,218,Nintendo,English,Scarlet & Violet Series,Unlimited
+115,Pokemon,,Twilight Masquerade,TWM,24/5/24,2024,226,Nintendo,English,Scarlet & Violet Series,Unlimited
+116,Pokemon,,Shrouded Fable,SFA,2/8/24,2024,99,Nintendo,English,Scarlet & Violet Series,Unlimited
+117,Pokemon,,Stellar Crown,SCR,13/9/24,2024,175,Nintendo,English,Scarlet & Violet Series,Unlimited
+118,Pokemon,,Surging Sparks,SSP,8/11/24,2024,252,Nintendo,English,Scarlet & Violet Series,Unlimited
+119,Pokemon,,Prismatic Evolutions,PRE,17/1/25,2025,180,Nintendo,English,Scarlet & Violet Series,Unlimited
+129,Pokemon,,SV Black Star Promos,SVP,1/1/23,2023,202,Nintendo,English,Scarlet & Violet Series,Unlimited
+120,Pokemon,,Scarlet & Violet Energies,SVE,31/3/23,2023,16,Nintendo,English,Scarlet & Violet Series,Unlimited
+130,Pokemon,,McDonald's Collection 2011,M11,17/6/11,2011,12,Nintendo,English,McDonald's Series,Unlimited
+131,Pokemon,,McDonald's Collection 2012,M12,15/6/12,2012,12,Nintendo,English,McDonald's Series,Unlimited
+132,Pokemon,,McDonald's Collection 2013,M13,13/10/13,2013,12,Nintendo,English,McDonald's Series,Unlimited
+133,Pokemon,,McDonald's Collection 2014,M14,23/5/14,2014,12,Nintendo,English,McDonald's Series,Unlimited
+134,Pokemon,,McDonald's Collection 2015,M15,14/10/15,2015,12,Nintendo,English,McDonald's Series,Unlimited
+135,Pokemon,,McDonald's Collection 2016,M16,19/8/16,2016,12,Nintendo,English,McDonald's Series,Unlimited
+136,Pokemon,,McDonald's Collection 2017,M17,1/7/17,2017,12,Nintendo,English,McDonald's Series,Unlimited
+137,Pokemon,,McDonald's Collection 2018,M18,16/10/18,2018,12,Nintendo,English,McDonald's Series,Unlimited
+138,Pokemon,,McDonald's Collection 2018 (French),M18F,13/6/18,2018,12,Nintendo,English,McDonald's Series,Unlimited
+139,Pokemon,,McDonald's Collection 2019,M19,15/10/19,2019,12,Nintendo,English,McDonald's Series,Unlimited
+140,Pokemon,,McDonald's Collection 2019 (French),M19F,30/10/19,2019,40,Nintendo,English,McDonald's Series,Unlimited
+141,Pokemon,,McDonald's Collection 2021,M21,9/2/21,2021,25,Nintendo,English,McDonald's Series,Unlimited
+142,Pokemon,,McDonald's Match Battle 2022,M22,3/8/22,2022,15,Nintendo,English,McDonald's Series,Unlimited
+143,Pokemon,,McDonald's Match Battle 2023,M23,27/7/23,2023,15,Nintendo,English,McDonald's Series,Unlimited
+146,Pokemon,,POP Series 1,POP1,1/9/04,2004,17,Nintendo,English,Play! Pokémon Series,Unlimited
+147,Pokemon,,POP Series 2,POP2,1/8/05,2005,17,Nintendo,English,Play! Pokémon Series,Unlimited
+148,Pokemon,,POP Series 3,POP3,1/4/06,2006,17,Nintendo,English,Play! Pokémon Series,Unlimited
+149,Pokemon,,POP Series 4,POP4,1/8/06,2006,17,Nintendo,English,Play! Pokémon Series,Unlimited
+150,Pokemon,,POP Series 5,POP5,1/3/07,2007,17,Nintendo,English,Play! Pokémon Series,Unlimited
+151,Pokemon,,POP Series 6,POP6,1/9/07,2007,17,Nintendo,English,Play! Pokémon Series,Unlimited
+152,Pokemon,,POP Series 7,POP7,1/3/08,2008,17,Nintendo,English,Play! Pokémon Series,Unlimited
+153,Pokemon,,POP Series 8,POP8,1/9/08,2008,17,Nintendo,English,Play! Pokémon Series,Unlimited
+154,Pokemon,,POP Series 9,POP9,1/3/09,2009,17,Nintendo,English,Play! Pokémon Series,Unlimited
+155,Pokemon,,Play! Pokémon Prize Pack Series One,,9/11/22,2022,170,Nintendo,English,Play! Pokémon Series,Unlimited
+156,Pokemon,,Play! Pokémon Prize Pack Series Two,,19/1/23,2023,154,Nintendo,English,Play! Pokémon Series,Unlimited
+157,Pokemon,,Play! Pokémon Prize Pack Series Three,,14/8/23,2023,200,Nintendo,English,Play! Pokémon Series,Unlimited
+144,Pokemon,,Trick or Trade 2022,,1/9/22,2022,30,Nintendo,English,Others,Unlimited
+145,Pokemon,,Trick or Trade 2023,,1/9/23,2023,30,Nintendo,English,Others,Unlimited
+158,Pokemon,,Southern Islands,SI,31/7/01,2001,18,Nintendo,English,Others,Unlimited
+159,Pokemon,,Best of Game,BG,1/12/02,2002,9,Nintendo,English,Others,Unlimited
+160,Pokemon,,Poké Card Creator Pack,PCP,1/7/04,2004,5,Nintendo,English,Others,Unlimited
+161,Pokemon,,Pokémon Rumble,RM,2/12/09,2009,16,Nintendo,English,Others,Unlimited
+162,Pokemon,,Pokémon Futsal,FUT20,11/9/20,2020,5,Nintendo,English,Others,Unlimited
+163,Pokemon,,Pokémon Trading Card Game Classic,CL,17/11/23,2023,102,Nintendo,English,Others,Unlimited
+300,Pokemon,,Challenge from the Darkness,,25/6/99,1999,98,Nintendo,Japanese,Original Era,Unlimited
+301,Pokemon,,Leaders' Stadium,,24/10/98,1998,96,Nintendo,Japanese,Original Era,Unlimited
+302,Pokemon,,Pokémon Jungle,,5/3/97,1997,48,Nintendo,Japanese,Original Era,Unlimited
+303,Pokemon,,Mystery of the Fossils,,21/6/97,1997,48,Nintendo,Japanese,Original Era,Unlimited
+304,Pokemon,,Rocket Gang,,21/11/97,1997,65,Nintendo,Japanese,Original Era,Unlimited
+305,Pokemon,,Expansion Pack,,20/10/96,1996,102,Nintendo,Japanese,Original Era,Unlimited
+296,Pokemon,,"Darkness, and to Light",,20/4/01,2001,113,Nintendo,Japanese,neo Era,Unlimited
+297,Pokemon,,"Gold, Silver, to a New World",,4/2/00,2000,96,Nintendo,Japanese,neo Era,Unlimited
+298,Pokemon,,Crossing the Ruins,,7/7/00,2000,56,Nintendo,Japanese,neo Era,Unlimited
+299,Pokemon,,Awakening Legends,,23/11/00,2000,57,Nintendo,Japanese,neo Era,Unlimited
+286,Pokemon,,The Town on No Map,,8/3/02,2002,92,Nintendo,Japanese,e-Card Era,Unlimited
+287,Pokemon,,Wind from the Sea,,24/5/02,2002,90,Nintendo,Japanese,e-Card Era,Unlimited
+288,Pokemon,,Split Earth,,23/8/02,2002,91,Nintendo,Japanese,e-Card Era,Unlimited
+289,Pokemon,,Mysterious Mountains,,4/10/02,2002,91,Nintendo,Japanese,e-Card Era,Unlimited
+290,Pokemon,,Base Expansion Pack,,1/12/01,2001,128,Nintendo,Japanese,e-Card Era,Unlimited
+337,Pokemon,,J Promos,,1/8/01,2001,2,Nintendo,Japanese,e-Card Era,Unlimited
+336,Pokemon,,P Promos,,1/7/01,2001,47,Nintendo,Japanese,e-Card Era,Unlimited
+342,Pokemon,,Pokémon VS,,19/7/01,2001,142,Nintendo,Japanese,VS Era,Unlimited
+343,Pokemon,,Pokémon Web,,10/10/01,2001,48,Nintendo,Japanese,web Era,Unlimited
+251,Pokemon,,Undone Seal,,16/1/04,2004,83,Nintendo,Japanese,ADV Era,Unlimited
+252,Pokemon,,ADV Expansion Pack,,31/1/03,2003,55,Nintendo,Japanese,ADV Era,Unlimited
+253,Pokemon,,Miracle of the Desert,,18/4/03,2003,53,Nintendo,Japanese,ADV Era,Unlimited
+254,Pokemon,,Rulers of the Heavens,,25/5/03,2003,54,Nintendo,Japanese,ADV Era,Unlimited
+255,Pokemon,,Magma VS Aqua: Two Ambitions,,24/10/03,2003,80,Nintendo,Japanese,ADV Era,Unlimited
+332,Pokemon,,ADV Promos,,1/1/03,2003,63,Nintendo,Japanese,ADV Era,Unlimited
+307,Pokemon,,Holon Phantom,,27/1/06,2006,52,Nintendo,Japanese,PCG Era,Unlimited
+308,Pokemon,,Miracle Crystal,,10/3/06,2006,75,Nintendo,Japanese,PCG Era,Unlimited
+309,Pokemon,,Offense and Defense of the Furthest Ends,,29/5/06,2006,68,Nintendo,Japanese,PCG Era,Unlimited
+310,Pokemon,,"Golden Sky, Silvery Ocean",,8/4/05,2005,106,Nintendo,Japanese,PCG Era,Unlimited
+311,Pokemon,,Mirage Forest,,30/6/05,2005,86,Nintendo,Japanese,PCG Era,Unlimited
+312,Pokemon,,Holon Research Tower,,28/10/05,2005,86,Nintendo,Japanese,PCG Era,Unlimited
+313,Pokemon,,Flight of Legends,,9/4/04,2004,82,Nintendo,Japanese,PCG Era,Unlimited
+314,Pokemon,,Clash of the Blue Sky,,1/7/04,2004,82,Nintendo,Japanese,PCG Era,Unlimited
+315,Pokemon,,Rocket Gang Strikes Back,,15/10/04,2004,85,Nintendo,Japanese,PCG Era,Unlimited
+306,Pokemon,,Imprison! Gardevoir ex Constructed Standard Deck,,29/6/06,2006,,Nintendo,Japanese,PCG Era,Unlimited
+331,Pokemon,,PCG Promos,,1/2/04,2004,154,Nintendo,Japanese,PCG Era,Unlimited
+273,Pokemon,,Cry from the Mysterious,DP5,14/3/08,2008,65,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+274,Pokemon,,Temple of Anger,DP5,14/3/08,2008,65,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+275,Pokemon,,Intense Fight in the Destroyed Sky,DPS,10/7/08,2008,92,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+276,Pokemon,,Secret of the Lakes,DP2,2/3/07,2007,123,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+277,Pokemon,,Shining Darkness,DP3,5/7/07,2007,119,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+278,Pokemon,,Moonlit Pursuit,DP4,26/10/07,2007,70,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+279,Pokemon,,Dawn Dash,DP4,26/10/07,2007,70,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+280,Pokemon,,Space-Time Creation,DP1,30/11/06,2006,127,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+281,Pokemon,,World Champions Pack,,5/7/07,2007,108,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+330,Pokemon,,Diamond & Pearl Promos,DPP,1/12/06,2006,127,Nintendo,Japanese,Diamond & Pearl Era,Unlimited
+282,Pokemon,,Beat of the Frontier,DPt3,6/3/09,2009,100,Nintendo,Japanese,Platinum Era,Unlimited
+283,Pokemon,,Advent of Arceus,DPt4,8/7/09,2009,90,Nintendo,Japanese,Platinum Era,Unlimited
+284,Pokemon,,Galactic's Conquest,DPt1,10/10/08,2008,96,Nintendo,Japanese,Platinum Era,Unlimited
+285,Pokemon,,Bonds to the End of Time,DPt2,1/1/70,2008,90,Nintendo,Japanese,Platinum Era,Unlimited
+327,Pokemon,,Platinum Promos,DPtP,1/10/08,2008,51,Nintendo,Japanese,Platinum Era,Unlimited
+291,Pokemon,,Reviving Legends,L2,11/2/10,2010,81,Nintendo,Japanese,LEGEND Era,Unlimited
+292,Pokemon,,Clash at the Summit,L3,8/7/10,2010,81,Nintendo,Japanese,LEGEND Era,Unlimited
+293,Pokemon,,Lost Link,LL,16/4/10,2010,40,Nintendo,Japanese,LEGEND Era,Unlimited
+294,Pokemon,,Heart Gold Collection,L1-Bhg,9/10/09,2009,70,Nintendo,Japanese,LEGEND Era,Unlimited
+295,Pokemon,,Soul Silver Collection,L1-Bss,9/10/09,2009,71,Nintendo,Japanese,LEGEND Era,Unlimited
+325,Pokemon,,LEGEND Promos,LP,1/9/09,2009,79,Nintendo,Japanese,LEGEND Era,Unlimited
+256,Pokemon,,Megalo Cannon,BW9,15/3/13,2013,86,Nintendo,Japanese,Black & White Era,Unlimited
+257,Pokemon,,Shiny Collection,SC,1/2/13,2013,25,Nintendo,Japanese,Black & White Era,Unlimited
+258,Pokemon,,EX Battle Boost,EBB,13/7/13,2013,99,Nintendo,Japanese,Black & White Era,Unlimited
+259,Pokemon,,Dragon Blast,BW5-Brz,16/3/12,2012,55,Nintendo,Japanese,Black & White Era,Unlimited
+260,Pokemon,,Dragon Blade,BW5-Brn,16/3/12,2012,55,Nintendo,Japanese,Black & White Era,Unlimited
+261,Pokemon,,Freeze Bolt,BW6-Bf,13/7/12,2012,65,Nintendo,Japanese,Black & White Era,Unlimited
+262,Pokemon,,Cold Flare,BW6-Bc,13/7/12,2012,65,Nintendo,Japanese,Black & White Era,Unlimited
+263,Pokemon,,Plasma Gale,BW7,14/9/12,2012,79,Nintendo,Japanese,Black & White Era,Unlimited
+264,Pokemon,,Spiral Force,BW8-Brf,14/12/12,2012,58,Nintendo,Japanese,Black & White Era,Unlimited
+265,Pokemon,,Thunder Knuckle,BW8-Brn,14/12/12,2012,58,Nintendo,Japanese,Black & White Era,Unlimited
+266,Pokemon,,Dragon Selection,DS,27/1/12,2012,20,Nintendo,Japanese,Black & White Era,Unlimited
+267,Pokemon,,Red Collection,BW2,1/1/70,2011,72,Nintendo,Japanese,Black & White Era,Unlimited
+268,Pokemon,,Psycho Drive,BW3-Bp,16/9/11,2011,57,Nintendo,Japanese,Black & White Era,Unlimited
+269,Pokemon,,Hail Blizzard,BW3-Bh,16/9/11,2011,57,Nintendo,Japanese,Black & White Era,Unlimited
+270,Pokemon,,Dark Rush,BW4,16/9/11,2011,76,Nintendo,Japanese,Black & White Era,Unlimited
+271,Pokemon,,Black Collection,BW1-Bb,17/12/10,2010,56,Nintendo,Japanese,Black & White Era,Unlimited
+272,Pokemon,,White Collection,BW1-Bw,17/12/10,2010,56,Nintendo,Japanese,Black & White Era,Unlimited
+323,Pokemon,,Black & White Promos,BWP,1/12/10,2010,236,Nintendo,Japanese,Black & White Era,Unlimited
+355,Pokemon,,Emerald Break,XY6,14/3/15,2015,91,Nintendo,Japanese,XY Era,Unlimited
+356,Pokemon,,Bandit Ring,XY7,20/6/15,2015,97,Nintendo,Japanese,XY Era,Unlimited
+357,Pokemon,,Magma Gang VS Aqua Gang: Double Crisis,CP1,30/1/15,2015,34,Nintendo,Japanese,XY Era,Unlimited
+358,Pokemon,,Legendary Shine Collection,CP2,18/7/15,2015,27,Nintendo,Japanese,XY Era,Unlimited
+359,Pokemon,,Wild Blaze,XY2,15/3/14,2014,90,Nintendo,Japanese,XY Era,Unlimited
+360,Pokemon,,Rising Fist,XY3,14/6/14,2014,105,Nintendo,Japanese,XY Era,Unlimited
+361,Pokemon,,Phantom Gate,XY4,13/9/14,2014,97,Nintendo,Japanese,XY Era,Unlimited
+362,Pokemon,,Gaia Volcano,XY5-Bg,13/12/14,2014,80,Nintendo,Japanese,XY Era,Unlimited
+363,Pokemon,,Tidal Storm,XY5-Bt,13/12/14,2014,80,Nintendo,Japanese,XY Era,Unlimited
+364,Pokemon,,Collection X,XY1-Bx,13/12/13,2013,63,Nintendo,Japanese,XY Era,Unlimited
+365,Pokemon,,Collection Y,XY1-By,13/12/13,2013,63,Nintendo,Japanese,XY Era,Unlimited
+366,Pokemon,,XY Beginning Set,HXY,8/11/13,2013,45,Nintendo,Japanese,XY Era,Unlimited
+345,Pokemon,,Awakening Psychic King,XY10,18/3/16,2016,88,Nintendo,Japanese,XY Era,Unlimited
+346,Pokemon,,Fever-Burst Fighter,XY11-Bb,17/6/16,2016,59,Nintendo,Japanese,XY Era,Unlimited
+347,Pokemon,,Cruel Traitor,XY11-Br,17/6/16,2016,59,Nintendo,Japanese,XY Era,Unlimited
+348,Pokemon,,PokéKyun Collection,CP3,29/1/16,2016,32,Nintendo,Japanese,XY Era,Unlimited
+349,Pokemon,,Premium Champion Pack,CP4,16/4/16,2016,131,Nintendo,Japanese,XY Era,Unlimited
+350,Pokemon,,Mythical & Legendary Dream Shine Collection,CP5,16/7/16,2016,38,Nintendo,Japanese,XY Era,Unlimited
+351,Pokemon,,Expansion Pack 20th Anniversary,CP6,16/9/16,2016,103,Nintendo,Japanese,XY Era,Unlimited
+352,Pokemon,,Blue Shock,XY8,25/9/15,2015,65,Nintendo,Japanese,XY Era,Unlimited
+353,Pokemon,,Red Flash,XY8-Br,25/9/15,2015,65,Nintendo,Japanese,XY Era,Unlimited
+354,Pokemon,,Rage of the Broken Heavens,XY9,11/12/15,2015,89,Nintendo,Japanese,XY Era,Unlimited
+321,Pokemon,,XY Promos,XYP,1/8/13,2013,298,Nintendo,Japanese,XY Era,Unlimited
+215,Pokemon,,Double Blaze,SM10,1/3/19,2019,116,Nintendo,Japanese,Sun & Moon Era,Unlimited
+216,Pokemon,,Miracle Twin,SM11,31/5/19,2019,116,Nintendo,Japanese,Sun & Moon Era,Unlimited
+217,Pokemon,,Alter Genesis,SM12,6/9/19,2019,117,Nintendo,Japanese,Sun & Moon Era,Unlimited
+218,Pokemon,,Night Unison,SM9a,11/1/19,2019,70,Nintendo,Japanese,Sun & Moon Era,Unlimited
+219,Pokemon,,Full Metal Wall,SM9b,1/2/19,2019,69,Nintendo,Japanese,Sun & Moon Era,Unlimited
+220,Pokemon,,GG End,SM10a,5/4/19,2019,69,Nintendo,Japanese,Sun & Moon Era,Unlimited
+221,Pokemon,,Sky Legend,SM10b,26/4/19,2019,69,Nintendo,Japanese,Sun & Moon Era,Unlimited
+222,Pokemon,,Remix Bout,SM11a,5/7/19,2019,80,Nintendo,Japanese,Sun & Moon Era,Unlimited
+223,Pokemon,,Dream League,SM11b,2/8/19,2019,75,Nintendo,Japanese,Sun & Moon Era,Unlimited
+224,Pokemon,,Tag All Stars,SM12a,4/10/19,2019,126,Nintendo,Japanese,Sun & Moon Era,Unlimited
+225,Pokemon,,Forbidden Light,SM6,2/3/18,2018,110,Nintendo,Japanese,Sun & Moon Era,Unlimited
+226,Pokemon,,Sky-Splitting Charisma,SM7,1/6/18,2018,112,Nintendo,Japanese,Sun & Moon Era,Unlimited
+227,Pokemon,,Super-Burst Impact,SM8,7/9/18,2018,111,Nintendo,Japanese,Sun & Moon Era,Unlimited
+228,Pokemon,,Tag Bolt,SM9,7/12/18,2018,118,Nintendo,Japanese,Sun & Moon Era,Unlimited
+229,Pokemon,,Ultra Force,SM5+,19/1/18,2018,63,Nintendo,Japanese,Sun & Moon Era,Unlimited
+230,Pokemon,,Dragon Storm,SM6a,6/4/18,2018,66,Nintendo,Japanese,Sun & Moon Era,Unlimited
+231,Pokemon,,Champion Road,SM6b,30/5/18,2018,86,Nintendo,Japanese,Sun & Moon Era,Unlimited
+232,Pokemon,,Thunderclap Spark,SM7a,6/7/18,2018,73,Nintendo,Japanese,Sun & Moon Era,Unlimited
+233,Pokemon,,Fairy Rise,SM7b,3/8/18,2018,63,Nintendo,Japanese,Sun & Moon Era,Unlimited
+234,Pokemon,,Dark Order,SM8a,5/10/18,2018,63,Nintendo,Japanese,Sun & Moon Era,Unlimited
+235,Pokemon,,GX Ultra Shiny,SM8b,1/11/18,2018,250,Nintendo,Japanese,Sun & Moon Era,Unlimited
+236,Pokemon,,Islands Await You,SM2K,17/3/17,2017,62,Nintendo,Japanese,Sun & Moon Era,Unlimited
+237,Pokemon,,Alolan Moonlight,SM2L,17/3/17,2017,62,Nintendo,Japanese,Sun & Moon Era,Unlimited
+238,Pokemon,,To Have Seen the Battle Rainbow,SM3H,16/6/17,2017,64,Nintendo,Japanese,Sun & Moon Era,Unlimited
+239,Pokemon,,Darkness that Consumes Light,SM3N,16/6/17,2017,64,Nintendo,Japanese,Sun & Moon Era,Unlimited
+240,Pokemon,,Awakened Heroes,SM4S,15/9/17,2017,62,Nintendo,Japanese,Sun & Moon Era,Unlimited
+241,Pokemon,,Ultradimensional Beasts,SM4A,15/9/17,2017,62,Nintendo,Japanese,Sun & Moon Era,Unlimited
+242,Pokemon,,Ultra Sun,SM5S,8/12/17,2017,78,Nintendo,Japanese,Sun & Moon Era,Unlimited
+243,Pokemon,,Ultra Moon,SM5M,8/12/17,2017,78,Nintendo,Japanese,Sun & Moon Era,Unlimited
+244,Pokemon,,Strength Expansion Pack Sun & Moon,SM1+,27/1/17,2017,73,Nintendo,Japanese,Sun & Moon Era,Unlimited
+245,Pokemon,,Facing a New Trial,SM2+,21/4/17,2017,66,Nintendo,Japanese,Sun & Moon Era,Unlimited
+246,Pokemon,,Shining Legends,SM3+,15/7/17,2017,82,Nintendo,Japanese,Sun & Moon Era,Unlimited
+247,Pokemon,,GX Battle Boost,SM4+,20/10/17,2017,125,Nintendo,Japanese,Sun & Moon Era,Unlimited
+248,Pokemon,,Pikachu's New Friends,SM0,18/11/16,2016,4,Nintendo,Japanese,Sun & Moon Era,Unlimited
+249,Pokemon,,Collection Sun,SM1S,9/12/16,2016,73,Nintendo,Japanese,Sun & Moon Era,Unlimited
+250,Pokemon,,Collection Moon,SM1M,9/12/16,2016,73,Nintendo,Japanese,Sun & Moon Era,Unlimited
+319,Pokemon,,Great Detective Pikachu,SMP2,26/4/19,2019,25,Nintendo,Japanese,Sun & Moon Era,Unlimited
+320,Pokemon,,Sun & Moon Promos,SMP,1/11/16,2016,409,Nintendo,Japanese,Sun & Moon Era,Unlimited
+344,Pokemon,,The Best of XY,XY,21/4/17,2017,188,Nintendo,Japanese,Sun & Moon Era,Unlimited
+185,Pokemon,,Star Birth,S9,14/1/22,2022,127,Nintendo,Japanese,Sword & Shield Era,Unlimited
+186,Pokemon,,Time Gazer,S10D,8/4/22,2022,88,Nintendo,Japanese,Sword & Shield Era,Unlimited
+187,Pokemon,,Space Juggler,S10P,8/4/22,2022,88,Nintendo,Japanese,Sword & Shield Era,Unlimited
+188,Pokemon,,Lost Abyss,S11,15/7/22,2022,127,Nintendo,Japanese,Sword & Shield Era,Unlimited
+189,Pokemon,,Paradigm Trigger,S12,21/10/22,2022,125,Nintendo,Japanese,Sword & Shield Era,Unlimited
+190,Pokemon,,Battle Region,S9a,25/2/22,2022,93,Nintendo,Japanese,Sword & Shield Era,Unlimited
+191,Pokemon,,Dark Phantasma,S10a,13/5/22,2022,99,Nintendo,Japanese,Sword & Shield Era,Unlimited
+192,Pokemon,,Pokémon GO,S10b,17/6/22,2022,101,Nintendo,Japanese,Sword & Shield Era,Unlimited
+193,Pokemon,,Incandescent Arcana,S11a,2/9/22,2022,94,Nintendo,Japanese,Sword & Shield Era,Unlimited
+194,Pokemon,,VSTAR Universe,S12a,2/12/22,2022,262,Nintendo,Japanese,Sword & Shield Era,Unlimited
+195,Pokemon,,Single Strike Master,S5I,22/1/21,2021,91,Nintendo,Japanese,Sword & Shield Era,Unlimited
+196,Pokemon,,Rapid Strike Master,S5R,22/1/21,2021,91,Nintendo,Japanese,Sword & Shield Era,Unlimited
+197,Pokemon,,Silver Lance,S6H,23/4/21,2021,95,Nintendo,Japanese,Sword & Shield Era,Unlimited
+198,Pokemon,,Jet-Black Spirit,S6K,23/4/21,2021,95,Nintendo,Japanese,Sword & Shield Era,Unlimited
+199,Pokemon,,Skyscraping Perfection,S7D,9/7/21,2021,90,Nintendo,Japanese,Sword & Shield Era,Unlimited
+200,Pokemon,,Blue Sky Stream,S7R,9/7/21,2021,90,Nintendo,Japanese,Sword & Shield Era,Unlimited
+201,Pokemon,,Fusion Arts,S8,24/9/21,2021,129,Nintendo,Japanese,Sword & Shield Era,Unlimited
+202,Pokemon,,Matchless Fighter,S5a,19/3/21,2021,86,Nintendo,Japanese,Sword & Shield Era,Unlimited
+203,Pokemon,,Eevee Heroes,S6a,28/5/21,2021,101,Nintendo,Japanese,Sword & Shield Era,Unlimited
+204,Pokemon,,25th Anniversary Collection,S8a,22/10/21,2021,38,Nintendo,Japanese,Sword & Shield Era,Unlimited
+205,Pokemon,,VMAX Climax,S8b,3/12/21,2021,293,Nintendo,Japanese,Sword & Shield Era,Unlimited
+206,Pokemon,,Rebellion Crash,S2,6/3/20,2020,115,Nintendo,Japanese,Sword & Shield Era,Unlimited
+207,Pokemon,,Infinity Zone,S3,5/6/20,2020,119,Nintendo,Japanese,Sword & Shield Era,Unlimited
+208,Pokemon,,Amazing Volt Tackle,S4,18/9/20,2020,121,Nintendo,Japanese,Sword & Shield Era,Unlimited
+209,Pokemon,,VMAX Rising,S1a,7/2/20,2020,96,Nintendo,Japanese,Sword & Shield Era,Unlimited
+210,Pokemon,,Explosive Walker,S2a,24/4/20,2020,96,Nintendo,Japanese,Sword & Shield Era,Unlimited
+211,Pokemon,,Legendary Heartbeat,S3a,10/7/20,2020,94,Nintendo,Japanese,Sword & Shield Era,Unlimited
+212,Pokemon,,Shiny Star V,S4a,20/11/20,2020,330,Nintendo,Japanese,Sword & Shield Era,Unlimited
+213,Pokemon,,Sword,S1W,6/12/19,2019,75,Nintendo,Japanese,Sword & Shield Era,Unlimited
+214,Pokemon,,Shield,S1H,6/12/19,2019,75,Nintendo,Japanese,Sword & Shield Era,Unlimited
+317,Pokemon,,Promo Card Pack 25th Anniversary Edition,S8a-P,22/10/21,2021,25,Nintendo,Japanese,Sword & Shield Era,Unlimited
+318,Pokemon,,Sword & Shield Promos,SP,1/11/19,2019,340,Nintendo,Japanese,Sword & Shield Era,Unlimited
+165,Pokemon,,Wild Force,SV5K,26/1/24,2024,100,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+166,Pokemon,,Cyber Judge,SV5M,26/1/24,2024,100,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+167,Pokemon,,Mask of Change,SV6,26/4/24,2024,133,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+168,Pokemon,,Stellar Miracle,SV7,19/7/24,2024,135,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+169,Pokemon,,Super Electric Breaker,SV8,18/10/24,2024,138,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+170,Pokemon,,Crimson Haze,SV5a,22/3/24,2024,96,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+171,Pokemon,,Night Wanderer,SV6a,7/6/24,2024,94,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+172,Pokemon,,Paradise Dragona,SV7a,13/9/24,2024,94,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+173,Pokemon,,Terastal Festival ex,SV8a,6/12/24,2024,237,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+174,Pokemon,,Scarlet ex,SV1S,20/1/23,2023,108,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+175,Pokemon,,Violet ex,SV1V,20/1/23,2023,108,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+176,Pokemon,,Snow Hazard,SV2P,14/4/23,2023,99,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+177,Pokemon,,Clay Burst,SV2D,14/4/23,2023,99,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+178,Pokemon,,Ruler of the Black Flame,SV3,28/7/23,2023,141,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+179,Pokemon,,Ancient Roar,SV4K,27/10/23,2023,95,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+180,Pokemon,,Future Flash,SV4M,27/10/23,2023,95,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+181,Pokemon,,Triplet Beat,SV1a,10/3/23,2023,103,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+182,Pokemon,,Pokémon Card 151,SV2a,16/6/23,2023,110,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+183,Pokemon,,Raging Surf,SV3a,22/9/23,2023,92,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+184,Pokemon,,Shiny Treasure ex,SV4a,1/12/23,2023,360,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+316,Pokemon,,Scarlet & Violet Promos,SVP,18/11/22,2022,235,Nintendo,Japanese,Scarlet & Violet Era,Unlimited
+338,Pokemon,,Vending Machine Series 1 (Blue),,23/3/98,1998,36,Nintendo,Japanese,Vending Machine Series,Unlimited
+339,Pokemon,,Vending Machine Series 2 (Red),,17/6/98,1998,36,Nintendo,Japanese,Vending Machine Series,Unlimited
+340,Pokemon,,Vending Machine Series 3 (Green),,24/11/98,1998,53,Nintendo,Japanese,Vending Machine Series,Unlimited
+326,Pokemon,,11th Movie Commemoration Set,,19/7/08,2008,9,Nintendo,Japanese,Movie Commemorations,Unlimited
+329,Pokemon,,10th Movie Commemoration Set,,14/7/07,2007,11,Nintendo,Japanese,Movie Commemorations,Unlimited
+322,Pokemon,,World Collection,,8/7/10,2010,10,Nintendo,Japanese,Other,Unlimited
+341,Pokemon,,Southern Islands,,17/7/99,1998,18,Nintendo,Japanese,Other,Unlimited
+335,Pokemon,,McDonald's Pokémon-e Minimum Pack ,,26/1/02,2002,24,Nintendo,Japanese,Other,Unlimited
+333,Pokemon,,PLAY Promos ,,1/1/03,2003,32,Nintendo,Japanese,Other,Unlimited
+328,Pokemon,,PPP Promos PPP ,,1/5/07,2007,7,Nintendo,Japanese,Other,Unlimited
+334,Pokemon,,T Promos ,,1/1/02,2002,24,Nintendo,Japanese,Other,Unlimited
+324,Pokemon,,Unnumbered Promos ,,15/10/96,1996,35,Nintendo,Japanese,Other,Unlimited

@@ -1,0 +1,12 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Games,Miniature Games,,,Miniature Games,
+HeroClix,,card_miniature_game,HeroClix,HeroClix,1
+HeroClix,,card_product_type,Sealed Products,HeroClix | Sealed Products,2
+HeroClix,,card_product_type,Singles,HeroClix | Singles,2
+HeroClix,,card_product_type,Sets,HeroClix | Sets,2
+Star Wars: Legion,,card_miniature_game,Star Wars: Legion,Star Wars: Legion,1
+Star Wars: Legion,,card_product_type,Sealed Products,Star Wars: Legion | Sealed Products,2
+Star Wars: X-wing,,card_miniature_game,Star Wars: X-wing,Star Wars: X-wing,1
+Star Wars: X-wing,,card_product_type,Sealed Products,Star Wars: X-wing | Sealed Products,2
+Star Wars: Armada,,card_miniature_game,Star Wars: Armada,Star Wars: Armada,1
+Star Wars: Armada,,card_product_type,Sealed Products,Star Wars: Armada | Sealed Products,2

@@ -1,0 +1,27 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Hobby Supplies,Hobby Supplies,,,,Hobby Supplies
+Hobby Supplies,,hobby_supplies_main_categories,Hobby Supplies,1,Hobby Supplies
+Hobby Supplies | Paints,,hobby_supplies_categories,Paints,2,Hobby Supplies | Brands | Paints
+Hobby Supplies | Paint Tools ,,hobby_supplies_categories,Painting Tools,2,Hobby Supplies | Brands | Painting Tools 
+Hobby Supplies | Tools,,hobby_supplies_categories,Tools,2,Hobby Supplies | Brands | Tools
+Hobby Supplies | Airbrush,,hobby_supplies_categories,Airbrush,2,Hobby Supplies | Brands | Airbrush
+Hobby Supplies | Finishing Aids,,hobby_supplies_categories,Finishing Aids,2,Hobby Supplies | Brands | Finishing Aids
+Hobby Supplies | Glues & Adhesives,,hobby_supplies_categories,Glues & Adhesives,2,Hobby Supplies | Brands | Glues & Adhesives
+Hobby Supplies | Cards & Games,Cards & Games,,,,Hobby Supplies | Cards & Games
+Hobby Supplies | Cards & Games,,hobby_supplies_main_categories,Cards & Games,1,Hobby Supplies | Cards & Games
+Hobby Supplies | Cards,,hobby_supplies_cards_games_categories,Cards,2,Hobby Supplies | Cards & Games | Brands | Cards
+Hobby Supplies | Cards,,hobby_supplies_cards_categories,Sleeves,3,Hobby Supplies | Cards & Games | Brands | Cards | Sleeves
+Hobby Supplies | Cards,,hobby_supplies_cards_categories,Toploaders,3,Hobby Supplies | Cards & Games | Brands | Cards | Toploaders
+Hobby Supplies | Cards,,hobby_supplies_cards_categories,Decks,3,Hobby Supplies | Cards & Games | Brands | Cards | Decks
+Hobby Supplies | Cards,,hobby_supplies_cards_categories,Blinders,3,Hobby Supplies | Cards & Games | Brands | Cards | Blinders
+Hobby Supplies | Cards,,hobby_supplies_cards_categories,Blinders,3,Hobby Supplies | Cards & Games | Brands | Cards | Storage
+Hobby Supplies | Games,,hobby_supplies_cards_games_categories,Games,2,Hobby Supplies | Cards & Games | Brands | Games
+Hobby Supplies | Games,,hobby_supplies_games_categories,Playmats,3,Hobby Supplies | Cards & Games | Brands | Games | Playmats
+Hobby Supplies | Games,,hobby_supplies_games_categories,Dices,3,Hobby Supplies | Cards & Games | Brands | Games | Dices
+Hobby Supplies,,hobby_supplies_brand,Citadel,1,Hobby Supplies | Citadel
+Hobby Supplies | Paints,,hobby_supplies_categories,Paints,2,Hobby Supplies | Citadel | Paints
+Hobby Supplies | Paint Tools ,,hobby_supplies_categories,Painting Tools,2,Hobby Supplies | Citadel | Painting Tools 
+Hobby Supplies | Tools,,hobby_supplies_categories,Tools,2,Hobby Supplies | Citadel | Tools
+Hobby Supplies | Airbrush,,hobby_supplies_categories,Airbrush,2,Hobby Supplies | Citadel | Airbrush
+Hobby Supplies | Finishing Aids,,hobby_supplies_categories,Finishing Aids,2,Hobby Supplies | Citadel | Finishing Aids
+Hobby Supplies | Glues & Adhesives,,hobby_supplies_categories,Glues & Adhesives,2,Hobby Supplies | Citadel | Glues & Adhesives

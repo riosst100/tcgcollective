@@ -1,0 +1,110 @@
+entity_id,images,card_name,card_rarity,card_foil,language,card_feature,card_manufacturer,card_sub_type,release_type,card_number,release_date,release_year,card_energy_type,card_hp,card_stage,print_version,card_series
+9890,fo-1-aerodactyl-fossil.jpg,Aerodactyl,Holo Rare,Foil,English,,Wizards of the Coast,,,1,10/10/99,1999,Fighting,60,Stage 1,1st Edition,Original Series
+9891,fo-2-articuno-fossil.jpg,Articuno,Holo Rare,Foil,English,,Wizards of the Coast,,,2,10/10/99,1999,Water,70,Basic,1st Edition,Original Series
+9892,fo-3-ditto-fossil.jpg,Ditto,Holo Rare,Foil,English,,Wizards of the Coast,,,3,10/10/99,1999,Colorless,50,Basic,1st Edition,Original Series
+9893,fo-4-dragonite-fossil.jpg,Dragonite,Holo Rare,Foil,English,,Wizards of the Coast,,,4,10/10/99,1999,Colorless,100,Stage 2,1st Edition,Original Series
+9894,fo-5-gengar-fossil.jpg,Gengar,Holo Rare,Foil,English,,Wizards of the Coast,,,5,10/10/99,1999,Psychic,80,Stage 2,1st Edition,Original Series
+9895,fo-6-haunter-fossil.jpg,Haunter,Holo Rare,Foil,English,,Wizards of the Coast,,,6,10/10/99,1999,Psychic,50,Stage 1,1st Edition,Original Series
+9896,fo-7-hitmonlee-fossil.jpg,Hitmonlee,Holo Rare,Foil,English,,Wizards of the Coast,,,7,10/10/99,1999,Fighting,60,Basic,1st Edition,Original Series
+9897,fo-8-hypno-fossil.jpg,Hypno,Holo Rare,Foil,English,,Wizards of the Coast,,,8,10/10/99,1999,Psychic,90,Stage 1,1st Edition,Original Series
+9898,fo-9-kabutops-fossil.jpg,Kabutops,Holo Rare,Foil,English,,Wizards of the Coast,,,9,10/10/99,1999,Fighting,60,Stage 2,1st Edition,Original Series
+9899,fo-10-lapras-fossil.jpg,Lapras,Holo Rare,Foil,English,,Wizards of the Coast,,,10,10/10/99,1999,Water,80,Basic,1st Edition,Original Series
+9900,fo-11-magneton-fossil.jpg,Magneton,Holo Rare,Foil,English,,Wizards of the Coast,,,11,10/10/99,1999,Lightning,80,Stage 1,1st Edition,Original Series
+9901,fo-12-moltres-fossil.jpg,Moltres,Holo Rare,Foil,English,,Wizards of the Coast,,,12,10/10/99,1999,Fire,70,Basic,1st Edition,Original Series
+9902,fo-13-muk-fossil.jpg,Muk,Holo Rare,Foil,English,,Wizards of the Coast,,,13,10/10/99,1999,Grass,70,Stage 1,1st Edition,Original Series
+9903,fo-14-raichu-fossil.jpg,Raichu,Holo Rare,Foil,English,,Wizards of the Coast,,,14,10/10/99,1999,Lightning,90,Stage 1,1st Edition,Original Series
+9904,fo-15-zapdos-fossil.jpg,Zapdos,Holo Rare,Foil,English,,Wizards of the Coast,,,15,10/10/99,1999,Lightning,80,Basic,1st Edition,Original Series
+9905,fo-16-aerodactyl-fossil.jpg,Aerodactyl,Rare,Non Foil,English,,Wizards of the Coast,,,16,10/10/99,1999,Fighting,60,Stage 1,1st Edition,Original Series
+9906,fo-17-articuno-fossil.jpg,Articuno,Rare,Non Foil,English,,Wizards of the Coast,,,17,10/10/99,1999,Water,70,Basic,1st Edition,Original Series
+9907,fo-18-ditto-fossil.jpg,Ditto,Rare,Non Foil,English,,Wizards of the Coast,,,18,10/10/99,1999,Colorless,50,Basic,1st Edition,Original Series
+9908,fo-19-dragonite-fossil.jpg,Dragonite,Rare,Non Foil,English,,Wizards of the Coast,,,19,10/10/99,1999,Colorless,100,Stage 2,1st Edition,Original Series
+9909,fo-20-gengar-fossil.jpg,Gengar,Rare,Non Foil,English,,Wizards of the Coast,,,20,10/10/99,1999,Psychic,80,Stage 2,1st Edition,Original Series
+9910,fo-21-haunter-fossil.jpg,Haunter,Rare,Non Foil,English,,Wizards of the Coast,,,21,10/10/99,1999,Psychic,50,Stage 1,1st Edition,Original Series
+9911,fo-22-hitmonlee-fossil.jpg,Hitmonlee,Rare,Non Foil,English,,Wizards of the Coast,,,22,10/10/99,1999,Fighting,60,Basic,1st Edition,Original Series
+9912,fo-23-hypno-fossil.jpg,Hypno,Rare,Non Foil,English,,Wizards of the Coast,,,23,10/10/99,1999,Psychic,90,Stage 1,1st Edition,Original Series
+9913,fo-24-kabutops-fossil.jpg,Kabutops,Rare,Non Foil,English,,Wizards of the Coast,,,24,10/10/99,1999,Fighting,60,Stage 2,1st Edition,Original Series
+9914,fo-25-lapras-fossil.jpg,Lapras,Rare,Non Foil,English,,Wizards of the Coast,,,25,10/10/99,1999,Water,80,Basic,1st Edition,Original Series
+9915,fo-26-magneton-fossil.jpg,Magneton,Rare,Non Foil,English,,Wizards of the Coast,,,26,10/10/99,1999,Lightning,80,Stage 1,1st Edition,Original Series
+9916,fo-27-moltres-fossil.jpg,Moltres,Rare,Non Foil,English,,Wizards of the Coast,,,27,10/10/99,1999,Fire,70,Basic,1st Edition,Original Series
+9917,fo-28-muk-fossil.jpg,Muk,Rare,Non Foil,English,,Wizards of the Coast,,,28,10/10/99,1999,Grass,70,Stage 1,1st Edition,Original Series
+9918,fo-29-raichu-fossil.jpg,Raichu,Rare,Non Foil,English,,Wizards of the Coast,,,29,10/10/99,1999,Lightning,90,Stage 1,1st Edition,Original Series
+9919,fo-30-zapdos-fossil.jpg,Zapdos,Rare,Non Foil,English,,Wizards of the Coast,,,30,10/10/99,1999,Lightning,80,Basic,1st Edition,Original Series
+9920,fo-31-arbok-fossil.jpg,Arbok,Uncommon,Non Foil,English,,Wizards of the Coast,,,31,10/10/99,1999,Grass,60,Stage 1,1st Edition,Original Series
+9921,fo-32-cloyster-fossil.jpg,Cloyster,Uncommon,Non Foil,English,,Wizards of the Coast,,,32,10/10/99,1999,Water,50,Stage 1,1st Edition,Original Series
+9922,fo-33-gastly-fossil.jpg,Gastly,Uncommon,Non Foil,English,,Wizards of the Coast,,,33,10/10/99,1999,Psychic,50,Basic,1st Edition,Original Series
+9923,fo-34-golbat-fossil.jpg,Golbat,Uncommon,Non Foil,English,,Wizards of the Coast,,,34,10/10/99,1999,Grass,60,Stage 1,1st Edition,Original Series
+9924,fo-35-golduck-fossil.jpg,Golduck,Uncommon,Non Foil,English,,Wizards of the Coast,,,35,10/10/99,1999,Water,70,Stage 1,1st Edition,Original Series
+9925,fo-36-golem-fossil.jpg,Golem,Uncommon,Non Foil,English,,Wizards of the Coast,,,36,10/10/99,1999,Fighting,80,Stage 2,1st Edition,Original Series
+9926,fo-37-graveler-fossil.jpg,Graveler,Uncommon,Non Foil,English,,Wizards of the Coast,,,37,10/10/99,1999,Fighting,60,Stage 1,1st Edition,Original Series
+9927,fo-38-kingler-fossil.jpg,Kingler,Uncommon,Non Foil,English,,Wizards of the Coast,,,38,10/10/99,1999,Water,60,Stage 1,1st Edition,Original Series
+9928,fo-39-magmar-fossil.jpg,Magmar,Uncommon,Non Foil,English,,Wizards of the Coast,,,39,10/10/99,1999,Fire,70,Basic,1st Edition,Original Series
+9929,fo-40-omastar-fossil.jpg,Omastar,Uncommon,Non Foil,English,,Wizards of the Coast,,,40,10/10/99,1999,Water,70,Stage 2,1st Edition,Original Series
+9930,fo-41-sandslash-fossil.jpg,Sandslash,Uncommon,Non Foil,English,,Wizards of the Coast,,,41,10/10/99,1999,Fighting,70,Stage 1,1st Edition,Original Series
+9931,fo-42-seadra-fossil.jpg,Seadra,Uncommon,Non Foil,English,,Wizards of the Coast,,,42,10/10/99,1999,Water,60,Stage 1,1st Edition,Original Series
+9932,fo-43-slowbro-fossil.jpg,Slowbro,Uncommon,Non Foil,English,,Wizards of the Coast,,,43,10/10/99,1999,Psychic,60,Stage 1,1st Edition,Original Series
+9933,fo-44-tentacruel-fossil.jpg,Tentacruel,Uncommon,Non Foil,English,,Wizards of the Coast,,,44,10/10/99,1999,Water,60,Stage 1,1st Edition,Original Series
+9934,fo-45-weezing-fossil.jpg,Weezing,Uncommon,Non Foil,English,,Wizards of the Coast,,,45,10/10/99,1999,Grass,60,Stage 1,1st Edition,Original Series
+9935,fo-46-ekans-fossil.jpg,Ekans,Common,Non Foil,English,,Wizards of the Coast,,,46,10/10/99,1999,Grass,40,Basic,1st Edition,Original Series
+9936,fo-47-geodude-fossil.jpg,Geodude,Common,Non Foil,English,,Wizards of the Coast,,,47,10/10/99,1999,Fighting,50,Basic,1st Edition,Original Series
+9937,fo-48-grimer-fossil.jpg,Grimer,Common,Non Foil,English,,Wizards of the Coast,,,48,10/10/99,1999,Grass,50,Basic,1st Edition,Original Series
+9938,fo-49-horsea-fossil.jpg,Horsea,Common,Non Foil,English,,Wizards of the Coast,,,49,10/10/99,1999,Water,40,Basic,1st Edition,Original Series
+9939,fo-50-kabuto-fossil.jpg,Kabuto,Common,Non Foil,English,,Wizards of the Coast,,,50,10/10/99,1999,Fighting,30,Stage 1,1st Edition,Original Series
+9940,fo-51-krabby-fossil.jpg,Krabby,Common,Non Foil,English,,Wizards of the Coast,,,51,10/10/99,1999,Water,50,Basic,1st Edition,Original Series
+9941,fo-52-omanyte-fossil.jpg,Omanyte,Common,Non Foil,English,,Wizards of the Coast,,,52,10/10/99,1999,Water,40,Stage 1,1st Edition,Original Series
+9942,fo-53-psyduck-fossil.jpg,Psyduck,Common,Non Foil,English,,Wizards of the Coast,,,53,10/10/99,1999,Water,50,Basic,1st Edition,Original Series
+9943,fo-54-shellder-fossil.jpg,Shellder,Common,Non Foil,English,,Wizards of the Coast,,,54,10/10/99,1999,Water,30,Basic,1st Edition,Original Series
+9944,fo-55-slowpoke-fossil.jpg,Slowpoke,Common,Non Foil,English,,Wizards of the Coast,,,55,10/10/99,1999,Psychic,50,Basic,1st Edition,Original Series
+9945,fo-56-tentacool-fossil.jpg,Tentacool,Common,Non Foil,English,,Wizards of the Coast,,,56,10/10/99,1999,Water,30,Basic,1st Edition,Original Series
+9946,fo-57-zubat-fossil.jpg,Zubat,Common,Non Foil,English,,Wizards of the Coast,,,57,10/10/99,1999,Grass,40,Basic,1st Edition,Original Series
+9947,fo-58-mr.-fuji-fossil.jpg,Mr. Fuji,Uncommon,Non Foil,English,,Wizards of the Coast,,,58,10/10/99,1999,Trainer,,Trainer,1st Edition,Original Series
+9948,fo-59-energy-search-fossil.jpg,Energy Search,Common,Non Foil,English,,Wizards of the Coast,,,59,10/10/99,1999,Trainer,,Trainer,1st Edition,Original Series
+9949,fo-60-gambler-fossil.jpg,Gambler,Common,Non Foil,English,,Wizards of the Coast,,,60,10/10/99,1999,Trainer,,Trainer,1st Edition,Original Series
+9950,fo-61-recycle-fossil.jpg,Recycle,Common,Non Foil,English,,Wizards of the Coast,,,61,10/10/99,1999,Trainer,,Trainer,1st Edition,Original Series
+9951,fo-62-mysterious-fossil.jpg,Mysterious Fossil,Common,Non Foil,English,,Wizards of the Coast,,,62,10/10/99,1999,Trainer,10,Trainer,1st Edition,Original Series
+9952,,Aerodactyl,Rare,Non Foil,English,,Wizards of the Coast,,,16,10/10/99,1999,Fighting,60,Stage 1,Unlimited,Original Series
+9953,,Articuno,Rare,Non Foil,English,,Wizards of the Coast,,,17,10/10/99,1999,Water,70,Basic,Unlimited,Original Series
+9954,,Ditto,Rare,Non Foil,English,,Wizards of the Coast,,,18,10/10/99,1999,Colorless,50,Basic,Unlimited,Original Series
+9955,,Dragonite,Rare,Non Foil,English,,Wizards of the Coast,,,19,10/10/99,1999,Colorless,100,Stage 2,Unlimited,Original Series
+9956,,Gengar,Rare,Non Foil,English,,Wizards of the Coast,,,20,10/10/99,1999,Psychic,80,Stage 2,Unlimited,Original Series
+9957,,Haunter,Rare,Non Foil,English,,Wizards of the Coast,,,21,10/10/99,1999,Psychic,50,Stage 1,Unlimited,Original Series
+9958,,Hitmonlee,Rare,Non Foil,English,,Wizards of the Coast,,,22,10/10/99,1999,Fighting,60,Basic,Unlimited,Original Series
+9959,,Hypno,Rare,Non Foil,English,,Wizards of the Coast,,,23,10/10/99,1999,Psychic,90,Stage 1,Unlimited,Original Series
+9960,,Kabutops,Rare,Non Foil,English,,Wizards of the Coast,,,24,10/10/99,1999,Fighting,60,Stage 2,Unlimited,Original Series
+9961,,Lapras,Rare,Non Foil,English,,Wizards of the Coast,,,25,10/10/99,1999,Water,80,Basic,Unlimited,Original Series
+9962,,Magneton,Rare,Non Foil,English,,Wizards of the Coast,,,26,10/10/99,1999,Lightning,80,Stage 1,Unlimited,Original Series
+9963,,Moltres,Rare,Non Foil,English,,Wizards of the Coast,,,27,10/10/99,1999,Fire,70,Basic,Unlimited,Original Series
+9964,,Muk,Rare,Non Foil,English,,Wizards of the Coast,,,28,10/10/99,1999,Grass,70,Stage 1,Unlimited,Original Series
+9965,,Raichu,Rare,Non Foil,English,,Wizards of the Coast,,,29,10/10/99,1999,Lightning,90,Stage 1,Unlimited,Original Series
+9966,,Zapdos,Rare,Non Foil,English,,Wizards of the Coast,,,30,10/10/99,1999,Lightning,80,Basic,Unlimited,Original Series
+9967,,Arbok,Uncommon,Non Foil,English,,Wizards of the Coast,,,31,10/10/99,1999,Grass,60,Stage 1,Unlimited,Original Series
+9968,,Cloyster,Uncommon,Non Foil,English,,Wizards of the Coast,,,32,10/10/99,1999,Water,50,Stage 1,Unlimited,Original Series
+9969,,Gastly,Uncommon,Non Foil,English,,Wizards of the Coast,,,33,10/10/99,1999,Psychic,50,Basic,Unlimited,Original Series
+9970,,Golbat,Uncommon,Non Foil,English,,Wizards of the Coast,,,34,10/10/99,1999,Grass,60,Stage 1,Unlimited,Original Series
+9971,,Golduck,Uncommon,Non Foil,English,,Wizards of the Coast,,,35,10/10/99,1999,Water,70,Stage 1,Unlimited,Original Series
+9972,,Golem,Uncommon,Non Foil,English,,Wizards of the Coast,,,36,10/10/99,1999,Fighting,80,Stage 2,Unlimited,Original Series
+9973,,Graveler,Uncommon,Non Foil,English,,Wizards of the Coast,,,37,10/10/99,1999,Fighting,60,Stage 1,Unlimited,Original Series
+9974,,Kingler,Uncommon,Non Foil,English,,Wizards of the Coast,,,38,10/10/99,1999,Water,60,Stage 1,Unlimited,Original Series
+9975,,Magmar,Uncommon,Non Foil,English,,Wizards of the Coast,,,39,10/10/99,1999,Fire,70,Basic,Unlimited,Original Series
+9976,,Omastar,Uncommon,Non Foil,English,,Wizards of the Coast,,,40,10/10/99,1999,Water,70,Stage 2,Unlimited,Original Series
+9977,,Sandslash,Uncommon,Non Foil,English,,Wizards of the Coast,,,41,10/10/99,1999,Fighting,70,Stage 1,Unlimited,Original Series
+9978,,Seadra,Uncommon,Non Foil,English,,Wizards of the Coast,,,42,10/10/99,1999,Water,60,Stage 1,Unlimited,Original Series
+9979,,Slowbro,Uncommon,Non Foil,English,,Wizards of the Coast,,,43,10/10/99,1999,Psychic,60,Stage 1,Unlimited,Original Series
+9980,,Tentacruel,Uncommon,Non Foil,English,,Wizards of the Coast,,,44,10/10/99,1999,Water,60,Stage 1,Unlimited,Original Series
+9981,,Weezing,Uncommon,Non Foil,English,,Wizards of the Coast,,,45,10/10/99,1999,Grass,60,Stage 1,Unlimited,Original Series
+9982,,Ekans,Common,Non Foil,English,,Wizards of the Coast,,,46,10/10/99,1999,Grass,40,Basic,Unlimited,Original Series
+9983,,Geodude,Common,Non Foil,English,,Wizards of the Coast,,,47,10/10/99,1999,Fighting,50,Basic,Unlimited,Original Series
+9984,,Grimer,Common,Non Foil,English,,Wizards of the Coast,,,48,10/10/99,1999,Grass,50,Basic,Unlimited,Original Series
+9985,,Horsea,Common,Non Foil,English,,Wizards of the Coast,,,49,10/10/99,1999,Water,40,Basic,Unlimited,Original Series
+9986,,Kabuto,Common,Non Foil,English,,Wizards of the Coast,,,50,10/10/99,1999,Fighting,30,Stage 1,Unlimited,Original Series
+9987,,Krabby,Common,Non Foil,English,,Wizards of the Coast,,,51,10/10/99,1999,Water,50,Basic,Unlimited,Original Series
+9988,,Omanyte,Common,Non Foil,English,,Wizards of the Coast,,,52,10/10/99,1999,Water,40,Stage 1,Unlimited,Original Series
+9989,,Psyduck,Common,Non Foil,English,,Wizards of the Coast,,,53,10/10/99,1999,Water,50,Basic,Unlimited,Original Series
+9990,,Shellder,Common,Non Foil,English,,Wizards of the Coast,,,54,10/10/99,1999,Water,30,Basic,Unlimited,Original Series
+9991,,Slowpoke,Common,Non Foil,English,,Wizards of the Coast,,,55,10/10/99,1999,Psychic,50,Basic,Unlimited,Original Series
+9992,,Tentacool,Common,Non Foil,English,,Wizards of the Coast,,,56,10/10/99,1999,Water,30,Basic,Unlimited,Original Series
+9993,,Zubat,Common,Non Foil,English,,Wizards of the Coast,,,57,10/10/99,1999,Grass,40,Basic,Unlimited,Original Series
+9994,,Mr. Fuji,Uncommon,Non Foil,English,,Wizards of the Coast,,,58,10/10/99,1999,Trainer,,Trainer,Unlimited,Original Series
+9995,,Energy Search,Common,Non Foil,English,,Wizards of the Coast,,,59,10/10/99,1999,Trainer,,Trainer,Unlimited,Original Series
+9996,,Gambler,Common,Non Foil,English,,Wizards of the Coast,,,60,10/10/99,1999,Trainer,,Trainer,Unlimited,Original Series
+9997,,Recycle,Common,Non Foil,English,,Wizards of the Coast,,,61,10/10/99,1999,Trainer,,Trainer,Unlimited,Original Series
+9998,,Mysterious Fossil,Common,Non Foil,English,,Wizards of the Coast,,,62,10/10/99,1999,Trainer,10,Trainer,Unlimited,Original Series

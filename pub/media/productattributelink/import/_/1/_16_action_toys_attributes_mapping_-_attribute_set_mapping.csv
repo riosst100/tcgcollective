@@ -1,0 +1,12 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Action Figures,Action Figures,,,Action Figures,
+Statues,Statues,,,Statues,
+Busts,Busts,,,Busts,
+Props & Replica,Props & Replica,,,Props & Replica,
+Designer Toys,Designer Toys,,,Designer Toys,
+Mini Figures,Mini Figures,,,Mini Figures,
+Blindboxes,Blindboxes,,,Blindboxes,
+Blindboxes,,toys_product_types,Sealed Products,Blindboxes | Sealed Products,1
+Blindboxes,,toys_product_types,Singles,Blindboxes | Singles,1
+Blindboxes,,toys_product_types,Sets,Blindboxes | Sets,1
+Blindboxes,,toys_product_types,Lots,Blindboxes | Lots,1

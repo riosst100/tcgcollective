@@ -1,0 +1,13 @@
+group,category,attribute_code,attribute_option,target_attribute_code,target_attribute_options,priority
+Action Figures | Blindboxes,Blindboxes,,,toys_brands,POP MART,
+Action Figures | Blindboxes,,toys_brands,POP MART,toys_product_line,,
+Action Figures | Blindboxes,,toys_brands,POP MART,toys_franchise,LIGHTYEAR,
+Action Figures | Blindboxes,,toys_brands,POP MART,toys_product_series,MOLLY|DIMOO|DISNEY,
+Action Figures | Blindboxes,,toys_brands,POP MART,toys_character,Buzz Lightyear|Molly,
+Action Figures | Statues,Statues,,,toys_brands,Iron Studios|Infinity Studio,
+Action Figures | Statues,Statues,,,toys_scale,1:10 Scale|1/3 Scale,
+Action Figures | Statues,Statues,,,toys_franchise,X-Men|Avatar,
+Action Figures | Statues,Statues,,,toys_character,Wolverine|Neytiri,
+Action Figures | Action Figures,Action Figures,,,toys_brands,Hasbro,
+Action Figures | Action Figures,Action Figures,,,toys_franchise,Star Wars,
+Action Figures | Action Figures,Action Figures,,,toys_character,Luke Skywalker,

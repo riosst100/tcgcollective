@@ -1,0 +1,39 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Baseball,,card_product_type,Sealed Products,Baseball | Sealed Products,2
+Baseball,,card_product_type,Sets,Baseball | Sets,2
+Baseball,,card_product_type,Lots,Baseball | Lots,2
+Basketball,,sc_sportscards,Basketball,Basketball,1
+Basketball,,card_product_type,Singles,Basketball | Singles,2
+Basketball,,card_product_type,Sealed Products,Basketball | Sealed Products,2
+Basketball,,card_product_type,Sets,Basketball | Sets,2
+Basketball,,card_product_type,Lots,Basketball | Lots,2
+Football,,sc_sportscards,Football,Football,1
+Football,,card_product_type,Singles,Football | Singles,2
+Football,,card_product_type,Sealed Products,Football | Sealed Products,2
+Football,,card_product_type,Sets,Football | Sets,2
+Football,,card_product_type,Lots,Football | Lots,2
+Ice Hockey,,sc_sportscards,Ice Hockey,Ice Hockey,1
+Ice Hockey,,card_product_type,Singles,Ice Hockey | Singles,2
+Ice Hockey,,card_product_type,Sealed Products,Ice Hockey | Sealed Products,2
+Ice Hockey,,card_product_type,Sets,Ice Hockey | Sets,2
+Ice Hockey,,card_product_type,Lots,Ice Hockey | Lots,2
+Mixed Martial Arts,,sc_sportscards,Mixed Martial Arts,Mixed Martial Arts,1
+Mixed Martial Arts,,card_product_type,Singles,Mixed Martial Arts | Singles,2
+Mixed Martial Arts,,card_product_type,Sealed Products,Mixed Martial Arts | Sealed Products,2
+Mixed Martial Arts,,card_product_type,Sets,Mixed Martial Arts | Sets,2
+Mixed Martial Arts,,card_product_type,Lots,Mixed Martial Arts | Lots,2
+Soccer,,sc_sportscards,Soccer,Soccer,1
+Soccer,,card_product_type,Singles,Soccer | Singles,2
+Soccer,,card_product_type,Sealed Products,Soccer | Sealed Products,2
+Soccer,,card_product_type,Sets,Soccer | Sets,2
+Soccer,,card_product_type,Lots,Soccer | Lots,2
+Wrestling,,sc_sportscards,Wrestling,Wrestling,1
+Wrestling,,card_product_type,Singles,Wrestling | Singles,2
+Wrestling,,card_product_type,Sealed Products,Wrestling | Sealed Products,2
+Wrestling,,card_product_type,Sets,Wrestling | Sets,2
+Wrestling,,card_product_type,Lots,Wrestling | Lots,2
+TV & Movies,,nsc_nonsports_cards,TV & Movies,TV & Movies,1
+TV & Movies,,card_product_type,Singles,TV & Movies | Singles,2
+TV & Movies,,card_product_type,Sealed Products,TV & Movies | Sealed Products,2
+TV & Movies,,card_product_type,Sets,TV & Movies | Sets,2
+TV & Movies,,card_product_type,Lots,TV & Movies | Lots,2

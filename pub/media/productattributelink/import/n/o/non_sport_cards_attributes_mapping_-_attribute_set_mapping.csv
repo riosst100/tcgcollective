@@ -1,0 +1,7 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Non-Sport Cards,Non-Sport Cards,,,Non-Sport Cards,
+Non-Sport Cards | Comics,,nsc_nonsports_cards,Comics,Non-Sport Cards | Comics,1
+Non-Sport Cards | Movies,,nsc_nonsports_cards,Movies,Non-Sport Cards | Movies,1
+Non-Sport Cards | TV,,nsc_nonsports_cards,TV,Non-Sport Cards | TV,1
+Non-Sport Cards | Music,,nsc_nonsports_cards,Music,Non-Sport Cards | Music,1
+Non-Sport Cards | Games,,nsc_nonsports_cards,Games,Non-Sport Cards | Games,1

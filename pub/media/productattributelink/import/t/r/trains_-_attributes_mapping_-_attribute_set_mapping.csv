@@ -1,0 +1,11 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Trains,Trains,,,Trains,
+Trains,,trains,Sets & Packs,Trains | Sets & Packs,1
+Trains,,trains,Locomotives,Trains | Locomotives,1
+Trains,,trains,Freight Cars,Trains | Freight Cars,1
+Trains,,trains,Passenger Cars,Trains | Passenger Cars,1
+Trains,,trains,Tracks,Trains | Tracks,1
+Trains,,trains,Train Parts,Trains | Train Parts,1
+Trains,,trains,Power & Control,Trains | Power & Control,1
+Layout,Layout,,,Layout,
+Tools & Supplies,Tools & Supplies,,,Tools & Supplies,

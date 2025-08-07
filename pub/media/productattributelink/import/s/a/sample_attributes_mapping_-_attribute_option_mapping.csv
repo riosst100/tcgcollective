@@ -1,0 +1,6 @@
+group,priority,category,attribute_code,attribute_option,target_attribute_code,target_attribute_options
+Games,,Card Games,,,games,"Magic: The Gathering,Pokemon,One Piece"
+Games,,Miniature Games,,,games,"Arkham Horror,Marvel Champions,Lord of the Rings,Games of Thrones,Legend of the Five Rings,Star Wars"
+Magic: The Gathering,1,,games,Magic: The Gathering,print,"Normal,Foil"
+Pokemon,1,,games,Pokemon,print,"Unlimited,Shadowless,1999-2000,1st Edition"
+One Piece,1,,games,One Piece,print,"Normal,Parallel"

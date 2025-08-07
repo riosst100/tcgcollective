@@ -1,0 +1,388 @@
+﻿release_year,release_date,card_game,card_set,card_set_abbreviation,card_number,images,card_name,card_rarity,color,card_type,card_sub_type,card_feature,card_artist,card_manufacturer,card_language
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,1,bro-1-aeronaut-cavalry.jpg,Aeronaut Cavalry,Common,,Creature ,,Booster,Lorenzo Mastroianni,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,2,bro-2-airlift-chaplain.jpg,Airlift Chaplain,Common,,Creature ,,Booster,Caroline Gariba,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,3,bro-3-ambush-paratrooper.jpg,Ambush Paratrooper,Common,,Creature ,,Booster,Vladimir Krisetskiy,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,4,bro-4-calamity-s-wake.jpg,Calamity's Wake,Uncommon,,Instant,,Booster,Slawomir Maniak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,5,bro-5-deadly-riposte.jpg,Deadly Riposte,Common,,Instant,,Booster,Olena Richards,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,6,bro-6-disenchant.jpg,Disenchant,Common,,Instant,,Booster,Richard Kane Ferguson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,7,bro-7-great-desert-prospector.jpg,Great Desert Prospector,Uncommon,,Creature ,,Booster,Nestor Ossandon Leal,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,8,bro-8-in-the-trenches.jpg,In the Trenches,Mythic,,Enchantment,,Booster,Daarken,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,9,bro-9-kayla-s-command.jpg,Kayla's Command,Rare,,Sorcery,,Booster,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,10,bro-10-kayla-s-reconstruction.jpg,Kayla's Reconstruction,Rare,,Sorcery,,Booster,Nicholas Elias,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,11,bro-11-lay-down-arms.jpg,Lay Down Arms,Uncommon,,Sorcery,,Booster,Liiga Smilshkalne,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,12,bro-12-loran-of-the-third-path.jpg,Loran of the Third Path,Rare,,Lgd. Creature ,,Booster,Steven Belledin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,13,bro-13-loran-disciple-of-history.jpg,"Loran, Disciple of History",Uncommon,,Lgd. Creature ,,Booster,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,14,bro-14-loran-s-escape.jpg,Loran's Escape,Common,,Instant,,Booster,Matt Stewart,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,15,bro-15-mass-production.jpg,Mass Production,Uncommon,,Sorcery,,Booster,Rémi Jacquot,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,16,bro-16-meticulous-excavation.jpg,Meticulous Excavation,Uncommon,,Enchantment,,Booster,Lucas Graciano,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,17,bro-17-military-discipline.jpg,Military Discipline,Common,,Enchantment ,,Booster,Francisco Miyara,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,18,bro-18-myrel-shield-of-argive.jpg,"Myrel, Shield of Argive",Mythic,,Lgd. Creature ,,Booster,Ryan Pancoast,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,19,bro-19-phalanx-vanguard.jpg,Phalanx Vanguard,Common,,Creature ,,Booster,Izzy,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,20,bro-20-powerstone-engineer.jpg,Powerstone Engineer,Common,,Creature ,,Booster,Scott Murphy,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,21,bro-21-prison-sentence.jpg,Prison Sentence,Common,,Enchantment ,,Booster,Valera Lutfullina,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,22,bro-22-recommission.jpg,Recommission,Common,,Sorcery,,Booster,Andrew Mar,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,23,bro-23-recruitment-officer.jpg,Recruitment Officer,Uncommon,,Creature ,,Booster,Johan Grenier,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,24,bro-24-repair-and-recharge.jpg,Repair and Recharge,Uncommon,,Sorcery,,Booster,Ben Wootten,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,25,bro-25-siege-veteran.jpg,Siege Veteran,Rare,,Creature ,,Booster,Darren Tan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,26,bro-26-soul-partition.jpg,Soul Partition,Rare,,Instant,,Booster,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,27,bro-27-static-net.jpg,Static Net,Uncommon,,Enchantment,,Booster,Josh Hass,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,28,bro-28-survivor-of-korlis.jpg,Survivor of Korlis,Common,,Creature ,,Booster,Julia Metzger,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,29,bro-29-thopter-architect.jpg,Thopter Architect,Uncommon,,Creature ,,Booster,Michal Ivan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,30,bro-30-tocasia-s-welcome.jpg,Tocasia's Welcome,Rare,,Enchantment,,Booster,Johan Grenier,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,31,bro-31-union-of-the-third-path.jpg,Union of the Third Path,Common,,Instant,,Booster,Robin Olausson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,32,bro-32-warlord-s-elite.jpg,Warlord's Elite,Common,,Creature ,,Booster,Joshua Raphael,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,33,bro-33-yotian-medic.jpg,Yotian Medic,Common,,Creature ,,Booster,Aaron J. Riley,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,34,bro-34-autonomous-assembler.jpg,Autonomous Assembler,Rare,,Artifact Creature ,,Booster,Slawomir Maniak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,35,bro-35-combat-thresher.jpg,Combat Thresher,Uncommon,,Artifact Creature ,,Booster,Victor Harmatiuk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,36,bro-36-platoon-dispenser.jpg,Platoon Dispenser,Mythic,,Artifact Creature ,,Booster,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,37,bro-37-scrapwork-cohort.jpg,Scrapwork Cohort,Common,,Artifact Creature ,,Booster,Caio Monteiro,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,38,bro-38-steel-seraph.jpg,Steel Seraph,Rare,,Artifact Creature ,,Booster,Denys Tsiperko,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,39,bro-39-tocasia-s-onulet.jpg,Tocasia's Onulet,Common,,Artifact Creature ,,Booster,Eddie Mendoza,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,40,bro-40-urza-s-sylex.jpg,Urza's Sylex,Mythic,,Lgd. Artifact,,Booster,Joseph Meehan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,41,bro-41-veteran-s-powerblade.jpg,Veteran's Powerblade,Common,,Artifact ,,Booster,Alexandre Honoré,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,42,bro-42-yotian-frontliner.jpg,Yotian Frontliner,Uncommon,,Artifact Creature ,,Booster,Jehan Choo,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,43,bro-43-air-marshal.jpg,Air Marshal,Common,,Creature ,,Booster,Johan Grenier,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,44,bro-44-curate.jpg,Curate,Common,,Instant,,Booster,Ryan Valle,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,45,bro-45-defabricate.jpg,Defabricate,Uncommon,,Instant,,Booster,Uriah Voth,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,46,bro-46-desynchronize.jpg,Desynchronize,Common,,Instant,,Booster,Rovina Cai,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,47,bro-47-drafna-founder-of-lat-nam.jpg,"Drafna, Founder of Lat-Nam",Rare,,Lgd. Creature ,,Booster,Lie Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,48,bro-48-fallaji-archaeologist.jpg,Fallaji Archaeologist,Common,,Creature ,,Booster,Caroline Gariba,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,49,bro-49-flow-of-knowledge.jpg,Flow of Knowledge,Uncommon,,Instant,,Booster,Tuan Duong Chu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,50,bro-50-forging-the-anchor.jpg,Forging the Anchor,Uncommon,,Sorcery,,Booster,Liiga Smilshkalne,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,51,bro-51-hurkyl-master-wizard.jpg,"Hurkyl, Master Wizard",Rare,,Lgd. Creature ,,Booster,Randy Vargas,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,52,bro-52-hurkyl-s-final-meditation.jpg,Hurkyl's Final Meditation,Rare,,Instant,,Booster,Nephelomancer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,53,bro-53-involuntary-cooldown.jpg,Involuntary Cooldown,Uncommon,,Sorcery,,Booster,Eelis Kyttanen,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,54,bro-54-keeper-of-the-cadence.jpg,Keeper of the Cadence,Uncommon,,Creature ,,Booster,Alix Branwyn,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,55,bro-55-koilos-roc.jpg,Koilos Roc,Common,,Creature ,,Booster,Antonio José Manzanedo,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,56,bro-56-lat-nam-adept.jpg,Lat-Nam Adept,Common,,Creature ,,Booster,Zara Alfonso,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,57,bro-57-machine-over-matter.jpg,Machine Over Matter,Common,,Instant,,Booster,Tuan Duong Chu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,58,bro-58-mightstone-s-animation.jpg,Mightstone's Animation,Common,,Enchantment ,,Booster,Igor Kieryluk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,59,bro-59-one-with-the-multiverse.jpg,One with the Multiverse,Mythic,,Enchantment,,Booster,Liiga Smilshkalne,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,60,bro-60-retrieval-agent.jpg,Retrieval Agent,Common,,Creature ,,Booster,Vladimir Krisetskiy,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,61,bro-61-scatter-ray.jpg,Scatter Ray,Common,,Instant,,Booster,Awanqi (Angela Wang),Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,62,bro-62-skystrike-officer.jpg,Skystrike Officer,Rare,,Creature ,,Booster,Diego Gisbert,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,63,bro-63-splitting-the-powerstone.jpg,Splitting the Powerstone,Uncommon,,Sorcery,,Booster,Campbell White,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,64,bro-64-stern-lesson.jpg,Stern Lesson,Common,,Instant,,Booster,Lie Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,65,bro-65-take-flight.jpg,Take Flight,Uncommon,,Enchantment ,,Booster,Joshua Cairos,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,66,bro-66-teferi-temporal-pilgrim.jpg,"Teferi, Temporal Pilgrim",Mythic,,Lgd. Planeswalker ,,Booster,Magali Villeneuve,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,67,bro-67-third-path-savant.jpg,Third Path Savant,Common,,Creature ,,Booster,Artur Treffner,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,68,bro-68-thopter-mechanic.jpg,Thopter Mechanic,Uncommon,,Creature ,,Booster,Joshua Raphael,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,69,bro-69-urza-powerstone-prodigy.jpg,"Urza, Powerstone Prodigy",Uncommon,,Lgd. Creature ,,Booster,Donato Giancola,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,70,bro-70-urza-s-command.jpg,Urza's Command,Rare,,Instant,,Booster,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,71,bro-71-urza-s-rebuff.jpg,Urza's Rebuff,Common,,Instant,,Booster,Josu Hernaiz,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,72,bro-72-weakstone-s-subjugation.jpg,Weakstone's Subjugation,Common,,Enchantment ,,Booster,Igor Kieryluk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,73,bro-73-wing-commando.jpg,Wing Commando,Common,,Creature ,,Booster,David Auden Nash,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,74,bro-74-zephyr-sentinel.jpg,Zephyr Sentinel,Uncommon,,Creature ,,Booster,Inkognit,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,75,bro-75-arcane-proxy.jpg,Arcane Proxy,Mythic,,Artifact Creature ,,Booster,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,76,bro-76-coastal-bulwark.jpg,Coastal Bulwark,Common,,Artifact Creature ,,Booster,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,77,bro-77-combat-courier.jpg,Combat Courier,Common,,Artifact Creature ,,Booster,Alix Branwyn,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,78,bro-78-depth-charge-colossus.jpg,Depth Charge Colossus,Common,,Artifact Creature ,,Booster,Daniel Ljunggren,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,79,bro-79-hulking-metamorph.jpg,Hulking Metamorph,Uncommon,,Artifact Creature ,,Booster,Diego Gisbert,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,80,bro-80-spotter-thopter.jpg,Spotter Thopter,Uncommon,,Artifact Creature ,,Booster,Michael Phillippi,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,81,bro-81-surge-engine.jpg,Surge Engine,Mythic,,Artifact Creature ,,Booster,Daarken,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,82,bro-82-the-temporal-anchor.jpg,The Temporal Anchor,Rare,,Lgd. Artifact,,Booster,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,83,bro-83-terisian-mindbreaker.jpg,Terisian Mindbreaker,Rare,,Artifact Creature ,,Booster,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,84,bro-84-ashnod-flesh-mechanist.jpg,"Ashnod, Flesh Mechanist",Rare,,Lgd. Creature ,,Booster,Howard Lyon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,85,bro-85-ashnod-s-intervention.jpg,Ashnod's Intervention,Common,,Instant,,Booster,Miguel Mercado,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,86,bro-86-battlefield-butcher.jpg,Battlefield Butcher,Uncommon,,Creature ,,Booster,Lucas Graciano,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,87,bro-87-carrion-locust.jpg,Carrion Locust,Common,,Creature ,,Booster,Nino Is,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,88,bro-88-corrupt.jpg,Corrupt,Uncommon,,Sorcery,,Booster,Julie Dillon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,89,bro-89-diabolic-intent.jpg,Diabolic Intent,Rare,,Sorcery,,Booster,Dan Scott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,90,bro-90-disciples-of-gix.jpg,Disciples of Gix,Uncommon,,Creature ,,Booster,Peter Polach,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,91,bro-91-disfigure.jpg,Disfigure,Common,,Instant,,Booster,Svetlin Velinov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,92,bro-92-dreams-of-steel-and-oil.jpg,Dreams of Steel and Oil,Uncommon,,Sorcery,,Booster,Jeremy Wilson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,93,bro-93-emergency-weld.jpg,Emergency Weld,Common,,Sorcery,,Booster,Raoul Vitale,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,94,bro-94-fateful-handoff.jpg,Fateful Handoff,Rare,,Sorcery,,Booster,Gaboleps,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,95,bro-95-gix-yawgmoth-praetor.jpg,"Gix, Yawgmoth Praetor",Mythic,,Lgd. Creature ,,Booster,Anna Podedworna,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,96,bro-96-gix-s-caress.jpg,Gix's Caress,Common,,Sorcery,,Booster,Ignatius Budi,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,97,bro-97-gix-s-command.jpg,Gix's Command,Rare,,Sorcery,,Booster,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,98,bro-98-gixian-infiltrator.jpg,Gixian Infiltrator,Common,,Creature ,,Booster,Peter Polach,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,99,bro-99-gixian-puppeteer.jpg,Gixian Puppeteer,Rare,,Creature ,,Booster,Bastien L. Deharme,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,100,bro-100-gixian-skullflayer.jpg,Gixian Skullflayer,Common,,Creature ,,Booster,Anna Pavleeva,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,101,bro-101-gnawing-vermin.jpg,Gnawing Vermin,Uncommon,,Creature ,,Booster,Raoul Vitale,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,102,bro-102-go-for-the-throat.jpg,Go for the Throat,Uncommon,,Instant,,Booster,Kristina Carroll,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,103,bro-103-gruesome-realization.jpg,Gruesome Realization,Uncommon,,Sorcery,,Booster,Julie Dillon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,104,bro-104-gurgling-anointer.jpg,Gurgling Anointer,Uncommon,,Creature ,,Booster,David Astruga,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,105,bro-105-hostile-negotiations.jpg,Hostile Negotiations,Rare,,Instant,,Booster,David Auden Nash,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,106,bro-106-kill-zone-acrobat.jpg,Kill-Zone Acrobat,Common,,Creature ,,Booster,Justine Cruz,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,107,bro-107-misery-s-shadow.jpg,Misery's Shadow,Rare,,Creature ,,Booster,Igor Kieryluk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,108,bro-108-moment-of-defiance.jpg,Moment of Defiance,Common,,Instant,,Booster,Inkognit,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,109,bro-109-no-one-left-behind.jpg,No One Left Behind,Uncommon,,Sorcery,,Booster,Chris Cold,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,110,bro-110-overwhelming-remorse.jpg,Overwhelming Remorse,Common,,Instant,,Booster,Ryan Valle,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,111,bro-111-painful-quandary.jpg,Painful Quandary,Rare,,Enchantment,,Booster,David Palumbo,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,112,bro-112-powerstone-fracture.jpg,Powerstone Fracture,Common,,Sorcery,,Booster,Campbell White,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,113,bro-113-ravenous-gigamole.jpg,Ravenous Gigamole,Common,,Creature ,,Booster,Milivoj Ćeran,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,114,bro-114-thran-vigil.jpg,Thran Vigil,Uncommon,,Enchantment,,Booster,Jinho Bae,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,115,bro-115-thraxodemon.jpg,Thraxodemon,Common,,Creature ,,Booster,Nino Is,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,116,bro-116-trench-stalker.jpg,Trench Stalker,Common,,Creature ,,Booster,Nino Vecia,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,117,bro-117-ashnod-s-harvester.jpg,Ashnod's Harvester,Uncommon,,Artifact Creature ,,Booster,Halil Ural,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,118,bro-118-clay-revenant.jpg,Clay Revenant,Common,,Artifact Creature ,,Booster,Filipe Pagliuso,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,119,bro-119-dredging-claw.jpg,Dredging Claw,Common,,Artifact ,,Booster,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,120,bro-120-goring-warplow.jpg,Goring Warplow,Common,,Artifact Creature ,,Booster,Wayne Reynolds,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,121,bro-121-phyrexian-fleshgorger.jpg,Phyrexian Fleshgorger,Mythic,,Artifact Creature ,,Booster,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,122,bro-122-razorlash-transmogrant.jpg,Razorlash Transmogrant,Rare,,Artifact Creature ,,Booster,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,123,bro-123-scrapwork-rager.jpg,Scrapwork Rager,Common,,Artifact Creature ,,Booster,Michal Ivan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,124,bro-124-transmogrant-altar.jpg,Transmogrant Altar,Uncommon,,Artifact,,Booster,Dan Scott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,125,bro-125-transmogrant-s-crown.jpg,Transmogrant's Crown,Rare,,Artifact ,,Booster,Nino Vecia,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,126,bro-126-arms-race.jpg,Arms Race,Uncommon,,Enchantment,,Booster,Leesha Hannigan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,127,bro-127-bitter-reunion.jpg,Bitter Reunion,Common,,Enchantment,,Booster,Jake Murray,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,128,bro-128-brotherhood-s-end.jpg,Brotherhood's End,Rare,,Sorcery,,Booster,Bryan Sola,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,129,bro-129-conscripted-infantry.jpg,Conscripted Infantry,Common,,Creature ,,Booster,Noah Thatcher,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,130,bro-130-draconic-destiny.jpg,Draconic Destiny,Mythic,,Enchantment ,,Booster,Justin Hernandez & Alexis Hernandez,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,131,bro-131-dwarven-forge-chanter.jpg,Dwarven Forge-Chanter,Common,,Creature ,,Booster,Bartłomiej Gaweł,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,132,bro-132-excavation-explosion.jpg,Excavation Explosion,Common,,Sorcery,,Booster,Campbell White,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,133,bro-133-the-fall-of-kroog.jpg,The Fall of Kroog,Uncommon,,Sorcery,,Booster,David Auden Nash,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,134,bro-134-fallaji-chaindancer.jpg,Fallaji Chaindancer,Common,,Creature ,,Booster,Filipe Pagliuso,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,135,bro-135-feldon-ronom-excavator.jpg,"Feldon, Ronom Excavator",Rare,,Lgd. Creature ,,Booster,Howard Lyon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,136,bro-136-giant-cindermaw.jpg,Giant Cindermaw,Uncommon,,Creature ,,Booster,Edgar Sánchez Hidalgo,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,137,bro-137-goblin-blast-runner.jpg,Goblin Blast-Runner,Common,,Creature ,,Booster,Joseph Weston,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,138,bro-138-horned-stoneseeker.jpg,Horned Stoneseeker,Uncommon,,Creature ,,Booster,Eric Velhagen,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,139,bro-139-mechanized-warfare.jpg,Mechanized Warfare,Rare,,Enchantment,,Booster,Robin Olausson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,140,bro-140-mishra-excavation-prodigy.jpg,"Mishra, Excavation Prodigy",Uncommon,,Lgd. Creature ,,Booster,Donato Giancola,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,141,bro-141-mishra-s-command.jpg,Mishra's Command,Rare,,Sorcery,,Booster,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,142,bro-142-mishra-s-domination.jpg,Mishra's Domination,Common,,Enchantment ,,Booster,Fajareka Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,143,bro-143-mishra-s-onslaught.jpg,Mishra's Onslaught,Common,,Instant,,Booster,Josu Hernaiz,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,144,bro-144-monastery-swiftspear.jpg,Monastery Swiftspear,Uncommon,,Creature ,,Booster,Gabor Szikszai,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,145,bro-145-obliterating-bolt.jpg,Obliterating Bolt,Uncommon,,Sorcery,,Booster,Campbell White,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,146,bro-146-over-the-top.jpg,Over the Top,Rare,,Sorcery,,Booster,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,147,bro-147-penregon-strongbull.jpg,Penregon Strongbull,Common,,Creature ,,Booster,Michael Phillippi,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,148,bro-148-pyrrhic-blast.jpg,Pyrrhic Blast,Uncommon,,Instant,,Booster,Raf Kayupov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,149,bro-149-raze-to-the-ground.jpg,Raze to the Ground,Common,,Sorcery,,Booster,Joshua Raphael,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,150,bro-150-roc-hunter.jpg,Roc Hunter,Common,,Creature ,,Booster,Ina Wong,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,151,bro-151-sardian-cliffstomper.jpg,Sardian Cliffstomper,Uncommon,,Creature ,,Booster,Joseph Weston,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,152,bro-152-sibling-rivalry.jpg,Sibling Rivalry,Common,,Sorcery,,Booster,Rovina Cai,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,153,bro-153-tomakul-scrapsmith.jpg,Tomakul Scrapsmith,Common,,Creature ,,Booster,Caio Monteiro,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,154,bro-154-tyrant-of-kher-ridges.jpg,Tyrant of Kher Ridges,Rare,,Creature ,,Booster,Karl Kopinski,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,155,bro-155-unleash-shell.jpg,Unleash Shell,Common,,Instant,,Booster,Campbell White,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,156,bro-156-visions-of-phyrexia.jpg,Visions of Phyrexia,Rare,,Enchantment,,Booster,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,157,bro-157-whirling-strike.jpg,Whirling Strike,Common,,Instant,,Booster,Aaron J. Riley,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,158,bro-158-blitz-automaton.jpg,Blitz Automaton,Common,,Artifact Creature ,,Booster,Simon Dominic,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,159,bro-159-fallaji-dragon-engine.jpg,Fallaji Dragon Engine,Uncommon,,Artifact Creature ,,Booster,Filip Burburan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,160,bro-160-heavyweight-demolisher.jpg,Heavyweight Demolisher,Uncommon,,Artifact Creature ,,Booster,Svetlin Velinov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,161,bro-161-mishra-s-juggernaut.jpg,Mishra's Juggernaut,Common,,Artifact Creature ,,Booster,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,162,bro-162-mishra-s-research-desk.jpg,Mishra's Research Desk,Uncommon,,Artifact,,Booster,Matt Stewart,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,163a,bro-163-phyrexian-dragon-engine.jpg,Phyrexian Dragon Engine,Rare,,Artifact Creature ,,Booster,Chris Rahn,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,163b,bro-163b-mishra-lost-to-phyrexia.jpg,"Mishra, Lost to Phyrexia",Mythic,,Lgd. Artifact Creature ,,Booster,Chris Rahn,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,164,bro-164-scrapwork-mutt.jpg,Scrapwork Mutt,Common,,Artifact Creature ,,Booster,Sidharth Chaturvedi,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,165,bro-165-skitterbeam-battalion.jpg,Skitterbeam Battalion,Mythic,,Artifact Creature ,,Booster,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,166,bro-166-alloy-animist.jpg,Alloy Animist,Uncommon,,Creature ,,Booster,Kim Sokol,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,167,bro-167-argothian-opportunist.jpg,Argothian Opportunist,Common,,Creature ,,Booster,Ina Wong,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,168,bro-168-argothian-sprite.jpg,Argothian Sprite,Common,,Creature ,,Booster,Rudy Siswanto,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,169,bro-169-audacity.jpg,Audacity,Uncommon,,Enchantment ,,Booster,Rudy Siswanto,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,170,bro-170-awaken-the-woods.jpg,Awaken the Woods,Mythic,,Sorcery,,Booster,Bryan Sola,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,171,bro-171-blanchwood-armor.jpg,Blanchwood Armor,Uncommon,,Enchantment ,,Booster,Manuel Castañón,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,172,bro-172-blanchwood-prowler.jpg,Blanchwood Prowler,Common,,Creature ,,Booster,Justine Cruz,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,173,bro-173-burrowing-razormaw.jpg,Burrowing Razormaw,Common,,Creature ,,Booster,Uriah Voth,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,174,bro-174-bushwhack.jpg,Bushwhack,Uncommon,,Sorcery,,Booster,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,175,bro-175-citanul-stalwart.jpg,Citanul Stalwart,Common,,Creature ,,Booster,Alexandr Leskinen,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,176,bro-176-epic-confrontation.jpg,Epic Confrontation,Common,,Sorcery,,Booster,Lucas Graciano,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,177,bro-177-fade-from-history.jpg,Fade from History,Rare,,Sorcery,,Booster,Alessandra Pisano,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,178,bro-178-fallaji-excavation.jpg,Fallaji Excavation,Uncommon,,Sorcery,,Booster,Eilene Cherie,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,179,bro-179-fauna-shaman.jpg,Fauna Shaman,Rare,,Creature ,,Booster,Nicholas Elias,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,180,bro-180-fog-of-war.jpg,Fog of War,Common,,Instant,,Booster,Josu Hernaiz,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,181,bro-181-gaea-s-courser.jpg,Gaea's Courser,Uncommon,,Creature ,,Booster,Michele Giorgi,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,182,bro-182-gaea-s-gift.jpg,Gaea's Gift,Common,,Instant,,Booster,Olivier Bernard,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,183,bro-183-giant-growth.jpg,Giant Growth,Common,,Instant,,Booster,Raoul Vitale,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,184,bro-184-gnarlroot-pallbearer.jpg,Gnarlroot Pallbearer,Common,,Creature ,,Booster,Nino Is,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,185,bro-185-gwenna-eyes-of-gaea.jpg,"Gwenna, Eyes of Gaea",Rare,,Lgd. Creature ,,Booster,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,186,bro-186-hoarding-recluse.jpg,Hoarding Recluse,Common,,Creature ,,Booster,Jorge Jacinto,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,187,bro-187-obstinate-baloth.jpg,Obstinate Baloth,Uncommon,,Creature ,,Booster,Chris Rahn,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,188,bro-188-perimeter-patrol.jpg,Perimeter Patrol,Common,,Creature ,,Booster,Edgar Sánchez Hidalgo,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,189,bro-189-sarinth-steelseeker.jpg,Sarinth Steelseeker,Uncommon,,Creature ,,Booster,Olivier Bernard,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,190,bro-190-shoot-down.jpg,Shoot Down,Common,,Sorcery,,Booster,Lius Lasahido,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,191,bro-191-tawnos-s-tinkering.jpg,Tawnos's Tinkering,Common,,Instant,,Booster,Alex Stone,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,192,bro-192-teething-wurmlet.jpg,Teething Wurmlet,Rare,,Creature ,,Booster,Jesper Ejsing,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,193,bro-193-titania-voice-of-gaea.jpg,"Titania, Voice of Gaea",Mythic,,Lgd. Creature ,,Booster,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,194,bro-194-titania-s-command.jpg,Titania's Command,Rare,,Sorcery,,Booster,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,195,bro-195-tomakul-honor-guard.jpg,Tomakul Honor Guard,Common,,Creature ,,Booster,Francisco Miyara,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,196,bro-196-wasteful-harvest.jpg,Wasteful Harvest,Common,,Instant,,Booster,Alex Stone,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,197,bro-197-boulderbranch-golem.jpg,Boulderbranch Golem,Common,,Artifact Creature ,,Booster,Dan Scott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,198,bro-198-cradle-clearcutter.jpg,Cradle Clearcutter,Uncommon,,Artifact Creature ,,Booster,Daarken,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,199,bro-199-haywire-mite.jpg,Haywire Mite,Uncommon,,Artifact Creature ,,Booster,Izzy,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,200,bro-200-iron-craw-crusher.jpg,Iron-Craw Crusher,Uncommon,,Artifact Creature ,,Booster,Filip Burburan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,201,bro-201-mask-of-the-jadecrafter.jpg,Mask of the Jadecrafter,Uncommon,,Artifact,,Booster,Alessandra Pisano,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,202,bro-202-perennial-behemoth.jpg,Perennial Behemoth,Rare,,Artifact Creature ,,Booster,Wayne Reynolds,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,203,bro-203-rootwire-amalgam.jpg,Rootwire Amalgam,Mythic,,Artifact Creature ,,Booster,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,204,bro-204-rust-goliath.jpg,Rust Goliath,Common,,Artifact Creature ,,Booster,Nicholas Gregory,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,205,bro-205-simian-simulacrum.jpg,Simian Simulacrum,Rare,,Artifact Creature ,,Booster,Randy Vargas,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,206,bro-206-arbalest-engineers.jpg,Arbalest Engineers,Uncommon,,Creature ,,Booster,Marta Nael,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,207,bro-207-battery-bearer.jpg,Battery Bearer,Uncommon,,Creature ,,Booster,Edgar Sánchez Hidalgo,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,208,bro-208-deathbloom-ritualist.jpg,Deathbloom Ritualist,Rare,,Creature ,,Booster,Taras Susak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,209,bro-209-evangel-of-synthesis.jpg,Evangel of Synthesis,Uncommon,,Creature ,,Booster,Denman Rooke,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,210,bro-210-fallaji-vanguard.jpg,Fallaji Vanguard,Uncommon,,Creature ,,Booster,Joshua Cairos,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,211,bro-211-hajar-loyal-bodyguard.jpg,"Hajar, Loyal Bodyguard",Rare,,Lgd. Creature ,,Booster,Joshua Raphael,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,212,bro-212-harbin-vanguard-aviator.jpg,"Harbin, Vanguard Aviator",Rare,,Lgd. Creature ,,Booster,Kieran Yanner,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,213,bro-213-hero-of-the-dunes.jpg,Hero of the Dunes,Uncommon,,Creature ,,Booster,Taras Susak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,214,bro-214-junkyard-genius.jpg,Junkyard Genius,Uncommon,,Creature ,,Booster,Rémi Jacquot,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,215,bro-215-legions-to-ashes.jpg,Legions to Ashes,Rare,,Sorcery,,Booster,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,216,bro-216-mishra-claimed-by-gix.jpg,"Mishra, Claimed by Gix",Mythic,,Lgd. Creature ,,Booster,Chris Rahn,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,217,bro-217-mishra-tamer-of-mak-fawa.jpg,"Mishra, Tamer of Mak Fawa",Rare,,Lgd. Creature ,,Booster,Darren Tan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,218,bro-218-queen-kayla-bin-kroog.jpg,Queen Kayla bin-Kroog,Rare,,Lgd. Creature ,,Booster,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,219,bro-219-saheeli-filigree-master.jpg,"Saheeli, Filigree Master",Mythic,,Lgd. Planeswalker ,,Booster,Aurore Folny,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,220,bro-220-sarinth-greatwurm.jpg,Sarinth Greatwurm,Mythic,,Creature ,,Booster,Jesper Ejsing,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,221,bro-221-skyfisher-spider.jpg,Skyfisher Spider,Uncommon,,Creature ,,Booster,Henry Peters,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,222,bro-222-tawnos-the-toymaker.jpg,"Tawnos, the Toymaker",Rare,,Lgd. Creature ,,Booster,Livia Prima,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,223,bro-223-third-path-iconoclast.jpg,Third Path Iconoclast,Uncommon,,Creature ,,Booster,Manuel Castañón,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,224,bro-224-tocasia-dig-site-mentor.jpg,"Tocasia, Dig Site Mentor",Rare,,Lgd. Creature ,,Booster,Lie Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,225,bro-225-urza-lord-protector.jpg,"Urza, Lord Protector",Mythic,,Lgd. Creature ,,Booster,Ryan Pancoast,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,226,bro-226-urza-prince-of-kroog.jpg,"Urza, Prince of Kroog",Rare,,Lgd. Creature ,,Booster,Joshua Raphael,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,227,bro-227-yotian-dissident.jpg,Yotian Dissident,Uncommon,,Creature ,,Booster,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,228,bro-228-yotian-tactician.jpg,Yotian Tactician,Uncommon,,Creature ,,Booster,Fariba Khamseh,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,229,bro-229-bladecoil-serpent.jpg,Bladecoil Serpent,Mythic,,Artifact Creature ,,Booster,Joshua Cairos,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,230,bro-230-clay-champion.jpg,Clay Champion,Mythic,,Artifact Creature ,,Booster,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,231,bro-231-aeronaut-s-wings.jpg,Aeronaut's Wings,Common,,Artifact ,,Booster,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,232,bro-232-argivian-avenger.jpg,Argivian Avenger,Uncommon,,Artifact Creature ,,Booster,Milivoj Ćeran,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,233,bro-233-cityscape-leveler.jpg,Cityscape Leveler,Mythic,,Artifact Creature ,,Booster,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,234,bro-234-energy-refractor.jpg,Energy Refractor,Common,,Artifact,,Booster,Maria Poliakova,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,235,bro-235-goblin-firebomb.jpg,Goblin Firebomb,Common,,Artifact,,Booster,Noah Thatcher,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,236,bro-236-levitating-statue.jpg,Levitating Statue,Uncommon,,Artifact,,Booster,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,237,bro-237-liberator-urza-s-battlethopter.jpg,"Liberator, Urza's Battlethopter",Rare,,Lgd. Artifact Creature ,,Booster,Ekaterina Burmak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,238a,bro-238a-the-mightstone-and-weakstone.jpg,The Mightstone and Weakstone,Rare,,Lgd. Artifact ,,Booster,Ryan Pancoast,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,238b,bro-238b-urza-planeswalker.jpg,"Urza, Planeswalker",Mythic,,Lgd. Planeswalker ,,Booster,Ryan Pancoast,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,239,bro-239-mine-worker.jpg,Mine Worker,Common,,Artifact Creature ,,Booster,Raoul Vitale,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,240,bro-240-portal-to-phyrexia.jpg,Portal to Phyrexia,Mythic,,Artifact,,Booster,Svetlin Velinov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,241,bro-241-power-plant-worker.jpg,Power Plant Worker,Common,,Artifact Creature ,,Booster,Aaron Miller,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,242,bro-242-reconstructed-thopter.jpg,Reconstructed Thopter,Uncommon,,Artifact Creature ,,Booster,Dan Scott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,243,bro-243-slagstone-refinery.jpg,Slagstone Refinery,Uncommon,,Artifact,,Booster,Victor Harmatiuk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,244,bro-244-spectrum-sentinel.jpg,Spectrum Sentinel,Uncommon,,Artifact Creature ,,Booster,Olivier Bernard,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,245,bro-245-the-stasis-coffin.jpg,The Stasis Coffin,Rare,,Lgd. Artifact,,Booster,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,246,bro-246-steel-exemplar.jpg,Steel Exemplar,Uncommon,,Artifact Creature ,,Booster,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,247,bro-247-the-stone-brain.jpg,The Stone Brain,Rare,,Lgd. Artifact,,Booster,Irina Nordsol,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,248,bro-248-stone-retrieval-unit.jpg,Stone Retrieval Unit,Common,,Artifact Creature ,,Booster,Andreas Zafiratos,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,249,bro-249-su-chi-cave-guard.jpg,Su-Chi Cave Guard,Uncommon,,Artifact Creature ,,Booster,Dmitry Burmak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,250,bro-250-supply-drop.jpg,Supply Drop,Common,,Artifact,,Booster,Brian Valeza,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,251,bro-251-swiftgear-drake.jpg,Swiftgear Drake,Common,,Artifact Creature ,,Booster,Zoltan Boros,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,252,bro-252-symmetry-matrix.jpg,Symmetry Matrix,Uncommon,,Artifact,,Booster,Slawomir Maniak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,253,bro-253-thran-power-suit.jpg,Thran Power Suit,Uncommon,,Artifact ,,Booster,Raf Kayupov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,254,bro-254-thran-spider.jpg,Thran Spider,Rare,,Artifact Creature ,,Booster,Joshua Cairos,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,255,bro-255-tower-worker.jpg,Tower Worker,Common,,Artifact Creature ,,Booster,Gaboleps,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,256a,bro-256a-argoth-sanctum-of-nature.jpg,"Argoth, Sanctum of Nature",Rare,,Land,,Booster,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,256b,bro-256b-titania-gaea-incarnate.jpg,"Titania, Gaea Incarnate",Mythic,,Lgd. Creature ,,Booster,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,257,bro-257-battlefield-forge.jpg,Battlefield Forge,Rare,,Land,,Booster,Thomas Stoop,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,258,bro-258-blast-zone.jpg,Blast Zone,Rare,,Land,,Booster,Jorge Jacinto,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,259,bro-259-brushland.jpg,Brushland,Rare,,Land,,Booster,Thomas Stoop,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,260,bro-260-demolition-field.jpg,Demolition Field,Uncommon,,Land,,Booster,Kamila Szutenberg,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,261,bro-261-evolving-wilds.jpg,Evolving Wilds,Common,,Land,,Booster,Sam Burley,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,262,bro-262-fortified-beachhead.jpg,Fortified Beachhead,Rare,,Land,,Booster,Christian Dimitrov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,263,bro-263-hall-of-tagsin.jpg,Hall of Tagsin,Rare,,Land,,Booster,Christian Dimitrov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,264,bro-264-llanowar-wastes.jpg,Llanowar Wastes,Rare,,Land,,Booster,Lucas Graciano,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,265,bro-265-mishra-s-foundry.jpg,Mishra's Foundry,Rare,,Land,,Booster,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,266,bro-266-tocasia-s-dig-site.jpg,Tocasia's Dig Site,Common,,Land,,Booster,Nadia Hurianova,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,267,bro-267-underground-river.jpg,Underground River,Rare,,Land,,Booster,Volkan Baǵa,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,268,bro-268-plains.jpg,Plains,Common,,Basic Land ,,Booster,Raymond Bonilla,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,269,bro-269-plains.jpg,Plains,Common,,Basic Land ,,Booster,Jorge Jacinto,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,270,bro-270-island.jpg,Island,Common,,Basic Land ,,Booster,Eddie Mendoza,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,271,bro-271-island.jpg,Island,Common,,Basic Land ,,Booster,Lucas Staniec,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,272,bro-272-swamp.jpg,Swamp,Common,,Basic Land ,,Booster,Sam Burley,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,273,bro-273-swamp.jpg,Swamp,Common,,Basic Land ,,Booster,Robin Olausson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,274,bro-274-mountain.jpg,Mountain,Common,,Basic Land ,,Booster,Bruce Brenneise,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,275,bro-275-mountain.jpg,Mountain,Common,,Basic Land ,,Booster,Victor Harmatiuk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,276,bro-276-forest.jpg,Forest,Common,,Basic Land ,,Booster,Jonas De Ro,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,277,bro-277-forest.jpg,Forest,Common,,Basic Land ,,Booster,Piotr Dura,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,278,bro-278-plains.jpg,Plains,Common,,Basic Land ,,Booster,Sergey Glushakov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,279,bro-279-plains.jpg,Plains,Common,,Basic Land ,,Booster,Robin Olausson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,280,bro-280-island.jpg,Island,Common,,Basic Land ,,Booster,Robin Olausson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,281,bro-281-island.jpg,Island,Common,,Basic Land ,,Booster,Lucas Staniec,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,282,bro-282-swamp.jpg,Swamp,Common,,Basic Land ,,Booster,Sergey Glushakov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,283,bro-283-swamp.jpg,Swamp,Common,,Basic Land ,,Booster,Robin Olausson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,284,bro-284-mountain.jpg,Mountain,Common,,Basic Land ,,Booster,Sergey Glushakov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,285,bro-285-mountain.jpg,Mountain,Common,,Basic Land ,,Booster,Victor Harmatiuk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,286,bro-286-forest.jpg,Forest,Common,,Basic Land ,,Booster,Jonas De Ro,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,287,bro-287-forest.jpg,Forest,Common,,Basic Land ,,Booster,Piotr Dura,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,288,bro-288-rescue-retriever.jpg,Rescue Retriever,Rare,,Creature ,,Jumpstart,Jesper Ejsing,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,289,bro-289-geology-enthusiast.jpg,Geology Enthusiast,Rare,,Creature ,,Jumpstart,Fajareka Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,290,bro-290-terror-ballista.jpg,Terror Ballista,Rare,,Artifact Creature ,,Jumpstart,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,291,bro-291-artificer-s-dragon.jpg,Artificer's Dragon,Rare,,Artifact Creature ,,Jumpstart,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,292,bro-292-woodcaller-automaton.jpg,Woodcaller Automaton,Rare,,Artifact Creature ,,Jumpstart,Ryan Pancoast,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,293,bro-293-teferi-temporal-pilgrim.jpg,"Teferi, Temporal Pilgrim",Mythic,,Lgd. Planeswalker ,,Planeswalkers,Cosmin Podar,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,294,bro-294-saheeli-filigree-master.jpg,"Saheeli, Filigree Master",Mythic,,Lgd. Planeswalker ,,Planeswalkers,Cosmin Podar,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,295,bro-295-mishra-tamer-of-mak-fawa.jpg,"Mishra, Tamer of Mak Fawa",Rare,,Lgd. Creature ,,Alternate Art,Cosmin Podar,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,296,bro-296-urza-prince-of-kroog.jpg,"Urza, Prince of Kroog",Rare,,Lgd. Creature ,,Alternate Art,Cosmin Podar,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,297,bro-297-battlefield-forge.jpg,Battlefield Forge,Rare,,Land,,Alternate Art,Rob Alexander,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,298,bro-298-brushland.jpg,Brushland,Rare,,Land,,Alternate Art,Rob Alexander,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,299,bro-299-llanowar-wastes.jpg,Llanowar Wastes,Rare,,Land,,Alternate Art,Rob Alexander,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,300,bro-300-underground-river.jpg,Underground River,Rare,,Land,,Alternate Art,Rob Alexander,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,301,bro-301-in-the-trenches.jpg,In the Trenches,Mythic,,Enchantment,,Extended Art,Daarken,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,302,bro-302-kayla-s-command.jpg,Kayla's Command,Rare,,Sorcery,,Extended Art,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,303,bro-303-kayla-s-reconstruction.jpg,Kayla's Reconstruction,Rare,,Sorcery,,Extended Art,Nicholas Elias,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,304,bro-304-loran-of-the-third-path.jpg,Loran of the Third Path,Rare,,Lgd. Creature ,,Extended Art,Steven Belledin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,305,bro-305-myrel-shield-of-argive.jpg,"Myrel, Shield of Argive",Mythic,,Lgd. Creature ,,Extended Art,Ryan Pancoast,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,306,bro-306-siege-veteran.jpg,Siege Veteran,Rare,,Creature ,,Extended Art,Darren Tan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,307,bro-307-soul-partition.jpg,Soul Partition,Rare,,Instant,,Extended Art,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,308,bro-308-tocasia-s-welcome.jpg,Tocasia's Welcome,Rare,,Enchantment,,Extended Art,Johan Grenier,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,309,bro-309-autonomous-assembler.jpg,Autonomous Assembler,Rare,,Artifact Creature ,,Extended Art,Slawomir Maniak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,310,bro-310-platoon-dispenser.jpg,Platoon Dispenser,Mythic,,Artifact Creature ,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,311,bro-311-steel-seraph.jpg,Steel Seraph,Rare,,Artifact Creature ,,Extended Art,Denys Tsiperko,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,312,bro-312-urza-s-sylex.jpg,Urza's Sylex,Mythic,,Lgd. Artifact,,Extended Art,Joseph Meehan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,313,bro-313-drafna-founder-of-lat-nam.jpg,"Drafna, Founder of Lat-Nam",Rare,,Lgd. Creature ,,Extended Art,Lie Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,314,bro-314-hurkyl-master-wizard.jpg,"Hurkyl, Master Wizard",Mythic,,Lgd. Creature ,,Extended Art,Randy Vargas,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,315,bro-315-hurkyl-s-final-meditation.jpg,Hurkyl's Final Meditation,Rare,,Instant,,Extended Art,Nephelomancer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,316,bro-316-one-with-the-multiverse.jpg,One with the Multiverse,Mythic,,Enchantment,,Extended Art,Liiga Smilshkalne,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,317,bro-317-skystrike-officer.jpg,Skystrike Officer,Rare,,Creature ,,Extended Art,Diego Gisbert,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,318,bro-318-urza-s-command.jpg,Urza's Command,Rare,,Instant,,Extended Art,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,319,bro-319-arcane-proxy.jpg,Arcane Proxy,Mythic,,Artifact Creature ,,Extended Art,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,320,bro-320-surge-engine.jpg,Surge Engine,Mythic,,Artifact Creature ,,Extended Art,Daarken,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,321,bro-321-the-temporal-anchor.jpg,The Temporal Anchor,Rare,,Lgd. Artifact,,Extended Art,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,322,bro-322-terisian-mindbreaker.jpg,Terisian Mindbreaker,Rare,,Artifact Creature ,,Extended Art,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,323,bro-323-ashnod-flesh-mechanist.jpg,"Ashnod, Flesh Mechanist",Rare,,Lgd. Creature ,,Extended Art,Howard Lyon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,324,bro-324-diabolic-intent.jpg,Diabolic Intent,Rare,,Sorcery,,Extended Art,Dan Scott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,325,bro-325-fateful-handoff.jpg,Fateful Handoff,Rare,,Sorcery,,Extended Art,Gaboleps,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,326,bro-326-gix-yawgmoth-praetor.jpg,"Gix, Yawgmoth Praetor",Mythic,,Lgd. Creature ,,Extended Art,Anna Podedworna,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,327,bro-327-gix-s-command.jpg,Gix's Command,Rare,,Sorcery,,Extended Art,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,328,bro-328-gixian-puppeteer.jpg,Gixian Puppeteer,Rare,,Creature ,,Extended Art,Bastien L. Deharme,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,329,bro-329-hostile-negotiations.jpg,Hostile Negotiations,Rare,,Instant,,Extended Art,David Auden Nash,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,330,bro-330-misery-s-shadow.jpg,Misery's Shadow,Rare,,Creature ,,Extended Art,Igor Kieryluk,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,331,bro-331-painful-quandary.jpg,Painful Quandary,Rare,,Enchantment,,Extended Art,David Palumbo,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,332,bro-332-phyrexian-fleshgorger.jpg,Phyrexian Fleshgorger,Mythic,,Artifact Creature ,,Extended Art,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,333,bro-333-razorlash-transmogrant.jpg,Razorlash Transmogrant,Rare,,Artifact Creature ,,Extended Art,Kekai Kotaki,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,334,bro-334-transmogrant-s-crown.jpg,Transmogrant's Crown,Rare,,Artifact ,,Extended Art,Nino Vecia,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,335,bro-335-brotherhood-s-end.jpg,Brotherhood's End,Rare,,Sorcery,,Extended Art,Bryan Sola,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,336,bro-336-draconic-destiny.jpg,Draconic Destiny,Mythic,,Enchantment ,,Extended Art,Justin Hernandez & Alexis Hernandez,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,337,bro-337-feldon-ronom-excavator.jpg,"Feldon, Ronom Excavator",Rare,,Lgd. Creature ,,Extended Art,Howard Lyon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,338,bro-338-mechanized-warfare.jpg,Mechanized Warfare,Rare,,Enchantment,,Extended Art,Robin Olausson,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,339,bro-339-mishra-s-command.jpg,Mishra's Command,Rare,,Sorcery,,Extended Art,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,340,bro-340-over-the-top.jpg,Over the Top,Rare,,Sorcery,,Extended Art,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,341,bro-341-tyrant-of-kher-ridges.jpg,Tyrant of Kher Ridges,Rare,,Creature ,,Extended Art,Karl Kopinski,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,342,bro-342-visions-of-phyrexia.jpg,Visions of Phyrexia,Rare,,Enchantment,,Extended Art,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,343,bro-343-skitterbeam-battalion.jpg,Skitterbeam Battalion,Mythic,,Artifact Creature ,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,344,bro-344-awaken-the-woods.jpg,Awaken the Woods,Mythic,,Sorcery,,Extended Art,Bryan Sola,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,345,bro-345-fade-from-history.jpg,Fade from History,Rare,,Sorcery,,Extended Art,Alessandra Pisano,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,346,bro-346-fauna-shaman.jpg,Fauna Shaman,Rare,,Creature ,,Extended Art,Nicholas Elias,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,347,bro-347-gwenna-eyes-of-gaea.jpg,"Gwenna, Eyes of Gaea",Rare,,Lgd. Creature ,,Extended Art,Steve Prescott,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,348,bro-348-teething-wurmlet.jpg,Teething Wurmlet,Rare,,Creature ,,Extended Art,Jesper Ejsing,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,349,bro-349-titania-s-command.jpg,Titania's Command,Rare,,Sorcery,,Extended Art,Dominik Mayer,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,350,bro-350-perennial-behemoth.jpg,Perennial Behemoth,Rare,,Artifact Creature ,,Extended Art,Wayne Reynolds,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,351,bro-351-rootwire-amalgam.jpg,Rootwire Amalgam,Mythic,,Artifact Creature ,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,352,bro-352-simian-simulacrum.jpg,Simian Simulacrum,Rare,,Artifact Creature ,,Extended Art,Randy Vargas,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,353,bro-353-deathbloom-ritualist.jpg,Deathbloom Ritualist,Rare,,Creature ,,Extended Art,Taras Susak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,354,bro-354-hajar-loyal-bodyguard.jpg,"Hajar, Loyal Bodyguard",Rare,,Lgd. Creature ,,Extended Art,Joshua Raphael,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,355,bro-355-harbin-vanguard-aviator.jpg,"Harbin, Vanguard Aviator",Rare,,Lgd. Creature ,,Extended Art,Kieran Yanner,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,356,bro-356-legions-to-ashes.jpg,Legions to Ashes,Rare,,Sorcery,,Extended Art,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,357,bro-357-queen-kayla-bin-kroog.jpg,Queen Kayla bin-Kroog,Rare,,Lgd. Creature ,,Extended Art,Cristi Balanescu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,358,bro-358-sarinth-greatwurm.jpg,Sarinth Greatwurm,Mythic,,Creature ,,Extended Art,Jesper Ejsing,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,359,bro-359-tawnos-the-toymaker.jpg,"Tawnos, the Toymaker",Rare,,Lgd. Creature ,,Extended Art,Livia Prima,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,360,bro-360-tocasia-dig-site-mentor.jpg,"Tocasia, Dig Site Mentor",Rare,,Lgd. Creature ,,Extended Art,Lie Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,361,bro-361-bladecoil-serpent.jpg,Bladecoil Serpent,Mythic,,Artifact Creature ,,Extended Art,Joshua Cairos,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,362,bro-362-clay-champion.jpg,Clay Champion,Mythic,,Artifact Creature ,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,363,bro-363-cityscape-leveler.jpg,Cityscape Leveler,Mythic,,Artifact Creature ,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,364,bro-364-liberator-urza-s-battlethopter.jpg,"Liberator, Urza's Battlethopter",Rare,,Lgd. Artifact Creature ,,Extended Art,Ekaterina Burmak,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,365,bro-365-portal-to-phyrexia.jpg,Portal to Phyrexia,Mythic,,Artifact,,Extended Art,Svetlin Velinov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,366,bro-366-the-stasis-coffin.jpg,The Stasis Coffin,Rare,,Lgd. Artifact,,Extended Art,Artur Nakhodkin,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,367,bro-367-the-stone-brain.jpg,The Stone Brain,Rare,,Lgd. Artifact,,Extended Art,Irina Nordsol,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,368,bro-368-thran-spider.jpg,Thran Spider,Rare,,Artifact Creature ,,Extended Art,Joshua Cairos,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,369,bro-369-blast-zone.jpg,Blast Zone,Rare,,Land,,Extended Art,Jorge Jacinto,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,370,bro-370-fortified-beachhead.jpg,Fortified Beachhead,Rare,,Land,,Extended Art,Christian Dimitrov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,371,bro-371-hall-of-tagsin.jpg,Hall of Tagsin,Rare,,Land,,Extended Art,Christian Dimitrov,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,372,bro-372-mishra-s-foundry.jpg,Mishra's Foundry,Rare,,Land,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,373,bro-373-rescue-retriever.jpg,Rescue Retriever,Rare,,Creature ,,Extended Art,Jesper Ejsing,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,374,bro-374-geology-enthusiast.jpg,Geology Enthusiast,Rare,,Creature ,,Extended Art,Fajareka Setiawan,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,375,bro-375-terror-ballista.jpg,Terror Ballista,Rare,,Artifact Creature ,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,376,bro-376-artificer-s-dragon.jpg,Artificer's Dragon,Rare,,Artifact Creature ,,Extended Art,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,377,bro-377-woodcaller-automaton.jpg,Woodcaller Automaton,Rare,,Artifact Creature ,,Extended Art,Ryan Pancoast,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,378,bro-378-mishra-s-foundry.jpg,Mishra's Foundry,Rare,,Land,,Buy A Box,Leon Tukker,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,379,bro-379-queen-kayla-bin-kroog.jpg,Queen Kayla bin-Kroog,Rare,,Lgd. Creature ,,Promo,Howard Lyon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,380,bro-380-lay-down-arms.jpg,Lay Down Arms,Uncommon,,Sorcery,,Promo,Liiga Smilshkalne,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,381,bro-381-flow-of-knowledge.jpg,Flow of Knowledge,Uncommon,,Instant,,Promo,Tuan Duong Chu,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,382,bro-382-corrupt.jpg,Corrupt,Uncommon,,Sorcery,,Promo,Julie Dillon,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,383,bro-383-sardian-cliffstomper.jpg,Sardian Cliffstomper,Uncommon,,Creature ,,Promo,Joseph Weston,Wizard The Coast,English
+2022,18/11/22,Magic: The Gathering,The Brothers' War,BRO,384,bro-384-blanchwood-armor.jpg,Blanchwood Armor,Uncommon,,Enchantment ,,Promo,Manuel Castañón,Wizard The Coast,English

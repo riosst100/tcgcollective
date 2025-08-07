@@ -1,0 +1,59 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Action Toys,Action Toys,,,,Action Toys
+Action Toys | Brands,,toys_brand,Brands,1,Action Toys | Brands
+Action Toys | Brands,,toy_categories,Action Toys,2,Action Toys | Brands | Action Toys
+Action Toys | Brands,,action_toys_categories,Action Figures,3,Action Toys | Brands | Action Toys | Action Figures
+Action Toys | Brands,,action_toys_categories,Robot/Mech Figures,3,Action Toys | Brands | Action Toys | Robot/Mech Figures
+Action Toys | Brands,,action_toys_categories,Statues,3,Action Toys | Brands | Action Toys | Statues
+Action Toys | Brands,,action_toys_categories,Busts,3,Action Toys | Brands | Action Toys | Busts
+Action Toys | Brands,,action_toys_categories,Props & Replica,3,Action Toys | Brands | Action Toys | Props & Replica
+Action Toys | Brands,,action_toys_props_replica_categories,Helmets,4,Action Toys | Brands | Action Toys | Props & Replica | Helmets
+Action Toys | Brands,,action_toys_props_replica_categories,Lightsabers,4,Action Toys | Brands | Action Toys | Props & Replica | Lightsabers
+Action Toys | Brands,,action_toys_props_replica_categories,Weapons,4,Action Toys | Brands | Action Toys | Props & Replica | Weapons
+Action Toys | Brands,,action_toys_props_replica_categories,Vehicles,4,Action Toys | Brands | Action Toys | Props & Replica | Vehicles
+Action Toys | Brands,,action_toys_categories,Mini-Figures,3,Action Toys | Brands | Action Toys | Mini-Figures
+Action Toys | Brands,,action_toys_categories,Blindboxes,3,Action Toys | Brands | Action Toys | Blindboxes
+Action Toys | Brands,,action_toys_categories,Designer Toys,3,Action Toys | Brands | Action Toys | Designer Toys
+Action Toys Model Kits,Action Toys Model Kits,,,,Action Toys Model Kits
+Action Toys Model Kits | Brands,,toys_brand,Brands,1,Action Toys Model Kits | Brands
+Action Toys Model Kits | Brands,,toy_categories,Action Toys Model Kits,2,Action Toys Model Kits | Brands | Action Toys Model Kits
+Action Toys Model Kits | Brands,,action_toys_model_kits_categories,Character Kits,3,Action Toys Model Kits | Brands | Action Toys Model Kits | Character Kits
+Action Toys Model Kits | Brands,,action_toys_model_kits_categories,Props & Replica Kits,3,Action Toys Model Kits | Brands | Action Toys Model Kits | Props & Replica Kits
+Action Toys | Hot Toys,,toys_brand,Hot Toys,1,Action Toys | Hot Toys
+Action Toys | Hot Toys,,toy_categories,Action Toys,2,Action Toys | Hot Toys | Action Toys
+Action Toys | Hot Toys,,action_toys_categories,Action Figures,3,Action Toys | Hot Toys | Action Toys | Action Figures
+Action Toys | Hot Toys,,action_toys_categories,Robot/Mech Figures,3,Action Toys | Hot Toys | Action Toys | Robot/Mech Figures
+Action Toys | Hot Toys,,action_toys_categories,Statues,3,Action Toys | Hot Toys | Action Toys | Statues
+Action Toys | Hot Toys,,action_toys_categories,Busts,3,Action Toys | Hot Toys | Action Toys | Busts
+Action Toys | Hot Toys,,action_toys_categories,Props & Replica,3,Action Toys | Hot Toys | Action Toys | Props & Replica
+Action Toys | Hot Toys,,action_toys_props_replica_categories,Helmets,4,Action Toys | Hot Toys | Action Toys | Props & Replica | Helmets
+Action Toys | Hot Toys,,action_toys_props_replica_categories,Lightsabers,4,Action Toys | Hot Toys | Action Toys | Props & Replica | Lightsabers
+Action Toys | Hot Toys,,action_toys_props_replica_categories,Weapons,4,Action Toys | Hot Toys | Action Toys | Props & Replica | Weapons
+Action Toys | Hot Toys,,action_toys_props_replica_categories,Vehicles,4,Action Toys | Hot Toys | Action Toys | Props & Replica | Vehicles
+Action Toys | Hot Toys,,action_toys_categories,Mini-Figures,3,Action Toys | Hot Toys | Action Toys | Mini-Figures
+Action Toys | Hot Toys,,action_toys_categories,Blindboxes,3,Action Toys | Hot Toys | Action Toys | Blindboxes
+Action Toys | Hot Toys,,action_toys_categories,Designer Toys,3,Action Toys | Hot Toys | Action Toys | Designer Toys
+Action Toys | Pop Mart,,toys_brand,Pop Mart,1,Action Toys | Pop Mart
+Action Toys | Pop Mart,,toy_categories,Action Toys,2,Action Toys | Pop Mart | Action Toys
+Action Toys | Pop Mart,,action_toys_categories,Action Figures,3,Action Toys | Pop Mart | Action Toys | Action Figures
+Action Toys | Pop Mart,,action_toys_categories,Mini-Figures,3,Action Toys | Pop Mart | Action Toys | Mini-Figures
+Action Toys | Pop Mart,,action_toys_categories,Blindboxes,3,Action Toys | Pop Mart | Action Toys | Blindboxes
+Action Toys | Pop Mart,,action_toys_categories,Designer Toys,3,Action Toys | Pop Mart | Action Toys | Designer Toys
+Action Toys | Hasbro,,toys_brand,Hasbro,1,Action Toys | Hasbro
+Action Toys | Hasbro,,toy_categories,Action Toys,2,Action Toys | Hasbro | Action Toys
+Action Toys | Hasbro,,action_toys_categories,Action Figures,3,Action Toys | Hasbro | Action Toys | Action Figures
+Action Toys | Hasbro,,action_toys_categories,Robot/Mech Figures,3,Action Toys | Hasbro | Action Toys | Robot/Mech Figures
+Action Toys | Hasbro,,action_toys_categories,Statues,3,Action Toys | Hasbro | Action Toys | Statues
+Action Toys | Hasbro,,action_toys_categories,Busts,3,Action Toys | Hasbro | Action Toys | Busts
+Action Toys | Hasbro,,action_toys_categories,Props & Replica,3,Action Toys | Hasbro | Action Toys | Props & Replica
+Action Toys | Hasbro,,action_toys_props_replica_categories,Helmets,4,Action Toys | Hasbro | Action Toys | Props & Replica | Helmets
+Action Toys | Hasbro,,action_toys_props_replica_categories,Lightsabers,4,Action Toys | Hasbro | Action Toys | Props & Replica | Lightsabers
+Action Toys | Hasbro,,action_toys_props_replica_categories,Weapons,4,Action Toys | Hasbro | Action Toys | Props & Replica | Weapons
+Action Toys | Hasbro,,action_toys_props_replica_categories,Vehicles,4,Action Toys | Hasbro | Action Toys | Props & Replica | Vehicles
+Action Toys | Hasbro,,action_toys_categories,Mini-Figures,3,Action Toys | Hasbro | Action Toys | Mini-Figures
+Action Toys | Hasbro,,action_toys_categories,Blindboxes,3,Action Toys | Hasbro | Action Toys | Blindboxes
+Action Toys | Hasbro,,action_toys_categories,Designer Toys,3,Action Toys | Hasbro | Action Toys | Designer Toys
+Action Toys Model Kits | Hasbro,,toys_brand,Hasbro,1,Action Toys Model Kits | Hasbro
+Action Toys Model Kits | Hasbro,,toy_categories,Action Toys Model Kits,2,Action Toys Model Kits | Hasbro | Action Toys Model Kits
+Action Toys Model Kits | Hasbro,,action_toys_model_kits_categories,Character Kits,3,Action Toys Model Kits | Hasbro | Action Toys Model Kits | Character Kits
+Action Toys Model Kits | Hasbro,,action_toys_model_kits_categories,Props & Replica Kits,3,Action Toys Model Kits | Hasbro | Action Toys Model Kits | Props & Replica Kits

@@ -1,0 +1,51 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Sport Cards,Sport Cards,,,,Sport Cards
+Sport Cards | Baseball,Sport Cards | Baseball,sc_categories,Baseball,1,Sport Cards | Baseball
+Sport Cards | Baseball,Sport Cards | Baseball | Singles,sc_product_type,Singles,2,Sport Cards | Baseball | Singles
+Sport Cards | Baseball,Sport Cards | Baseball | Sealed Products,sc_product_type,Sealed Products,2,Sport Cards | Baseball | Sealed Products
+Sport Cards | Baseball,Sport Cards | Baseball | Lots/Sets,sc_product_type,Lots/Sets,2,Sport Cards | Baseball | Sets
+Sport Cards | Baseball,Sport Cards | Baseball | Pre Orders,sc_product_type,Pre Orders,2,Sport Cards | Baseball | Pre Orders
+Sport Cards | Baseball,Sport Cards | Baseball | Pre Orders | Sealed Products,sc_pre_order_product_type,Sealed Products,3,Sport Cards | Baseball | Pre Orders | Sealed Products
+Sport Cards | Baseball,Sport Cards | Baseball | Pre Orders | Singles,sc_pre_order_product_type,Singles,3,Sport Cards | Baseball | Pre Orders | Singles
+Sport Cards | Basketball,Sport Cards | Basketball,sc_categories,Basketball,1,Sport Cards | Basketball
+Sport Cards | Basketball,Sport Cards | Basketball | Singles,sc_product_type,Singles,2,Sport Cards | Basketball | Singles
+Sport Cards | Basketball,Sport Cards | Basketball | Sealed Products,sc_product_type,Sealed Products,2,Sport Cards | Basketball | Sealed Products
+Sport Cards | Basketball,Sport Cards | Basketball | Lots/Sets,sc_product_type,Lots/Sets,2,Sport Cards | Basketball | Sets
+Sport Cards | Basketball,Sport Cards | Basketball | Pre Orders,sc_product_type,Pre Orders,2,Sport Cards | Basketball | Pre Orders
+Sport Cards | Basketball,Sport Cards | Basketball | Pre Orders | Sealed Products,sc_pre_order_product_type,Sealed Products,3,Sport Cards | Basketball | Pre Orders | Sealed Products
+Sport Cards | Basketball,Sport Cards | Basketball | Pre Orders | Singles,sc_pre_order_product_type,Singles,3,Sport Cards | Basketball | Pre Orders | Singles
+Sport Cards | Football,Sport Cards | Football,sc_categories,Football,1,Sport Cards | Football
+Sport Cards | Football,Sport Cards | Football | Singles,sc_product_type,Singles,2,Sport Cards | Football | Singles
+Sport Cards | Football,Sport Cards | Football | Sealed Products,sc_product_type,Sealed Products,2,Sport Cards | Football | Sealed Products
+Sport Cards | Football,Sport Cards | Football | Lots/Sets,sc_product_type,Lots/Sets,2,Sport Cards | Football | Sets
+Sport Cards | Football,Sport Cards | Football | Pre Orders,sc_product_type,Pre Orders,2,Sport Cards | Football | Pre Orders
+Sport Cards | Football,Sport Cards | Football | Pre Orders | Sealed Products,sc_pre_order_product_type,Sealed Products,3,Sport Cards | Football | Pre Orders | Sealed Products
+Sport Cards | Football,Sport Cards | Football | Pre Orders | Singles,sc_pre_order_product_type,Singles,3,Sport Cards | Football | Pre Orders | Singles
+Sport Cards | Hockey,Sport Cards | Hockey,sc_categories,Hockey,1,Sport Cards | Hockey
+Sport Cards | Hockey,Sport Cards | Hockey | Singles,sc_product_type,Singles,2,Sport Cards | Hockey | Singles
+Sport Cards | Hockey,Sport Cards | Hockey | Sealed Products,sc_product_type,Sealed Products,2,Sport Cards | Hockey | Sealed Products
+Sport Cards | Hockey,Sport Cards | Hockey | Lots/Sets,sc_product_type,Lots/Sets,2,Sport Cards | Hockey | Sets
+Sport Cards | Hockey,Sport Cards | Hockey | Pre Orders,sc_product_type,Pre Orders,2,Sport Cards | Hockey | Pre Orders
+Sport Cards | Hockey,Sport Cards | Hockey | Pre Orders | Sealed Products,sc_pre_order_product_type,Sealed Products,3,Sport Cards | Hockey | Pre Orders | Sealed Products
+Sport Cards | Hockey,Sport Cards | Hockey | Pre Orders | Singles,sc_pre_order_product_type,Singles,3,Sport Cards | Hockey | Pre Orders | Singles
+Sport Cards | Soccer,Sport Cards | Soccer,sc_categories,Soccer,1,Sport Cards | Soccer
+Sport Cards | Soccer,Sport Cards | Soccer | Singles,sc_product_type,Singles,2,Sport Cards | Soccer | Singles
+Sport Cards | Soccer,Sport Cards | Soccer | Sealed Products,sc_product_type,Sealed Products,2,Sport Cards | Soccer | Sealed Products
+Sport Cards | Soccer,Sport Cards | Soccer | Lots/Sets,sc_product_type,Lots/Sets,2,Sport Cards | Soccer | Sets
+Sport Cards | Soccer,Sport Cards | Soccer | Pre Orders,sc_product_type,Pre Orders,2,Sport Cards | Soccer | Pre Orders
+Sport Cards | Soccer,Sport Cards | Soccer | Pre Orders | Sealed Products,sc_pre_order_product_type,Sealed Products,3,Sport Cards | Soccer | Pre Orders | Sealed Products
+Sport Cards | Soccer,Sport Cards | Soccer | Pre Orders | Singles,sc_pre_order_product_type,Singles,3,Sport Cards | Soccer | Pre Orders | Singles
+Sport Cards | Wrestling,Sport Cards | Wrestling,sc_categories,Wrestling,1,Sport Cards | Wrestling
+Sport Cards | Wrestling,Sport Cards | Wrestling | Singles,sc_product_type,Singles,2,Sport Cards | Wrestling | Singles
+Sport Cards | Wrestling,Sport Cards | Wrestling | Sealed Products,sc_product_type,Sealed Products,2,Sport Cards | Wrestling | Sealed Products
+Sport Cards | Wrestling,Sport Cards | Wrestling | Lots/Sets,sc_product_type,Lots/Sets,2,Sport Cards | Wrestling | Sets
+Sport Cards | Wrestling,Sport Cards | Wrestling | Pre Orders,sc_product_type,Pre Orders,2,Sport Cards | Wrestling | Pre Orders
+Sport Cards | Wrestling,Sport Cards | Wrestling | Pre Orders | Sealed Products,sc_pre_order_product_type,Sealed Products,3,Sport Cards | Wrestling | Pre Orders | Sealed Products
+Sport Cards | Wrestling,Sport Cards | Wrestling | Pre Orders | Singles,sc_pre_order_product_type,Singles,3,Sport Cards | Wrestling | Pre Orders | Singles
+Sport Cards | Mix Martial Arts,Sport Cards | Mix Martial Arts,sc_categories,Mix Martial Arts,1,Sport Cards | Mix Martial Arts
+Sport Cards | Mix Martial Arts,Sport Cards | Mix Martial Arts | Singles,sc_product_type,Singles,2,Sport Cards | Mix Martial Arts | Singles
+Sport Cards | Mix Martial Arts,Sport Cards | Mix Martial Arts | Sealed Products,sc_product_type,Sealed Products,2,Sport Cards | Mix Martial Arts | Sealed Products
+Sport Cards | Mix Martial Arts,Sport Cards | Mix Martial Arts | Lots/Sets,sc_product_type,Lots/Sets,2,Sport Cards | Mix Martial Arts | Sets
+Sport Cards | Mix Martial Arts,Sport Cards | Mix Martial Arts | Pre Orders,sc_product_type,Pre Orders,2,Sport Cards | Mix Martial Arts | Pre Orders
+Sport Cards | Mix Martial Arts,Sport Cards | Mix Martial Arts | Pre Orders | Sealed Products,sc_pre_order_product_type,Sealed Products,3,Sport Cards | Mix Martial Arts | Pre Orders | Sealed Products
+Sport Cards | Mix Martial Arts,Sport Cards | Mix Martial Arts | Pre Orders | Singles,sc_pre_order_product_type,Singles,3,Sport Cards | Mix Martial Arts | Pre Orders | Singles

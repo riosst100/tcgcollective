@@ -1,0 +1,23 @@
+group,category,attribute_code,attribute_option,priority,target_attribute_set
+Bricks,Bricks,,,,Bricks
+Bricks | Brands,,bricks_brand,Brands,1,Bricks | Brands
+Bricks | Brands,,bricks_categories,Box Sets/Packs,2,Bricks | Brands | Box Sets/Packs
+Bricks | Brands,,bricks_categories,Minifigures,2,Bricks | Brands | Minifigures
+Bricks | Brands,,bricks_categories,Parts,2,Bricks | Brands | Parts
+Bricks | Brands,,bricks_categories,Accessories,2,Bricks | Brands | Accessories
+Bricks | Brands,,bricks_accessories_categories,Storage,3,Bricks | Brands | Accessories | Storage
+Bricks | Brands,,bricks_accessories_categories,Display,3,Bricks | Brands | Accessories | Display
+Bricks | Brands,,bricks_accessories_categories,Lighting,3,Bricks | Brands | Accessories | Lighting
+Bricks | LEGO,,bricks_brand,LEGO,1,Bricks | LEGO
+Bricks | LEGO,,bricks_categories,Box Sets/Packs,2,Bricks | LEGO | Box Sets/Packs
+Bricks | LEGO,,bricks_categories,Minifigures,2,Bricks | LEGO | Minifigures
+Bricks | LEGO,,bricks_categories,Parts,2,Bricks | LEGO | Parts
+Bricks | LEGO,,bricks_categories,Accessories,2,Bricks | LEGO | Accessories
+Bricks | LEGO,,bricks_accessories_categories,Storage,3,Bricks | LEGO | Accessories | Storage
+Bricks | LEGO,,bricks_accessories_categories,Display,3,Bricks | LEGO | Accessories | Display
+Bricks | LEGO,,bricks_accessories_categories,Lighting,3,Bricks | LEGO | Accessories | Lighting
+Bricks | Mould King,,bricks_brand,Mould King,1,Bricks | Mould King
+Bricks | Mould King,,bricks_categories,Box Sets/Packs,2,Bricks | Mould King | Box Sets/Packs
+Bricks | Mould King,,bricks_categories,Minifigures,2,Bricks | Mould King | Minifigures
+Bricks | Mould King,,bricks_categories,Parts,2,Bricks | Mould King | Parts
+Bricks | Mould King,,bricks_categories,Accessories,2,Bricks | Mould King | Accessories

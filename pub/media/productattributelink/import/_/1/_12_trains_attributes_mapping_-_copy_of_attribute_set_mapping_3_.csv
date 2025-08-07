@@ -1,0 +1,5 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Trains,Trains,,,Trains,
+Train Supplies,Train Supplies,,,Train Supplies,
+Trains,,trains,Sets & Packs,Sets & Packs,1
+Trains,,trains,Locomotives,Locomotives,1

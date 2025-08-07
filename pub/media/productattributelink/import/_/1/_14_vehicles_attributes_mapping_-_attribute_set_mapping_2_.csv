@@ -1,0 +1,10 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Diecast,Diecast,,,Diecast,
+Diecast,,vehicles_diecast,Cars,Diecast | Cars,1
+Diecast,,vehicles_diecast,Aircraft,Diecast | Aircraft,1
+Diecast,,vehicles_diecast,Bikes,Diecast | Bikes,1
+Diecast,,vehicles_diecast,Military,Diecast | Military,1
+Diecast,,vehicles_diecast,Trucks,Diecast | Trucks,1
+Diecast,,vehicles_diecast,Construction,Diecast | Construction,1
+Diecast,,vehicles_diecast,Buses & Trams,Diecast | Buses & Trams,1
+Model Kits,Model Kits,,,Model Kits,

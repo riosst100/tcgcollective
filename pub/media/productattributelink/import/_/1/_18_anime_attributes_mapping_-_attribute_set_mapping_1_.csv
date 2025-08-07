@@ -1,0 +1,12 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Anime,Anime Figures,,,Anime Figures,
+Anime,Gundam,,,Gundam,
+Anime,Robot / Mecha,,,Robot / Mecha,
+Anime,Anime Fun Goods,,,Anime Fun Goods,
+Anime Figures,,anime_figures,Scaled Figures,Anime Figures | Scaled Figures,1
+Anime Figures,,anime_figures,Articulated Figures,Anime Figures | Articulated Figures,1
+Anime Figures,,anime_figures,Mini Figures,Anime Figures | Mini Figures,1
+Anime Figures,,anime_figures,Gashapons,Anime Figures | Gashapons,1
+Anime Figures,,anime_figures,Blindboxes,Anime Figures | Blindboxes,1
+Anime Figures,,anime_figures,Capsule Toys,Anime Figures | Capsule Toys,1
+Anime Figures,,anime_figures,Designer Toys,Anime Figures | Designer Toys,1

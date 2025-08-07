@@ -1,0 +1,108 @@
+group,category,attribute_code,attribute_option,priority,target_attribute_set
+LEGO | Box Sets/Packs,LEGO Box Sets & Packs,,,1,LEGO | Box Sets and Packs
+LEGO | Box Sets/Packs,,lego_categories,LEGO Box Sets/Packs,2,LEGO | Box Sets and Packs
+LEGO | Minifigures,LEGO Minifigures,,,1,LEGO | Minifigures
+LEGO | Minifigures,,lego_categories,LEGO Mini Figures,2,LEGO | Minifigures
+LEGO | Parts,LEGO Parts,,,1,LEGO | Parts
+LEGO | Parts,,lego_categories,LEGO Parts,2,LEGO | Parts
+LEGO | Storage & Display,LEGO Supplies,,,1,LEGO | Storage & Display
+LEGO | Storage & Display,,lego_categories,LEGO Storage & Display,2,LEGO | Storage & Display
+Collectible Card Games,Collectible Card Games,,,,Collectible Card Games
+Collectible Card Games | Magic: The Gathering,,card_game,Magic: The Gathering,1,Collectible Card Games | Magic: The Gathering
+Collectible Card Games | Magic: The Gathering,,card_game_mtg,Magic: The Gathering,2,Collectible Card Games | Magic: The Gathering
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sealed Products,3,Collectible Card Games | Magic: The Gathering | Sealed Products
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sets,3,Collectible Card Games | Magic: The Gathering | Sets
+Collectible Card Games | Magic: The Gathering,,card_product_type,Lots,3,Collectible Card Games | Magic: The Gathering | Lots
+Collectible Card Games | Magic: The Gathering,,card_product_type,Singles,3,Collectible Card Games | Magic: The Gathering | Singles
+Collectible Card Games | Magic: The Gathering | Secret Lair,,card_game_mtg,Secret Lair Drop,2,Collectible Card Games | Magic: The Gathering | Secret Lair
+Collectible Card Games | Magic: The Gathering | Secret Lair,,card_product_type,Sealed Products,3,Collectible Card Games | Magic: The Gathering | Secret Lair | Sealed Products
+Collectible Card Games | Magic: The Gathering | Secret Lair,,card_product_type,Singles,3,Collectible Card Games | Magic: The Gathering | Secret Lair | Singles
+Collectible Card Games | Disney Lorcana,,card_game,Disney Lorcana,1,Collectible Card Games | Disney Lorcana
+Collectible Card Games | Disney Lorcana,,card_product_type,Sealed Products,2,Collectible Card Games | Disney Lorcana | Sealed Products
+Collectible Card Games | Disney Lorcana,,card_product_type,Sets,2,Collectible Card Games | Disney Lorcana | Sets
+Collectible Card Games | Disney Lorcana,,card_product_type,Lots,2,Collectible Card Games | Disney Lorcana | Lots
+Collectible Card Games | Disney Lorcana,,card_product_type,Singles,2,Collectible Card Games | Disney Lorcana | Singles
+Collectible Card Games | One Piece,,card_game,One Piece,1,Collectible Card Games | One Piece
+Collectible Card Games | One Piece,,card_product_type,Sealed Products,2,Collectible Card Games | One Piece | Sealed Products
+Collectible Card Games | One Piece,,card_product_type,Sets,2,Collectible Card Games | One Piece | Sets
+Collectible Card Games | One Piece,,card_product_type,Lots,2,Collectible Card Games | One Piece | Lots
+Collectible Card Games | One Piece,,card_product_type,Singles,2,Collectible Card Games | One Piece | Singles
+Collectible Card Games | Yu-Gi-Oh!,,card_game,Yu-Gi-Oh!,1,Collectible Card Games | Yu-Gi-Oh!
+Collectible Card Games | Yu-Gi-Oh!,,card_product_type,Sealed Products,2,Collectible Card Games | Yu-Gi-Oh! | Sealed Products
+Collectible Card Games | Yu-Gi-Oh!,,card_product_type,Sets,2,Collectible Card Games | Yu-Gi-Oh! | Sets
+Collectible Card Games | Yu-Gi-Oh!,,card_product_type,Lots,2,Collectible Card Games | Yu-Gi-Oh! | Lots
+Collectible Card Games | Yu-Gi-Oh!,,card_product_type,Singles,2,Collectible Card Games | Yu-Gi-Oh! | Singles
+Collectible Card Games | Pokemon,,card_game,Pokemon,1,Collectible Card Games | Pokemon
+Collectible Card Games | Pokemon,,card_product_type,Sealed Products,2,Collectible Card Games | Pokemon | Sealed Products
+Collectible Card Games | Pokemon,,card_product_type,Sets,2,Collectible Card Games | Pokemon | Sets
+Collectible Card Games | Pokemon,,card_product_type,Lots,2,Collectible Card Games | Pokemon | Lots
+Collectible Card Games | Pokemon,,card_product_type,Singles,2,Collectible Card Games | Pokemon | Singles
+Living Card Games,Living Card Games,,,,Living Card Games
+Living Card Games | Arkham Horror,,living_card_game,Arkham Horror,1,Living Card Games | Arkham Horror
+Living Card Games | Arkham Horror,,living_card_product_type,Sealed Products,2,Living Card Games | Arkham Horror | Sealed Products
+Living Card Games | Arkham Horror,,living_card_product_type,Supplies,2,Living Card Games | Arkham Horror | Supplies
+Living Card Games | Call of Cthulhu,,living_card_game,Call of Cthulhu,1,Living Card Games | Call of Cthulhu
+Living Card Games | Call of Cthulhu,,living_card_product_type,Sealed Products,2,Living Card Games | Call of Cthulhu | Sealed Products
+Living Card Games | Call of Cthulhu,,living_card_product_type,Supplies,2,Living Card Games | Call of Cthulhu | Supplies
+Living Card Games | A Game of Thrones,,living_card_game,A Game of Thrones,1,Living Card Games | A Game of Thrones
+Living Card Games | A Game of Thrones,,living_card_product_type,Sealed Products,2,Living Card Games | A Game of Thrones | Sealed Products
+Living Card Games | Legend of the Five Rings,,living_card_game,Legend of the Five Rings,1,Living Card Games | Legend of the Five Rings
+Living Card Games | Legend of the Five Rings,,living_card_product_type,Sealed Products,2,Living Card Games | Legend of the Five Rings | Sealed Products
+Living Card Games | Lord of the Rings,,living_card_game,Lord of the Rings,1,Living Card Games | Lord of the Rings
+Living Card Games | Lord of the Rings,,living_card_product_type,Sealed Products,2,Living Card Games | Lord of the Rings | Sealed Products
+Living Card Games | Marvel Champions,,living_card_game,Marvel Champions,1,Living Card Games | Marvel Champions
+Living Card Games | Marvel Champions,,living_card_product_type,Sealed Products,2,Living Card Games | Marvel Champions | Sealed Products
+Living Card Games | Marvel Champions,,living_card_product_type,Supplies,2,Living Card Games | Marvel Champions | Supplies
+Living Card Games | Star Wars: Destiny,,living_card_game,Star Wars: Destiny,1,Living Card Games | Star Wars: Destiny
+Living Card Games | Star Wars: Destiny,,living_card_product_type,Sealed Products,2,Living Card Games | Star Wars: Destiny | Sealed Products
+Living Card Games | Star Wars: Destiny,,living_card_product_type,Supplies,2,Living Card Games | Star Wars: Destiny | Supplies
+Miniature Games,Miniature Games,,,,Miniature Games
+Miniature Games | HeroClix,,miniature_game,HeroClix,1,Miniature Games | HeroClix
+Miniature Games | HeroClix,,miniature_product_type,Sealed Products,2,Miniature Games | HeroClix | Sealed Products
+Miniature Games | HeroClix,,miniature_product_type,Singles,2,Miniature Games | HeroClix | Singles
+Miniature Games | Marvel: Crisis Protocol,,miniature_game,Marvel: Crisis Protocol,1,Miniature Games | Marvel: Crisis Protocol
+Miniature Games | Marvel: Crisis Protocol,,miniature_product_type,Sealed Products,2,Miniature Games | Marvel: Crisis Protocol | Sealed Products
+Miniature Games | Star Wars: Armada,,miniature_game,Star Wars: Armada,1,Miniature Games | Star Wars: Armada
+Miniature Games | Star Wars: Armada,,miniature_product_type,Sealed Products,2,Miniature Games | Star Wars: Armada | Sealed Products
+Miniature Games | Star Wars: Legion,,miniature_game,Star Wars: Legion,1,Miniature Games | Star Wars: Legion
+Miniature Games | Star Wars: Legion,,miniature_product_type,Sealed Products,2,Miniature Games | Star Wars: Legion | Dealed Products
+Miniature Games | Star Wars: Shatterpoint,,miniature_game,Star Wars: Shatterpoint,1,Miniature Games | Star Wars: Shatterpoint
+Miniature Games | Star Wars: Shatterpoint,,miniature_product_type,Sealed Products,2,Miniature Games | Star Wars: Shatterpoint | Sealed Products
+Miniature Games | Star Wars: X-Wing,,miniature_game,Star Wars: X-Wing,1,Miniature Games | Star Wars: X-Wing
+Miniature Games | Star Wars: X-Wing,,miniature_product_type,Sealed Products,2,Miniature Games | Star Wars: X-Wing | Sealed Products
+Sport Cards,Sport Cards,,,,Sport Cards
+Sports Card | Baseball,,sc_sports_categories,Baseball,1,Sport Cards | Baseball
+Sports Card | Baseball,,sc_product_type,Sealed Products,2,Sport Cards | Baseball | Sealed Products
+Sports Card | Baseball,,sc_product_type,Sets,2,Sport Cards | Baseball | Sets
+Sports Card | Baseball,,sc_product_type,Lots,2,Sport Cards | Baseball | Lots
+Sports Card | Baseball,,sc_product_type,Singles,2,Sport Cards | Baseball | Singles
+Sports Card | Basketball,,sc_sports_categories,Basketball,1,Sport Cards | Basketball
+Sports Card | Basketball,,sc_product_type,Sealed Products,2,Sport Cards | Basketball | Sealed Products
+Sports Card | Basketball,,sc_product_type,Sets,2,Sport Cards | Basketball | Sets
+Sports Card | Basketball,,sc_product_type,Lots,2,Sport Cards | Basketball | Lots
+Sports Card | Basketball,,sc_product_type,Singles,2,Sport Cards | Basketball | Singles
+Sports Card | Football,,sc_sports_categories,Football,1,Sport Cards | Football
+Sports Card | Football,,sc_product_type,Sealed Products,2,Sport Cards | Football | Sealed Products
+Sports Card | Football,,sc_product_type,Sets,2,Sport Cards | Football | Sets
+Sports Card | Football,,sc_product_type,Lots,2,Sport Cards | Football | Lots
+Sports Card | Football,,sc_product_type,Singles,2,Sport Cards | Football | Singles
+Sports Card | Hockey,,sc_sports_categories,Hockey,1,Sport Cards | Hockey
+Sports Card | Hockey,,sc_product_type,Sealed Products,2,Sport Cards | Hockey | Sealed Products
+Sports Card | Hockey,,sc_product_type,Sets,2,Sport Cards | Hockey | Sets
+Sports Card | Hockey,,sc_product_type,Lots,2,Sport Cards | Hockey | Lots
+Sports Card | Hockey,,sc_product_type,Singles,2,Sport Cards | Hockey | Singles
+Sports Card | Soccer,,sc_sports_categories,Soccer,1,Sport Cards | Soccer
+Sports Card | Soccer,,sc_product_type,Sealed Products,2,Sport Cards | Soccer | Sealed Products
+Sports Card | Soccer,,sc_product_type,Sets,2,Sport Cards | Soccer | Sets
+Sports Card | Soccer,,sc_product_type,Lots,2,Sport Cards | Soccer | Lots
+Sports Card | Soccer,,sc_product_type,Singles,2,Sport Cards | Soccer | Singles
+Sports Card | Mixed Martial Arts,,sc_sports_categories,Mixed Martial Arts,1,Sport Cards | Mixed Martial Arts
+Sports Card | Mixed Martial Arts,,sc_product_type,Sealed Products,2,Sport Cards | Mixed Martial Arts | Sealed Products
+Sports Card | Mixed Martial Arts,,sc_product_type,Sets,2,Sport Cards | Mixed Martial Arts | Sets
+Sports Card | Mixed Martial Arts,,sc_product_type,Lots,2,Sport Cards | Mixed Martial Arts | Lots
+Sports Card | Mixed Martial Arts,,sc_product_type,Singles,2,Sport Cards | Mixed Martial Arts | Singles
+Sports Card | Wrestling,,sc_sports_categories,Wrestling,1,Sport Cards | Wrestling
+Sports Card | Wrestling,,sc_product_type,Sealed Products,2,Sport Cards | Wrestling | Sealed Products
+Sports Card | Wrestling,,sc_product_type,Sets,2,Sport Cards | Wrestling | Sets
+Sports Card | Wrestling,,sc_product_type,Lots,2,Sport Cards | Wrestling | Lots
+Sports Card | Wrestling,,sc_product_type,Singles,2,Sport Cards | Wrestling | Singles

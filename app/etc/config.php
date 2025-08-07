@@ -275,6 +275,7 @@ return [
         'Magento_ReCaptchaWebapiGraphQl' => 1,
         'Magento_ReCaptchaWebapiRest' => 1,
         'Magento_ReCaptchaWebapiUi' => 1,
+        'Magento_ReCaptchaWishlist' => 1,
         'Magento_RelatedProductGraphQl' => 1,
         'Magento_ReleaseNotification' => 1,
         'Magento_RemoteStorage' => 1,
@@ -428,6 +429,7 @@ return [
         'Ves_Brand' => 0,
         'Ves_Setup' => 1,
         'Webcastle_CategoryImportExport' => 1,
+        'Xendit_M2Invoice' => 1,
         'Yireo_DisableServiceWorkerInAdmin' => 1
     ],
     'system' => [

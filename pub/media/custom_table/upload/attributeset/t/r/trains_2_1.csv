@@ -1,0 +1,32 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Trains,Railway,,,,Railway
+Trains | Brands,,train_categories,Railway,1,Railway
+Trains | Brands,,railway_categories,Sets & Packs,2,Railway | Brands | Sets & Packs
+Trains | Brands,,railway_categories,Locomotives,2,Railway | Brands | Locomotives
+Trains | Brands,,railway_categories,Passenger Cars,2,Railway | Brands | Passenger Cars
+Trains | Brands,,railway_categories,Freight Cars,2,Railway | Brands | Freight Cars
+Trains | Brands,,railway_categories,Train Parts,2,Railway | Brands | Train Parts
+Trains | Brands,,railway_categories,Power & Control,2,Railway | Brands | Power & Control
+Trains | Brands,,railway_categories,Tracks,2,Railway | Brands | Tracks
+Trains,Accessories,,,,Railway | Accessories
+Trains | Accessories,,train_categories,Accessories,1,Railway | Accessories
+Trains | Accessories,,railway_accessories_categories,Buildings & Structures,2,Railway | Brands | Accessories | Building & Structures
+Trains | Accessories,,railway_accessories_categories,Figures,2,Railway | Brands | Accessories | Figures
+Trains | Accessories,,railway_accessories_categories,Lightings,2,Railway | Brands | Accessories | Lightings
+Trains | Accessories,,railway_accessories_categories,Sceneries,2,Railway | Brands | Accessories | Sceneries
+Trains | Accessories,,railway_accessories_categories,Signals & Signs,2,Railway | Brands | Accessories | Signals & Signs
+Trains | Accessories,,railway_accessories_categories,Vehicles & Roads,2,Railway | Brands | Accessories | Roads & Vehicles
+Trains | Bachmann,,railway_brand,Bachmann ,1,Railway | Bachmann
+Trains | Bachmann,,railway_categories,Sets & Packs,2,Railway | Bachmann | Sets & Packs
+Trains | Bachmann,,railway_categories,Locomotives,2,Railway | Bachmann | Locomotives
+Trains | Bachmann,,railway_categories,Passenger Cars,2,Railway | Bachmann | Passenger Cars
+Trains | Bachmann,,railway_categories,Freight Cars,2,Railway | Bachmann | Freight Cars
+Trains | Bachmann,,railway_categories,Train Parts,2,Railway | Bachmann | Train Parts
+Trains | Bachmann,,railway_categories,Power & Control,2,Railway | Bachmann | Power & Control
+Trains | Bachmann,,railway_categories,Tracks,2,Railway | Bachmann | Tracks
+Trains | Accessories,,railway_accessories_categories,Buildings & Structures,2,Railway | Bachmann | Accessories | Building & Structures
+Trains | Accessories,,railway_accessories_categories,Figures,2,Railway | Bachmann | Accessories | Figures
+Trains | Accessories,,railway_accessories_categories,Lightings,2,Railway | Bachmann | Accessories | Lightings
+Trains | Accessories,,railway_accessories_categories,Sceneries,2,Railway | Bachmann | Accessories | Sceneries
+Trains | Accessories,,railway_accessories_categories,Signals & Signs,2,Railway | Bachmann | Accessories | Signals & Signs
+Trains | Accessories,,railway_accessories_categories,Vehicles & Roads,2,Railway | Bachmann | Accessories | Roads & Vehicles

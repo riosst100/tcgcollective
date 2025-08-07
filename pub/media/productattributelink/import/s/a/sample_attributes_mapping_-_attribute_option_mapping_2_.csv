@@ -1,0 +1,3 @@
+group,priority,category,attribute_code,attribute_option,target_attribute_code,target_attribute_options
+Games,,Collectible Card Games,,,games,"Magic: The Gathering,Pokemon,One Piece"
+Magic: The Gathering,1,,games,Magic: The Gathering,card_print,"Normal,Foil"

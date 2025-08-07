@@ -1,0 +1,456 @@
+entity_id,images,card_name,card_rarity,language,card_feature,card_foil,card_manufacturer,card_number,release_date,release_year,card_energy_type,card_hp,card_stage,print_version,card_series
+9999,sv2_en_001.jpg,Hoppip,Common,English,,Non Foil,Nintendo,001,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10000,sv2_en_002.jpg,Skiploom,Uncommon,English,,Non Foil,Nintendo,002,9/6/23,2023,Grass,70,Stage 1,Unlimited,Scarlet & Violet Series
+10001,sv2_en_003.jpg,Jumpluff,Rare,English,,Foil,Nintendo,003,9/6/23,2023,Grass,90,Stage 2,Unlimited,Scarlet & Violet Series
+10002,sv2_en_004.jpg,Pineco,Common,English,,Non Foil,Nintendo,004,9/6/23,2023,Grass,70,Basic,Unlimited,Scarlet & Violet Series
+10003,sv2_en_005.jpg,Forretress ex,Double Rare,English,,Foil,Nintendo,005,9/6/23,2023,Grass,270,Stage 1,Unlimited,Scarlet & Violet Series
+10004,sv2_en_006.jpg,Heracross,Uncommon,English,,Non Foil,Nintendo,006,9/6/23,2023,Grass,130,Basic,Unlimited,Scarlet & Violet Series
+10005,sv2_en_007.jpg,Tropius,Common,English,,Non Foil,Nintendo,007,9/6/23,2023,Grass,110,Basic,Unlimited,Scarlet & Violet Series
+10006,sv2_en_008.jpg,Combee,Common,English,,Non Foil,Nintendo,008,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10007,sv2_en_009.jpg,Vespiquen,Uncommon,English,,Non Foil,Nintendo,009,9/6/23,2023,Grass,120,Stage 1,Unlimited,Scarlet & Violet Series
+10008,sv2_en_010.jpg,Snover,Common,English,,Non Foil,Nintendo,010,9/6/23,2023,Grass,90,Basic,Unlimited,Scarlet & Violet Series
+10009,sv2_en_011.jpg,Abomasnow,Rare,English,,Foil,Nintendo,011,9/6/23,2023,Grass,150,Stage 1,Unlimited,Scarlet & Violet Series
+10010,sv2_en_012.jpg,Sprigatito,Common,English,,Non Foil,Nintendo,012,9/6/23,2023,Grass,60,Basic,Unlimited,Scarlet & Violet Series
+10011,sv2_en_013.jpg,Sprigatito,Common,English,,Non Foil,Nintendo,013,9/6/23,2023,Grass,70,Basic,Unlimited,Scarlet & Violet Series
+10012,sv2_en_014.jpg,Floragato,Uncommon,English,,Non Foil,Nintendo,014,9/6/23,2023,Grass,90,Stage 1,Unlimited,Scarlet & Violet Series
+10013,sv2_en_015.jpg,Meowscarada ex,Double Rare,English,,Foil,Nintendo,015,9/6/23,2023,Grass,310,Stage 2,Unlimited,Scarlet & Violet Series
+10014,sv2_en_016.jpg,Tarountula,Common,English,,Non Foil,Nintendo,016,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10015,sv2_en_017.jpg,Tarountula,Common,English,,Non Foil,Nintendo,017,9/6/23,2023,Grass,60,Basic,Unlimited,Scarlet & Violet Series
+10016,sv2_en_018.jpg,Spidops,Uncommon,English,,Non Foil,Nintendo,018,9/6/23,2023,Grass,110,Stage 1,Unlimited,Scarlet & Violet Series
+10017,sv2_en_019.jpg,Nymble,Common,English,,Non Foil,Nintendo,019,9/6/23,2023,Grass,40,Basic,Unlimited,Scarlet & Violet Series
+10018,sv2_en_020.jpg,Nymble,Common,English,,Non Foil,Nintendo,020,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10019,sv2_en_021.jpg,Lokix,Rare,English,,Foil,Nintendo,021,9/6/23,2023,Grass,120,Stage 1,Unlimited,Scarlet & Violet Series
+10020,sv2_en_022.jpg,Bramblin,Common,English,,Non Foil,Nintendo,022,9/6/23,2023,Grass,40,Basic,Unlimited,Scarlet & Violet Series
+10021,sv2_en_023.jpg,Bramblin,Common,English,,Non Foil,Nintendo,023,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10022,sv2_en_024.jpg,Brambleghast,Uncommon,English,,Non Foil,Nintendo,024,9/6/23,2023,Grass,100,Stage 1,Unlimited,Scarlet & Violet Series
+10023,sv2_en_025.jpg,Rellor,Common,English,,Non Foil,Nintendo,025,9/6/23,2023,Grass,40,Basic,Unlimited,Scarlet & Violet Series
+10024,sv2_en_026.jpg,Rellor,Common,English,,Non Foil,Nintendo,026,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10025,sv2_en_027.jpg,Wo-Chien ex,Double Rare,English,,Foil,Nintendo,027,9/6/23,2023,Grass,230,Basic,Unlimited,Scarlet & Violet Series
+10026,sv2_en_028.jpg,Paldean Tauros,Uncommon,English,,Non Foil,Nintendo,028,9/6/23,2023,Fire,130,Basic,Unlimited,Scarlet & Violet Series
+10027,sv2_en_029.jpg,Fletchinder,Uncommon,English,,Non Foil,Nintendo,029,9/6/23,2023,Fire,80,Stage 1,Unlimited,Scarlet & Violet Series
+10028,sv2_en_030.jpg,Talonflame,Uncommon,English,,Non Foil,Nintendo,030,9/6/23,2023,Fire,150,Stage 2,Unlimited,Scarlet & Violet Series
+10029,sv2_en_031.jpg,Litleo,Common,English,,Non Foil,Nintendo,031,9/6/23,2023,Fire,70,Basic,Unlimited,Scarlet & Violet Series
+10030,sv2_en_032.jpg,Pyroar,Uncommon,English,,Non Foil,Nintendo,032,9/6/23,2023,Fire,120,Stage 1,Unlimited,Scarlet & Violet Series
+10031,sv2_en_033.jpg,Oricorio,Rare,English,,Foil,Nintendo,033,9/6/23,2023,Fire,90,Basic,Unlimited,Scarlet & Violet Series
+10032,sv2_en_034.jpg,Fuecoco,Common,English,,Non Foil,Nintendo,034,9/6/23,2023,Fire,80,Basic,Unlimited,Scarlet & Violet Series
+10033,sv2_en_035.jpg,Fuecoco,Common,English,,Non Foil,Nintendo,035,9/6/23,2023,Fire,90,Basic,Unlimited,Scarlet & Violet Series
+10034,sv2_en_036.jpg,Crocalor,Uncommon,English,,Non Foil,Nintendo,036,9/6/23,2023,Fire,110,Stage 1,Unlimited,Scarlet & Violet Series
+10035,sv2_en_037.jpg,Skeledirge ex,Double Rare,English,,Foil,Nintendo,037,9/6/23,2023,Fire,340,Stage 2,Unlimited,Scarlet & Violet Series
+10036,sv2_en_038.jpg,Charcadet,Common,English,,Non Foil,Nintendo,038,9/6/23,2023,Fire,60,Basic,Unlimited,Scarlet & Violet Series
+10037,sv2_en_039.jpg,Charcadet,Common,English,,Non Foil,Nintendo,039,9/6/23,2023,Fire,80,Basic,Unlimited,Scarlet & Violet Series
+10038,sv2_en_040.jpg,Chi-Yu ex,Double Rare,English,,Foil,Nintendo,040,9/6/23,2023,Fire,190,Basic,Unlimited,Scarlet & Violet Series
+10039,sv2_en_041.jpg,Paldean Tauros,Uncommon,English,,Non Foil,Nintendo,041,9/6/23,2023,Water,130,Basic,Unlimited,Scarlet & Violet Series
+10040,sv2_en_042.jpg,Magikarp,Common,English,,Non Foil,Nintendo,042,9/6/23,2023,Water,30,Basic,Unlimited,Scarlet & Violet Series
+10041,sv2_en_043.jpg,Gyarados,Rare,English,,Foil,Nintendo,043,9/6/23,2023,Water,180,Stage 1,Unlimited,Scarlet & Violet Series
+10042,sv2_en_044.jpg,Marill,Common,English,,Non Foil,Nintendo,044,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10043,sv2_en_045.jpg,Azumarill,Uncommon,English,,Non Foil,Nintendo,045,9/6/23,2023,Water,120,Stage 1,Unlimited,Scarlet & Violet Series
+10044,sv2_en_046.jpg,Delibird,Common,English,,Non Foil,Nintendo,046,9/6/23,2023,Water,90,Basic,Unlimited,Scarlet & Violet Series
+10045,sv2_en_047.jpg,Luvdisc,Common,English,,Non Foil,Nintendo,047,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10046,sv2_en_048.jpg,Eiscue,Uncommon,English,,Non Foil,Nintendo,048,9/6/23,2023,Water,110,Basic,Unlimited,Scarlet & Violet Series
+10047,sv2_en_049.jpg,Quaxly,Common,English,,Non Foil,Nintendo,049,9/6/23,2023,Water,60,Basic,Unlimited,Scarlet & Violet Series
+10048,sv2_en_050.jpg,Quaxly,Common,English,,Non Foil,Nintendo,050,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10049,sv2_en_051.jpg,Quaxwell,Uncommon,English,,Non Foil,Nintendo,051,9/6/23,2023,Water,90,Stage 1,Unlimited,Scarlet & Violet Series
+10050,sv2_en_052.jpg,Quaquaval ex,Double Rare,English,,Foil,Nintendo,052,9/6/23,2023,Water,320,Stage 2,Unlimited,Scarlet & Violet Series
+10051,sv2_en_053.jpg,Cetoddle,Common,English,,Non Foil,Nintendo,053,9/6/23,2023,Water,90,Basic,Unlimited,Scarlet & Violet Series
+10052,sv2_en_054.jpg,Cetoddle,Common,English,,Non Foil,Nintendo,054,9/6/23,2023,Water,100,Basic,Unlimited,Scarlet & Violet Series
+10053,sv2_en_055.jpg,Cetitan,Uncommon,English,,Non Foil,Nintendo,055,9/6/23,2023,Water,180,Stage 1,Unlimited,Scarlet & Violet Series
+10054,sv2_en_056.jpg,Veluza,Rare,English,,Foil,Nintendo,056,9/6/23,2023,Water,130,Basic,Unlimited,Scarlet & Violet Series
+10055,sv2_en_057.jpg,Frigibax,Common,English,,Non Foil,Nintendo,057,9/6/23,2023,Water,60,Basic,Unlimited,Scarlet & Violet Series
+10056,sv2_en_058.jpg,Frigibax,Common,English,,Non Foil,Nintendo,058,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10057,sv2_en_059.jpg,Arctibax,Uncommon,English,,Non Foil,Nintendo,059,9/6/23,2023,Water,90,Stage 1,Unlimited,Scarlet & Violet Series
+10058,sv2_en_060.jpg,Baxcalibur,Rare,English,,Foil,Nintendo,060,9/6/23,2023,Water,160,Stage 2,Unlimited,Scarlet & Violet Series
+10059,sv2_en_061.jpg,Chien-Pao ex,Double Rare,English,,Foil,Nintendo,061,9/6/23,2023,Water,220,Basic,Unlimited,Scarlet & Violet Series
+10060,sv2_en_062.jpg,Pikachu,Common,English,,Non Foil,Nintendo,062,9/6/23,2023,Lightning,70,Basic,Unlimited,Scarlet & Violet Series
+10061,sv2_en_063.jpg,Pikachu ex,Double Rare,English,,Foil,Nintendo,063,9/6/23,2023,Lightning,190,Basic,Unlimited,Scarlet & Violet Series
+10062,sv2_en_064.jpg,Raichu,Uncommon,English,,Non Foil,Nintendo,064,9/6/23,2023,Lightning,140,Stage 1,Unlimited,Scarlet & Violet Series
+10063,sv2_en_065.jpg,Magnemite,Common,English,,Non Foil,Nintendo,065,9/6/23,2023,Lightning,50,Basic,Unlimited,Scarlet & Violet Series
+10064,sv2_en_066.jpg,Voltorb,Common,English,,Non Foil,Nintendo,066,9/6/23,2023,Lightning,70,Basic,Unlimited,Scarlet & Violet Series
+10065,sv2_en_067.jpg,Electrode,Uncommon,English,,Non Foil,Nintendo,067,9/6/23,2023,Lightning,90,Stage 1,Unlimited,Scarlet & Violet Series
+10066,sv2_en_068.jpg,Shinx,Common,English,,Non Foil,Nintendo,068,9/6/23,2023,Lightning,40,Basic,Unlimited,Scarlet & Violet Series
+10067,sv2_en_069.jpg,Shinx,Common,English,,Non Foil,Nintendo,069,9/6/23,2023,Lightning,70,Basic,Unlimited,Scarlet & Violet Series
+10068,sv2_en_070.jpg,Luxio,Uncommon,English,,Non Foil,Nintendo,070,9/6/23,2023,Lightning,90,Stage 1,Unlimited,Scarlet & Violet Series
+10069,sv2_en_071.jpg,Luxray,Rare,English,,Foil,Nintendo,071,9/6/23,2023,Lightning,150,Stage 2,Unlimited,Scarlet & Violet Series
+10070,sv2_en_072.jpg,Pincurchin,Common,English,,Non Foil,Nintendo,072,9/6/23,2023,Lightning,80,Basic,Unlimited,Scarlet & Violet Series
+10071,sv2_en_073.jpg,Pincurchin,Uncommon,English,,Non Foil,Nintendo,073,9/6/23,2023,Lightning,90,Basic,Unlimited,Scarlet & Violet Series
+10072,sv2_en_074.jpg,Pawmi,Common,English,,Non Foil,Nintendo,074,9/6/23,2023,Lightning,50,Basic,Unlimited,Scarlet & Violet Series
+10073,sv2_en_075.jpg,Pawmo,Uncommon,English,,Non Foil,Nintendo,075,9/6/23,2023,Lightning,80,Stage 1,Unlimited,Scarlet & Violet Series
+10074,sv2_en_076.jpg,Pawmot,Rare,English,,Foil,Nintendo,076,9/6/23,2023,Lightning,140,Stage 2,Unlimited,Scarlet & Violet Series
+10075,sv2_en_077.jpg,Tadbulb,Common,English,,Non Foil,Nintendo,077,9/6/23,2023,Lightning,50,Basic,Unlimited,Scarlet & Violet Series
+10076,sv2_en_078.jpg,Tadbulb,Common,English,,Non Foil,Nintendo,078,9/6/23,2023,Lightning,60,Basic,Unlimited,Scarlet & Violet Series
+10077,sv2_en_079.jpg,Bellibolt ex,Double Rare,English,,Foil,Nintendo,079,9/6/23,2023,Lightning,280,Stage 1,Unlimited,Scarlet & Violet Series
+10078,sv2_en_080.jpg,Wattrel,Common,English,,Non Foil,Nintendo,080,9/6/23,2023,Lightning,60,Basic,Unlimited,Scarlet & Violet Series
+10079,sv2_en_081.jpg,Wattrel,Common,English,,Non Foil,Nintendo,081,9/6/23,2023,Lightning,60,Basic,Unlimited,Scarlet & Violet Series
+10080,sv2_en_082.jpg,Kilowattrel,Uncommon,English,,Non Foil,Nintendo,082,9/6/23,2023,Lightning,120,Stage 1,Unlimited,Scarlet & Violet Series
+10081,sv2_en_083.jpg,Jigglypuff,Common,English,,Non Foil,Nintendo,083,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10082,sv2_en_084.jpg,Wigglytuff,Rare,English,,Foil,Nintendo,084,9/6/23,2023,Psychic,110,Stage 1,Unlimited,Scarlet & Violet Series
+10083,sv2_en_085.jpg,Slowpoke,Common,English,,Non Foil,Nintendo,085,9/6/23,2023,Psychic,80,Basic,Unlimited,Scarlet & Violet Series
+10084,sv2_en_086.jpg,Slowking ex,Double Rare,English,,Foil,Nintendo,086,9/6/23,2023,Psychic,270,Stage 1,Unlimited,Scarlet & Violet Series
+10085,sv2_en_087.jpg,Misdreavus,Common,English,,Non Foil,Nintendo,087,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10086,sv2_en_088.jpg,Mismagius,Uncommon,English,,Non Foil,Nintendo,088,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10087,sv2_en_089.jpg,Spiritomb,Rare,English,,Foil,Nintendo,089,9/6/23,2023,Psychic,60,Basic,Unlimited,Scarlet & Violet Series
+10088,sv2_en_090.jpg,Gothita,Common,English,,Non Foil,Nintendo,090,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10089,sv2_en_091.jpg,Gothorita,Uncommon,English,,Non Foil,Nintendo,091,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10090,sv2_en_092.jpg,Gothitelle,Uncommon,English,,Non Foil,Nintendo,092,9/6/23,2023,Psychic,150,Stage 2,Unlimited,Scarlet & Violet Series
+10091,sv2_en_093.jpg,Dedenne ex,Double Rare,English,,Foil,Nintendo,093,9/6/23,2023,Psychic,170,Basic,Unlimited,Scarlet & Violet Series
+10092,sv2_en_094.jpg,Oranguru,Uncommon,English,,Non Foil,Nintendo,094,9/6/23,2023,Psychic,120,Basic,Unlimited,Scarlet & Violet Series
+10093,sv2_en_095.jpg,Sandygast,Common,English,,Non Foil,Nintendo,095,9/6/23,2023,Psychic,90,Basic,Unlimited,Scarlet & Violet Series
+10094,sv2_en_096.jpg,Palossand,Uncommon,English,,Non Foil,Nintendo,096,9/6/23,2023,Psychic,150,Stage 1,Unlimited,Scarlet & Violet Series
+10095,sv2_en_097.jpg,Mimikyu,Rare,English,,Foil,Nintendo,097,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10096,sv2_en_098.jpg,Ceruledge,Rare,English,,Foil,Nintendo,098,9/6/23,2023,Psychic,140,Stage 1,Unlimited,Scarlet & Violet Series
+10097,sv2_en_099.jpg,Rabsca,Rare,English,,Foil,Nintendo,099,9/6/23,2023,Psychic,70,Stage 1,Unlimited,Scarlet & Violet Series
+10098,sv2_en_100.jpg,Tinkatink,Common,English,,Non Foil,Nintendo,100,9/6/23,2023,Psychic,60,Basic,Unlimited,Scarlet & Violet Series
+10099,sv2_en_101.jpg,Tinkatink,Common,English,,Non Foil,Nintendo,101,9/6/23,2023,Psychic,60,Basic,Unlimited,Scarlet & Violet Series
+10100,sv2_en_102.jpg,Tinkatink,Common,English,,Non Foil,Nintendo,102,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10101,sv2_en_103.jpg,Tinkatuff,Uncommon,English,,Non Foil,Nintendo,103,9/6/23,2023,Psychic,80,Stage 1,Unlimited,Scarlet & Violet Series
+10102,sv2_en_104.jpg,Tinkatuff,Uncommon,English,,Non Foil,Nintendo,104,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10103,sv2_en_105.jpg,Tinkaton,Rare,English,,Foil,Nintendo,105,9/6/23,2023,Psychic,140,Stage 2,Unlimited,Scarlet & Violet Series
+10104,sv2_en_106.jpg,Mankey,Common,English,,Non Foil,Nintendo,106,9/6/23,2023,Fighting,60,Basic,Unlimited,Scarlet & Violet Series
+10105,sv2_en_107.jpg,Primeape,Uncommon,English,,Non Foil,Nintendo,107,9/6/23,2023,Fighting,110,Stage 1,Unlimited,Scarlet & Violet Series
+10106,sv2_en_108.jpg,Paldean Tauros,Uncommon,English,,Non Foil,Nintendo,108,9/6/23,2023,Fighting,130,Basic,Unlimited,Scarlet & Violet Series
+10107,sv2_en_109.jpg,Sudowoodo,Uncommon,English,,Non Foil,Nintendo,109,9/6/23,2023,Fighting,110,Basic,Unlimited,Scarlet & Violet Series
+10108,sv2_en_110.jpg,Larvitar,Common,English,,Non Foil,Nintendo,110,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10109,sv2_en_111.jpg,Pupitar,Uncommon,English,,Non Foil,Nintendo,111,9/6/23,2023,Fighting,90,Stage 1,Unlimited,Scarlet & Violet Series
+10110,sv2_en_112.jpg,Makuhita,Common,English,,Non Foil,Nintendo,112,9/6/23,2023,Fighting,90,Basic,Unlimited,Scarlet & Violet Series
+10111,sv2_en_113.jpg,Hariyama,Rare,English,,Foil,Nintendo,113,9/6/23,2023,Fighting,140,Stage 1,Unlimited,Scarlet & Violet Series
+10112,sv2_en_114.jpg,Croagunk,Common,English,,Non Foil,Nintendo,114,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10113,sv2_en_115.jpg,Toxicroak,Uncommon,English,,Non Foil,Nintendo,115,9/6/23,2023,Fighting,130,Stage 1,Unlimited,Scarlet & Violet Series
+10114,sv2_en_116.jpg,Rockruff,Common,English,,Non Foil,Nintendo,116,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10115,sv2_en_117.jpg,Lycanroc ex,Double Rare,English,,Foil,Nintendo,117,9/6/23,2023,Fighting,260,Stage 1,Unlimited,Scarlet & Violet Series
+10116,sv2_en_118.jpg,Passimian,Uncommon,English,,Non Foil,Nintendo,118,9/6/23,2023,Fighting,110,Basic,Unlimited,Scarlet & Violet Series
+10117,sv2_en_119.jpg,Falinks,Common,English,,Non Foil,Nintendo,119,9/6/23,2023,Fighting,110,Basic,Unlimited,Scarlet & Violet Series
+10118,sv2_en_120.jpg,Nacli,Common,English,,Non Foil,Nintendo,120,9/6/23,2023,Fighting,60,Basic,Unlimited,Scarlet & Violet Series
+10119,sv2_en_121.jpg,Nacli,Common,English,,Non Foil,Nintendo,121,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10120,sv2_en_122.jpg,Naclstack,Uncommon,English,,Non Foil,Nintendo,122,9/6/23,2023,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series
+10121,sv2_en_123.jpg,Garganacl,Rare,English,,Foil,Nintendo,123,9/6/23,2023,Fighting,180,Stage 2,Unlimited,Scarlet & Violet Series
+10122,sv2_en_124.jpg,Glimmet,Common,English,,Non Foil,Nintendo,124,9/6/23,2023,Fighting,40,Basic,Unlimited,Scarlet & Violet Series
+10123,sv2_en_125.jpg,Glimmet,Common,English,,Non Foil,Nintendo,125,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10124,sv2_en_126.jpg,Glimmora,Rare,English,,Foil,Nintendo,126,9/6/23,2023,Fighting,130,Stage 1,Unlimited,Scarlet & Violet Series
+10125,sv2_en_127.jpg,Ting-Lu ex,Double Rare,English,,Foil,Nintendo,127,9/6/23,2023,Fighting,240,Basic,Unlimited,Scarlet & Violet Series
+10126,sv2_en_128.jpg,Paldean Wooper,Common,English,,Non Foil,Nintendo,128,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10127,sv2_en_129.jpg,Paldean Wooper,Common,English,,Non Foil,Nintendo,129,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10128,sv2_en_130.jpg,Paldean Clodsire ex,Double Rare,English,,Foil,Nintendo,130,9/6/23,2023,Darkness,280,Stage 1,Unlimited,Scarlet & Violet Series
+10129,sv2_en_131.jpg,Murkrow,Common,English,,Non Foil,Nintendo,131,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10130,sv2_en_132.jpg,Honchkrow,Uncommon,English,,Non Foil,Nintendo,132,9/6/23,2023,Darkness,130,Stage 1,Unlimited,Scarlet & Violet Series
+10131,sv2_en_133.jpg,Sneasel,Common,English,,Non Foil,Nintendo,133,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10132,sv2_en_134.jpg,Weavile,Rare,English,,Foil,Nintendo,134,9/6/23,2023,Darkness,110,Stage 1,Unlimited,Scarlet & Violet Series
+10133,sv2_en_135.jpg,Tyranitar,Rare,English,,Foil,Nintendo,135,9/6/23,2023,Darkness,180,Stage 2,Unlimited,Scarlet & Violet Series
+10134,sv2_en_136.jpg,Sableye,Rare,English,,Foil,Nintendo,136,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10135,sv2_en_137.jpg,Seviper,Uncommon,English,,Non Foil,Nintendo,137,9/6/23,2023,Darkness,110,Basic,Unlimited,Scarlet & Violet Series
+10136,sv2_en_138.jpg,Deino,Common,English,,Non Foil,Nintendo,138,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10137,sv2_en_139.jpg,Zweilous,Uncommon,English,,Non Foil,Nintendo,139,9/6/23,2023,Darkness,100,Stage 1,Unlimited,Scarlet & Violet Series
+10138,sv2_en_140.jpg,Hydreigon,Rare,English,,Foil,Nintendo,140,9/6/23,2023,Darkness,180,Stage 2,Unlimited,Scarlet & Violet Series
+10139,sv2_en_141.jpg,Maschiff,Common,English,,Non Foil,Nintendo,141,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10140,sv2_en_142.jpg,Maschiff,Common,English,,Non Foil,Nintendo,142,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10141,sv2_en_143.jpg,Mabosstiff,Uncommon,English,,Non Foil,Nintendo,143,9/6/23,2023,Darkness,140,Stage 1,Unlimited,Scarlet & Violet Series
+10142,sv2_en_144.jpg,Shroodle,Common,English,,Non Foil,Nintendo,144,9/6/23,2023,Darkness,50,Basic,Unlimited,Scarlet & Violet Series
+10143,sv2_en_145.jpg,Shroodle,Common,English,,Non Foil,Nintendo,145,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10144,sv2_en_146.jpg,Grafaiai,Uncommon,English,,Non Foil,Nintendo,146,9/6/23,2023,Darkness,90,Stage 1,Unlimited,Scarlet & Violet Series
+10145,sv2_en_147.jpg,Bombirdier,Uncommon,English,,Non Foil,Nintendo,147,9/6/23,2023,Darkness,120,Basic,Unlimited,Scarlet & Violet Series
+10146,sv2_en_148.jpg,Corviknight,Uncommon,English,,Non Foil,Nintendo,148,9/6/23,2023,Metal,170,Stage 2,Unlimited,Scarlet & Violet Series
+10147,sv2_en_149.jpg,Cufant,Common,English,,Non Foil,Nintendo,149,9/6/23,2023,Metal,100,Basic,Unlimited,Scarlet & Violet Series
+10148,sv2_en_150.jpg,Copperajah ex,Double Rare,English,,Foil,Nintendo,150,9/6/23,2023,Metal,300,Stage 1,Unlimited,Scarlet & Violet Series
+10149,sv2_en_151.jpg,Orthworm,Rare,English,,Foil,Nintendo,151,9/6/23,2023,Metal,130,Basic,Unlimited,Scarlet & Violet Series
+10150,sv2_en_152.jpg,Noibat,Common,English,,Non Foil,Nintendo,152,9/6/23,2023,Dragon,70,Basic,Unlimited,Scarlet & Violet Series
+10151,sv2_en_153.jpg,Noivern ex,Double Rare,English,,Foil,Nintendo,153,9/6/23,2023,Dragon,260,Stage 1,Unlimited,Scarlet & Violet Series
+10152,sv2_en_154.jpg,Girafarig,Common,English,,Non Foil,Nintendo,154,9/6/23,2023,Colorless,100,Basic,Unlimited,Scarlet & Violet Series
+10153,sv2_en_155.jpg,Farigiraf,Uncommon,English,,Non Foil,Nintendo,155,9/6/23,2023,Colorless,140,Stage 1,Unlimited,Scarlet & Violet Series
+10154,sv2_en_156.jpg,Dunsparce,Common,English,,Non Foil,Nintendo,156,9/6/23,2023,Colorless,70,Basic,Unlimited,Scarlet & Violet Series
+10155,sv2_en_157.jpg,Dudunsparce,Uncommon,English,,Non Foil,Nintendo,157,9/6/23,2023,Colorless,140,Stage 1,Unlimited,Scarlet & Violet Series
+10156,sv2_en_158.jpg,Wingull,Common,English,,Non Foil,Nintendo,158,9/6/23,2023,Colorless,70,Basic,Unlimited,Scarlet & Violet Series
+10157,sv2_en_159.jpg,Pelipper,Uncommon,English,,Non Foil,Nintendo,159,9/6/23,2023,Colorless,120,Stage 1,Unlimited,Scarlet & Violet Series
+10158,sv2_en_160.jpg,Slakoth,Common,English,,Non Foil,Nintendo,160,9/6/23,2023,Colorless,70,Basic,Unlimited,Scarlet & Violet Series
+10159,sv2_en_161.jpg,Vigoroth,Uncommon,English,,Non Foil,Nintendo,161,9/6/23,2023,Colorless,90,Stage 1,Unlimited,Scarlet & Violet Series
+10160,sv2_en_162.jpg,Slaking,Rare,English,,Foil,Nintendo,162,9/6/23,2023,Colorless,180,Stage 2,Unlimited,Scarlet & Violet Series
+10161,sv2_en_163.jpg,Fletchling,Common,English,,Non Foil,Nintendo,163,9/6/23,2023,Colorless,60,Basic,Unlimited,Scarlet & Violet Series
+10162,sv2_en_164.jpg,Rookidee,Common,English,,Non Foil,Nintendo,164,9/6/23,2023,Colorless,60,Basic,Unlimited,Scarlet & Violet Series
+10163,sv2_en_165.jpg,Corvisquire,Uncommon,English,,Non Foil,Nintendo,165,9/6/23,2023,Colorless,90,Stage 2,Unlimited,Scarlet & Violet Series
+10164,sv2_en_166.jpg,Tandemaus,Common,English,,Non Foil,Nintendo,166,9/6/23,2023,Colorless,30,Basic,Unlimited,Scarlet & Violet Series
+10165,sv2_en_167.jpg,Tandemaus,Common,English,,Non Foil,Nintendo,167,9/6/23,2023,Colorless,40,Basic,Unlimited,Scarlet & Violet Series
+10166,sv2_en_168.jpg,Maushold,Uncommon,English,,Non Foil,Nintendo,168,9/6/23,2023,Colorless,60,Stage 1,Unlimited,Scarlet & Violet Series
+10167,sv2_en_169.jpg,Squawkabilly ex,Double Rare,English,,Foil,Nintendo,169,9/6/23,2023,Colorless,160,Basic,Unlimited,Scarlet & Violet Series
+10168,sv2_en_170.jpg,Flamigo,Uncommon,English,,Non Foil,Nintendo,170,9/6/23,2023,Colorless,110,Basic,Unlimited,Scarlet & Violet Series
+10169,sv2_en_171.jpg,Artazon,Uncommon,English,,Non Foil,Nintendo,171,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10170,sv2_en_172.jpg,Boss's Orders,Rare,English,,Foil,Nintendo,172,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10171,sv2_en_173.jpg,Bravery Charm,Uncommon,English,,Non Foil,Nintendo,173,9/6/23,2023,Trainer,,Tool,Unlimited,Scarlet & Violet Series
+10172,sv2_en_174.jpg,Calamitous Snowy Mountain,Uncommon,English,,Non Foil,Nintendo,174,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10173,sv2_en_175.jpg,Calamitous Wasteland,Uncommon,English,,Non Foil,Nintendo,175,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10174,sv2_en_176.jpg,Choice Belt,Uncommon,English,,Non Foil,Nintendo,176,9/6/23,2023,Trainer,,Tool,Unlimited,Scarlet & Violet Series
+10175,sv2_en_177.jpg,Clavell,Common,English,,Non Foil,Nintendo,177,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10176,sv2_en_178.jpg,Delivery Drone,Uncommon,English,,Non Foil,Nintendo,178,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10177,sv2_en_179.jpg,Dendra,Uncommon,English,,Non Foil,Nintendo,179,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10178,sv2_en_180.jpg,Falkner,Uncommon,English,,Non Foil,Nintendo,180,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10179,sv2_en_181.jpg,Fighting Au Lait,Uncommon,English,,Non Foil,Nintendo,181,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10180,sv2_en_182.jpg,Giacomo,Uncommon,English,,Non Foil,Nintendo,182,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10181,sv2_en_183.jpg,Great Ball,Common,English,,Non Foil,Nintendo,183,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10182,sv2_en_184.jpg,Grusha,Uncommon,English,,Non Foil,Nintendo,184,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10183,sv2_en_185.jpg,Iono,Uncommon,English,,Non Foil,Nintendo,185,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10184,sv2_en_186.jpg,Practice Studio,Uncommon,English,,Non Foil,Nintendo,186,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10185,sv2_en_187.jpg,Saguaro,Uncommon,English,,Non Foil,Nintendo,187,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10186,sv2_en_188.jpg,Super Rod,Common,English,,Non Foil,Nintendo,188,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10187,sv2_en_189.jpg,Superior Energy Retrieval,Uncommon,English,,Non Foil,Nintendo,189,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10188,sv2_en_190.jpg,Jet Energy,Uncommon,English,,Non Foil,Nintendo,190,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series
+10189,sv2_en_191.jpg,Luminous Energy,Uncommon,English,,Non Foil,Nintendo,191,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series
+10190,sv2_en_192.jpg,Reversal Energy,Uncommon,English,,Non Foil,Nintendo,192,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series
+10191,sv2_en_193.jpg,Therapeutic Energy,Uncommon,English,,Non Foil,Nintendo,193,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series
+10192,sv2_en_194.jpg,Heracross,Illustration Rare,English,,Foil,Nintendo,194,9/6/23,2023,Grass,130,Basic,Unlimited,Scarlet & Violet Series
+10193,sv2_en_195.jpg,Tropius,Illustration Rare,English,,Foil,Nintendo,195,9/6/23,2023,Grass,110,Basic,Unlimited,Scarlet & Violet Series
+10194,sv2_en_196.jpg,Sprigatito,Illustration Rare,English,,Foil,Nintendo,196,9/6/23,2023,Grass,60,Basic,Unlimited,Scarlet & Violet Series
+10195,sv2_en_197.jpg,Floragato,Illustration Rare,English,,Foil,Nintendo,197,9/6/23,2023,Grass,90,Stage 1,Unlimited,Scarlet & Violet Series
+10196,sv2_en_198.jpg,Bramblin,Illustration Rare,English,,Foil,Nintendo,198,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10197,sv2_en_199.jpg,Fletchinder,Illustration Rare,English,,Foil,Nintendo,199,9/6/23,2023,Fire,80,Stage 1,Unlimited,Scarlet & Violet Series
+10198,sv2_en_200.jpg,Pyroar,Illustration Rare,English,,Foil,Nintendo,200,9/6/23,2023,Fire,120,Stage 1,Unlimited,Scarlet & Violet Series
+10199,sv2_en_201.jpg,Fuecoco,Illustration Rare,English,,Foil,Nintendo,201,9/6/23,2023,Fire,90,Basic,Unlimited,Scarlet & Violet Series
+10200,sv2_en_202.jpg,Crocalor,Illustration Rare,English,,Foil,Nintendo,202,9/6/23,2023,Fire,110,Stage 1,Unlimited,Scarlet & Violet Series
+10201,sv2_en_203.jpg,Magikarp,Illustration Rare,English,,Foil,Nintendo,203,9/6/23,2023,Water,30,Basic,Unlimited,Scarlet & Violet Series
+10202,sv2_en_204.jpg,Marill,Illustration Rare,English,,Foil,Nintendo,204,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10203,sv2_en_205.jpg,Eiscue,Illustration Rare,English,,Foil,Nintendo,205,9/6/23,2023,Water,110,Basic,Unlimited,Scarlet & Violet Series
+10204,sv2_en_206.jpg,Quaxly,Illustration Rare,English,,Foil,Nintendo,206,9/6/23,2023,Water,60,Basic,Unlimited,Scarlet & Violet Series
+10205,sv2_en_207.jpg,Quaxwell,Illustration Rare,English,,Foil,Nintendo,207,9/6/23,2023,Water,90,Stage 1,Unlimited,Scarlet & Violet Series
+10206,sv2_en_208.jpg,Frigibax,Illustration Rare,English,,Foil,Nintendo,208,9/6/23,2023,Water,60,Basic,Unlimited,Scarlet & Violet Series
+10207,sv2_en_209.jpg,Arctibax,Illustration Rare,English,,Foil,Nintendo,209,9/6/23,2023,Water,90,Stage 1,Unlimited,Scarlet & Violet Series
+10208,sv2_en_210.jpg,Baxcalibur,Illustration Rare,English,,Foil,Nintendo,210,9/6/23,2023,Water,160,Stage 2,Unlimited,Scarlet & Violet Series
+10209,sv2_en_211.jpg,Raichu,Illustration Rare,English,,Foil,Nintendo,211,9/6/23,2023,Lightning,140,Stage 1,Unlimited,Scarlet & Violet Series
+10210,sv2_en_212.jpg,Mismagius,Illustration Rare,English,,Foil,Nintendo,212,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10211,sv2_en_213.jpg,Gothorita,Illustration Rare,English,,Foil,Nintendo,213,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10212,sv2_en_214.jpg,Sandygast,Illustration Rare,English,,Foil,Nintendo,214,9/6/23,2023,Psychic,90,Basic,Unlimited,Scarlet & Violet Series
+10213,sv2_en_215.jpg,Rabsca,Illustration Rare,English,,Foil,Nintendo,215,9/6/23,2023,Psychic,70,Stage 1,Unlimited,Scarlet & Violet Series
+10214,sv2_en_216.jpg,Tinkatink,Illustration Rare,English,,Foil,Nintendo,216,9/6/23,2023,Psychic,60,Basic,Unlimited,Scarlet & Violet Series
+10215,sv2_en_217.jpg,Tinkatuff,Illustration Rare,English,,Foil,Nintendo,217,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10216,sv2_en_218.jpg,Paldean Tauros,Illustration Rare,English,,Foil,Nintendo,218,9/6/23,2023,Fighting,130,Basic,Unlimited,Scarlet & Violet Series
+10217,sv2_en_219.jpg,Sudowoodo,Illustration Rare,English,,Foil,Nintendo,219,9/6/23,2023,Fighting,110,Basic,Unlimited,Scarlet & Violet Series
+10218,sv2_en_220.jpg,Nacli,Illustration Rare,English,,Foil,Nintendo,220,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10219,sv2_en_221.jpg,Paldean Wooper,Illustration Rare,English,,Foil,Nintendo,221,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10220,sv2_en_222.jpg,Tyranitar,Illustration Rare,English,,Foil,Nintendo,222,9/6/23,2023,Darkness,180,Stage 2,Unlimited,Scarlet & Violet Series
+10221,sv2_en_223.jpg,Grafaiai,Illustration Rare,English,,Foil,Nintendo,223,9/6/23,2023,Darkness,90,Stage 1,Unlimited,Scarlet & Violet Series
+10222,sv2_en_224.jpg,Orthworm,Illustration Rare,English,,Foil,Nintendo,224,9/6/23,2023,Metal,130,Basic,Unlimited,Scarlet & Violet Series
+10223,sv2_en_225.jpg,Rookidee,Illustration Rare,English,,Foil,Nintendo,225,9/6/23,2023,Colorless,60,Basic,Unlimited,Scarlet & Violet Series
+10224,sv2_en_226.jpg,Maushold,Illustration Rare,English,,Foil,Nintendo,226,9/6/23,2023,Colorless,60,Stage 1,Unlimited,Scarlet & Violet Series
+10225,sv2_en_227.jpg,Flamigo,Illustration Rare,English,,Foil,Nintendo,227,9/6/23,2023,Colorless,110,Basic,Unlimited,Scarlet & Violet Series
+10226,sv2_en_228.jpg,Farigiraf,Illustration Rare,English,,Foil,Nintendo,228,9/6/23,2023,Colorless,140,Stage 1,Unlimited,Scarlet & Violet Series
+10227,sv2_en_229.jpg,Dudunsparce,Illustration Rare,English,,Foil,Nintendo,229,9/6/23,2023,Colorless,140,Stage 1,Unlimited,Scarlet & Violet Series
+10228,sv2_en_230.jpg,Forretress ex,Ultra Rare,English,,Foil,Nintendo,230,9/6/23,2023,Grass,270,Stage 1,Unlimited,Scarlet & Violet Series
+10229,sv2_en_231.jpg,Meowscarada ex,Ultra Rare,English,,Foil,Nintendo,231,9/6/23,2023,Grass,310,Stage 2,Unlimited,Scarlet & Violet Series
+10230,sv2_en_232.jpg,Wo-Chien ex,Ultra Rare,English,,Foil,Nintendo,232,9/6/23,2023,Grass,230,Basic,Unlimited,Scarlet & Violet Series
+10231,sv2_en_233.jpg,Skeledirge ex,Ultra Rare,English,,Foil,Nintendo,233,9/6/23,2023,Fire,340,Stage 2,Unlimited,Scarlet & Violet Series
+10232,sv2_en_234.jpg,Chi-Yu ex,Ultra Rare,English,,Foil,Nintendo,234,9/6/23,2023,Fire,190,Basic,Unlimited,Scarlet & Violet Series
+10233,sv2_en_235.jpg,Quaquaval ex,Ultra Rare,English,,Foil,Nintendo,235,9/6/23,2023,Water,320,Stage 2,Unlimited,Scarlet & Violet Series
+10234,sv2_en_236.jpg,Chien-Pao ex,Ultra Rare,English,,Foil,Nintendo,236,9/6/23,2023,Water,220,Basic,Unlimited,Scarlet & Violet Series
+10235,sv2_en_237.jpg,Bellibolt ex,Ultra Rare,English,,Foil,Nintendo,237,9/6/23,2023,Lightning,280,Stage 1,Unlimited,Scarlet & Violet Series
+10236,sv2_en_238.jpg,Slowking ex,Ultra Rare,English,,Foil,Nintendo,238,9/6/23,2023,Psychic,270,Stage 1,Unlimited,Scarlet & Violet Series
+10237,sv2_en_239.jpg,Dedenne ex,Ultra Rare,English,,Foil,Nintendo,239,9/6/23,2023,Psychic,170,Basic,Unlimited,Scarlet & Violet Series
+10238,sv2_en_240.jpg,Tinkaton ex,Ultra Rare,English,,Foil,Nintendo,240,9/6/23,2023,Psychic,300,Stage 2,Unlimited,Scarlet & Violet Series
+10239,sv2_en_241.jpg,Lycanroc ex,Ultra Rare,English,,Foil,Nintendo,241,9/6/23,2023,Fighting,260,Stage 1,Unlimited,Scarlet & Violet Series
+10240,sv2_en_242.jpg,Annihilape ex,Ultra Rare,English,,Foil,Nintendo,242,9/6/23,2023,Fighting,320,Stage 2,Unlimited,Scarlet & Violet Series
+10241,sv2_en_243.jpg,Ting-Lu ex,Ultra Rare,English,,Foil,Nintendo,243,9/6/23,2023,Fighting,240,Basic,Unlimited,Scarlet & Violet Series
+10242,sv2_en_244.jpg,Paldean Clodsire ex,Ultra Rare,English,,Foil,Nintendo,244,9/6/23,2023,Darkness,280,Stage 1,Unlimited,Scarlet & Violet Series
+10243,sv2_en_245.jpg,Copperajah ex,Ultra Rare,English,,Foil,Nintendo,245,9/6/23,2023,Metal,300,Stage 1,Unlimited,Scarlet & Violet Series
+10244,sv2_en_246.jpg,Noivern ex,Ultra Rare,English,,Foil,Nintendo,246,9/6/23,2023,Dragon,260,Stage 1,Unlimited,Scarlet & Violet Series
+10245,sv2_en_247.jpg,Squawkabilly ex,Ultra Rare,English,,Foil,Nintendo,247,9/6/23,2023,Colorless,160,Basic,Unlimited,Scarlet & Violet Series
+10246,sv2_en_248.jpg,Boss's Orders,Ultra Rare,English,,Foil,Nintendo,248,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10247,sv2_en_249.jpg,Clavell,Ultra Rare,English,,Foil,Nintendo,249,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10248,sv2_en_250.jpg,Dendra,Ultra Rare,English,,Foil,Nintendo,250,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10249,sv2_en_251.jpg,Falkner,Ultra Rare,English,,Foil,Nintendo,251,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10250,sv2_en_252.jpg,Giacomo,Ultra Rare,English,,Foil,Nintendo,252,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10251,sv2_en_253.jpg,Grusha,Ultra Rare,English,,Foil,Nintendo,253,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10252,sv2_en_254.jpg,Iono,Ultra Rare,English,,Foil,Nintendo,254,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10253,sv2_en_255.jpg,Saguaro,Ultra Rare,English,,Foil,Nintendo,255,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10254,sv2_en_256.jpg,Meowscarada ex,Special Illustration Rare,English,,Foil,Nintendo,256,9/6/23,2023,Grass,310,Stage 2,Unlimited,Scarlet & Violet Series
+10255,sv2_en_257.jpg,Wo-Chien ex,Special Illustration Rare,English,,Foil,Nintendo,257,9/6/23,2023,Grass,230,Basic,Unlimited,Scarlet & Violet Series
+10256,sv2_en_258.jpg,Skeledirge ex,Special Illustration Rare,English,,Foil,Nintendo,258,9/6/23,2023,Fire,340,Stage 2,Unlimited,Scarlet & Violet Series
+10257,sv2_en_259.jpg,Chi-Yu ex,Special Illustration Rare,English,,Foil,Nintendo,259,9/6/23,2023,Fire,190,Basic,Unlimited,Scarlet & Violet Series
+10258,sv2_en_260.jpg,Quaquaval ex,Special Illustration Rare,English,,Foil,Nintendo,260,9/6/23,2023,Water,320,Stage 2,Unlimited,Scarlet & Violet Series
+10259,sv2_en_261.jpg,Chien-Pao ex,Special Illustration Rare,English,,Foil,Nintendo,261,9/6/23,2023,Water,220,Basic,Unlimited,Scarlet & Violet Series
+10260,sv2_en_262.jpg,Tinkaton ex,Special Illustration Rare,English,,Foil,Nintendo,262,9/6/23,2023,Psychic,300,Stage 2,Unlimited,Scarlet & Violet Series
+10261,sv2_en_263.jpg,Ting-Lu ex,Special Illustration Rare,English,,Foil,Nintendo,263,9/6/23,2023,Fighting,240,Basic,Unlimited,Scarlet & Violet Series
+10262,sv2_en_264.jpg,Squawkabilly ex,Special Illustration Rare,English,,Foil,Nintendo,264,9/6/23,2023,Colorless,160,Basic,Unlimited,Scarlet & Violet Series
+10263,sv2_en_265.jpg,Boss's Orders,Special Illustration Rare,English,,Foil,Nintendo,265,9/6/23,2023,Trainer,,Supporer,Unlimited,Scarlet & Violet Series
+10264,sv2_en_266.jpg,Dendra,Special Illustration Rare,English,,Foil,Nintendo,266,9/6/23,2023,Trainer,,Supporer,Unlimited,Scarlet & Violet Series
+10265,sv2_en_267.jpg,Giacomo,Special Illustration Rare,English,,Foil,Nintendo,267,9/6/23,2023,Trainer,,Supporer,Unlimited,Scarlet & Violet Series
+10266,sv2_en_268.jpg,Grusha,Special Illustration Rare,English,,Foil,Nintendo,268,9/6/23,2023,Trainer,,Supporer,Unlimited,Scarlet & Violet Series
+10267,sv2_en_269.jpg,Iono,Special Illustration Rare,English,,Foil,Nintendo,269,9/6/23,2023,Trainer,,Supporer,Unlimited,Scarlet & Violet Series
+10268,sv2_en_270.jpg,Saguaro,Special Illustration Rare,English,,Foil,Nintendo,270,9/6/23,2023,Trainer,,Supporer,Unlimited,Scarlet & Violet Series
+10269,sv2_en_271.jpg,Meowscarada ex,Hyper Rare,English,,Foil,Nintendo,271,9/6/23,2023,Grass,310,Stage 2,Unlimited,Scarlet & Violet Series
+10270,sv2_en_272.jpg,Skeledirge ex,Hyper Rare,English,,Foil,Nintendo,272,9/6/23,2023,Fire,340,Stage 2,Unlimited,Scarlet & Violet Series
+10271,sv2_en_273.jpg,Quaquaval ex,Hyper Rare,English,,Foil,Nintendo,273,9/6/23,2023,Water,320,Stage 2,Unlimited,Scarlet & Violet Series
+10272,sv2_en_274.jpg,Chien-Pao ex,Hyper Rare,English,,Foil,Nintendo,274,9/6/23,2023,Water,220,Basic,Unlimited,Scarlet & Violet Series
+10273,sv2_en_275.jpg,Ting-Lu ex,Hyper Rare,English,,Foil,Nintendo,275,9/6/23,2023,Fighting,240,Basic,Unlimited,Scarlet & Violet Series
+10274,sv2_en_276.jpg,Super Rod,Hyper Rare,English,,Foil,Nintendo,276,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10275,sv2_en_277.jpg,Superior Energy Retrieval,Hyper Rare,English,,Foil,Nintendo,277,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10276,sv2_en_278.jpg,Basic Grass Energy,Hyper Rare,English,,Foil,Nintendo,278,9/6/23,2023,Energy,,Energy,Unlimited,Scarlet & Violet Series
+10277,sv2_en_279.jpg,Basic Water Energy,Hyper Rare,English,,Foil,Nintendo,279,9/6/23,2023,Energy,,Energy,Unlimited,Scarlet & Violet Series
+10278,sv2_en_001.jpg,Hoppip,Common,English,,Rev Holo,Nintendo,001,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10279,sv2_en_002.jpg,Skiploom,Uncommon,English,,Rev Holo,Nintendo,002,9/6/23,2023,Grass,70,Stage 1,Unlimited,Scarlet & Violet Series
+10280,sv2_en_003.jpg,Jumpluff,Rare,English,,Rev Holo,Nintendo,003,9/6/23,2023,Grass,90,Stage 2,Unlimited,Scarlet & Violet Series
+10281,sv2_en_004.jpg,Pineco,Common,English,,Rev Holo,Nintendo,004,9/6/23,2023,Grass,70,Basic,Unlimited,Scarlet & Violet Series
+10282,sv2_en_006.jpg,Heracross,Uncommon,English,,Rev Holo,Nintendo,006,9/6/23,2023,Grass,130,Basic,Unlimited,Scarlet & Violet Series
+10283,sv2_en_007.jpg,Tropius,Common,English,,Rev Holo,Nintendo,007,9/6/23,2023,Grass,110,Basic,Unlimited,Scarlet & Violet Series
+10284,sv2_en_008.jpg,Combee,Common,English,,Rev Holo,Nintendo,008,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10285,sv2_en_009.jpg,Vespiquen,Uncommon,English,,Rev Holo,Nintendo,009,9/6/23,2023,Grass,120,Stage 1,Unlimited,Scarlet & Violet Series
+10286,sv2_en_010.jpg,Snover,Common,English,,Rev Holo,Nintendo,010,9/6/23,2023,Grass,90,Basic,Unlimited,Scarlet & Violet Series
+10287,sv2_en_011.jpg,Abomasnow,Rare,English,,Rev Holo,Nintendo,011,9/6/23,2023,Grass,150,Stage 1,Unlimited,Scarlet & Violet Series
+10288,sv2_en_012.jpg,Sprigatito,Common,English,,Rev Holo,Nintendo,012,9/6/23,2023,Grass,60,Basic,Unlimited,Scarlet & Violet Series
+10289,sv2_en_013.jpg,Sprigatito,Common,English,,Rev Holo,Nintendo,013,9/6/23,2023,Grass,70,Basic,Unlimited,Scarlet & Violet Series
+10290,sv2_en_014.jpg,Floragato,Uncommon,English,,Rev Holo,Nintendo,014,9/6/23,2023,Grass,90,Stage 1,Unlimited,Scarlet & Violet Series
+10291,sv2_en_016.jpg,Tarountula,Common,English,,Rev Holo,Nintendo,016,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10292,sv2_en_017.jpg,Tarountula,Common,English,,Rev Holo,Nintendo,017,9/6/23,2023,Grass,60,Basic,Unlimited,Scarlet & Violet Series
+10293,sv2_en_018.jpg,Spidops,Uncommon,English,,Rev Holo,Nintendo,018,9/6/23,2023,Grass,110,Stage 1,Unlimited,Scarlet & Violet Series
+10294,sv2_en_019.jpg,Nymble,Common,English,,Rev Holo,Nintendo,019,9/6/23,2023,Grass,40,Basic,Unlimited,Scarlet & Violet Series
+10295,sv2_en_020.jpg,Nymble,Common,English,,Rev Holo,Nintendo,020,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10296,sv2_en_021.jpg,Lokix,Rare,English,,Rev Holo,Nintendo,021,9/6/23,2023,Grass,120,Stage 1,Unlimited,Scarlet & Violet Series
+10297,sv2_en_022.jpg,Bramblin,Common,English,,Rev Holo,Nintendo,022,9/6/23,2023,Grass,40,Basic,Unlimited,Scarlet & Violet Series
+10298,sv2_en_023.jpg,Bramblin,Common,English,,Rev Holo,Nintendo,023,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10299,sv2_en_024.jpg,Brambleghast,Uncommon,English,,Rev Holo,Nintendo,024,9/6/23,2023,Grass,100,Stage 1,Unlimited,Scarlet & Violet Series
+10300,sv2_en_025.jpg,Rellor,Common,English,,Rev Holo,Nintendo,025,9/6/23,2023,Grass,40,Basic,Unlimited,Scarlet & Violet Series
+10301,sv2_en_026.jpg,Rellor,Common,English,,Rev Holo,Nintendo,026,9/6/23,2023,Grass,50,Basic,Unlimited,Scarlet & Violet Series
+10302,sv2_en_028.jpg,Paldean Tauros,Uncommon,English,,Rev Holo,Nintendo,028,9/6/23,2023,Fire,130,Basic,Unlimited,Scarlet & Violet Series
+10303,sv2_en_029.jpg,Fletchinder,Uncommon,English,,Rev Holo,Nintendo,029,9/6/23,2023,Fire,80,Stage 1,Unlimited,Scarlet & Violet Series
+10304,sv2_en_030.jpg,Talonflame,Uncommon,English,,Rev Holo,Nintendo,030,9/6/23,2023,Fire,150,Stage 2,Unlimited,Scarlet & Violet Series
+10305,sv2_en_031.jpg,Litleo,Common,English,,Rev Holo,Nintendo,031,9/6/23,2023,Fire,70,Basic,Unlimited,Scarlet & Violet Series
+10306,sv2_en_032.jpg,Pyroar,Uncommon,English,,Rev Holo,Nintendo,032,9/6/23,2023,Fire,120,Stage 1,Unlimited,Scarlet & Violet Series
+10307,sv2_en_033.jpg,Oricorio,Rare,English,,Rev Holo,Nintendo,033,9/6/23,2023,Fire,90,Basic,Unlimited,Scarlet & Violet Series
+10308,sv2_en_034.jpg,Fuecoco,Common,English,,Rev Holo,Nintendo,034,9/6/23,2023,Fire,80,Basic,Unlimited,Scarlet & Violet Series
+10309,sv2_en_035.jpg,Fuecoco,Common,English,,Rev Holo,Nintendo,035,9/6/23,2023,Fire,90,Basic,Unlimited,Scarlet & Violet Series
+10310,sv2_en_036.jpg,Crocalor,Uncommon,English,,Rev Holo,Nintendo,036,9/6/23,2023,Fire,110,Stage 1,Unlimited,Scarlet & Violet Series
+10311,sv2_en_038.jpg,Charcadet,Common,English,,Rev Holo,Nintendo,038,9/6/23,2023,Fire,60,Basic,Unlimited,Scarlet & Violet Series
+10312,sv2_en_039.jpg,Charcadet,Common,English,,Rev Holo,Nintendo,039,9/6/23,2023,Fire,80,Basic,Unlimited,Scarlet & Violet Series
+10313,sv2_en_041.jpg,Paldean Tauros,Uncommon,English,,Rev Holo,Nintendo,041,9/6/23,2023,Water,130,Basic,Unlimited,Scarlet & Violet Series
+10314,sv2_en_042.jpg,Magikarp,Common,English,,Rev Holo,Nintendo,042,9/6/23,2023,Water,30,Basic,Unlimited,Scarlet & Violet Series
+10315,sv2_en_043.jpg,Gyarados,Rare,English,,Rev Holo,Nintendo,043,9/6/23,2023,Water,180,Stage 1,Unlimited,Scarlet & Violet Series
+10316,sv2_en_044.jpg,Marill,Common,English,,Rev Holo,Nintendo,044,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10317,sv2_en_045.jpg,Azumarill,Uncommon,English,,Rev Holo,Nintendo,045,9/6/23,2023,Water,120,Stage 1,Unlimited,Scarlet & Violet Series
+10318,sv2_en_046.jpg,Delibird,Common,English,,Rev Holo,Nintendo,046,9/6/23,2023,Water,90,Basic,Unlimited,Scarlet & Violet Series
+10319,sv2_en_047.jpg,Luvdisc,Common,English,,Rev Holo,Nintendo,047,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10320,sv2_en_048.jpg,Eiscue,Uncommon,English,,Rev Holo,Nintendo,048,9/6/23,2023,Water,110,Basic,Unlimited,Scarlet & Violet Series
+10321,sv2_en_049.jpg,Quaxly,Common,English,,Rev Holo,Nintendo,049,9/6/23,2023,Water,60,Basic,Unlimited,Scarlet & Violet Series
+10322,sv2_en_050.jpg,Quaxly,Common,English,,Rev Holo,Nintendo,050,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10323,sv2_en_051.jpg,Quaxwell,Uncommon,English,,Rev Holo,Nintendo,051,9/6/23,2023,Water,90,Stage 1,Unlimited,Scarlet & Violet Series
+10324,sv2_en_053.jpg,Cetoddle,Common,English,,Rev Holo,Nintendo,053,9/6/23,2023,Water,90,Basic,Unlimited,Scarlet & Violet Series
+10325,sv2_en_054.jpg,Cetoddle,Common,English,,Rev Holo,Nintendo,054,9/6/23,2023,Water,100,Basic,Unlimited,Scarlet & Violet Series
+10326,sv2_en_055.jpg,Cetitan,Uncommon,English,,Rev Holo,Nintendo,055,9/6/23,2023,Water,180,Stage 1,Unlimited,Scarlet & Violet Series
+10327,sv2_en_056.jpg,Veluza,Rare,English,,Rev Holo,Nintendo,056,9/6/23,2023,Water,130,Basic,Unlimited,Scarlet & Violet Series
+10328,sv2_en_057.jpg,Frigibax,Common,English,,Rev Holo,Nintendo,057,9/6/23,2023,Water,60,Basic,Unlimited,Scarlet & Violet Series
+10329,sv2_en_058.jpg,Frigibax,Common,English,,Rev Holo,Nintendo,058,9/6/23,2023,Water,70,Basic,Unlimited,Scarlet & Violet Series
+10330,sv2_en_059.jpg,Arctibax,Uncommon,English,,Rev Holo,Nintendo,059,9/6/23,2023,Water,90,Stage 1,Unlimited,Scarlet & Violet Series
+10331,sv2_en_060.jpg,Baxcalibur,Rare,English,,Rev Holo,Nintendo,060,9/6/23,2023,Water,160,Stage 2,Unlimited,Scarlet & Violet Series
+10332,sv2_en_062.jpg,Pikachu,Common,English,,Rev Holo,Nintendo,062,9/6/23,2023,Lightning,70,Basic,Unlimited,Scarlet & Violet Series
+10333,sv2_en_064.jpg,Raichu,Uncommon,English,,Rev Holo,Nintendo,064,9/6/23,2023,Lightning,140,Stage 1,Unlimited,Scarlet & Violet Series
+10334,sv2_en_065.jpg,Magnemite,Common,English,,Rev Holo,Nintendo,065,9/6/23,2023,Lightning,50,Basic,Unlimited,Scarlet & Violet Series
+10335,sv2_en_066.jpg,Voltorb,Common,English,,Rev Holo,Nintendo,066,9/6/23,2023,Lightning,70,Basic,Unlimited,Scarlet & Violet Series
+10336,sv2_en_067.jpg,Electrode,Uncommon,English,,Rev Holo,Nintendo,067,9/6/23,2023,Lightning,90,Stage 1,Unlimited,Scarlet & Violet Series
+10337,sv2_en_068.jpg,Shinx,Common,English,,Rev Holo,Nintendo,068,9/6/23,2023,Lightning,40,Basic,Unlimited,Scarlet & Violet Series
+10338,sv2_en_069.jpg,Shinx,Common,English,,Rev Holo,Nintendo,069,9/6/23,2023,Lightning,70,Basic,Unlimited,Scarlet & Violet Series
+10339,sv2_en_070.jpg,Luxio,Uncommon,English,,Rev Holo,Nintendo,070,9/6/23,2023,Lightning,90,Stage 1,Unlimited,Scarlet & Violet Series
+10340,sv2_en_071.jpg,Luxray,Rare,English,,Rev Holo,Nintendo,071,9/6/23,2023,Lightning,150,Stage 2,Unlimited,Scarlet & Violet Series
+10341,sv2_en_072.jpg,Pincurchin,Common,English,,Rev Holo,Nintendo,072,9/6/23,2023,Lightning,80,Basic,Unlimited,Scarlet & Violet Series
+10342,sv2_en_073.jpg,Pincurchin,Uncommon,English,,Rev Holo,Nintendo,073,9/6/23,2023,Lightning,90,Basic,Unlimited,Scarlet & Violet Series
+10343,sv2_en_074.jpg,Pawmi,Common,English,,Rev Holo,Nintendo,074,9/6/23,2023,Lightning,50,Basic,Unlimited,Scarlet & Violet Series
+10344,sv2_en_075.jpg,Pawmo,Uncommon,English,,Rev Holo,Nintendo,075,9/6/23,2023,Lightning,80,Stage 1,Unlimited,Scarlet & Violet Series
+10345,sv2_en_076.jpg,Pawmot,Rare,English,,Rev Holo,Nintendo,076,9/6/23,2023,Lightning,140,Stage 2,Unlimited,Scarlet & Violet Series
+10346,sv2_en_077.jpg,Tadbulb,Common,English,,Rev Holo,Nintendo,077,9/6/23,2023,Lightning,50,Basic,Unlimited,Scarlet & Violet Series
+10347,sv2_en_078.jpg,Tadbulb,Common,English,,Rev Holo,Nintendo,078,9/6/23,2023,Lightning,60,Basic,Unlimited,Scarlet & Violet Series
+10348,sv2_en_080.jpg,Wattrel,Common,English,,Rev Holo,Nintendo,080,9/6/23,2023,Lightning,60,Basic,Unlimited,Scarlet & Violet Series
+10349,sv2_en_081.jpg,Wattrel,Common,English,,Rev Holo,Nintendo,081,9/6/23,2023,Lightning,60,Basic,Unlimited,Scarlet & Violet Series
+10350,sv2_en_082.jpg,Kilowattrel,Uncommon,English,,Rev Holo,Nintendo,082,9/6/23,2023,Lightning,120,Stage 1,Unlimited,Scarlet & Violet Series
+10351,sv2_en_083.jpg,Jigglypuff,Common,English,,Rev Holo,Nintendo,083,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10352,sv2_en_084.jpg,Wigglytuff,Rare,English,,Rev Holo,Nintendo,084,9/6/23,2023,Psychic,110,Stage 1,Unlimited,Scarlet & Violet Series
+10353,sv2_en_085.jpg,Slowpoke,Common,English,,Rev Holo,Nintendo,085,9/6/23,2023,Psychic,80,Basic,Unlimited,Scarlet & Violet Series
+10354,sv2_en_087.jpg,Misdreavus,Common,English,,Rev Holo,Nintendo,087,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10355,sv2_en_088.jpg,Mismagius,Uncommon,English,,Rev Holo,Nintendo,088,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10356,sv2_en_089.jpg,Spiritomb,Rare,English,,Rev Holo,Nintendo,089,9/6/23,2023,Psychic,60,Basic,Unlimited,Scarlet & Violet Series
+10357,sv2_en_090.jpg,Gothita,Common,English,,Rev Holo,Nintendo,090,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10358,sv2_en_091.jpg,Gothorita,Uncommon,English,,Rev Holo,Nintendo,091,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10359,sv2_en_092.jpg,Gothitelle,Uncommon,English,,Rev Holo,Nintendo,092,9/6/23,2023,Psychic,150,Stage 2,Unlimited,Scarlet & Violet Series
+10360,sv2_en_094.jpg,Oranguru,Uncommon,English,,Rev Holo,Nintendo,094,9/6/23,2023,Psychic,120,Basic,Unlimited,Scarlet & Violet Series
+10361,sv2_en_095.jpg,Sandygast,Common,English,,Rev Holo,Nintendo,095,9/6/23,2023,Psychic,90,Basic,Unlimited,Scarlet & Violet Series
+10362,sv2_en_096.jpg,Palossand,Uncommon,English,,Rev Holo,Nintendo,096,9/6/23,2023,Psychic,150,Stage 1,Unlimited,Scarlet & Violet Series
+10363,sv2_en_097.jpg,Mimikyu,Rare,English,,Rev Holo,Nintendo,097,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10364,sv2_en_098.jpg,Ceruledge,Rare,English,,Rev Holo,Nintendo,098,9/6/23,2023,Psychic,140,Stage 1,Unlimited,Scarlet & Violet Series
+10365,sv2_en_099.jpg,Rabsca,Rare,English,,Rev Holo,Nintendo,099,9/6/23,2023,Psychic,70,Stage 1,Unlimited,Scarlet & Violet Series
+10366,sv2_en_100.jpg,Tinkatink,Common,English,,Rev Holo,Nintendo,100,9/6/23,2023,Psychic,60,Basic,Unlimited,Scarlet & Violet Series
+10367,sv2_en_101.jpg,Tinkatink,Common,English,,Rev Holo,Nintendo,101,9/6/23,2023,Psychic,60,Basic,Unlimited,Scarlet & Violet Series
+10368,sv2_en_102.jpg,Tinkatink,Common,English,,Rev Holo,Nintendo,102,9/6/23,2023,Psychic,70,Basic,Unlimited,Scarlet & Violet Series
+10369,sv2_en_103.jpg,Tinkatuff,Uncommon,English,,Rev Holo,Nintendo,103,9/6/23,2023,Psychic,80,Stage 1,Unlimited,Scarlet & Violet Series
+10370,sv2_en_104.jpg,Tinkatuff,Uncommon,English,,Rev Holo,Nintendo,104,9/6/23,2023,Psychic,90,Stage 1,Unlimited,Scarlet & Violet Series
+10371,sv2_en_105.jpg,Tinkaton,Rare,English,,Rev Holo,Nintendo,105,9/6/23,2023,Psychic,140,Stage 2,Unlimited,Scarlet & Violet Series
+10372,sv2_en_106.jpg,Mankey,Common,English,,Rev Holo,Nintendo,106,9/6/23,2023,Fighting,60,Basic,Unlimited,Scarlet & Violet Series
+10373,sv2_en_107.jpg,Primeape,Uncommon,English,,Rev Holo,Nintendo,107,9/6/23,2023,Fighting,110,Stage 1,Unlimited,Scarlet & Violet Series
+10374,sv2_en_108.jpg,Paldean Tauros,Uncommon,English,,Rev Holo,Nintendo,108,9/6/23,2023,Fighting,130,Basic,Unlimited,Scarlet & Violet Series
+10375,sv2_en_109.jpg,Sudowoodo,Uncommon,English,,Rev Holo,Nintendo,109,9/6/23,2023,Fighting,110,Basic,Unlimited,Scarlet & Violet Series
+10376,sv2_en_110.jpg,Larvitar,Common,English,,Rev Holo,Nintendo,110,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10377,sv2_en_111.jpg,Pupitar,Uncommon,English,,Rev Holo,Nintendo,111,9/6/23,2023,Fighting,90,Stage 1,Unlimited,Scarlet & Violet Series
+10378,sv2_en_112.jpg,Makuhita,Common,English,,Rev Holo,Nintendo,112,9/6/23,2023,Fighting,90,Basic,Unlimited,Scarlet & Violet Series
+10379,sv2_en_113.jpg,Hariyama,Rare,English,,Rev Holo,Nintendo,113,9/6/23,2023,Fighting,140,Stage 1,Unlimited,Scarlet & Violet Series
+10380,sv2_en_114.jpg,Croagunk,Common,English,,Rev Holo,Nintendo,114,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10381,sv2_en_115.jpg,Toxicroak,Uncommon,English,,Rev Holo,Nintendo,115,9/6/23,2023,Fighting,130,Stage 1,Unlimited,Scarlet & Violet Series
+10382,sv2_en_116.jpg,Rockruff,Common,English,,Rev Holo,Nintendo,116,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10383,sv2_en_118.jpg,Passimian,Uncommon,English,,Rev Holo,Nintendo,118,9/6/23,2023,Fighting,110,Basic,Unlimited,Scarlet & Violet Series
+10384,sv2_en_119.jpg,Falinks,Common,English,,Rev Holo,Nintendo,119,9/6/23,2023,Fighting,110,Basic,Unlimited,Scarlet & Violet Series
+10385,sv2_en_120.jpg,Nacli,Common,English,,Rev Holo,Nintendo,120,9/6/23,2023,Fighting,60,Basic,Unlimited,Scarlet & Violet Series
+10386,sv2_en_121.jpg,Nacli,Common,English,,Rev Holo,Nintendo,121,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10387,sv2_en_122.jpg,Naclstack,Uncommon,English,,Rev Holo,Nintendo,122,9/6/23,2023,Fighting,100,Stage 1,Unlimited,Scarlet & Violet Series
+10388,sv2_en_123.jpg,Garganacl,Rare,English,,Rev Holo,Nintendo,123,9/6/23,2023,Fighting,180,Stage 2,Unlimited,Scarlet & Violet Series
+10389,sv2_en_124.jpg,Glimmet,Common,English,,Rev Holo,Nintendo,124,9/6/23,2023,Fighting,40,Basic,Unlimited,Scarlet & Violet Series
+10390,sv2_en_125.jpg,Glimmet,Common,English,,Rev Holo,Nintendo,125,9/6/23,2023,Fighting,70,Basic,Unlimited,Scarlet & Violet Series
+10391,sv2_en_126.jpg,Glimmora,Rare,English,,Rev Holo,Nintendo,126,9/6/23,2023,Fighting,130,Stage 1,Unlimited,Scarlet & Violet Series
+10392,sv2_en_128.jpg,Paldean Wooper,Common,English,,Rev Holo,Nintendo,128,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10393,sv2_en_129.jpg,Paldean Wooper,Common,English,,Rev Holo,Nintendo,129,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10394,sv2_en_131.jpg,Murkrow,Common,English,,Rev Holo,Nintendo,131,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10395,sv2_en_132.jpg,Honchkrow,Uncommon,English,,Rev Holo,Nintendo,132,9/6/23,2023,Darkness,130,Stage 1,Unlimited,Scarlet & Violet Series
+10396,sv2_en_133.jpg,Sneasel,Common,English,,Rev Holo,Nintendo,133,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10397,sv2_en_134.jpg,Weavile,Rare,English,,Rev Holo,Nintendo,134,9/6/23,2023,Darkness,110,Stage 1,Unlimited,Scarlet & Violet Series
+10398,sv2_en_135.jpg,Tyranitar,Rare,English,,Rev Holo,Nintendo,135,9/6/23,2023,Darkness,180,Stage 2,Unlimited,Scarlet & Violet Series
+10399,sv2_en_136.jpg,Sableye,Rare,English,,Rev Holo,Nintendo,136,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10400,sv2_en_137.jpg,Seviper,Uncommon,English,,Rev Holo,Nintendo,137,9/6/23,2023,Darkness,110,Basic,Unlimited,Scarlet & Violet Series
+10401,sv2_en_138.jpg,Deino,Common,English,,Rev Holo,Nintendo,138,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10402,sv2_en_139.jpg,Zweilous,Uncommon,English,,Rev Holo,Nintendo,139,9/6/23,2023,Darkness,100,Stage 1,Unlimited,Scarlet & Violet Series
+10403,sv2_en_140.jpg,Hydreigon,Rare,English,,Rev Holo,Nintendo,140,9/6/23,2023,Darkness,180,Stage 2,Unlimited,Scarlet & Violet Series
+10404,sv2_en_141.jpg,Maschiff,Common,English,,Rev Holo,Nintendo,141,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10405,sv2_en_142.jpg,Maschiff,Common,English,,Rev Holo,Nintendo,142,9/6/23,2023,Darkness,70,Basic,Unlimited,Scarlet & Violet Series
+10406,sv2_en_143.jpg,Mabosstiff,Uncommon,English,,Rev Holo,Nintendo,143,9/6/23,2023,Darkness,140,Stage 1,Unlimited,Scarlet & Violet Series
+10407,sv2_en_144.jpg,Shroodle,Common,English,,Rev Holo,Nintendo,144,9/6/23,2023,Darkness,50,Basic,Unlimited,Scarlet & Violet Series
+10408,sv2_en_145.jpg,Shroodle,Common,English,,Rev Holo,Nintendo,145,9/6/23,2023,Darkness,60,Basic,Unlimited,Scarlet & Violet Series
+10409,sv2_en_146.jpg,Grafaiai,Uncommon,English,,Rev Holo,Nintendo,146,9/6/23,2023,Darkness,90,Stage 1,Unlimited,Scarlet & Violet Series
+10410,sv2_en_147.jpg,Bombirdier,Uncommon,English,,Rev Holo,Nintendo,147,9/6/23,2023,Darkness,120,Basic,Unlimited,Scarlet & Violet Series
+10411,sv2_en_148.jpg,Corviknight,Uncommon,English,,Rev Holo,Nintendo,148,9/6/23,2023,Metal,170,Stage 2,Unlimited,Scarlet & Violet Series
+10412,sv2_en_149.jpg,Cufant,Common,English,,Rev Holo,Nintendo,149,9/6/23,2023,Metal,100,Basic,Unlimited,Scarlet & Violet Series
+10413,sv2_en_151.jpg,Orthworm,Rare,English,,Rev Holo,Nintendo,151,9/6/23,2023,Metal,130,Basic,Unlimited,Scarlet & Violet Series
+10414,sv2_en_152.jpg,Noibat,Common,English,,Rev Holo,Nintendo,152,9/6/23,2023,Dragon,70,Basic,Unlimited,Scarlet & Violet Series
+10415,sv2_en_154.jpg,Girafarig,Common,English,,Rev Holo,Nintendo,154,9/6/23,2023,Colorless,100,Basic,Unlimited,Scarlet & Violet Series
+10416,sv2_en_155.jpg,Farigiraf,Uncommon,English,,Rev Holo,Nintendo,155,9/6/23,2023,Colorless,140,Stage 1,Unlimited,Scarlet & Violet Series
+10417,sv2_en_156.jpg,Dunsparce,Common,English,,Rev Holo,Nintendo,156,9/6/23,2023,Colorless,70,Basic,Unlimited,Scarlet & Violet Series
+10418,sv2_en_157.jpg,Dudunsparce,Uncommon,English,,Rev Holo,Nintendo,157,9/6/23,2023,Colorless,140,Stage 1,Unlimited,Scarlet & Violet Series
+10419,sv2_en_158.jpg,Wingull,Common,English,,Rev Holo,Nintendo,158,9/6/23,2023,Colorless,70,Basic,Unlimited,Scarlet & Violet Series
+10420,sv2_en_159.jpg,Pelipper,Uncommon,English,,Rev Holo,Nintendo,159,9/6/23,2023,Colorless,120,Stage 1,Unlimited,Scarlet & Violet Series
+10421,sv2_en_160.jpg,Slakoth,Common,English,,Rev Holo,Nintendo,160,9/6/23,2023,Colorless,70,Basic,Unlimited,Scarlet & Violet Series
+10422,sv2_en_161.jpg,Vigoroth,Uncommon,English,,Rev Holo,Nintendo,161,9/6/23,2023,Colorless,90,Stage 1,Unlimited,Scarlet & Violet Series
+10423,sv2_en_162.jpg,Slaking,Rare,English,,Rev Holo,Nintendo,162,9/6/23,2023,Colorless,180,Stage 2,Unlimited,Scarlet & Violet Series
+10424,sv2_en_163.jpg,Fletchling,Common,English,,Rev Holo,Nintendo,163,9/6/23,2023,Colorless,60,Basic,Unlimited,Scarlet & Violet Series
+10425,sv2_en_164.jpg,Rookidee,Common,English,,Rev Holo,Nintendo,164,9/6/23,2023,Colorless,60,Basic,Unlimited,Scarlet & Violet Series
+10426,sv2_en_165.jpg,Corvisquire,Uncommon,English,,Rev Holo,Nintendo,165,9/6/23,2023,Colorless,90,Stage 2,Unlimited,Scarlet & Violet Series
+10427,sv2_en_166.jpg,Tandemaus,Common,English,,Rev Holo,Nintendo,166,9/6/23,2023,Colorless,30,Basic,Unlimited,Scarlet & Violet Series
+10428,sv2_en_167.jpg,Tandemaus,Common,English,,Rev Holo,Nintendo,167,9/6/23,2023,Colorless,40,Basic,Unlimited,Scarlet & Violet Series
+10429,sv2_en_168.jpg,Maushold,Uncommon,English,,Rev Holo,Nintendo,168,9/6/23,2023,Colorless,60,Stage 1,Unlimited,Scarlet & Violet Series
+10430,sv2_en_170.jpg,Flamigo,Uncommon,English,,Rev Holo,Nintendo,170,9/6/23,2023,Colorless,110,Basic,Unlimited,Scarlet & Violet Series
+10431,sv2_en_171.jpg,Artazon,Uncommon,English,,Rev Holo,Nintendo,171,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10432,sv2_en_172.jpg,Boss's Orders,Rare,English,,Rev Holo,Nintendo,172,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10433,sv2_en_173.jpg,Bravery Charm,Uncommon,English,,Rev Holo,Nintendo,173,9/6/23,2023,Trainer,,Tool,Unlimited,Scarlet & Violet Series
+10434,sv2_en_174.jpg,Calamitous Snowy Mountain,Uncommon,English,,Rev Holo,Nintendo,174,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10435,sv2_en_175.jpg,Calamitous Wasteland,Uncommon,English,,Rev Holo,Nintendo,175,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10436,sv2_en_176.jpg,Choice Belt,Uncommon,English,,Rev Holo,Nintendo,176,9/6/23,2023,Trainer,,Tool,Unlimited,Scarlet & Violet Series
+10437,sv2_en_177.jpg,Clavell,Common,English,,Rev Holo,Nintendo,177,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10438,sv2_en_178.jpg,Delivery Drone,Uncommon,English,,Rev Holo,Nintendo,178,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10439,sv2_en_179.jpg,Dendra,Uncommon,English,,Rev Holo,Nintendo,179,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10440,sv2_en_180.jpg,Falkner,Uncommon,English,,Rev Holo,Nintendo,180,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10441,sv2_en_181.jpg,Fighting Au Lait,Uncommon,English,,Rev Holo,Nintendo,181,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10442,sv2_en_182.jpg,Giacomo,Uncommon,English,,Rev Holo,Nintendo,182,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10443,sv2_en_183.jpg,Great Ball,Common,English,,Rev Holo,Nintendo,183,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10444,sv2_en_184.jpg,Grusha,Uncommon,English,,Rev Holo,Nintendo,184,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10445,sv2_en_185.jpg,Iono,Uncommon,English,,Rev Holo,Nintendo,185,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10446,sv2_en_186.jpg,Practice Studio,Uncommon,English,,Rev Holo,Nintendo,186,9/6/23,2023,Trainer,,Stadium,Unlimited,Scarlet & Violet Series
+10447,sv2_en_187.jpg,Saguaro,Uncommon,English,,Rev Holo,Nintendo,187,9/6/23,2023,Trainer,,Supporter,Unlimited,Scarlet & Violet Series
+10448,sv2_en_188.jpg,Super Rod,Common,English,,Rev Holo,Nintendo,188,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10449,sv2_en_189.jpg,Superior Energy Retrieval,Uncommon,English,,Rev Holo,Nintendo,189,9/6/23,2023,Trainer,,Item,Unlimited,Scarlet & Violet Series
+10450,sv2_en_190.jpg,Jet Energy,Uncommon,English,,Rev Holo,Nintendo,190,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series
+10451,sv2_en_191.jpg,Luminous Energy,Uncommon,English,,Rev Holo,Nintendo,191,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series
+10452,sv2_en_192.jpg,Reversal Energy,Uncommon,English,,Rev Holo,Nintendo,192,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series
+10453,sv2_en_193.jpg,Therapeutic Energy,Uncommon,English,,Rev Holo,Nintendo,193,9/6/23,2023,Energy,,Special Energy,Unlimited,Scarlet & Violet Series

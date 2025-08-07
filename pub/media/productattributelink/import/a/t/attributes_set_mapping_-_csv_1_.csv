@@ -1,0 +1,154 @@
+group,category,attribute_code,attribute_option,priority,target_attribute_set
+Action Toys,Action Toys,,,,Action Toys
+Action Toys | Action Figures,,action_toys_categories,Action Figures,1,Action Toys | Action Figures
+Action Toys | Action Figures,,action_figures_product_type,Box Sets,2,Action Toys | Action Figures | Box Set
+Action Toys | Action Figures,,action_figures_product_type,Lots/Singles,2,Action Toys | Action Figures | Lots/Singles
+Action Toys | Statues,,action_toys_categories,Statues,1,Action Toys | Statues
+Action Toys | Statues,,statues_product_type,Box Sets,2,Action Toys | Statues | Box Set
+Action Toys | Busts,,action_toys_categories,Busts,1,Action Toys | Busts
+Action Toys | Busts,,busts_product_type,Box Sets,2,Action Toys | Busts | Box Set
+Action Toys | Props & Replica,,action_toys_categories,Props & Replica,1,Action Toys | Props & Replica
+Action Toys | Props & Replica,,props_and_replica_product_type,Box Sets,2,Action Toys | Props & Replica | Box Set
+Action Toys | Designer Toys,,action_toys_categories,Designer Toys,1,Action Toys | Designer Toys
+Action Toys | Designer Toys,,designer_toys_product_type,Box Sets,2,Action Toys | Designer Toys | Box Set
+Action Toys | Mini Figures,,action_toys_categories,Mini Figures,1,Action Toys | Mini Figures
+Action Toys | Mini Figures,,mini_figures_product_type,Box Sets,2,Action Toys | Mini Figures | Box Set
+Action Toys | Mini Figures,,mini_figures_product_type,Lots/Singles,2,Action Toys | Mini Figures | Lots/Singles
+Action Toys | Blindboxes,,action_toys_categories,Blindboxes,1,Action Toys | Blindboxes
+Action Toys | Blindboxes,,blindboxes_product_type,Boxes/Case,2,Action Toys | Blindboxes | Boxes/Case
+Action Toys | Blindboxes,,blindboxes_product_type,Singles,2,Action Toys | Blindboxes | Singles
+Action Toys | Blindboxes,,blindboxes_product_type,Sets,2,Action Toys | Blindboxes | Sets
+Action Toys | Model Kits,,action_toys_categories,Model Kits,1,Action Toys | Model Kits
+Action Toys | Model Kits,,model_kits_product_type,Box Sets,2,Action Toys | Model Kits | Box Set
+Anime Toys,Anime Toys,,,,Anime Toys
+Anime Toys | Anime Figures,,anime_toys_categories,Anime Figures,1,Anime Toys | Anime Figures
+Anime Toys | Anime Figures | Complete Figures,,anime_figures,Complete Figures,2,Anime Toys | Anime Figures | Complete Figures
+Anime Toys | Anime Figures | Complete Figures,,anime_figures_product_type,Box Sets,3,Anime Toys | Anime Figures | Complete Figures | Box Set
+Anime Toys | Anime Figures | Complete Figures,,anime_figures_product_type,Lots/Singles,3,Anime Toys | Anime Figures | Complete Figures | Lots/Singles
+Anime Toys | Anime Figures | Articulated Figures,,anime_figures,Articulated Figures,2,Anime Toys | Anime Figures | Articulated Figures
+Anime Toys | Anime Figures | Articulated Figures,,anime_figures_product_type,Box Sets,3,Anime Toys | Anime Figures | Articulated Figures | Box Set
+Anime Toys | Anime Figures | Articulated Figures,,anime_figures_product_type,Lots/Singles,3,Anime Toys | Anime Figures | Articulated Figures | Lots/Singles
+Anime Toys | Blindboxes,,anime_toys_categories,Blindboxes,1,Anime Toys | Blindboxes
+Anime Toys | Blindboxes,,anime_blindboxes_product_type,Boxes/Case,2,Anime Toys | Blindboxes | Boxes/Case
+Anime Toys | Blindboxes,,anime_blindboxes_product_type,Singles,2,Anime Toys | Blindboxes | Singles
+Anime Toys | Blindboxes,,anime_blindboxes_product_type,Sets,2,Anime Toys | Blindboxes | Sets
+Anime Toys | Blindboxes,,anime_blindboxes_product_type,Lots,2,Anime Toys | Blindboxes | Lots
+Anime Toys | Busts,,anime_toys_categories,Busts,1,Anime Toys | Busts
+Anime Toys | Candy Toys,,anime_toys_categories,Candy Toys | Trading Figures,1,Anime Toys | Candy Toys
+Anime Toys | Candy Toys,,anime_candy_product_type,Boxes/Case,2,Anime Toys | Candy Toys | Boxes/Case
+Anime Toys | Candy Toys,,anime_candy_product_type,Singles,2,Anime Toys | Candy Toys | Singles
+Anime Toys | Candy Toys,,anime_candy_product_type,Sets,2,Anime Toys | Candy Toys | Sets
+Anime Toys | Candy Toys,,anime_candy_product_type,Lots,2,Anime Toys | Candy Toys | Lots
+Anime Toys | Capsule Toys (Gashapon),,anime_toys_categories,Capsule Toys (Gashapon),1,Anime Toys | Capsule Toys (Gashapon)
+Anime Toys | Capsule Toys (Gashapon),,anime_gashapon_product_type,Boxes/Case,2,Anime Toys | Capsule Toys (Gashapon) | Boxes/Case
+Anime Toys | Capsule Toys (Gashapon),,anime_gashapon_product_type,Singles,2,Anime Toys | Capsule Toys (Gashapon) | Singles
+Anime Toys | Capsule Toys (Gashapon),,anime_gashapon_product_type,Sets,2,Anime Toys | Capsule Toys (Gashapon) | Sets
+Anime Toys | Capsule Toys (Gashapon),,anime_gashapon_product_type,Lots,2,Anime Toys | Capsule Toys (Gashapon) | Lots
+Anime Toys | Designer Toys,,anime_toys_categories,Designer Toys,1,Anime Toys | Designer Toys
+Anime Toys | R18+ Toys,,anime_toys_categories,R18+ Toys,1,Anime Toys | R18+ Toys
+Anime Toys | Statues,,anime_toys_categories,Statues,1,Anime Toys | Statues
+Anime Toys | Mini Figures,,anime_toys_categories,Mini Figures,1,Anime Toys | Mini Figures
+Anime Toys | Props & Replica,,anime_toys_categories,Props & Replica,1,Anime Toys | Props & Replica
+Anime Model Kits,Anime Model Kits,,,,Anime Model Kits
+Anime Model Kits | Characters,,anime_model_kits_categories,Characters,1,Anime Model Kits | Characters
+Anime Model Kits | Kaiju/Tokusatsu,,anime_model_kits_categories,Kaiju/Tokusatsu,1,Anime Model Kits | Kaiju/Tokusatsu
+Anime Model Kits | Robot/Mecha,,anime_model_kits_categories,Robot/Mecha,1,Anime Model Kits | Robot/Mecha
+Gundam,Gundam,,,,Gundam
+Gundam | Gundam Model Kits,,gundam_categories,Gundam Model Kits,1,Gundam | Gundam Model Kits
+Gundam | Character Model Kits,,gundam_categories,Character Model Kits,1,Gundam | Character Model Kits
+Gundam | Gundam Figures,,gundam_categories,Gundam Figures,1,Gundam | Gundam Figures
+Gundam | Accessories,,gundam_categories,Accessories,1,Gundam | Accessories
+Fun Goods,Anime Fun Goods,,,,Fun Goods
+Fun Goods | Acrylic Stands,,anime_fun_goods_categories,Acrylic Stands,1,Fun Goods | Acrylic Stands
+Fun Goods | Acrylic Stands,,anime_acrylic_product_type,Sets,2,Fun Goods | Acrylic Stands | Sets
+Fun Goods | Acrylic Stands,,anime_acrylic_product_type,Singles,2,Fun Goods | Acrylic Stands | Singles
+Fun Goods | Can Badges,,anime_fun_goods_categories,Can Badges/Pins,1,Fun Goods | Can Badges
+Fun Goods | Can Badges,,anime_badge_product_type,Sets,2,Fun Goods | Can Badges | Sets
+Fun Goods | Can Badges,,anime_badge_product_type,Singles,2,Fun Goods | Can Badges | Singles
+Fun Goods | Stickers,,anime_fun_goods_categories,Stickers,1,Fun Goods | Stickers
+Monsters,Monsters,,,,Monsters
+Robot / Mecha,Robot / Mecha,,,,Robot / Mecha
+LEGO,LEGO Complete Sets & Packs,,,,LEGO
+LEGO,LEGO Minifigures,,,,LEGO
+LEGO,LEGO Parts,,,,LEGO
+LEGO,LEGO Storage & Display,,,,LEGO
+LEGO Box Sets/Packs,,lego,LEGO Box Sets/Packs,1,LEGO Box Sets/Packs
+LEGO Box Sets/Packs,,lego_product_type,Sealed Products,2,LEGO Complete Sets & Packs | Sealed Products
+LEGO Minifigures,,lego,LEGO Minifigures,1,LEGO Minifigures
+LEGO Minifigures,,lego_minifigures_product_type,Sealed Products,2,LEGO Minifigures | Sealed Products
+LEGO Minifigures,,lego_minifigures_product_type,Singles,2,LEGO Minifigures | Singles
+LEGO Parts,,lego,LEGO Parts,1,LEGO Parts
+LEGO Storage & Display,,lego,LEGO Storage & Display,1,LEGO Storage & Display
+Layout,Layout,,,,Layout
+Railway,Railway,,,,Railway
+Railway | Sets & Packs,,railway_categories,Sets & Packs,1,Railway | Sets & Packs
+Railway | Locomotives,,railway_categories,Locomotives,1,Railway | Locomotives
+Railway | Freight Cars,,railway_categories,Freight Cars,1,Railway | Freight Cars
+Railway | Passenger Cars,,railway_categories,Passenger Cars,1,Railway | Passenger Cars
+Railway | Tracks,,railway_categories,Tracks,1,Railway | Tracks
+Railway | Train Parts,,railway_categories,Train Parts,1,Railway | Train Parts
+Railway | Power & Control,,railway_categories,Power & Control,1,Railway | Power & Control
+Diecast,Diecast,,,,Diecast
+Diecast | Road Cars,,vehicle_categories,Road Cars,1,Diecast | Road Cars
+Diecast | Formula Racing,,vehicle_categories,Formula Racing,1,Diecast | Formula Racing
+Diecast | Motorsports,,vehicle_categories,Motorsports,1,Diecast | Motorsports
+Diecast | Bikes,,vehicle_categories,Bikes,1,Diecast | Bikes
+Diecast | Aircrafts,,vehicle_categories,Aircrafts,1,Diecast | Aircrafts
+Diecast | Military Vehicles,,vehicle_categories,Military Vehicles,1,Diecast | Military Vehicles
+Diecast | Transport Vehicles,,vehicle_categories,Transport Vehicles,1,Diecast | Transport Vehicles
+Diecast | Emergency Services,,vehicle_categories,Emergency Services,1,Diecast | Emergency Services
+Diecast | Heavy Machinery,,vehicle_categories,Heavy Machinery,1,Diecast | Heavy Machinery
+Diecast | TV/Movies Vehicles,,vehicle_categories,TV/Movies Vehicles,1,Diecast | TV/Movies Vehicles
+Diecast | Accessories,,vehicle_categories,Accessories,1,Diecast | Accessories
+Model Kits,Model Kits,,,,Model Kits
+Model Kits | TV/Movies Vehicles,,vehicle_categories,Road Cars,1,Model Kits | TV/Movies Vehicles
+Model Kits | Formula Racing,,vehicle_categories,Formula Racing,1,Model Kits | Formula Racing
+Model Kits | Motorsports,,vehicle_categories,Motorsports,1,Model Kits | Motorsports
+Model Kits | Bikes,,vehicle_categories,Bikes,1,Model Kits | Bikes
+Model Kits | Aircrafts,,vehicle_categories,Aircrafts,1,Model Kits | Aircrafts
+Model Kits | Military Vehicles,,vehicle_categories,Military Vehicles,1,Model Kits | Military Vehicles
+Model Kits | Transport Vehicles,,vehicle_categories,Transport Vehicles,1,Model Kits | Transport Vehicles
+Model Kits | Emergency Services,,vehicle_categories,Emergency Services,1,Model Kits | Emergency Services
+Model Kits | Heavy Machinery,,vehicle_categories,Heavy Machinery,1,Model Kits | Heavy Machinery
+Model Kits | TV/Movies Vehicles,,vehicle_categories,TV/Movies Vehicles,1,Model Kits | TV/Movies Vehicles
+Model Kits | Accessories,,vehicle_categories,Accessories,1,Model Kits | Accessories
+Collectible Card Games,Collectible Card Games,,,,Collectible Card Games
+Collectible Card Games | Magic: The Gathering,,card_game,Magic: The Gathering,1,Collectible Card Games | Magic: The Gathering
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sealed Products,2,Collectible Card Games | Magic: The Gathering | Sealed Products
+Collectible Card Games | Magic: The Gathering,,card_product_type,Sets,2,Collectible Card Games | Magic: The Gathering | Sets
+Collectible Card Games | Magic: The Gathering,,card_product_type,Lots,2,Collectible Card Games | Magic: The Gathering | Lots
+Collectible Card Games | Magic: The Gathering,,card_product_type,Singles,2,Collectible Card Games | Magic: The Gathering | Singles
+Sport Cards,Sport Cards,,,,Sport Cards
+Non-Sport Cards,Non-Sport Cards,,,,Non-Sport Cards
+Non-Sport Cards | TV,,nsc_genre,TV,1,Non-Sport Cards | TV
+Non-Sport Cards | Games,,nsc_genre,Games,1,Non-Sport Cards | Games
+Non-Sport Cards | Movies,,nsc_genre,Movies,1,Non-Sport Cards | Movies
+Non-Sport Cards | Movies,,movies_nsc_product_type,Sealed Products,2,Non-Sport Cards | Movies | Sealed Products
+Non-Sport Cards | Comics,,nsc_genre,Comics,1,Non-Sport Cards | Comics
+Non-Sport Cards | Music,,nsc_genre,Music,1,Non-Sport Cards | Music
+Miniature Games,Miniature Games,,,,Miniature Games
+Miniature Games | Marvel: Crisis Protocol,,miniature_game,Marvel: Crisis Protocol,1,Miniature Games | Marvel: Crisis Protocol
+Miniature Games | Star Wars: Armada,,miniature_game,Star Wars: Armada,1,Miniature Games | Star Wars: Armada
+Miniature Games | Star Wars: Legion,,miniature_game,Star Wars: Legion,1,Miniature Games | Star Wars: Legion
+Miniature Games | Star Wars: Shatterpoint,,miniature_game,Star Wars: Shatterpoint,1,Miniature Games | Star Wars: Shatterpoint
+Miniature Games | Star Wars: X-Wing (Second Edition),,miniature_game,Star Wars: X-Wing (Second Edition),1,Miniature Games | Star Wars: X-Wing (Second Edition)
+Miniature Games | HeroClix,,miniature_game,HeroClix,1,Miniature Games | HeroClix
+Miniature Games | HeroClix,,hero_miniature_product_type,Sealed Products,2,Miniature Games | HeroClix | Sealed Products
+Miniature Games | HeroClix,,hero_miniature_product_type,Singles,2,Miniature Games | HeroClix | Singles
+Living Card Games,Living Card Games,,,,Living Card Games
+Living Card Games | Arkham Horror: The Card Game,,living_card_game,Arkham Horror: The Card Game,1,Living Card Games | Arkham Horror: The Card Game
+Living Card Games | Call of Cthulhu,,living_card_game,Call of Cthulhu,1,Living Card Games | Call of Cthulhu
+Living Card Games | A Game of Thrones,,living_card_game,A Game of Thrones,1,Living Card Games | A Game of Thrones
+Living Card Games | Legend of the Five Rings,,living_card_game,Legend of the Five Rings,1,Living Card Games | Legend of the Five Rings
+Living Card Games | Lord of the Rings,,living_card_game,Lord of the Rings,1,Living Card Games | Lord of the Rings
+Living Card Games | Marvel Champions: The Card Game,,living_card_game,Marvel Champions: The Card Game,1,Living Card Games | Marvel Champions: The Card Game
+Living Card Games | Star Wars: Destiny,,living_card_game,Star Wars: Destiny,1,Living Card Games | Star Wars: Destiny
+Living Card Games | Arkham Horror: The Card Game,,living_card_product_type,Sealed Products,2,Living Card Games | Arkham Horror: The Card Game | Sealed Products
+Living Card Games | Call of Cthulhu,,living_card_product_type,Sealed Products,2,Living Card Games | Call of Cthulhu | Sealed Products
+Living Card Games | A Game of Thrones,,living_card_product_type,Sealed Products,2,Living Card Games | A Game of Thrones | Sealed Products
+Living Card Games | Legend of the Five Rings,,living_card_product_type,Sealed Products,2,Living Card Games | Legend of the Five Rings | Sealed Products
+Living Card Games | Lord of the Rings,,living_card_product_type,Sealed Products,2,Living Card Games | Lord of the Rings | Sealed Products
+Living Card Games | Marvel Champions: The Card Game,,living_card_product_type,Sealed Products,2,Living Card Games | Marvel Champions: The Card Game | Sealed Products
+Living Card Games | Star Wars: Destiny,,living_card_product_type,Sealed Products,2,Living Card Games | Star Wars: Destiny | Sealed Products
+Games Workshop,Games Workshop,,,,Games Workshop
+Fashion Dolls,Fashion Dolls,,,,Fashion Dolls

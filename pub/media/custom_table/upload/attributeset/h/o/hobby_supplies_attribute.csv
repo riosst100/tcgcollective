@@ -1,0 +1,20 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Hobby Supplies,Hobby Supplies,,,,Hobby Supplies
+Hobby Supplies,,hobby_supplies_main_categories,Hobby Supplies,1,Hobby Supplies
+Hobby Supplies | Paints,,hobby_supplies_categories,Paints,2,Hobby Supplies | Brands | Paints
+Hobby Supplies | Paint Tools ,,hobby_supplies_categories,Painting Tools,2,Hobby Supplies | Brands | Paint Tools 
+Hobby Supplies | Tools,,hobby_supplies_categories,Tools,2,Hobby Supplies | Brands | Tools
+Hobby Supplies | Airbrush,,hobby_supplies_categories,Airbrush,2,Hobby Supplies | Brands | Airbrush
+Hobby Supplies | Finishing Aids,,hobby_supplies_categories,Finishing Aids,2,Hobby Supplies | Brands | Finishing Aids
+Hobby Supplies | Glues & Adhesives,,hobby_supplies_categories,Glues & Adhesives,2,Hobby Supplies | Brands | Glues & Adhesives
+Hobby Supplies | Cards & Games,Cards & Games,,,,Hobby Supplies | Cards & Games
+Hobby Supplies | Cards & Games,,hobby_supplies_main_categories,Cards & Games,1,Hobby Supplies | Cards & Games
+Hobby Supplies | Cards,,hobby_supplies_cards_categories,Cards,2,Hobby Supplies | Cards & Games | Brands | Cards
+Hobby Supplies | Games,,hobby_supplies_games_categories,Games,2,Hobby Supplies | Cards & Games | Brands | Games
+Hobby Supplies,,hobby_supplies_brands,Citadels,1,Hobby Supplies | Citadel
+Hobby Supplies | Paints,,hobby_supplies_categories,Paints,2,Hobby Supplies | Citadel | Paints
+Hobby Supplies | Paint Tools ,,hobby_supplies_categories,Painting Tools,2,Hobby Supplies | Citadel | Paint Tools 
+Hobby Supplies | Tools,,hobby_supplies_categories,Tools,2,Hobby Supplies | Citadel | Tools
+Hobby Supplies | Airbrush,,hobby_supplies_categories,Airbrush,2,Hobby Supplies | Citadel | Airbrush
+Hobby Supplies | Finishing Aids,,hobby_supplies_categories,Finishing Aids,2,Hobby Supplies | Citadel | Finishing Aids
+Hobby Supplies | Glues & Adhesives,,hobby_supplies_categories,Glues & Adhesives,2,Hobby Supplies | Citadel | Glues & Adhesives

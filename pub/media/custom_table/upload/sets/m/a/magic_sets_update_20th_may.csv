@@ -1,0 +1,550 @@
+﻿entity_id,card_game,card_set,card_set_abbreviation,release_type,number_of_cards,release_date,release_year,card_manufacturer,language
+917,Magic: The Gathering,Secret Lair: Ultimate Edition,SLU,Secret Liar,16,29/05/2020,2020,Wizards of the Coast,English
+918,Magic: The Gathering,Secret Lair Showdown,SLP,Secret Liar,23,17/02/2023,2023,Wizards of the Coast,English
+919,Magic: The Gathering,Secret Lair 30th Anniversary Countdown Kit,SLC,Secret Liar,31,01/11/2022,2022,Wizards of the Coast,English
+371,Magic: The Gathering,Aetherdrift,DFT,Expansion,553,14/02/2025,2025,Wizards of the Coast,English
+372,Magic: The Gathering,Japan Standard Cup,PJSC,Promo,2,09/02/2025,2025,Wizards of the Coast,Japanese
+373,Magic: The Gathering,Innistrad Remastered,INR,Masters,107,24/01/2025,2025,Wizards of the Coast,English
+374,Magic: The Gathering,Innistrad Remastered Tokens,TINR,Token,25,24/01/2025,2025,Wizards of the Coast,English
+375,Magic: The Gathering,Spotlight Series,PSPL,Promo,1,01/03/2025,2025,Wizards of the Coast,English
+376,Magic: The Gathering,MagicFest 2025,PF25,Promo,1,01/01/2025,2025,Wizards of the Coast,English
+377,Magic: The Gathering,Pioneer Masters,PIO,Masters,398,12/10/2024,2024,Wizards of the Coast,English
+378,Magic: The Gathering,Foundations,FDN,Core,730,15/11/2024,2024,Wizards of the Coast,English
+379,Magic: The Gathering,Foundations Promos,PFDN,Promo,81,15/11/2024,2024,Wizards of the Coast,English
+380,Magic: The Gathering,Foundations Tokens,TFDN,Token,33,15/11/2024,2024,Wizards of the Coast,English
+381,Magic: The Gathering,Foundations Art Series,AFDN,Memorabilia,54,15/11/2024,2024,Wizards of the Coast,English
+382,Magic: The Gathering,Foundations Jumpstart,J25,Draft Innovation,779,15/11/2024,2024,Wizards of the Coast,English
+383,Magic: The Gathering,Foundations Jumpstart Front Cards,FJ25,Memorabilia,46,15/11/2024,2024,Wizards of the Coast,English
+384,Magic: The Gathering,Foundations Front Cards,FFDN,Memorabilia,2,15/11/2024,2024,Wizards of the Coast,English
+385,Magic: The Gathering,Foundations Commander,FDC,Commander,3,15/11/2024,2024,Wizards of the Coast,English
+386,Magic: The Gathering,Duskmourn: House of Horror,DSK,Expansion,418,27/09/2024,2024,Wizards of the Coast,English
+387,Magic: The Gathering,Duskmourn: House of Horror Promos,PDSK,Promo,160,27/09/2024,2024,Wizards of the Coast,English
+388,Magic: The Gathering,Duskmourn: House of Horror Tokens,TDSK,Token,18,27/09/2024,2024,Wizards of the Coast,English
+389,Magic: The Gathering,Duskmourn: House of Horror Commander,DSC,Commander,373,27/09/2024,2024,Wizards of the Coast,English
+390,Magic: The Gathering,Duskmourn Commander Tokens,TDSC,Token,23,27/09/2024,2024,Wizards of the Coast,English
+391,Magic: The Gathering,Duskmourn: House of Horror Art Series,ADSK,Memorabilia,54,27/09/2024,2024,Wizards of the Coast,English
+392,Magic: The Gathering,Love Your LGS 2024,PLG24,Promo,5,06/08/2024,2024,Wizards of the Coast,English
+393,Magic: The Gathering,Bloomburrow,BLB,Expansion,398,02/08/2024,2024,Wizards of the Coast,English
+394,Magic: The Gathering,Bloomburrow Promos,PBLB,Promo,160,02/08/2024,2024,Wizards of the Coast,English
+395,Magic: The Gathering,Bloomburrow Tokens,TBLB,Token,30,02/08/2024,2024,Wizards of the Coast,English
+396,Magic: The Gathering,Bloomburrow Art Series,ABLB,Memorabilia,54,02/08/2024,2024,Wizards of the Coast,English
+397,Magic: The Gathering,Bloomburrow Commander,BLC,Commander,356,02/08/2024,2024,Wizards of the Coast,English
+398,Magic: The Gathering,Bloomburrow Commander Tokens,TBLC,Token,41,02/08/2024,2024,Wizards of the Coast,English
+399,Magic: The Gathering,Cowboy Bebop,PCBB,Promo,5,02/08/2024,2024,Wizards of the Coast,English
+400,Magic: The Gathering,Mystery Booster 2,MB2,Masters,385,02/08/2024,2024,Wizards of the Coast,English
+401,Magic: The Gathering,Assassin's Creed,ACR,Draft Innovation,309,07/07/2024,2024,Wizards of the Coast,English
+402,Magic: The Gathering,Assassin's Creed Tokens,TACR,Token,8,07/07/2024,2024,Wizards of the Coast,English
+403,Magic: The Gathering,Assassin's Creed Minigames,MACR,Minigames,2,07/07/2024,2024,Wizards of the Coast,English
+404,Magic: The Gathering,Assassin's Creed Art Series,AACR,Memorabilia,20,07/07/2024,2024,Wizards of the Coast,English
+405,Magic: The Gathering,Modern Horizons 3,MH3,Draft Innovation,528,14/06/2024,2024,Wizards of the Coast,English
+406,Magic: The Gathering,Modern Horizons 3 Promos,PMH3,Promo,80,14/06/2024,2024,Wizards of the Coast,English
+407,Magic: The Gathering,Modern Horizons 3 Tokens,TMH3,Token,43,14/06/2024,2024,Wizards of the Coast,English
+408,Magic: The Gathering,Modern Horizons 3 Substitute Cards,SMH3,Token,1,14/06/2024,2024,Wizards of the Coast,English
+409,Magic: The Gathering,Modern Horizons 3 Art Series,AMH3,Memorabilia,54,14/06/2024,2024,Wizards of the Coast,English
+410,Magic: The Gathering,Modern Horizons 3 Commander,M3C,Commander,398,14/06/2024,2024,Wizards of the Coast,English
+411,Magic: The Gathering,Modern Horizons 3 Commander Tokens,TM3C,Token,28,14/06/2024,2024,Wizards of the Coast,English
+412,Magic: The Gathering,Modern Horizons 2 Timeshifts,H2R,Draft Innovation,16,14/06/2024,2024,Wizards of the Coast,English
+413,Magic: The Gathering,Outlaws of Thunder Junction,OTJ,Expansion,374,19/04/2024,2024,Wizards of the Coast,English
+414,Magic: The Gathering,Breaking News,OTP,Masterpiece,80,19/04/2024,2024,Wizards of the Coast,English
+415,Magic: The Gathering,Breaking News Tokens,TOTP,Token,5,19/04/2024,2024,Wizards of the Coast,English
+416,Magic: The Gathering,Outlaws of Thunder Junction Promos,POTJ,Promo,160,19/04/2024,2024,Wizards of the Coast,English
+417,Magic: The Gathering,Outlaws of Thunder Junction Tokens,TOTJ,Token,19,19/04/2024,2024,Wizards of the Coast,English
+418,Magic: The Gathering,Outlaws of Thunder Junction Art Series,AOTJ,Memorabilia,54,19/04/2024,2024,Wizards of the Coast,English
+419,Magic: The Gathering,Outlaws of Thunder Junction Commander,OTC,Commander,342,19/04/2024,2024,Wizards of the Coast,English
+420,Magic: The Gathering,Outlaws of Thunder Junction Commander Tokens,TOTC,Token,41,19/04/2024,2024,Wizards of the Coast,English
+421,Magic: The Gathering,The Big Score,BIG,Expansion,95,19/04/2024,2024,Wizards of the Coast,English
+422,Magic: The Gathering,The Big Score Tokens,TBIG,Token,7,19/04/2024,2024,Wizards of the Coast,English
+423,Magic: The Gathering,Fallout,PIP,Commander,1068,08/03/2024,2024,Wizards of the Coast,English
+424,Magic: The Gathering,Fallout Tokens,TPIP,Token,22,08/03/2024,2024,Wizards of the Coast,English
+425,Magic: The Gathering,Murders at Karlov Manor,MKM,Expansion,450,09/02/2024,2024,Wizards of the Coast,English
+426,Magic: The Gathering,Murders at Karlov Manor Promos,PMKM,Promo,180,09/02/2024,2024,Wizards of the Coast,English
+427,Magic: The Gathering,Murders at Karlov Manor Tokens,TMKM,Token,21,09/02/2024,2024,Wizards of the Coast,English
+428,Magic: The Gathering,Ravnica: Clue Edition,CLU,Draft Innovation,284,23/02/2024,2024,Wizards of the Coast,English
+429,Magic: The Gathering,Ravnica: Clue Edition Front Cards,FCLU,Memorabilia,10,23/02/2024,2024,Wizards of the Coast,English
+430,Magic: The Gathering,MKM Standard Showdown,PSS4,Promo,5,10/02/2024,2024,Wizards of the Coast,English
+431,Magic: The Gathering,Murders at Karlov Manor Art Series,AMKM,Memorabilia,49,09/02/2024,2024,Wizards of the Coast,English
+432,Magic: The Gathering,MKM Japanese Promo Tokens,WMKM,Token,4,09/02/2024,2024,Wizards of the Coast,English
+433,Magic: The Gathering,Murders at Karlov Manor Commander,MKC,Commander,358,09/02/2024,2024,Wizards of the Coast,English
+434,Magic: The Gathering,Murders at Karlov Manor Commander Tokens,TMKC,Token,31,09/02/2024,2024,Wizards of the Coast,English
+435,Magic: The Gathering,Year of the Dragon 2024,PL24,Promo,7,08/02/2024,2024,Wizards of the Coast,English
+436,Magic: The Gathering,Ravnica Remastered,RVR,Masters,531,12/01/2024,2024,Wizards of the Coast,English
+437,Magic: The Gathering,Ravnica Remastered Tokens,TRVR,Token,20,12/01/2024,2024,Wizards of the Coast,English
+438,Magic: The Gathering,Wizards Play Network 2024,PW24,Promo,13,01/01/2024,2024,Wizards of the Coast,English
+439,Magic: The Gathering,MagicFest 2024,PF24,Promo,1,01/01/2024,2024,Wizards of the Coast,English
+440,Magic: The Gathering,Special Guests,SPG,Masterpiece,89,17/11/2023,2023,Wizards of the Coast,English
+441,Magic: The Gathering,The Lost Caverns of Ixalan,LCI,Expansion,416,17/11/2023,2023,Wizards of the Coast,English
+442,Magic: The Gathering,Jurassic World Collection,REX,Masterpiece,45,17/11/2023,2023,Wizards of the Coast,English
+443,Magic: The Gathering,Jurassic World Collection Tokens,TREX,Token,2,17/11/2023,2023,Wizards of the Coast,English
+444,Magic: The Gathering,The Lost Caverns of Ixalan Promos,PLCI,Promo,154,17/11/2023,2023,Wizards of the Coast,English
+445,Magic: The Gathering,The Lost Caverns of Ixalan Tokens,TLCI,Token,20,17/11/2023,2023,Wizards of the Coast,English
+446,Magic: The Gathering,The Lost Caverns of Ixalan Art Series,ALCI,Memorabilia,81,17/11/2023,2023,Wizards of the Coast,English
+447,Magic: The Gathering,The Lost Caverns of Ixalan Substitute Cards,SLCI,Token,1,17/11/2023,2023,Wizards of the Coast,English
+448,Magic: The Gathering,The Lost Caverns of Ixalan Commander,LCC,Commander,370,17/11/2023,2023,Wizards of the Coast,English
+449,Magic: The Gathering,The Lost Caverns of Ixalan Commander Tokens,TLCC,Token,18,17/11/2023,2023,Wizards of the Coast,English
+450,Magic: The Gathering,Doctor Who,WHO,Commander,1178,13/10/2023,2023,Wizards of the Coast,English
+451,Magic: The Gathering,Doctor Who Tokens,TWHO,Token,64,13/10/2023,2023,Wizards of the Coast,English
+452,Magic: The Gathering,Wilds of Eldraine,WOE,Expansion,381,08/09/2023,2023,Wizards of the Coast,English
+453,Magic: The Gathering,Wilds of Eldraine: Enchanting Tales,WOT,Masterpiece,103,08/09/2023,2023,Wizards of the Coast,English
+454,Magic: The Gathering,Wilds of Eldraine Promos,PWOE,Promo,160,08/09/2023,2023,Wizards of the Coast,English
+455,Magic: The Gathering,Wilds of Eldraine Tokens,TWOE,Token,18,08/09/2023,2023,Wizards of the Coast,English
+456,Magic: The Gathering,Wilds of Eldraine Commande,WOC,Commander,173,08/09/2023,2023,Wizards of the Coast,English
+457,Magic: The Gathering,Wilds of Eldraine Commander Tokens,TWOC,Token,17,08/09/2023,2023,Wizards of the Coast,English
+458,Magic: The Gathering,WOE Japanese Promo Tokens,WWOE,Token,6,08/09/2023,2023,Wizards of the Coast,English
+459,Magic: The Gathering,Wilds of Eldraine Art Series,AWOE,Memorabilia,81,08/09/2023,2023,Wizards of the Coast,English
+460,Magic: The Gathering,Magic x Duel Masters Promos,PMDA,Promo,4,08/09/2023,2023,Wizards of the Coast,Japanese
+461,Magic: The Gathering,Commander Masters,CMM,Masters,1067,04/08/2023,2023,Wizards of the Coast,English
+462,Magic: The Gathering,Commander Masters Art Series,ACMM,Memorabilia,81,04/08/2023,2023,Wizards of the Coast,English
+463,Magic: The Gathering,Commander Masters Tokens,TCMM,Token,81,04/08/2023,2023,Wizards of the Coast,English
+464,Magic: The Gathering,2022 Heroes of the Realm,PH22,Funny,5,01/08/2023,2023,Wizards of the Coast,English
+465,Magic: The Gathering,Historic Anthology 7,HA7,Box,25,18/07/2023,2023,Wizards of the Coast,English
+466,Magic: The Gathering,Explorer Anthology 3,EA3,Box,25,21/07/2023,2023,Wizards of the Coast,English
+467,Magic: The Gathering,MagicFest 2023,PF23,Promo,4,01/07/2023,2023,Wizards of the Coast,English
+468,Magic: The Gathering,The Lord of the Rings: Tales of Middle-earth,LTR,Draft Innovation,856,23/06/2023,2023,Wizards of the Coast,English
+469,Magic: The Gathering,Tales of Middle-earth Promos,PLTR,Promo,86,23/06/2023,2023,Wizards of the Coast,English
+470,Magic: The Gathering,Tales of Middle-earth Tokens,TLTR,Token,25,23/06/2023,2023,Wizards of the Coast,English
+471,Magic: The Gathering,Tales of Middle-earth Commander,LTC,Commander,591,23/06/2023,2023,Wizards of the Coast,English
+472,Magic: The Gathering,Tales of Middle-earth Commander Tokens,TLTC,Token,15,23/06/2023,2023,Wizards of the Coast,English
+473,Magic: The Gathering,Tales of Middle-earth Front Cards,FLTR,Memorabilia,10,23/06/2023,2023,Wizards of the Coast,English
+474,Magic: The Gathering,Tales of Middle-earth Art Series,ALTR,Memorabilia,81,23/06/2023,2023,Wizards of the Coast,English
+475,Magic: The Gathering,March of the Machine: The Aftermath,MAT,Expansion,230,12/05/2023,2023,Wizards of the Coast,English
+476,Magic: The Gathering,March of the Machine: The Aftermath Promos,PMAT,Promo,7,17/11/2023,2023,Wizards of the Coast,English
+477,Magic: The Gathering,March of the Machine,MOM,Expansion,387,21/04/2023,2023,Wizards of the Coast,English
+478,Magic: The Gathering,Multiverse Legends,MUL,Masterpiece,261,21/04/2023,2023,Wizards of the Coast,English
+479,Magic: The Gathering,Multiverse Legends Tokens,TMUL,Token,2,21/04/2023,2023,Wizards of the Coast,English
+480,Magic: The Gathering,March of the Machine Promos,PMOM,Promo,134,21/04/2023,2023,Wizards of the Coast,English
+481,Magic: The Gathering,March of the Machine Tokens,TMOM,Token,23,21/04/2023,2023,Wizards of the Coast,English
+482,Magic: The Gathering,March of the Machine Jumpstart Front Cards,FMOM,Memorabilia,5,21/04/2023,2023,Wizards of the Coast,English
+483,Magic: The Gathering,March of the Machine Commander,MOC,Commander,450,21/04/2023,2023,Wizards of the Coast,English
+484,Magic: The Gathering,March of the Machine Commander Tokens,TMOC,Token,46,21/04/2023,2023,Wizards of the Coast,English
+485,Magic: The Gathering,March of the Machine Substitute Cards,SMOM,Token,1,21/04/2023,2023,Wizards of the Coast,English
+486,Magic: The Gathering,MOM Japanese Promo Tokens,WMOM,Token,12,21/04/2023,2023,Wizards of the Coast,English
+487,Magic: The Gathering,March of the Machine Art Series,AMOM,Memorabilia,81,21/04/2023,2023,Wizards of the Coast,English
+488,Magic: The Gathering,Shadows of the Past,SIS,Masters,76,21/03/2023,2023,Wizards of the Coast,English
+489,Magic: The Gathering,Shadows over Innistrad Remastered,SIR,Masters,294,21/03/2023,2023,Wizards of the Coast,English
+490,Magic: The Gathering,Unkown Event,DA1,Funny,368,02/02/2023,2023,Wizards of the Coast,English
+491,Magic: The Gathering,Year of the Rabbit 2023,PL23,Promo,6,02/02/2023,2023,Wizards of the Coast,English
+492,Magic: The Gathering,Phyrexia: All Will Be One,ONE,Expansion,479,03/02/2023,2023,Wizards of the Coast,English
+493,Magic: The Gathering,Phyrexia: All Will Be One Promos,PONE,Promo,160,03/02/2023,2023,Wizards of the Coast,English
+494,Magic: The Gathering,Phyrexia: All Will Be One Tokens,TONE,Token,14,03/02/2023,2023,Wizards of the Coast,English
+495,Magic: The Gathering,Phyrexia: All Will Be One Minigames,MONE,Minigames,5,03/02/2023,2023,Wizards of the Coast,English
+496,Magic: The Gathering,Phyrexia: All Will Be One Commander,ONC,Commander,174,03/02/2023,2023,Wizards of the Coast,English
+497,Magic: The Gathering,Phyrexia: All Will Be One Commander Tokens,TONC,Token,23,03/02/2023,2023,Wizards of the Coast,English
+498,Magic: The Gathering,Phyrexia: All Will Be One Art Series,AONE,Memorabilia,81,03/02/2023,2023,Wizards of the Coast,English
+499,Magic: The Gathering,Phyrexia: All Will Be One Jumpstart Front Cards,FONE,Memorabilia,5,03/02/2023,2023,Wizards of the Coast,English
+500,Magic: The Gathering,ONE Japanese Promo Tokens,WONE,Token,6,27/01/2023,2023,Wizards of the Coast,English
+501,Magic: The Gathering,Dominaria Remastered,DMR,Masters,457,13/01/2023,2023,Wizards of the Coast,English
+502,Magic: The Gathering,Dominaria Remastered Tokens,TDMR,Token,14,13/01/2023,2023,Wizards of the Coast,English
+503,Magic: The Gathering,Regional Championship Qualifiers 2023,PR23,Promo,3,07/01/2023,2023,Wizards of the Coast,English
+504,Magic: The Gathering,Wizards Play Network 2023,PW23,Promo,11,07/01/2023,2023,Wizards of the Coast,English
+505,Magic: The Gathering,Judge Gift Cards 2023,P23,Promo,10,01/01/2023,2023,Wizards of the Coast,English
+506,Magic: The Gathering,Explorer Anthology 2,EA2,Box,25,13/12/2022,2022,Wizards of the Coast,English
+507,Magic: The Gathering,Starter Commander Decks,SCD,Commander,352,02/12/2022,2022,Wizards of the Coast,English
+508,Magic: The Gathering,Starter Commander Deck Tokens,TSCD,Token,27,02/12/2022,2022,Wizards of the Coast,English
+509,Magic: The Gathering,Jumpstart 2022,J22,Draft Innovation,835,02/12/2022,2022,Wizards of the Coast,English
+510,Magic: The Gathering,Jumpstart 2022 Front Cards,FJ22,Memorabilia,46,02/12/2022,2022,Wizards of the Coast,English
+511,Magic: The Gathering,30th Anniversary Edition,30A,Memorabilia,594,28/11/2022,2022,Wizards of the Coast,English
+512,Magic: The Gathering,30th Anniversary Play Promos,P30A,Promo,30,28/11/2022,2022,Wizards of the Coast,English
+513,Magic: The Gathering,30th Anniversary Tokens,T30A,Token,16,28/11/2022,2022,Wizards of the Coast,English
+514,Magic: The Gathering,30th Anniversary Celebration Tokyo,P30T,Promo,2,28/11/2022,2022,Wizards of the Coast,English
+515,Magic: The Gathering,30th Anniversary History Promos,P30H,Promo,10,28/11/2022,2022,Wizards of the Coast,English
+516,Magic: The Gathering,30th Anniversary Misc Promos,P30M,Promo,5,28/11/2022,2022,Wizards of the Coast,English
+517,Magic: The Gathering,Eternal Weekend,PEWK,Promo,4,26/11/2022,2022,Wizards of the Coast,English
+518,Magic: The Gathering,The Brothers' War,BRO,Expansion,399,18/11/2022,2022,Wizards of the Coast,English
+519,Magic: The Gathering,The Brothers' War Retro Artifacts,BRR,Masterpiece,189,18/11/2022,2022,Wizards of the Coast,English
+520,Magic: The Gathering,Transformers,BOT,Masterpiece,29,18/11/2022,2022,Wizards of the Coast,English
+521,Magic: The Gathering,Transformers Tokens,TBOT,Token,2,18/11/2022,2022,Wizards of the Coast,English
+522,Magic: The Gathering,The Brothers' War Promos,PBRO,Promo,171,18/11/2022,2022,Wizards of the Coast,English
+523,Magic: The Gathering,The Brothers' War Tokens,TBRO,Token,12,18/11/2022,2022,Wizards of the Coast,English
+524,Magic: The Gathering,The Brothers' War Commander,BRC,Commander,209,18/11/2022,2022,Wizards of the Coast,English
+525,Magic: The Gathering,The Brothers' War Commander Tokens,TBRC,Token,14,18/11/2022,2022,Wizards of the Coast,English
+526,Magic: The Gathering,The Brothers' War Southeast Asia Tokens,PTBRO,Token,3,18/11/2022,2022,Wizards of the Coast,English
+527,Magic: The Gathering,The Brothers' War Jumpstart Front Cards,FBRO,Memorabilia,5,18/11/2022,2022,Wizards of the Coast,English
+528,Magic: The Gathering,The Brothers' War Minigames,MBRO,Memorabilia,3,18/11/2022,2022,Wizards of the Coast,English
+529,Magic: The Gathering,The Brothers' War Substitute Cards,SBRO,Token,1,18/11/2022,2022,Wizards of the Coast,English
+530,Magic: The Gathering,The Brothers' War Art Series,ABRO,Memorabilia,81,18/11/2022,2022,Wizards of the Coast,English
+531,Magic: The Gathering,The List (Unfinity Foil Edition),ULST,Funny,62,07/10/2022,2022,Wizards of the Coast,English
+532,Magic: The Gathering,Game Night: Free-for-All,GN3,Box,135,14/10/2022,2022,Wizards of the Coast,English
+533,Magic: The Gathering,Game Night: Free-for-All Tokens,TGN3,Token,10,14/10/2022,2022,Wizards of the Coast,English
+534,Magic: The Gathering,Unfinity,UNF,Funny,639,07/10/2022,2022,Wizards of the Coast,English
+535,Magic: The Gathering,Unfinity Tokens,TUNF,Token,14,07/10/2022,2022,Wizards of the Coast,English
+536,Magic: The Gathering,Unfinity Sticker Sheets,SUNF,Funny,48,07/10/2022,2022,Wizards of the Coast,English
+537,Magic: The Gathering,"Warhammer 40,000 Commander",40K,Commander,617,07/10/2022,2022,Wizards of the Coast,English
+538,Magic: The Gathering,"Warhammer 40,000 Tokens",T40K,Token,31,07/10/2022,2022,Wizards of the Coast,English
+539,Magic: The Gathering,Regional Championship Qualifiers 2022,PRCQ,Promo,3,01/10/2022,2022,Wizards of the Coast,English
+540,Magic: The Gathering,Dominaria United,DMU,Expansion,453,09/09/2022,2022,Wizards of the Coast,English
+541,Magic: The Gathering,Dominaria United Promos,PDMU,Promo,160,09/09/2022,2022,Wizards of the Coast,English
+542,Magic: The Gathering,Dominaria United Tokens,TDMU,Token,26,09/09/2022,2022,Wizards of the Coast,English
+543,Magic: The Gathering,Dominaria United Southeast Asia Tokens,PTDMU,Token,3,09/09/2022,2022,Wizards of the Coast,English
+544,Magic: The Gathering,Dominaria United Minigames,MDMU,Minigames,3,09/09/2022,2022,Wizards of the Coast,English
+545,Magic: The Gathering,DMU Japanese Promo Tokens,WDMU,Token,5,09/09/2022,2022,Wizards of the Coast,English
+546,Magic: The Gathering,Dominaria United Art Series,ADMU,Memorabilia,81,09/09/2022,2022,Wizards of the Coast,English
+547,Magic: The Gathering,Dominaria United Jumpstart Front Cards,FDMU,Memorabilia,10,09/09/2022,2022,Wizards of the Coast,English
+548,Magic: The Gathering,Dominaria United Commander,DMC,Commander,240,09/09/2022,2022,Wizards of the Coast,English
+549,Magic: The Gathering,Dominaria United Commander Tokens,TDMC,Token,12,09/09/2022,2022,Wizards of the Coast,English
+550,Magic: The Gathering,Summer Vacation Promos 2022,PSVC,Promo,3,08/01/2022,2022,Wizards of the Coast,Japanese
+551,Magic: The Gathering,2021 Heroes of the Realm,PH21,Funny,4,01/08/2022,2022,Wizards of the Coast,English
+552,Magic: The Gathering,Historic Anthology 6,HA6,Box,20,01/08/2022,2022,Wizards of the Coast,English
+553,Magic: The Gathering,Explorer Anthology 1,EA1,Box,20,28/07/2022,2022,Wizards of the Coast,English
+554,Magic: The Gathering,Store Championships,SCH,Promo,26,28/07/2022,2022,Wizards of the Coast,English
+555,Magic: The Gathering,Double Masters 2022,2X2,Masters,579,08/07/2022,2022,Wizards of the Coast,English
+556,Magic: The Gathering,Double Masters 2022 Tokens,T2X2,Token,24,08/07/2022,2022,Wizards of the Coast,English
+557,Magic: The Gathering,Love Your LGS 2022,PLG22,Promo,2,01/07/2022,2022,Wizards of the Coast,English
+558,Magic: The Gathering,Commander Legends: Battle for Baldur's Gate,CLB,Draft Innovation,936,10/06/2022,2022,Wizards of the Coast,English
+559,Magic: The Gathering,Commander Legends: Battle for Baldur's Gate Minigames,MCLB,Minigames,3,10/06/2022,2022,Wizards of the Coast,English
+560,Magic: The Gathering,Battle for Baldur's Gate Promos,PCLB,Promo,104,10/06/2022,2022,Wizards of the Coast,English
+561,Magic: The Gathering,Battle for Baldur's Gate Tokens,TCLB,Token,50,10/06/2022,2022,Wizards of the Coast,English
+562,Magic: The Gathering,Battle for Baldur's Gate Art Series,ACLB,Memorabilia,81,10/06/2022,2022,Wizards of the Coast,English
+563,Magic: The Gathering,Streets of New Capenna,SNC,Expansion,513,29/04/2022,2022,Wizards of the Coast,English
+564,Magic: The Gathering,Streets of New Capenna Promos,PSNC,Promo,161,29/04/2022,2022,Wizards of the Coast,English
+565,Magic: The Gathering,Streets of New Capenna Southeast Asia Tokens,PTSNC,Promo,6,29/04/2022,2022,Wizards of the Coast,English
+566,Magic: The Gathering,Streets of New Capenna Tokens,TSNC,Token,17,29/04/2022,2022,Wizards of the Coast,English
+567,Magic: The Gathering,New Capenna Commander,NCC,Commander,447,29/04/2022,2022,Wizards of the Coast,English
+568,Magic: The Gathering,New Capenna Commander Promos,PNCC,Promo,75,29/04/2022,2022,Wizards of the Coast,English
+569,Magic: The Gathering,New Capenna Commander Tokens,TNCC,Token,36,29/04/2022,2022,Wizards of the Coast,English
+570,Magic: The Gathering,Streets of New Capenna Minigames,MSNC,Minigames,3,29/04/2022,2022,Wizards of the Coast,English
+571,Magic: The Gathering,New Capenna Art Series,ASNC,Memorabilia,81,29/04/2022,2022,Wizards of the Coast,English
+572,Magic: The Gathering,Game Day Promos,GDY,Promo,9,04/04/2022,2022,Wizards of the Coast,English
+573,Magic: The Gathering,Challenger Decks 2022,Q07,Box,1,01/04/2022,2022,Wizards of the Coast,English
+574,Magic: The Gathering,Wizards Play Network 2022,PW22,Promo,6,05/03/2022,2022,Wizards of the Coast,English
+575,Magic: The Gathering,Year of the Tiger 2022,PL22,Promo,5,25/02/2022,2022,Wizards of the Coast,English
+576,Magic: The Gathering,Kamigawa: Neon Dynasty,NEO,Expansion,531,18/02/2022,2022,Wizards of the Coast,English
+577,Magic: The Gathering,Kamigawa: Neon Dynasty Promos,PNEO,Promo,146,18/02/2022,2022,Wizards of the Coast,English
+578,Magic: The Gathering,Kamigawa: Neon Dynasty Substitute Cards,SNEO,Token,9,18/02/2022,2022,Wizards of the Coast,English
+579,Magic: The Gathering,Kamigawa: Neon Dynasty Tokens,TNEO,Token,19,18/02/2022,2022,Wizards of the Coast,English
+580,Magic: The Gathering,Kamigawa: Neon Dynasty Minigames,MNEO,Token,3,18/02/2022,2022,Wizards of the Coast,English
+581,Magic: The Gathering,Neon Dynasty Commander,NEC,Commander,179,18/02/2022,2022,Wizards of the Coast,English
+582,Magic: The Gathering,Neon Dynasty Commander Tokens,TNEC,Token,12,18/02/2022,2022,Wizards of the Coast,English
+583,Magic: The Gathering,Commander Collection: Black,CC2,Arsenal,9,28/01/2022,2022,Wizards of the Coast,English
+584,Magic: The Gathering,Neon Dynasty Art Series,ANEO,Memorabilia,81,18/02/2022,2022,Wizards of the Coast,English
+585,Magic: The Gathering,Innistrad: Double Feature,DBL,Draft Innovation,535,18/01/2022,2022,Wizards of the Coast,English
+586,Magic: The Gathering,Judge Gift Cards 2022,P22,Promo,10,01/01/2022,2022,Wizards of the Coast,English
+587,Magic: The Gathering,Innistrad: Crimson Vow,VOW,Expansion,423,19/11/2021,2021,Wizards of the Coast,English
+588,Magic: The Gathering,Innistrad: Crimson Vow Promos,PVOW,Promo,110,19/11/2021,2021,Wizards of the Coast,English
+589,Magic: The Gathering,Innistrad: Crimson Vow Tokens,TVOW,Token,21,19/11/2021,2021,Wizards of the Coast,English
+590,Magic: The Gathering,Innistrad: Crimson Vow Minigames,MVOW,Token,3,19/11/2021,2021,Wizards of the Coast,English
+591,Magic: The Gathering,Innistrad: Crimson Vow Substitute Cards,SVOW,Token,9,19/11/2021,2021,Wizards of the Coast,English
+592,Magic: The Gathering,Crimson Vow Art Series,AVOW,Memorabilia,81,19/11/2021,2021,Wizards of the Coast,English
+593,Magic: The Gathering,Crimson Vow Commander,VOC,Commander,188,19/11/2021,2021,Wizards of the Coast,English
+594,Magic: The Gathering,Crimson Vow Commander Display Commanders,OVOC,Memorabilia,2,19/11/2021,2021,Wizards of the Coast,English
+595,Magic: The Gathering,Crimson Vow Commander Tokens,TVOC,Token,6,19/11/2021,2021,Wizards of the Coast,English
+596,Magic: The Gathering,Pioneer Challenger Decks 2021,Q06,Box,10,15/10/2021,2021,Wizards of the Coast,English
+597,Magic: The Gathering,Innistrad: Midnight Hunt,MID,Expansion,400,24/09/2021,2021,Wizards of the Coast,English
+598,Magic: The Gathering,Innistrad: Midnight Hunt Promos,PMID,Promo,152,24/09/2021,2021,Wizards of the Coast,English
+599,Magic: The Gathering,Innistrad: Midnight Hunt Tokens,TMID,Token,19,24/09/2021,2021,Wizards of the Coast,English
+600,Magic: The Gathering,Innistrad: Midnight Hunt Substitute Cards,SMID,Token,9,24/09/2021,2021,Wizards of the Coast,English
+601,Magic: The Gathering,Midnight Hunt Art Series,AMID,Memorabilia,81,24/09/2021,2021,Wizards of the Coast,English
+602,Magic: The Gathering,Midnight Hunt Commander,MIC,Commander,187,24/09/2021,2021,Wizards of the Coast,English
+603,Magic: The Gathering,Midnight Hunt Commander Tokens,TMIC,Token,11,24/09/2021,2021,Wizards of the Coast,English
+604,Magic: The Gathering,Midnight Hunt Commander Display Commanders,MMID,Memorabilia,3,24/09/2021,2021,Wizards of the Coast,English
+605,Magic: The Gathering,Innistrad: Midnight Hunt Minigames,SMID,Minigames,9,24/09/2021,2021,Wizards of the Coast,English
+606,Magic: The Gathering,Jumpstart: Historic Horizons,J21,Draft Innovation,389,26/08/2021,2021,Wizards of the Coast,English
+607,Magic: The Gathering,Mystery Booster Playtest Cards 2021,CMB2,Funny,121,20/08/2021,2021,Wizards of the Coast,English
+608,Magic: The Gathering,2020 Heroes of the Realm,PH20,Funny,3,08/01/2021,2021,Wizards of the Coast,English
+609,Magic: The Gathering,Adventures in the Forgotten Realms,AFR,Expansion,424,23/07/2021,2021,Wizards of the Coast,English
+610,Magic: The Gathering,Adventures in the Forgotten Realms Promos,PAFR,Promo,240,23/07/2021,2021,Wizards of the Coast,English
+611,Magic: The Gathering,Adventures in the Forgotten Realms Tokens,TAFR,Token,22,23/07/2021,2021,Wizards of the Coast,English
+612,Magic: The Gathering,Adventures in the Forgotten Realms Commander,AFC,Commander,331,23/07/2021,2021,Wizards of the Coast,English
+613,Magic: The Gathering,Adventures in the Forgotten Realms Commander Tokens,TAFC,Token,13,23/07/2021,2021,Wizards of the Coast,English
+614,Magic: The Gathering,Adventures in the Forgotten Realms Commander Display Commanders,OAFC,Memorabilia,4,23/07/2021,2021,Wizards of the Coast,English
+615,Magic: The Gathering,Adventures in the Forgotten Realms Art Series,AAFR,Memorabilia,81,23/07/2021,2021,Wizards of the Coast,English
+616,Magic: The Gathering,Adventures in the Forgotten Realms Minigames,MAFR,Memorabilia,3,23/07/2021,2021,Wizards of the Coast,English
+617,Magic: The Gathering,Love Your LGS 2021,PLG21,Promo,11,22/06/2021,2021,Wizards of the Coast,English
+618,Magic: The Gathering,Modern Horizons 2,MH2,Draft Innovation,494,18/06/2021,2021,Wizards of the Coast,English
+619,Magic: The Gathering,Modern Horizons 2 Promos,PMH2,Promo,86,18/06/2021,2021,Wizards of the Coast,English
+620,Magic: The Gathering,Modern Horizons 2 Tokens,TMH2,Token,21,18/06/2021,2021,Wizards of the Coast,English
+621,Magic: The Gathering,Modern Horizons 2 Art Series,AMH2,Memorabilia,162,18/06/2021,2021,Wizards of the Coast,English
+622,Magic: The Gathering,Modern Horizons 2 Minigames,MMH2,Minigames,5,18/06/2021,2021,Wizards of the Coast,English
+623,Magic: The Gathering,Modern Horizons 1 Timeshifts,H1R,Draft Innovation,40,18/06/2021,2021,Wizards of the Coast,English
+624,Magic: The Gathering,Wizards Play Network 2021,PW21,Promo,6,18/06/2021,2021,Wizards of the Coast,English
+625,Magic: The Gathering,Historic Anthology 5,HA5,Box,25,27/05/2021,2021,Wizards of the Coast,English
+626,Magic: The Gathering,Commander 2021,C21,Commander,409,23/04/2021,2021,Wizards of the Coast,English
+627,Magic: The Gathering,Commander 2021 Tokens,TC21,Token,30,23/04/2021,2021,Wizards of the Coast,English
+628,Magic: The Gathering,Commander 2021 Display Commanders,OC21,Memorabilia,5,23/04/2021,2021,Wizards of the Coast,English
+629,Magic: The Gathering,Strixhaven: School of Mages,STX,Expansion,393,23/04/2021,2021,Wizards of the Coast,English
+630,Magic: The Gathering,Strixhaven Mystical Archive,STA,Masterpiece,126,23/04/2021,2021,Wizards of the Coast,English
+631,Magic: The Gathering,Strixhaven: School of Mages Promos,PSTX,Promo,164,23/04/2021,2021,Wizards of the Coast,English
+632,Magic: The Gathering,Strixhaven: School of Mages Tokens,TSTX,Token,9,23/04/2021,2021,Wizards of the Coast,English
+633,Magic: The Gathering,Strixhaven: School of Mages Substitute Cards,SSTX,Token,9,23/04/2021,2021,Wizards of the Coast,English
+634,Magic: The Gathering,Strixhaven: School of Mages Minigames,SSTX,Minigames,5,23/04/2021,2021,Wizards of the Coast,English
+635,Magic: The Gathering,Strixhaven Art Series,ASTX,Memorabilia,162,23/04/2021,2021,Wizards of the Coast,English
+636,Magic: The Gathering,Time Spiral Remastered,TSR,Masters,411,19/03/2021,2021,Wizards of the Coast,English
+637,Magic: The Gathering,Time Spiral Remastered Tokens,TTSR,Token,15,19/03/2021,2021,Wizards of the Coast,English
+638,Magic: The Gathering,Historic Anthology 4,HA4,Box,25,11/03/2021,2021,Wizards of the Coast,English
+639,Magic: The Gathering,Kaldheim,KHM,Expansion,426,05/02/2021,2021,Wizards of the Coast,English
+640,Magic: The Gathering,Kaldheim Promos,PKHM,Promo,153,05/02/2021,2021,Wizards of the Coast,English
+641,Magic: The Gathering,Kaldheim Tokens,TKHM,Token,23,05/02/2021,2021,Wizards of the Coast,English
+642,Magic: The Gathering,Kaldheim Minigames,MKHM,Minigames,5,05/02/2021,2021,Wizards of the Coast,English
+643,Magic: The Gathering,Kaldheim Substitute Cards,SKHM,Token,9,05/02/2021,2021,Wizards of the Coast,English
+644,Magic: The Gathering,Kaldheim Art Series,AKHM,Memorabilia,81,05/02/2021,2021,Wizards of the Coast,English
+645,Magic: The Gathering,Kaldheim Commander,KHC,Commander,119,05/02/2021,2021,Wizards of the Coast,English
+646,Magic: The Gathering,Kaldheim Commander Tokens,TKHC,Token,8,05/02/2021,2021,Wizards of the Coast,English
+647,Magic: The Gathering,Year of the Ox 2021,PL21,Promo,6,15/01/2021,2021,Wizards of the Coast,English
+648,Magic: The Gathering,Judge Gift Cards 2021,PJ21,Promo,10,01/01/2021,2021,Wizards of the Coast,English
+649,Magic: The Gathering,Commander Legends,CMR,Draft Innovation,718,20/11/2020,2020,Wizards of the Coast,English
+650,Magic: The Gathering,Commander Legends Promos,PCMR,Promo,6,20/11/2020,2020,Wizards of the Coast,English
+651,Magic: The Gathering,Commander Legends Tokens,TCMR,Token,23,20/11/2020,2020,Wizards of the Coast,English
+652,Magic: The Gathering,Kaladesh Remastered,KLR,Masters,302,12/11/2020,2020,Wizards of the Coast,English
+653,Magic: The Gathering,The List,PLST,Masters,4877,26/09/2020,2020,Wizards of the Coast,English
+654,Magic: The Gathering,Zendikar Rising,ZNR,Expansion,408,25/09/2020,2020,Wizards of the Coast,English
+655,Magic: The Gathering,Zendikar Rising Expeditions,ZNE,Masterpiece,30,25/09/2020,2020,Wizards of the Coast,English
+656,Magic: The Gathering,Zendikar Rising Promos,PZNR,Promo,152,25/09/2020,2020,Wizards of the Coast,English
+657,Magic: The Gathering,Zendikar Rising Tokens,TZNR,Token,12,25/09/2020,2020,Wizards of the Coast,English
+658,Magic: The Gathering,Zendikar Rising Art Series,AZNR,Memorabilia,81,25/09/2020,2020,Wizards of the Coast,English
+659,Magic: The Gathering,Zendikar Rising Commander,ZNC,Commander,142,25/09/2020,2020,Wizards of the Coast,English
+660,Magic: The Gathering,Zendikar Rising Commander Tokens,TZNC,Token,11,25/09/2020,2020,Wizards of the Coast,English
+661,Magic: The Gathering,Zendikar Rising Substitute Cards,SZNR,Token,9,25/09/2020,2020,Wizards of the Coast,English
+662,Magic: The Gathering,Zendikar Rising Minigames,MZNR,Token,5,25/09/2020,2020,Wizards of the Coast,English
+663,Magic: The Gathering,Arena Beginner Set,ANB,Starter,120,13/08/2020,2020,Wizards of the Coast,English
+664,Magic: The Gathering,Amonkhet Remastered,AKR,Masters,339,13/08/2020,2020,Wizards of the Coast,English
+665,Magic: The Gathering,Double Masters,2XM,Masters,384,08/08/2020,2020,Wizards of the Coast,English
+666,Magic: The Gathering,Double Masters Tokens,T2XM,Token,31,08/08/2020,2020,Wizards of the Coast,English
+667,Magic: The Gathering,2019 Heroes of the Realm,PH19,Funny,7,01/08/2020,2020,Wizards of the Coast,English
+668,Magic: The Gathering,Jumpstart,JMP,Draft Innovation,497,17/07/2020,2020,Wizards of the Coast,English
+669,Magic: The Gathering,Jumpstart Arena Exclusives,AJMP,Starter,18,17/07/2020,2020,Wizards of the Coast,English
+670,Magic: The Gathering,Jumpstart Front Cards,FJMP,Memorabilia,46,18/06/2020,2020,Wizards of the Coast,English
+671,Magic: The Gathering,Core Set 2021,M21,Core,397,03/07/2020,2020,Wizards of the Coast,English
+672,Magic: The Gathering,Core Set 2021 Promos,PM21,Promo,136,03/07/2020,2020,Wizards of the Coast,English
+673,Magic: The Gathering,Core Set 2021 Tokens,TM21,Token,20,03/07/2020,2020,Wizards of the Coast,English
+674,Magic: The Gathering,Signature Spellbook: Chandra,SS3,Spellbook,8,26/06/2020,2020,Wizards of the Coast,English
+675,Magic: The Gathering,Historic Anthology 3,HA3,Box,27,21/05/2020,2020,Wizards of the Coast,English
+676,Magic: The Gathering,Love Your LGS 2020,PLG20,Promo,2,18/05/2020,2020,Wizards of the Coast,English
+677,Magic: The Gathering,Ikoria: Lair of Behemoths,IKO,Expansion,390,24/04/2020,2020,Wizards of the Coast,English
+678,Magic: The Gathering,Ikoria: Lair of Behemoths Promos,PIKO,Promo,136,24/04/2020,2020,Wizards of the Coast,English
+679,Magic: The Gathering,Ikoria: Lair of Behemoths Tokens,TIKO,Token,15,24/04/2020,2020,Wizards of the Coast,English
+680,Magic: The Gathering,Commander 2020,C20,Commander,322,17/04/2020,2020,Wizards of the Coast,English
+681,Magic: The Gathering,Commander 2020 Tokens,TC20,Token,21,17/04/2020,2020,Wizards of the Coast,English
+682,Magic: The Gathering,Commander 2020 Oversized,OC20,Memorabilia,5,17/04/2020,2020,Wizards of the Coast,English
+683,Magic: The Gathering,Historic Anthology 2,HA2,Box,25,13/03/2020,2020,Wizards of the Coast,English
+684,Magic: The Gathering,Unsanctioned,UND,Funny,96,29/02/2020,2020,Wizards of the Coast,English
+685,Magic: The Gathering,Unsanctioned Tokens,TUND,Token,6,29/02/2020,2020,Wizards of the Coast,English
+686,Magic: The Gathering,Theros Beyond Death,THB,Expansion,358,24/01/2020,2020,Wizards of the Coast,English
+687,Magic: The Gathering,Theros Beyond Death Promos,PTHB,Promo,136,24/01/2020,2020,Wizards of the Coast,English
+688,Magic: The Gathering,Theros Beyond Death Tokens,TTHB,Token,14,24/01/2020,2020,Wizards of the Coast,English
+689,Magic: The Gathering,MagicFest 2020,PF20,Promo,6,01/01/2020,2020,Wizards of the Coast,English
+690,Magic: The Gathering,Judge Gift Cards 2020,J20,Promo,10,01/01/2020,2020,Wizards of the Coast,English
+691,Magic: The Gathering,Universes Within,SLX,Masters,23,03/03/2020,2020,Wizards of the Coast,English
+692,Magic: The Gathering,Historic Anthology 1,HA1,Box,20,21/11/2019,2019,Wizards of the Coast,English
+693,Magic: The Gathering,Game Night 2019,GN2,Box,64,15/11/2019,2019,Wizards of the Coast,English
+694,Magic: The Gathering,Game Night 2019 Tokens,TGN2,Token,3,15/11/2019,2019,Wizards of the Coast,English
+695,Magic: The Gathering,Mystery Booster Playtest Cards 2019,CMB1,Funny,121,07/11/2019,2019,Wizards of the Coast,English
+696,Magic: The Gathering,Ponies: The Galloping,PTG,Funny,3,22/10/2019,2019,Wizards of the Coast,English
+697,Magic: The Gathering,Throne of Eldraine,ELD,Expansion,399,04/10/2019,2019,Wizards of the Coast,English
+698,Magic: The Gathering,Throne of Eldraine Promos,PELD,Promo,136,04/10/2019,2019,Wizards of the Coast,English
+699,Magic: The Gathering,Throne of Eldraine Tokens,TELD,Token,20,04/09/2019,2019,Wizards of the Coast,English
+700,Magic: The Gathering,Planeswalker Championship Promos,PWCS,Promo,26,01/10/2019,2019,Wizards of the Coast,English
+701,Magic: The Gathering,Commander 2019,C19,Commander,302,23/08/2019,2019,Wizards of the Coast,English
+702,Magic: The Gathering,Commander 2019 Tokens,TC19,Token,29,01/08/2019,2019,Wizards of the Coast,English
+703,Magic: The Gathering,Commander 2019 Oversized,OC19,Memorabilia,4,31/08/2019,2019,Wizards of the Coast,English
+704,Magic: The Gathering,2018 Heroes of the Realm,PH18,Funny,5,01/08/2019,2019,Wizards of the Coast,English
+705,Magic: The Gathering,San Diego Comic-Con 2019,PS19,Promo,5,18/07/2019,2019,Wizards of the Coast,English
+706,Magic: The Gathering,Core Set 2020,M20,Core,345,19/07/2019,2019,Wizards of the Coast,English
+707,Magic: The Gathering,Core Set 2020 Promos,PM20,Promo,143,19/07/2019,2019,Wizards of the Coast,English
+708,Magic: The Gathering,Core Set 2020 Tokens,TM20,Token,12,19/07/2019,2019,Wizards of the Coast,English
+709,Magic: The Gathering,Signature Spellbook: Gideon,SS2,Spellbook,8,28/06/2019,2019,Wizards of the Coast,English
+710,Magic: The Gathering,M20 Promo Packs,PPP1,Promo,5,12/07/2019,2019,Wizards of the Coast,English
+711,Magic: The Gathering,Modern Horizons,MH1,Draft Innovation,255,14/06/2019,2019,Wizards of the Coast,English
+712,Magic: The Gathering,Modern Horizons Promos,PMH1,Promo,2,14/06/2019,2019,Wizards of the Coast,English
+713,Magic: The Gathering,Modern Horizons Tokens,TMH1,Token,21,30/05/2019,2019,Wizards of the Coast,English
+714,Magic: The Gathering,Modern Horizons Art Series,AMH1,Memorabilia,54,05/06/2019,2019,Wizards of the Coast,English
+715,Magic: The Gathering,War of the Spark,WAR,Expansion,312,03/05/2019,2019,Wizards of the Coast,English
+716,Magic: The Gathering,War of the Spark Promos,PWAR,Promo,175,03/05/2019,2019,Wizards of the Coast,English
+717,Magic: The Gathering,War of the Spark Tokens,TWAR,Token,19,03/05/2019,2019,Wizards of the Coast,English
+718,Magic: The Gathering,Judge Gift Cards 2019,J19,Promo,8,10/04/2019,2019,Wizards of the Coast,English
+719,Magic: The Gathering,RNA Guild Kit,GK2,Box,133,15/02/2019,2019,Wizards of the Coast,English
+720,Magic: The Gathering,RNA Guild Kit Tokens,TGK2,Token,9,15/02/2019,2019,Wizards of the Coast,English
+721,Magic: The Gathering,Ravnica Allegiance,RNA,Expansion,273,25/01/2019,2019,Wizards of the Coast,English
+722,Magic: The Gathering,Ravnica Allegiance Promos,PRNA,Promo,80,25/01/2019,2019,Wizards of the Coast,English
+723,Magic: The Gathering,Ravnica Allegiance Tokens,TRNA,Token,13,25/01/2019,2019,Wizards of the Coast,English
+724,Magic: The Gathering,RNA Ravnica Weekend,PRW2,Promo,10,16/02/2019,2019,Wizards of the Coast,English
+725,Magic: The Gathering,MagicFest 2019,PF19,Promo,7,01/01/2019,2019,Wizards of the Coast,English
+726,Magic: The Gathering,Ultimate Masters,UMA,Masters,254,07/12/2018,2018,Wizards of the Coast,English
+727,Magic: The Gathering,Ultimate Box Topper,PUMA,Masterpiece,40,07/12/2018,2018,Wizards of the Coast,English
+728,Magic: The Gathering,Ultimate Masters Tokens,TUMA,Token,16,07/12/2018,2018,Wizards of the Coast,English
+729,Magic: The Gathering,Game Night,GNT,Box,68,16/11/2018,2018,Wizards of the Coast,English
+730,Magic: The Gathering,GRN Guild Kit,GK1,Box,127,01/11/2018,2018,Wizards of the Coast,English
+731,Magic: The Gathering,GRN Guild Kit Tokens,TGK1,Token,10,01/11/2018,2018,Wizards of the Coast,English
+732,Magic: The Gathering,Guilds of Ravnica,GRN,Expansion,273,05/10/2018,2018,Wizards of the Coast,English
+733,Magic: The Gathering,Guilds of Ravnica Promos,PGRN,Promo,83,05/10/2018,2018,Wizards of the Coast,English
+734,Magic: The Gathering,Guilds of Ravnica Tokens,TGRN,Token,8,05/10/2018,2018,Wizards of the Coast,English
+735,Magic: The Gathering,GRN Ravnica Weekend,PRWK,Promo,10,09/11/2018,2018,Wizards of the Coast,English
+736,Magic: The Gathering,Mythic Edition,MED,Masterpiece,24,05/10/2018,2018,Wizards of the Coast,English
+737,Magic: The Gathering,Mythic Edition Tokens,TMED,Token,16,05/10/2018,2018,Wizards of the Coast,English
+738,Magic: The Gathering,Commander 2018,C18,Commander,307,09/08/2018,2018,Wizards of the Coast,English
+739,Magic: The Gathering,Commander 2018 Tokens,TC18,Token,26,09/08/2018,2018,Wizards of the Coast,English
+740,Magic: The Gathering,Commander 2018 Oversized,OC18,Memorabilia,4,09/08/2018,2018,Wizards of the Coast,English
+741,Magic: The Gathering,2017 Heroes of the Realm,PH17,Funny,3,19/07/2018,2018,Wizards of the Coast,English
+742,Magic: The Gathering,San Diego Comic-Con 2018,PS18,Promo,5,14/07/2018,2018,Wizards of the Coast,English
+743,Magic: The Gathering,Arena New Player Experience,ANA,Starter,40,14/07/2018,2018,Wizards of the Coast,English
+744,Magic: The Gathering,Arena New Player Experience Extras,XANA,Memorabilia,20,14/07/2018,2018,Wizards of the Coast,English
+745,Magic: The Gathering,Arena New Player Experience Cards,OANA,Starter,14,14/07/2018,2018,Wizards of the Coast,English
+746,Magic: The Gathering,MTG Arena Promos,PANA,Promo,78,14/07/2018,2018,Wizards of the Coast,English
+747,Magic: The Gathering,Core Set 2019,M19,Core,314,13/07/2018,2018,Wizards of the Coast,English
+748,Magic: The Gathering,Core Set 2019 Promos,PM19,Promo,94,13/07/2018,2018,Wizards of the Coast,English
+749,Magic: The Gathering,Core Set 2019 Tokens,TM19,Token,18,13/07/2018,2018,Wizards of the Coast,English
+750,Magic: The Gathering,M19 Gift Pack,G18,Box,5,16/11/2018,2018,Wizards of the Coast,English
+751,Magic: The Gathering,M19 Standard Showdown,PSS3,Promo,5,13/06/2018,2018,Wizards of the Coast,English
+752,Magic: The Gathering,Global Series Jiang Yanggu & Mu Yanling,GS1,Duel Decks,41,06/06/2018,2018,Wizards of the Coast,English
+753,Magic: The Gathering,Signature Spellbook: Jace,SS1,Spellbook,8,15/06/2018,2018,Wizards of the Coast,English
+754,Magic: The Gathering,Battlebond,BBD,Draft Innovation,256,08/08/2018,2018,Wizards of the Coast,English
+755,Magic: The Gathering,Battlebond Promos,PBBD,Promo,22,08/08/2018,2018,Wizards of the Coast,English
+756,Magic: The Gathering,Battlebond Tokens,TBBD,Token,8,08/08/2018,2018,Wizards of the Coast,English
+757,Magic: The Gathering,Commander Anthology Volume II,CM2,Commander,312,08/08/2018,2018,Wizards of the Coast,English
+758,Magic: The Gathering,Commander Anthology Volume II Tokens,TCM2,Token,19,08/08/2018,2018,Wizards of the Coast,English
+759,Magic: The Gathering,Dominaria,DOM,Expansion,280,27/04/2018,2018,Wizards of the Coast,English
+760,Magic: The Gathering,Dominaria Promos,PDOM,Promo,118,27/04/2018,2018,Wizards of the Coast,English
+761,Magic: The Gathering,Dominaria Tokens,TDOM,Token,16,27/04/2018,2018,Wizards of the Coast,English
+762,Magic: The Gathering,Duel Decks: Elves vs. Inventors,DDU,Duel Decks,76,06/04/2018,2018,Wizards of the Coast,English
+763,Magic: The Gathering,Duel Decks: Elves vs. Inventors Tokens,TDDU,Token,4,06/04/2018,2018,Wizards of the Coast,English
+764,Magic: The Gathering,Masters 25,A25,Masters,249,16/03/2018,2018,Wizards of the Coast,English
+765,Magic: The Gathering,Masters 25 Tokens,TA25,Token,16,16/03/2018,2018,Wizards of the Coast,English
+766,Magic: The Gathering,Lunar New Year 2018,PLNY,Promo,1,16/02/2018,2018,Wizards of the Coast,English
+767,Magic: The Gathering,Nationals Promos,PNAT,Promo,1,25/01/2018,2018,Wizards of the Coast,English
+768,Magic: The Gathering,Rivals of Ixalan,RIX,Expansion,205,19/01/2018,2018,Wizards of the Coast,English
+769,Magic: The Gathering,Rivals of Ixalan Promos,PRIX,Promo,97,19/01/2018,2018,Wizards of the Coast,English
+770,Magic: The Gathering,Rivals of Ixalan Tokens,TRIX,Token,7,19/01/2018,2018,Wizards of the Coast,English
+771,Magic: The Gathering,Judge Gift Cards 2018,J18,Promo,8,01/01/2018,2018,Wizards of the Coast,English
+772,Magic: The Gathering,Friday Night Magic 2017,F17,Promo,12,01/01/2017,2017,Wizards of the Coast,English
+773,Magic: The Gathering,Unstable,UST,Funny,268,08/12/2017,2017,Wizards of the Coast,English
+774,Magic: The Gathering,Unstable Promos,PUST,Promo,1,08/12/2017,2017,Wizards of the Coast,English
+775,Magic: The Gathering,Unstable Tokens,TUST,Token,20,08/12/2017,2017,Wizards of the Coast,English
+776,Magic: The Gathering,From the Vault: Transform,V17,From the Vault,16,24/11/2017,2017,Wizards of the Coast,English
+777,Magic: The Gathering,Explorers of Ixalan,E02,Box,48,24/11/2017,2017,Wizards of the Coast,English
+778,Magic: The Gathering,Iconic Masters,IMA,Masters,249,17/11/2017,2017,Wizards of the Coast,English
+779,Magic: The Gathering,Iconic Masters Tokens,TIMA,Token,7,29/11/2017,2017,Wizards of the Coast,English
+780,Magic: The Gathering,Duel Decks: Merfolk vs. Goblins,DDT,Duel Decks,63,24/10/2017,2017,Wizards of the Coast,English
+781,Magic: The Gathering,Duel Decks: Merfolk vs. Goblins Tokens,TDDT,Token,3,24/10/2017,2017,Wizards of the Coast,English
+782,Magic: The Gathering,2017 Gift Pack,G17,Box,5,20/10/2017,2017,Wizards of the Coast,English
+783,Magic: The Gathering,Ixalan,XLN,Expansion,289,29/09/2017,2017,Wizards of the Coast,English
+784,Magic: The Gathering,Ixalan Promos,PXLN,Promo,120,29/09/2017,2017,Wizards of the Coast,English
+785,Magic: The Gathering,Ixalan Tokens,TXLN,Token,11,29/09/2017,2017,Wizards of the Coast,English
+786,Magic: The Gathering,XLN Treasure Chest,PXTC,Promo,10,24/11/2017,2017,Wizards of the Coast,English
+787,Magic: The Gathering,XLN Standard Showdown,PSS2,Promo,5,29/09/2017,2017,Wizards of the Coast,English
+788,Magic: The Gathering,HasCon 2017,H17,Funny,4,20/09/2017,2017,Wizards of the Coast,English
+789,Magic: The Gathering,2016 Heroes of the Realm,PHTR,Funny,3,20/09/2017,2017,Wizards of the Coast,English
+790,Magic: The Gathering,Commander 2017,C17,Commander,309,25/08/2017,2017,Wizards of the Coast,English
+791,Magic: The Gathering,Commander 2017 Tokens,TC17,Token,11,25/08/2017,2017,Wizards of the Coast,English
+792,Magic: The Gathering,Commander 2017 Oversized,OC17,Memorabilia,4,25/08/2017,2017,Wizards of the Coast,English
+793,Magic: The Gathering,San Diego Comic-Con 2017,PS17,Promo,6,20/07/2017,2017,Wizards of the Coast,English
+794,Magic: The Gathering,Hour of Devastation,HOU,Expansion,209,14/07/2017,2017,Wizards of the Coast,English
+795,Magic: The Gathering,Hour of Devastation Promos,PHOU,Promo,62,14/07/2017,2017,Wizards of the Coast,English
+796,Magic: The Gathering,Hour of Devastation Tokens,THOU,Token,14,14/07/2017,2017,Wizards of the Coast,English
+797,Magic: The Gathering,Archenemy: Nicol Bolas,E01,Archenemy,106,16/06/2017,2017,Wizards of the Coast,English
+798,Magic: The Gathering,Archenemy: Nicol Bolas Tokens,TE01,Token,5,08/09/2017,2017,Wizards of the Coast,English
+799,Magic: The Gathering,Archenemy: Nicol Bolas Schemes,OE01,Archenemy,50,16/06/2017,2017,Wizards of the Coast,English
+800,Magic: The Gathering,Commander Anthology,CMA,Commander,320,09/06/2017,2017,Wizards of the Coast,English
+801,Magic: The Gathering,Commander Anthology Tokens,TCMA,Token,20,09/06/2017,2017,Wizards of the Coast,English
+802,Magic: The Gathering,Amonkhet,AKH,Expansion,287,28/04/2017,2017,Wizards of the Coast,English
+803,Magic: The Gathering,Amonkhet Invocations,MP2,Masterpiece,54,28/04/2017,2017,Wizards of the Coast,English
+804,Magic: The Gathering,Amonkhet Promos,PAKH,Promo,76,28/04/2017,2017,Wizards of the Coast,English
+805,Magic: The Gathering,Amonkhet Tokens,TAKH,Token,27,28/04/2017,2017,Wizards of the Coast,English
+806,Magic: The Gathering,Welcome Deck 2017,W17,Starter,30,15/04/2017,2017,Wizards of the Coast,English
+807,Magic: The Gathering,Duel Decks: Mind vs. Might,DDS,Duel Decks,65,31/03/2017,2017,Wizards of the Coast,English
+808,Magic: The Gathering,Duel Decks: Mind vs. Might Tokens,TDDS,Token,7,31/03/2017,2017,Wizards of the Coast,English
+809,Magic: The Gathering,Modern Masters 2017,MM3,Masters,249,17/03/2017,2017,Wizards of the Coast,English
+810,Magic: The Gathering,Modern Masters 2017 Tokens,TMM3,Token,21,17/03/2017,2017,Wizards of the Coast,English
+811,Magic: The Gathering,Aether Revolt,AER,Expansion,197,20/01/2017,2017,Wizards of the Coast,English
+812,Magic: The Gathering,Aether Revolt Promos,PAER,Promo,65,20/01/2017,2017,Wizards of the Coast,English
+813,Magic: The Gathering,Aether Revolt Tokens,TAER,Token,4,10/01/2017,2017,Wizards of the Coast,English
+814,Magic: The Gathering,League Tokens 2017,L17,Token,1,01/01/2017,2017,Wizards of the Coast,English
+815,Magic: The Gathering,Friday Night Magic 2018,F18,Promo,3,27/12/2017,2017,Wizards of the Coast,English
+816,Magic: The Gathering,Judge Gift Cards 2017,J17,Promo,9,01/01/2017,2017,Wizards of the Coast,English
+817,Magic: The Gathering,Planechase Anthology,PCA,Planechase,156,25/11/2016,2016,Wizards of the Coast,English
+818,Magic: The Gathering,Planechase Anthology Tokens,TPCA,Token,19,25/11/2016,2016,Wizards of the Coast,English
+819,Magic: The Gathering,Planechase Anthology Planes,OPCA,Planechase,86,25/11/2016,2018,Wizards of the Coast,English
+820,Magic: The Gathering,Commander 2016,C16,Commander,351,11/11/2016,2016,Wizards of the Coast,English
+821,Magic: The Gathering,Commander 2016 Tokens,TC16,Token,21,11/11/2016,2016,Wizards of the Coast,English
+822,Magic: The Gathering,Commander 2016 Oversized,OC16,Memorabilia,5,11/11/2016,2016,Wizards of the Coast,English
+823,Magic: The Gathering,San Diego Comic-Con 2016,PS16,Promo,5,01/10/2016,2016,Wizards of the Coast,English
+824,Magic: The Gathering,Kaladesh,KLD,Expansion,278,30/09/2016,2016,Wizards of the Coast,English
+825,Magic: The Gathering,Kaladesh Inventions,MPS,Masterpiece,54,30/09/2016,2016,Wizards of the Coast,English
+826,Magic: The Gathering,Kaladesh Promos,PKLD,Promo,82,30/09/2016,2016,Wizards of the Coast,English
+827,Magic: The Gathering,Kaladesh Tokens,TKLD,Token,13,30/09/2016,2016,Wizards of the Coast,English
+828,Magic: The Gathering,Duel Decks: Nissa vs. Ob Nixilis,DDR,Duel Decks,76,02/09/2016,2016,Wizards of the Coast,English
+829,Magic: The Gathering,Conspiracy: Take the Crown,CN2,Draft Innovation,222,26/08/2016,2016,Wizards of the Coast,English
+830,Magic: The Gathering,Conspiracy: Take the Crown Tokens,TCN2,Token,12,26/08/2016,2016,Wizards of the Coast,English
+831,Magic: The Gathering,From the Vault: Lore,V16,From the Vault,16,19/08/2016,2016,Wizards of the Coast,English
+832,Magic: The Gathering,Eldritch Moon,EMN,Expansion,208,22/07/2016,2016,Wizards of the Coast,English
+833,Magic: The Gathering,Eldritch Moon Promos,PEMN,Promo,76,22/07/2016,2016,Wizards of the Coast,English
+834,Magic: The Gathering,Eldritch Moon Tokens,TEMN,Token,11,22/07/2016,2016,Wizards of the Coast,English
+835,Magic: The Gathering,Eternal Masters,EMA,Masters,249,10/06/2016,2016,Wizards of the Coast,English
+836,Magic: The Gathering,Eternal Masters Tokens,TEMA,Token,16,10/06/2016,2016,Wizards of the Coast,English
+837,Magic: The Gathering,Shadows over Innistrad,SOI,Expansion,302,08/04/2016,2016,Wizards of the Coast,English
+838,Magic: The Gathering,Shadows over Innistrad Promos,PSOI,Promo,90,08/04/2016,2016,Wizards of the Coast,English
+839,Magic: The Gathering,Shadows over Innistrad Tokens,TSOI,Token,20,08/04/2016,2016,Wizards of the Coast,English
+840,Magic: The Gathering,Welcome Deck 2016,W16,Starter,16,08/04/2016,2016,Wizards of the Coast,English
+841,Magic: The Gathering,Duel Decks: Blessed vs. Cursed,DDQ,Duel Decks,80,26/08/2016,2016,Wizards of the Coast,English
+842,Magic: The Gathering,Oath of the Gatewatch,OGW,Expansion,187,22/01/2016,2016,Wizards of the Coast,English
+843,Magic: The Gathering,Oath of the Gatewatch Promos,POGW,Promo,65,22/01/2016,2016,Wizards of the Coast,English
+844,Magic: The Gathering,Oath of the Gatewatch Tokens,TOGW,Token,11,22/01/2016,2016,Wizards of the Coast,English
+845,Magic: The Gathering,League Tokens 2016,L16,Token,1,01/01/2016,2016,Wizards of the Coast,English
+846,Magic: The Gathering,Friday Night Magic 2016,F16,Promo,12,01/01/2016,2016,Wizards of the Coast,English
+847,Magic: The Gathering,Judge Gift Cards 2016,J16,Promo,8,01/01/2016,2016,Wizards of the Coast,English
+848,Magic: The Gathering,Commander 2015,C15,Commander,342,13/11/2015,2015,Wizards of the Coast,English
+849,Magic: The Gathering,Commander 2015 Tokens,TC15,Token,25,13/11/2015,2015,Wizards of the Coast,English
+850,Magic: The Gathering,Commander 2015 Oversized,OC15,Memorabilia,5,13/11/2015,2015,Wizards of the Coast,English
+851,Magic: The Gathering,Battle for Zendikar,BFZ,Expansion,299,02/10/2015,2015,Wizards of the Coast,English
+852,Magic: The Gathering,Zendikar Expeditions,EXP,Masterpiece,45,02/10/2015,2015,Wizards of the Coast,English
+853,Magic: The Gathering,Battle for Zendikar Promos,PBFZ,Promo,90,02/10/2015,2015,Wizards of the Coast,English
+854,Magic: The Gathering,Battle for Zendikar Tokens,TBFZ,Token,14,02/10/2015,2015,Wizards of the Coast,English
+855,Magic: The Gathering,BFZ Standard Series,PSS1,Promo,5,02/10/2015,2015,Wizards of the Coast,English
+856,Magic: The Gathering,Duel Decks: Zendikar vs. Eldrazi,DDP,Duel Decks,80,28/08/2015,2015,Wizards of the Coast,English
+857,Magic: The Gathering,From the Vault: Angels,V15,From the Vault,15,21/08/2015,2015,Wizards of the Coast,English
+858,Magic: The Gathering,Magic Origins,ORI,Core,288,17/07/2015,2015,Wizards of the Coast,English
+859,Magic: The Gathering,Magic Origins Promos,PORI,Promo,53,17/07/2015,2015,Wizards of the Coast,English
+860,Magic: The Gathering,Magic Origins Tokens,TORI,Token,15,17/07/2015,2015,Wizards of the Coast,English
+861,Magic: The Gathering,Magic Origins Clash Pack,CP3,Starter,6,17/07/2015,2015,Wizards of the Coast,English
+862,Magic: The Gathering,San Diego Comic-Con 2015,PS15,Promo,5,09/07/2015,2015,Wizards of the Coast,English
+863,Magic: The Gathering,Modern Masters 2015,MM2,Masters,249,22/05/2015,2015,Wizards of the Coast,English
+864,Magic: The Gathering,Modern Masters 2015 Tokens,TMM2,Token,16,22/05/2015,2015,Wizards of the Coast,English
+865,Magic: The Gathering,Tempest Remastered,TPR,Masters,269,06/05/2015,2015,Wizards of the Coast,English
+866,Magic: The Gathering,Dragons of Tarkir,DTK,Expansion,264,27/03/2015,2015,Wizards of the Coast,English
+867,Magic: The Gathering,Dragons of Tarkir Promos,PDTK,Promo,51,27/03/2015,2015,Wizards of the Coast,English
+868,Magic: The Gathering,Dragons of Tarkir Tokens,TDTK,Token,8,27/03/2015,2015,Wizards of the Coast,English
+869,Magic: The Gathering,Tarkir Dragonfury,PTKDF,Promo,4,03/04/2015,2015,Wizards of the Coast,English
+870,Magic: The Gathering,Duel Decks: Elspeth vs. Kiora,DDO,Duel Decks,67,27/02/2015,2015,Wizards of the Coast,English
+871,Magic: The Gathering,Fate Reforged,FRF,Expansion,191,23/01/2015,2015,Wizards of the Coast,English
+872,Magic: The Gathering,Fate Reforged Promos,PFRF,Promo,42,23/01/2015,2015,Wizards of the Coast,English
+873,Magic: The Gathering,Fate Reforged Tokens,TFRF,Token,4,23/01/2015,2015,Wizards of the Coast,English
+874,Magic: The Gathering,Fate Reforged Clash Pack,CP2,Starter,6,23/01/2015,2015,Wizards of the Coast,English
+875,Magic: The Gathering,Ugin's Fate,UGIN,Promo,26,17/01/2015,2015,Wizards of the Coast,English
+876,Magic: The Gathering,League Tokens 2015,L15,Token,1,01/01/2015,2015,Wizards of the Coast,English
+877,Magic: The Gathering,Judge Gift Cards 2015,J15,Promo,8,01/01/2015,2015,Wizards of the Coast,English
+878,Magic: The Gathering,Friday Night Magic 2015,F15,Promo,12,01/01/2015,2015,Wizards of the Coast,English
+879,Magic: The Gathering,Duel Decks Anthology: Jace vs. Chandra,JVC,Duel Decks,62,05/12/2014,2014,Wizards of the Coast,English
+880,Magic: The Gathering,Duel Decks Anthology: Jace vs. Chandra Tokens,TJVC,Token,1,05/12/2014,2014,Wizards of the Coast,English
+881,Magic: The Gathering,Duel Decks Anthology: Divine vs. Demonic,DVD,Duel Decks,62,05/12/2014,2014,Wizards of the Coast,English
+882,Magic: The Gathering,Duel Decks Anthology: Divine vs. Demonic Tokens,TDVD,Token,3,05/12/2014,2014,Wizards of the Coast,English
+883,Magic: The Gathering,Duel Decks Anthology: Elves vs. Goblins,EVG,Duel Decks,62,05/12/2014,2014,Wizards of the Coast,English
+884,Magic: The Gathering,Duel Decks Anthology: Elves vs. Goblins Tokens,TEVG,Token,3,05/12/2014,2014,Wizards of the Coast,English
+885,Magic: The Gathering,Duel Decks Anthology: Garruk vs. Liliana,GVL,Duel Decks,63,05/12/2014,2014,Wizards of the Coast,English
+886,Magic: The Gathering,Duel Decks Anthology: Garruk vs. Liliana Tokens,TGVL,Token,4,05/12/2014,2014,Wizards of the Coast,English
+887,Magic: The Gathering,Commander 2014,C14,Commander,337,07/11/2014,2014,Wizards of the Coast,English
+888,Magic: The Gathering,Commander 2014 Tokens,TC14,Token,36,07/11/2014,2014,Wizards of the Coast,English
+889,Magic: The Gathering,Commander 2014 Oversized,OC14,Memorabilia,5,07/11/2014,2014,Wizards of the Coast,English
+890,Magic: The Gathering,Khans of Tarkir,KTK,Expansion,293,26/09/2014,2014,Wizards of the Coast,English
+891,Magic: The Gathering,Khans of Tarkir Promos,PKTK,Promo,56,26/09/2014,2014,Wizards of the Coast,English
+892,Magic: The Gathering,Khans of Tarkir Tokens,TKTK,Token,13,26/09/2014,2014,Wizards of the Coast,English
+893,Magic: The Gathering,Duel Decks: Speed vs. Cunning,DDN,Duel Decks,82,05/09/2014,2014,Wizards of the Coast,English
+894,Magic: The Gathering,From the Vault: Annihilation,V14,From the Vault,15,22/08/2014,2014,Wizards of the Coast,English
+895,Magic: The Gathering,Magic 2015,M15,Core,284,18/07/2014,2014,Wizards of the Coast,English
+896,Magic: The Gathering,Magic 2015 Promos,PM15,Promo,13,17/07/2014,2014,Wizards of the Coast,English
+897,Magic: The Gathering,Magic 2015 Tokens,M15,Token,14,18/07/2014,2014,Wizards of the Coast,English
+898,Magic: The Gathering,Magic 2015 Clash Pack,CP1,Starter,6,18/07/2014,2014,Wizards of the Coast,English
+899,Magic: The Gathering,M15 Prerelease Challenge,PPC1,Memorabilia,2,12/07/2014,2014,Wizards of the Coast,English
+900,Magic: The Gathering,Duels of the Planeswalkers 2015 Promos,PDP15,Promo,2,09/07/2014,2014,Wizards of the Coast,English
+901,Magic: The Gathering,San Diego Comic-Con 2014,PS14,Promo,6,09/07/2014,2014,Wizards of the Coast,English
+902,Magic: The Gathering,Vintage Masters,VMA,Masters,325,06/06/2014,2014,Wizards of the Coast,English
+903,Magic: The Gathering,Conspiracy,CNS,Draft Innovation,210,06/06/2014,2014,Wizards of the Coast,English
+904,Magic: The Gathering,Conspiracy Promos,PCNS,Promo,1,06/06/2014,2014,Wizards of the Coast,English
+905,Magic: The Gathering,Conspiracy Tokens,TCNS,Token,9,06/06/2014,2014,Wizards of the Coast,English
+906,Magic: The Gathering,Modern Event Deck 2014,MD1,Box,26,30/05/2014,2014,Wizards of the Coast,English
+907,Magic: The Gathering,Modern Event Deck 2014 Tokens,TMD1,Token,4,30/05/2014,2014,Wizards of the Coast,English
+908,Magic: The Gathering,Journey into Nyx,JOU,Expansion,165,02/05/2014,2014,Wizards of the Coast,English
+909,Magic: The Gathering,Journey into Nyx Promos,PJOU,Promo,10,26/04/2014,2014,Wizards of the Coast,English
+910,Magic: The Gathering,Journey into Nyx Tokens,TJOU,Token,6,02/05/2014,2014,Wizards of the Coast,English
+911,Magic: The Gathering,Defeat a God,TDAG,Token,15,25/05/2014,2014,Wizards of the Coast,English
+912,Magic: The Gathering,Journey into Nyx Hero's Path,THP3,Memorabilia,8,02/05/2014,2014,Wizards of the Coast,English
+913,Magic: The Gathering,Duel Decks: Jace vs. Vraska,DDM,Duel Decks,88,14/03/2014,2014,Wizards of the Coast,English
+914,Magic: The Gathering,Duel Decks: Jace vs. Vraska Tokens,TDDM,Token,1,14/03/2014,2014,Wizards of the Coast,English
+915,Magic: The Gathering,Born of the Gods,BNG,Expansion,165,07/02/2014,2014,Wizards of the Coast,English
+916,Magic: The Gathering,Born of the Gods Promos,PBNG,Promo,9,01/02/2014,2014,Wizards of the Coast,English

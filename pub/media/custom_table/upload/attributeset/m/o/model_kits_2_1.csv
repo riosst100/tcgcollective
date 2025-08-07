@@ -1,0 +1,46 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Model Kits  Vehicles,Vehicles,,,,Model Kits | Vehicles
+Model Kits  Vehicles,,model_kits_categories,Vehicles,1,Model Kits | Vehicles
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,Road Cars,2,Model Kits | Vehicles | Brands | Road Cars
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,Formula Racing,2,Model Kits | Vehicles | Brands | Formula Racing
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,Motorsports,2,Model Kits | Vehicles | Brands | Motorsports
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,Bikes,2,Model Kits | Vehicles | Brands | Bikes
+Model Kits  Vehicles | Brands,,model_kits_bikes_categories,Road Bikes,3,Model Kits | Vehicles | Brands | Bikes | Road Bikes
+Model Kits  Vehicles | Brands,,model_kits_bikes_categories,Racing Bikes,3,Model Kits | Vehicles | Brands | Bikes | Racing Bikes
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,Emergency Services,2,Model Kits | Vehicles | Brands | Emergency Services
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,Heavy Machinery,2,Model Kits | Vehicles | Brands | Heavy Machinery
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,Transport Vehicles,2,Model Kits | Vehicles | Brands | Transport Vehicles
+Model Kits  Vehicles | Brands,,model_kits_vehicles_categories,TV/Movies Vehicles,2,Model Kits | Vehicles | Brands | TV/Movies Vehicles
+Model Kits Aircarfts,Aircrafts,,,,Model Kits | Aircrafts
+Model Kits Aircrafts,,model_kits_categories,Aircrafts,1,Model Kits | Aircrafts
+Model Kits Aircrafts | Brands,,model_kits_aircrafts_categories,Aircrafts,2,Model Kits | Aircrafts | Brands | Aircrafts
+Model Kits Aircrafts | Brands,,model_kits_aircrafts_categories,Helicopters,2,Model Kits | Aircrafts | Brands | Helicopters
+Model Kits Military,Military,,,,Model Kits | Military
+Model Kits Military,,model_kits_categories,Military,1,Model Kits | Military
+Model Kits Military | Brands,,model_kits_military_vehicles_categories,Military Aircrafts,2,Model Kits | Military | Brands | Military Aircrafts
+Model Kits Military | Brands,,model_kits_military_vehicles_categories,Military Helicopters,2,Model Kits | Military | Brands | Military Helicopters
+Model Kits Military | Brands,,model_kits_military_vehicles_categories,Military Vehicles,2,Model Kits | Military | Brands | Military Vehicles
+Model Kits Military | Brands,,model_kits_military_vehicles_categories,Military Tanks,2,Model Kits | Military | Brands | Military Tanks
+Model Kits Military | Brands,,model_kits_military_vehicles_categories,Military Ships,2,Model Kits | Military | Brands | Military Ships
+Model Kits Military | Brands,,model_kits_military_vehicles_categories,Military Artillery,2,Model Kits | Military | Brands | Military Artillery
+Model Kits Military | Brands,,model_kits_military_vehicles_categories,Military Submarines,2,Model Kits | Military | Brands | Military Submarines
+Model Kits  Vehicles | Hasegawa,,diecast_model_kits_brand,Hasegawa,1,Model Kits | Hasegawa
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,Road Cars,2,Model Kits | Vehicles | Hasegawa | Road Cars
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,Formula Racing,2,Model Kits | Vehicles | Hasegawa | Formula Racing
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,Motorsports,2,Model Kits | Vehicles | Hasegawa | Motorsports
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,Bikes,2,Model Kits | Vehicles | Hasegawa | Bikes
+Model Kits  Vehicles | Hasegawa,,model_kits_bikes_categories,Road Bikes,3,Model Kits | Vehicles | Hasegawa | Bikes | Road Bikes
+Model Kits  Vehicles | Hasegawa,,model_kits_bikes_categories,Racing Bikes,3,Model Kits | Vehicles | Hasegawa | Bikes | Racing Bikes
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,Emergency Services,2,Model Kits | Vehicles | Hasegawa | Emergency Services
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,Heavy Machinery,2,Model Kits | Vehicles | Hasegawa | Heavy Machinery
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,Transport Vehicles,2,Model Kits | Vehicles | Hasegawa | Transport Vehicles
+Model Kits  Vehicles | Hasegawa,,model_kits_vehicles_categories,TV/Movies Vehicles,2,Model Kits | Vehicles | Hasegawa | TV/Movies Vehicles
+Model Kits Aircrafts | Hasegawa,,model_kits_aircrafts_categories,Aircrafts,2,Model Kits | Aircrafts | Hasegawa | Aircrafts
+Model Kits Aircrafts | Hasegawa,,model_kits_aircrafts_categories,Helicopters,2,Model Kits | Aircrafts | Hasegawa | Helicopters
+Model Kits Military | Hasegawa,,model_kits_military_vehicles_categories,Military Aircrafts,2,Model Kits | Military | Hasegawa | Military Aircrafts
+Model Kits Military | Hasegawa,,model_kits_military_vehicles_categories,Military Helicopters,2,Model Kits | Military | Hasegawa | Military Helicopters
+Model Kits Military | Hasegawa,,model_kits_military_vehicles_categories,Military Vehicles,2,Model Kits | Military | Hasegawa | Military Vehicles
+Model Kits Military | Hasegawa,,model_kits_military_vehicles_categories,Military Tanks,2,Model Kits | Military | Hasegawa | Military Tanks
+Model Kits Military | Hasegawa,,model_kits_military_vehicles_categories,Military Ships,2,Model Kits | Military | Hasegawa | Military Ships
+Model Kits Military | Hasegawa,,model_kits_military_vehicles_categories,Military Artillery,2,Model Kits | Military | Hasegawa | Military Artillery
+Model Kits Military | Hasegawa,,model_kits_military_vehicles_categories,Military Submarines,2,Model Kits | Military | Hasegawa | Military Submarines

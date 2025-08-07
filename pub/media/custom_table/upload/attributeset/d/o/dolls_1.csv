@@ -1,0 +1,27 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Dolls,Dolls,,,,Dolls
+Dolls,Dolls | Fashion Dolls,,,,Dolls
+Dolls,Dolls | Supplies & Accessories,,,,Dolls
+Dolls,,dolls_categories,Dolls,,Dolls
+Dolls | Fashion Dolls,,dolls_categories,Fashion Dolls,1,Dolls | Fashion Dolls
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Complete Dolls,2,Dolls | Fashion Dolls | Complete Dolls
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Doll Parts,2,Dolls | Fashion Dolls | Doll Parts
+Dolls | Fashion Dolls,,dolls_parts_categories,Body,3,Dolls | Fashion Dolls | Doll Parts | Body
+Dolls | Fashion Dolls,,dolls_parts_categories,Head,3,Dolls | Fashion Dolls | Doll Parts | Head
+Dolls | Fashion Dolls,,dolls_parts_categories,Face,3,Dolls | Fashion Dolls | Doll Parts | Face
+Dolls | Fashion Dolls,,dolls_parts_categories,Hands,3,Dolls | Fashion Dolls | Doll Parts | Hands
+Dolls | Fashion Dolls,,dolls_parts_categories,Feet,3,Dolls | Fashion Dolls | Doll Parts | Feet
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Eyes,2,Dolls | Fashion Dolls | Eyes
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Fashion,2,Dolls | Fashion Dolls | Fashion
+Dolls | Fashion Dolls,,dolls_fashion_categories,Clothes,3,Dolls | Fashion Dolls | Fashion | Clothes
+Dolls | Fashion Dolls,,dolls_fashion_categories,Underwear,3,Dolls | Fashion Dolls | Fashion | Underwear
+Dolls | Fashion Dolls,,dolls_fashion_categories,Shoes,3,Dolls | Fashion Dolls | Fashion | Shoes
+Dolls | Fashion Dolls,,dolls_fashion_categories,Socks,3,Dolls | Fashion Dolls | Fashion | Socks
+Dolls | Fashion Dolls,,dolls_fashion_dolls_categories,Wigs & Hair,2,Dolls | Fashion Dolls | Wigs & Hair 
+Dolls | Fashion Dolls,,dolls_categories,Accessories,1,Dolls | Accessories
+Dolls | Accessories,,dolls_accessories_categories,Make Up,2,Dolls | Accessories | Make Up
+Dolls | Accessories,,dolls_accessories_categories,Eyelashes,2,Dolls | Accessories | Eyelash
+Dolls | Accessories,,dolls_accessories_categories,Jewellery,2,Dolls | Accessories | Jewellery
+Dolls | Accessories,,dolls_accessories_categories,Doll Stands,2,Dolls | Accessories | Doll Stands
+Dolls | Accessories,,dolls_accessories_categories,Carry Cases,2,Dolls | Accessories | Carry Cases
+Dolls | Accessories,,dolls_accessories_categories,Furniture,2,Dolls | Accessories | Furniture

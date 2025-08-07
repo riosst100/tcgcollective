@@ -1,0 +1,6 @@
+group,category,attribute_code,attribute_option,target_attribute_code,target_attribute_options,priority
+Anime,Anime,,,toys_brands,Bandai|Good Smile Company|KOTOBUKIYA|Medicom Toy|MegaHouse,
+Anime,Anime,,,toys_product_line,S.H.Figuarts|Q posket|Nendoroid|Figma|Pop Up Parade,
+Anime,Anime,,,toys_franchise,One Piece|Naruto|Dragon Ball|Jujutsu Kaisen|Gundam,
+Anime,Anime,,,toys_character,Naruto Uzumaki|Monkey D. Luffy|Satoru Gojo|Sasuke Uchiha|Sanji|Ryomen Sukuna,
+Anime,Anime,,,toys_scale,1:1 Scale|1:10 Scale,

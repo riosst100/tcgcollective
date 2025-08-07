@@ -1,0 +1,8 @@
+group,category,attribute_code,attribute_option,target_attribute_set,priority
+Games,Collectible Card Games,,,Collectible Card Games,
+Magic: The Gathering,,card_product_line,Magic: The Gathering,Magic: The Gathering,1
+Magic: The Gathering,,card_product_type,Cards,Magic: The Gathering | Cards,2
+Magic: The Gathering,,card_product_type,Sealed Products,Magic: The Gathering | Sealed Products,2
+Pokemon,,card_product_line,Pokemon,Pokemon,1
+Pokemon,,card_product_type,Cards,Pokemon | Cards,2
+Pokemon,,card_product_type,Sealed Products,Pokemon | Sealed Products,2

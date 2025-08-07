@@ -1,0 +1,22 @@
+<IfModule mod_headers.c>
+    # Add a custom header to image file responses
+    <FilesMatch "\.(png|jpe?g|gif|avif)$">
+        Header set X-Test "true"
+    </FilesMatch>
+</IfModule>
+
+# Enable AVIF MIME type
+AddType image/avif .avif
+
+# Enable rewrite engine
+RewriteEngine On
+
+# Only rewrite if browser supports AVIF
+#RewriteCond %{HTTP_ACCEPT} image/avif
+
+# Only target requests for .png, .jpg, .jpeg, .gif
+RewriteCond %{REQUEST_URI} \.(png|jpe?g|gif)$
+
+# Rewrite to the .avif file
+RewriteRule ^(.*)\.(png|jpe?g|gif)$ /media/wysiwyg/$1.$2.avif [T=image/avif,L]
+

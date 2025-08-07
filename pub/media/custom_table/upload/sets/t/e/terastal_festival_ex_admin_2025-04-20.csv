@@ -1,0 +1,238 @@
+﻿entity_id,card_game,images,card_set,card_set_jp,card_set_abbreviation,card_name,card_name_jp,card_rarity,language,card_feature,card_manufacturer,card_number,release_date,release_year,card_energy_type,card_hp,card_stage,print_version,card_series
+9654,Pokemon,sv8a-jp-001-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Budew,スボミー,,Japanese,,Nintendo,1,6/12/24,2024,Grass,30,,Unlimited,Scarlet & Violet Era
+9655,Pokemon,sv8a-jp-002-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Leafeon,リーフィア,,Japanese,,Nintendo,2,6/12/24,2024,Grass,120,,Unlimited,Scarlet & Violet Era
+9656,Pokemon,sv8a-jp-003-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Leafeon ex,リーフィアex,Double Rare,Japanese,,Nintendo,3,6/12/24,2024,Grass,270,,Unlimited,Scarlet & Violet Era
+9657,Pokemon,sv8a-jp-004-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Cottonee,モンメン,,Japanese,,Nintendo,4,6/12/24,2024,Grass,60,,Unlimited,Scarlet & Violet Era
+9658,Pokemon,sv8a-jp-005-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Whimsicott,エルフーン,,Japanese,,Nintendo,5,6/12/24,2024,Grass,100,,Unlimited,Scarlet & Violet Era
+9659,Pokemon,sv8a-jp-006-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Grookey,サルノリ,,Japanese,,Nintendo,6,6/12/24,2024,Grass,70,,Unlimited,Scarlet & Violet Era
+9660,Pokemon,sv8a-jp-007-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Thwackey,バチンキー,,Japanese,,Nintendo,7,6/12/24,2024,Grass,100,,Unlimited,Scarlet & Violet Era
+9661,Pokemon,sv8a-jp-008-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Applin,カジッチュ,,Japanese,,Nintendo,8,6/12/24,2024,Grass,40,,Unlimited,Scarlet & Violet Era
+9662,Pokemon,sv8a-jp-009-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dipplin,カミッチュ,,Japanese,,Nintendo,9,6/12/24,2024,Grass,90,,Unlimited,Scarlet & Violet Era
+9663,Pokemon,sv8a-jp-010-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Hydrapple ex,カミツオロチex,Double Rare,Japanese,,Nintendo,10,6/12/24,2024,Grass,330,,Unlimited,Scarlet & Violet Era
+9664,Pokemon,sv8a-jp-011-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Bramblin,アノクサ,,Japanese,,Nintendo,11,6/12/24,2024,Grass,50,,Unlimited,Scarlet & Violet Era
+9665,Pokemon,sv8a-jp-012-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Brambleghast,アノホラグサ,,Japanese,,Nintendo,12,6/12/24,2024,Grass,100,,Unlimited,Scarlet & Violet Era
+9666,Pokemon,sv8a-jp-013-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Rellor,シガロコ,,Japanese,,Nintendo,13,6/12/24,2024,Grass,50,,Unlimited,Scarlet & Violet Era
+9667,Pokemon,sv8a-jp-014-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Rabsca,ベラカス,,Japanese,,Nintendo,14,6/12/24,2024,Grass,70,,Unlimited,Scarlet & Violet Era
+9668,Pokemon,sv8a-jp-015-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Wo-Chien,チオンジェン,,Japanese,,Nintendo,15,6/12/24,2024,Grass,130,,Unlimited,Scarlet & Violet Era
+9669,Pokemon,sv8a-jp-016-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Leaves ex,テツノイサハex,Double Rare,Japanese,,Nintendo,16,6/12/24,2024,Grass,220,,Unlimited,Scarlet & Violet Era
+9670,Pokemon,sv8a-jp-017-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Poltchageist,チャデス,,Japanese,,Nintendo,17,6/12/24,2024,Grass,30,,Unlimited,Scarlet & Violet Era
+9671,Pokemon,sv8a-jp-018-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sinistcha,ヤバソチャ,,Japanese,,Nintendo,18,6/12/24,2024,Grass,70,,Unlimited,Scarlet & Violet Era
+9672,Pokemon,sv8a-jp-019-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sinistcha ex,ヤバソチャex,Double Rare,Japanese,,Nintendo,19,6/12/24,2024,Grass,240,,Unlimited,Scarlet & Violet Era
+9673,Pokemon,sv8a-jp-020-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Teal Mask Ogerpon ex,オーガポン みどりのめんex,Double Rare,Japanese,,Nintendo,20,6/12/24,2024,Grass,210,,Unlimited,Scarlet & Violet Era
+9674,Pokemon,sv8a-jp-021-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Flareon,ブースター,,Japanese,,Nintendo,21,6/12/24,2024,Fire,130,,Unlimited,Scarlet & Violet Era
+9675,Pokemon,sv8a-jp-022-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Flareon ex,ブースターex,Double Rare,Japanese,,Nintendo,22,6/12/24,2024,Fire,270,,Unlimited,Scarlet & Violet Era
+9676,Pokemon,sv8a-jp-023-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Charcadet,カルボウ,,Japanese,,Nintendo,23,6/12/24,2024,Fire,70,,Unlimited,Scarlet & Violet Era
+9677,Pokemon,sv8a-jp-024-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Moth,テツノドクガ,,Japanese,,Nintendo,24,6/12/24,2024,Fire,130,,Unlimited,Scarlet & Violet Era
+9678,Pokemon,sv8a-jp-025-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Chi-Yu,イーユイ,,Japanese,,Nintendo,25,6/12/24,2024,Fire,110,,Unlimited,Scarlet & Violet Era
+9679,Pokemon,sv8a-jp-026-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Hearthflame Mask Ogerpon ex,オーガポン かまどのめんex,Double Rare,Japanese,,Nintendo,26,6/12/24,2024,Fire,210,,Unlimited,Scarlet & Violet Era
+9680,Pokemon,sv8a-jp-027-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Gouging Fire ex,ウガツホムラex,Double Rare,Japanese,,Nintendo,27,6/12/24,2024,Fire,230,,Unlimited,Scarlet & Violet Era
+9681,Pokemon,sv8a-jp-028-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Goldeen,トサキント,,Japanese,,Nintendo,28,6/12/24,2024,Water,50,,Unlimited,Scarlet & Violet Era
+9682,Pokemon,sv8a-jp-029-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Seaking,アズマオウ,,Japanese,,Nintendo,29,6/12/24,2024,Water,110,,Unlimited,Scarlet & Violet Era
+9683,Pokemon,sv8a-jp-030-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Vaporeon,シャワーズ,,Japanese,,Nintendo,30,6/12/24,2024,Water,130,,Unlimited,Scarlet & Violet Era
+9684,Pokemon,sv8a-jp-031-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Vaporeon ex,シャワーズex,Double Rare,Japanese,,Nintendo,31,6/12/24,2024,Water,280,,Unlimited,Scarlet & Violet Era
+9685,Pokemon,sv8a-jp-032-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Totodile,ワニノコ,,Japanese,,Nintendo,32,6/12/24,2024,Water,70,,Unlimited,Scarlet & Violet Era
+9686,Pokemon,sv8a-jp-033-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Croconaw,アリゲイツ,,Japanese,,Nintendo,33,6/12/24,2024,Water,90,,Unlimited,Scarlet & Violet Era
+9687,Pokemon,sv8a-jp-034-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Feraligatr,オーダイル,,Japanese,,Nintendo,34,6/12/24,2024,Water,180,,Unlimited,Scarlet & Violet Era
+9688,Pokemon,sv8a-jp-035-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Feebas,ヒンバス,,Japanese,,Nintendo,35,6/12/24,2024,Water,30,,Unlimited,Scarlet & Violet Era
+9689,Pokemon,sv8a-jp-036-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Milotic,ミロカロス,,Japanese,,Nintendo,36,6/12/24,2024,Water,120,,Unlimited,Scarlet & Violet Era
+9690,Pokemon,sv8a-jp-037-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Snorunt,ユキワラシ,,Japanese,,Nintendo,37,6/12/24,2024,Water,60,,Unlimited,Scarlet & Violet Era
+9691,Pokemon,sv8a-jp-038-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Froslass,ユキメノコ,,Japanese,,Nintendo,38,6/12/24,2024,Water,90,,Unlimited,Scarlet & Violet Era
+9692,Pokemon,sv8a-jp-039-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Garchomp ex,ガブリアスex,Double Rare,Japanese,,Nintendo,39,6/12/24,2024,Water,320,,Unlimited,Scarlet & Violet Era
+9693,Pokemon,sv8a-jp-040-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Glaceon,グレイシア,,Japanese,,Nintendo,40,6/12/24,2024,Water,120,,Unlimited,Scarlet & Violet Era
+9694,Pokemon,sv8a-jp-041-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Glaceon ex,グレイシアex,Double Rare,Japanese,,Nintendo,41,6/12/24,2024,Water,270,,Unlimited,Scarlet & Violet Era
+9695,Pokemon,sv8a-jp-042-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Wiglett,ウミディグダ,,Japanese,,Nintendo,42,6/12/24,2024,Water,60,,Unlimited,Scarlet & Violet Era
+9696,Pokemon,sv8a-jp-043-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Wugtrio,ウミトリオ,,Japanese,,Nintendo,43,6/12/24,2024,Water,90,,Unlimited,Scarlet & Violet Era
+9697,Pokemon,sv8a-jp-044-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Finizen,ナミイルカ,,Japanese,,Nintendo,44,6/12/24,2024,Water,70,,Unlimited,Scarlet & Violet Era
+9698,Pokemon,sv8a-jp-045-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Palafin,イルカマン,,Japanese,,Nintendo,45,6/12/24,2024,Water,100,,Unlimited,Scarlet & Violet Era
+9699,Pokemon,sv8a-jp-046-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Palafin ex,イルカマンex,Double Rare,Japanese,,Nintendo,46,6/12/24,2024,Water,340,,Unlimited,Scarlet & Violet Era
+9700,Pokemon,sv8a-jp-047-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Bundle,テツノツツミ,,Japanese,,Nintendo,47,6/12/24,2024,Water,100,,Unlimited,Scarlet & Violet Era
+9701,Pokemon,sv8a-jp-048-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Chien-Pao,パオジアン,,Japanese,,Nintendo,48,6/12/24,2024,Water,120,,Unlimited,Scarlet & Violet Era
+9702,Pokemon,sv8a-jp-049-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Walking Wake ex,ウネルミナモex,Double Rare,Japanese,,Nintendo,49,6/12/24,2024,Water,220,,Unlimited,Scarlet & Violet Era
+9703,Pokemon,sv8a-jp-050-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Wellspring Mask Ogerpon ex,オーガポン いどのめんex,Double Rare,Japanese,,Nintendo,50,6/12/24,2024,Water,210,,Unlimited,Scarlet & Violet Era
+9704,Pokemon,sv8a-jp-051-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Jolteon,サンダース,,Japanese,,Nintendo,51,6/12/24,2024,Lightning,110,,Unlimited,Scarlet & Violet Era
+9705,Pokemon,sv8a-jp-052-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Jolteon ex,サンダースex,Double Rare,Japanese,,Nintendo,52,6/12/24,2024,Lightning,260,,Unlimited,Scarlet & Violet Era
+9706,Pokemon,sv8a-jp-053-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Zeraora,ゼラオラ,,Japanese,,Nintendo,53,6/12/24,2024,Lightning,120,,Unlimited,Scarlet & Violet Era
+9707,Pokemon,sv8a-jp-054-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Hands ex,テツノカイナex,Double Rare,Japanese,,Nintendo,54,6/12/24,2024,Lightning,230,,Unlimited,Scarlet & Violet Era
+9708,Pokemon,sv8a-jp-055-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Thorns,テツノイバラ,,Japanese,,Nintendo,55,6/12/24,2024,Lightning,140,,Unlimited,Scarlet & Violet Era
+9709,Pokemon,sv8a-jp-056-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Thorns ex,テツノイバラex,Double Rare,Japanese,,Nintendo,56,6/12/24,2024,Lightning,230,,Unlimited,Scarlet & Violet Era
+9710,Pokemon,sv8a-jp-057-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Abra,ケーシィ,,Japanese,,Nintendo,57,6/12/24,2024,Psychic,40,,Unlimited,Scarlet & Violet Era
+9711,Pokemon,sv8a-jp-058-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Kadabra,ユンゲラー,,Japanese,,Nintendo,58,6/12/24,2024,Psychic,80,,Unlimited,Scarlet & Violet Era
+9712,Pokemon,sv8a-jp-059-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Alakazam,フーディン,,Japanese,,Nintendo,59,6/12/24,2024,Psychic,140,,Unlimited,Scarlet & Violet Era
+9713,Pokemon,sv8a-jp-060-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Natu,ネイティ,,Japanese,,Nintendo,60,6/12/24,2024,Psychic,50,,Unlimited,Scarlet & Violet Era
+9714,Pokemon,sv8a-jp-061-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Xatu,ネイティオ,,Japanese,,Nintendo,61,6/12/24,2024,Psychic,100,,Unlimited,Scarlet & Violet Era
+9715,Pokemon,sv8a-jp-062-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Espeon,エーフィ,,Japanese,,Nintendo,62,6/12/24,2024,Psychic,110,,Unlimited,Scarlet & Violet Era
+9716,Pokemon,sv8a-jp-063-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Espeon ex,エーフィex,Double Rare,Japanese,,Nintendo,63,6/12/24,2024,Psychic,270,,Unlimited,Scarlet & Violet Era
+9717,Pokemon,sv8a-jp-064-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Duskull,ヨマワル,,Japanese,,Nintendo,64,6/12/24,2024,Psychic,60,,Unlimited,Scarlet & Violet Era
+9718,Pokemon,sv8a-jp-065-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dusclops,サマヨール,,Japanese,,Nintendo,65,6/12/24,2024,Psychic,60,,Unlimited,Scarlet & Violet Era
+9719,Pokemon,sv8a-jp-066-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dusknoir,ヨノワール,,Japanese,,Nintendo,66,6/12/24,2024,Psychic,160,,Unlimited,Scarlet & Violet Era
+9720,Pokemon,sv8a-jp-067-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Swirlix,ペロッパフ,,Japanese,,Nintendo,67,6/12/24,2024,Psychic,50,,Unlimited,Scarlet & Violet Era
+9721,Pokemon,sv8a-jp-068-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sylveon,ニンフィア,,Japanese,,Nintendo,68,6/12/24,2024,Psychic,120,,Unlimited,Scarlet & Violet Era
+9722,Pokemon,sv8a-jp-069-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sylveon ex,ニンフィアex,Double Rare,Japanese,,Nintendo,69,6/12/24,2024,Psychic,270,,Unlimited,Scarlet & Violet Era
+9723,Pokemon,sv8a-jp-070-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Ceruledge,ソウブレイズ,,Japanese,,Nintendo,70,6/12/24,2024,Psychic,140,,Unlimited,Scarlet & Violet Era
+9724,Pokemon,sv8a-jp-071-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Scream Tail,サケブシッポ,,Japanese,,Nintendo,71,6/12/24,2024,Psychic,90,,Unlimited,Scarlet & Violet Era
+9725,Pokemon,sv8a-jp-072-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Flutter Mane,ハバタクカミ,,Japanese,,Nintendo,72,6/12/24,2024,Psychic,90,,Unlimited,Scarlet & Violet Era
+9726,Pokemon,sv8a-jp-073-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Gimmighoul,コレクレー,,Japanese,,Nintendo,73,6/12/24,2024,Psychic,70,,Unlimited,Scarlet & Violet Era
+9727,Pokemon,sv8a-jp-074-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Valiant ex,テツノブジンex,Double Rare,Japanese,,Nintendo,74,6/12/24,2024,Psychic,220,,Unlimited,Scarlet & Violet Era
+9728,Pokemon,sv8a-jp-075-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Munkidori,マシマシラ,,Japanese,,Nintendo,75,6/12/24,2024,Psychic,110,,Unlimited,Scarlet & Violet Era
+9729,Pokemon,sv8a-jp-076-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Fezandipiti,キチキギス,,Japanese,,Nintendo,76,6/12/24,2024,Psychic,120,,Unlimited,Scarlet & Violet Era
+9730,Pokemon,sv8a-jp-077-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Boulder,テツノイワオ,,Japanese,,Nintendo,77,6/12/24,2024,Psychic,140,,Unlimited,Scarlet & Violet Era
+9731,Pokemon,sv8a-jp-078-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Crown ex,テツノカシラex,Double Rare,Japanese,,Nintendo,78,6/12/24,2024,Psychic,220,,Unlimited,Scarlet & Violet Era
+9732,Pokemon,sv8a-jp-079-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Relicanth,ジーランス,,Japanese,,Nintendo,79,6/12/24,2024,Fighting,100,,Unlimited,Scarlet & Violet Era
+9733,Pokemon,sv8a-jp-080-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Groudon,グラードン,,Japanese,,Nintendo,80,6/12/24,2024,Fighting,130,,Unlimited,Scarlet & Violet Era
+9734,Pokemon,sv8a-jp-081-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Gible,フカマル,,Japanese,,Nintendo,81,6/12/24,2024,Fighting,70,,Unlimited,Scarlet & Violet Era
+9735,Pokemon,sv8a-jp-082-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Gabite,ガバイト,,Japanese,,Nintendo,82,6/12/24,2024,Fighting,100,,Unlimited,Scarlet & Violet Era
+9736,Pokemon,sv8a-jp-083-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Drilbur,モグリュー,,Japanese,,Nintendo,83,6/12/24,2024,Fighting,70,,Unlimited,Scarlet & Violet Era
+9737,Pokemon,sv8a-jp-084-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Hawlucha,ルチャブル,,Japanese,,Nintendo,84,6/12/24,2024,Fighting,70,,Unlimited,Scarlet & Violet Era
+9738,Pokemon,sv8a-jp-085-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Bloodmoon Ursaluna,ガチグマ アカツキ,,Japanese,,Nintendo,85,6/12/24,2024,Fighting,150,,Unlimited,Scarlet & Violet Era
+9739,Pokemon,sv8a-jp-086-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Great Tusk,イダイナキバ,,Japanese,,Nintendo,86,6/12/24,2024,Fighting,140,,Unlimited,Scarlet & Violet Era
+9740,Pokemon,sv8a-jp-087-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Slither Wing,チヲハウハネ,,Japanese,,Nintendo,87,6/12/24,2024,Fighting,140,,Unlimited,Scarlet & Violet Era
+9741,Pokemon,sv8a-jp-088-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sandy Shocks ex,スナノケガワex,Double Rare,Japanese,,Nintendo,88,6/12/24,2024,Fighting,220,,Unlimited,Scarlet & Violet Era
+9742,Pokemon,sv8a-jp-089-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Ting-Lu,ディンルー,,Japanese,,Nintendo,89,6/12/24,2024,Fighting,140,,Unlimited,Scarlet & Violet Era
+9743,Pokemon,sv8a-jp-090-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Okidogi,イイネイヌ,,Japanese,,Nintendo,90,6/12/24,2024,Fighting,130,,Unlimited,Scarlet & Violet Era
+9744,Pokemon,sv8a-jp-091-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Cornerstone Mask Ogerpon ex,オーガポン いしずえのめんex,Double Rare,Japanese,,Nintendo,91,6/12/24,2024,Fighting,210,,Unlimited,Scarlet & Violet Era
+9745,Pokemon,sv8a-jp-092-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Umbreon,ブラッキー,,Japanese,,Nintendo,92,6/12/24,2024,Darkness,110,,Unlimited,Scarlet & Violet Era
+9746,Pokemon,sv8a-jp-093-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Umbreon ex,ブラッキーex,Double Rare,Japanese,,Nintendo,93,6/12/24,2024,Darkness,280,,Unlimited,Scarlet & Violet Era
+9747,Pokemon,sv8a-jp-094-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Trubbish,ヤブクロン,,Japanese,,Nintendo,94,6/12/24,2024,Darkness,70,,Unlimited,Scarlet & Violet Era
+9748,Pokemon,sv8a-jp-095-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Garbodor,ダストダス,,Japanese,,Nintendo,95,6/12/24,2024,Darkness,120,,Unlimited,Scarlet & Violet Era
+9749,Pokemon,sv8a-jp-096-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Zorua,ゾロア,,Japanese,,Nintendo,96,6/12/24,2024,Darkness,70,,Unlimited,Scarlet & Violet Era
+9750,Pokemon,sv8a-jp-097-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Zoroark,ゾロアーク,,Japanese,,Nintendo,97,6/12/24,2024,Darkness,120,,Unlimited,Scarlet & Violet Era
+9751,Pokemon,sv8a-jp-098-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Morpeko,モルペコ,,Japanese,,Nintendo,98,6/12/24,2024,Darkness,70,,Unlimited,Scarlet & Violet Era
+9752,Pokemon,sv8a-jp-099-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Brute Bonnet,アラブルタケ,,Japanese,,Nintendo,99,6/12/24,2024,Darkness,120,,Unlimited,Scarlet & Violet Era
+9753,Pokemon,sv8a-jp-100-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Roaring Moon,トドロクツキ,,Japanese,,Nintendo,100,6/12/24,2024,Darkness,140,,Unlimited,Scarlet & Violet Era
+9754,Pokemon,sv8a-jp-101-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Roaring Moon ex,トドロクツキex,Double Rare,Japanese,,Nintendo,101,6/12/24,2024,Darkness,230,,Unlimited,Scarlet & Violet Era
+9755,Pokemon,sv8a-jp-102-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Okidogi ex,イイネイヌex,Double Rare,Japanese,,Nintendo,102,6/12/24,2024,Darkness,250,,Unlimited,Scarlet & Violet Era
+9756,Pokemon,sv8a-jp-103-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Munkidori ex,マシマシラex,Double Rare,Japanese,,Nintendo,103,6/12/24,2024,Darkness,210,,Unlimited,Scarlet & Violet Era
+9757,Pokemon,sv8a-jp-104-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Fezandipiti ex,キチキギスex,Double Rare,Japanese,,Nintendo,104,6/12/24,2024,Darkness,210,,Unlimited,Scarlet & Violet Era
+9758,Pokemon,sv8a-jp-105-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Pecharunt ex,モモワロウex,Double Rare,Japanese,,Nintendo,105,6/12/24,2024,Darkness,190,,Unlimited,Scarlet & Violet Era
+9759,Pokemon,sv8a-jp-106-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Beldum,ダンバル,,Japanese,,Nintendo,106,6/12/24,2024,Metal,70,,Unlimited,Scarlet & Violet Era
+9760,Pokemon,sv8a-jp-107-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Metang,メタング,,Japanese,,Nintendo,107,6/12/24,2024,Metal,100,,Unlimited,Scarlet & Violet Era
+9761,Pokemon,sv8a-jp-108-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Jirachi,ジラーチ,,Japanese,,Nintendo,108,6/12/24,2024,Metal,70,,Unlimited,Scarlet & Violet Era
+9762,Pokemon,sv8a-jp-109-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Honedge,ヒトツキ,,Japanese,,Nintendo,109,6/12/24,2024,Metal,60,,Unlimited,Scarlet & Violet Era
+9763,Pokemon,sv8a-jp-110-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Doublade,ニダンギル,,Japanese,,Nintendo,110,6/12/24,2024,Metal,90,,Unlimited,Scarlet & Violet Era
+9764,Pokemon,sv8a-jp-111-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Aegislash,ギルガルド,,Japanese,,Nintendo,111,6/12/24,2024,Metal,150,,Unlimited,Scarlet & Violet Era
+9765,Pokemon,sv8a-jp-112-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Duraludon,ジュラルドン,,Japanese,,Nintendo,112,6/12/24,2024,Metal,130,,Unlimited,Scarlet & Violet Era
+9766,Pokemon,sv8a-jp-113-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Archaludon,ブリジュラス,,Japanese,,Nintendo,113,6/12/24,2024,Metal,180,,Unlimited,Scarlet & Violet Era
+9767,Pokemon,sv8a-jp-114-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Varoom,ブロロン,,Japanese,,Nintendo,114,6/12/24,2024,Metal,70,,Unlimited,Scarlet & Violet Era
+9768,Pokemon,sv8a-jp-115-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Revavroom,ブロロローム,,Japanese,,Nintendo,115,6/12/24,2024,Metal,140,,Unlimited,Scarlet & Violet Era
+9769,Pokemon,sv8a-jp-116-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Treads,テツノワダチ,,Japanese,,Nintendo,116,6/12/24,2024,Metal,130,,Unlimited,Scarlet & Violet Era
+9770,Pokemon,sv8a-jp-117-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Gholdengo ex,サーフゴーex,Double Rare,Japanese,,Nintendo,117,6/12/24,2024,Metal,260,,Unlimited,Scarlet & Violet Era
+9771,Pokemon,sv8a-jp-118-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dreepy,ドラメシヤ,,Japanese,,Nintendo,118,6/12/24,2024,Dragon,70,,Unlimited,Scarlet & Violet Era
+9772,Pokemon,sv8a-jp-119-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Drakloak,ドロンチ,,Japanese,,Nintendo,119,6/12/24,2024,Dragon,90,,Unlimited,Scarlet & Violet Era
+9773,Pokemon,sv8a-jp-120-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dragapult ex,ドラパルトex,Double Rare,Japanese,,Nintendo,120,6/12/24,2024,Dragon,320,,Unlimited,Scarlet & Violet Era
+9774,Pokemon,sv8a-jp-121-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Tatsugiri,シャリタツ,,Japanese,,Nintendo,121,6/12/24,2024,Dragon,70,,Unlimited,Scarlet & Violet Era
+9775,Pokemon,sv8a-jp-122-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Koraidon,コライドン,,Japanese,,Nintendo,122,6/12/24,2024,Dragon,140,,Unlimited,Scarlet & Violet Era
+9776,Pokemon,sv8a-jp-123-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Miraidon,ミライドン,,Japanese,,Nintendo,123,6/12/24,2024,Dragon,110,,Unlimited,Scarlet & Violet Era
+9777,Pokemon,sv8a-jp-124-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Raging Bolt ex,タケルライコex,Double Rare,Japanese,,Nintendo,124,6/12/24,2024,Dragon,240,,Unlimited,Scarlet & Violet Era
+9778,Pokemon,sv8a-jp-125-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Eevee,イーブイ,,Japanese,,Nintendo,125,6/12/24,2024,Colorless,50,,Unlimited,Scarlet & Violet Era
+9779,Pokemon,sv8a-jp-126-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Eevee ex,イーブイex,Double Rare,Japanese,,Nintendo,126,6/12/24,2024,Colorless,200,,Unlimited,Scarlet & Violet Era
+9780,Pokemon,sv8a-jp-127-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Hoothoot,ホーホー,,Japanese,,Nintendo,127,6/12/24,2024,Colorless,80,,Unlimited,Scarlet & Violet Era
+9781,Pokemon,sv8a-jp-128-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Noctowl,ヨルノズク,,Japanese,,Nintendo,128,6/12/24,2024,Colorless,100,,Unlimited,Scarlet & Violet Era
+9782,Pokemon,sv8a-jp-129-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dunsparce,ノコッチ,,Japanese,,Nintendo,129,6/12/24,2024,Colorless,60,,Unlimited,Scarlet & Violet Era
+9783,Pokemon,sv8a-jp-130-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dudunsparce,ノココッチ,,Japanese,,Nintendo,130,6/12/24,2024,Colorless,140,,Unlimited,Scarlet & Violet Era
+9784,Pokemon,sv8a-jp-131-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Fan Rotom,スピンロトム,,Japanese,,Nintendo,131,6/12/24,2024,Colorless,70,,Unlimited,Scarlet & Violet Era
+9785,Pokemon,sv8a-jp-132-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Regigigas,レジギガス,,Japanese,,Nintendo,132,6/12/24,2024,Colorless,160,,Unlimited,Scarlet & Violet Era
+9786,Pokemon,sv8a-jp-133-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Bouffalant,バッフロン,,Japanese,,Nintendo,133,6/12/24,2024,Colorless,100,,Unlimited,Scarlet & Violet Era
+9787,Pokemon,sv8a-jp-134-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Bloodmoon Ursaluna ex,ガチグマ アカツキex,Double Rare,Japanese,,Nintendo,134,6/12/24,2024,Colorless,260,,Unlimited,Scarlet & Violet Era
+9788,Pokemon,sv8a-jp-135-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Jugulis,テツノコウベ,,Japanese,,Nintendo,135,6/12/24,2024,Colorless,130,,Unlimited,Scarlet & Violet Era
+9789,Pokemon,sv8a-jp-136-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Terapagos ex,テラパゴスex,Double Rare,Japanese,,Nintendo,136,6/12/24,2024,Colorless,230,,Unlimited,Scarlet & Violet Era
+9790,Pokemon,sv8a-jp-137-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Ogre's Mask,鬼の仮面,,Japanese,,Nintendo,137,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9791,Pokemon,sv8a-jp-138-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Enhanced Hammer,改造ハンマー,,Japanese,,Nintendo,138,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9792,Pokemon,sv8a-jp-139-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Counter Catcher,カウンターキャッチャー,,Japanese,,Nintendo,139,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9793,Pokemon,sv8a-jp-140-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Glass Trumpet,ガラスのラッパ,,Japanese,,Nintendo,140,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+,Pokemon,sv8a-jp-141-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Superior Energy Retrieval,スーパーエネルギー回収,,Japanese,,Nintendo,141,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9794,Pokemon,sv8a-jp-142-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Fishing Rod MAX,つりざおMAX,,Japanese,,Nintendo,142,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9795,Pokemon,sv8a-jp-143-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Earthen Vessel,大地の器,,Japanese,,Nintendo,143,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9796,Pokemon,sv8a-jp-144-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Techno Radar,テクノレーダー,,Japanese,,Nintendo,144,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9797,Pokemon,sv8a-jp-145-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Tera Orb,テラスタルオーブ,,Japanese,,Nintendo,145,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9798,Pokemon,sv8a-jp-146-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Treasure Gadget,トレジャーガジェット,,Japanese,,Nintendo,146,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9799,Pokemon,sv8a-jp-147-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Buddy-Buddy Poffin,なかよしポフィン,,Japanese,,Nintendo,147,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9800,Pokemon,sv8a-jp-148-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Prime Catcher,プライムキャッチャー,,Japanese,,Nintendo,148,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9801,Pokemon,sv8a-jp-149-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Scoop Up Cyclone,ポケモン回収サイクロン,,Japanese,,Nintendo,149,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9802,Pokemon,sv8a-jp-150-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Bug Catching Set,むしとりセット,,Japanese,,Nintendo,150,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9803,Pokemon,sv8a-jp-151-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Nightly Stretcher,夜のタンカ,,Japanese,,Nintendo,151,6/12/24,2024,,,Item,Unlimited,Scarlet & Violet Era
+9804,Pokemon,sv8a-jp-152-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sparkling Crystal,きらめく結晶,,Japanese,,Nintendo,152,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9805,Pokemon,sv8a-jp-153-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Emergency Board,緊急ボード,,Japanese,,Nintendo,153,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9806,Pokemon,sv8a-jp-154-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Binding Mochi,くさりもち,,Japanese,,Nintendo,154,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9807,Pokemon,sv8a-jp-155-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Gorgeous Cloak,ゴージャスマント,,Japanese,,Nintendo,155,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9808,Pokemon,sv8a-jp-156-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Haban Berry,ハバンのみ,,Japanese,,Nintendo,156,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9809,Pokemon,sv8a-jp-157-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Ancient Booster Energy Capsule,ブーストエナジー 古代,,Japanese,,Nintendo,157,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9810,Pokemon,sv8a-jp-158-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Future Booster Energy Capsule,ブーストエナジー 未来,,Japanese,,Nintendo,158,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9811,Pokemon,sv8a-jp-159-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Maximum Belt,マキシマムベルト,,Japanese,,Nintendo,159,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9812,Pokemon,sv8a-jp-160-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Technical Machine Evolution,ワザマシン エヴォリューション,,Japanese,,Nintendo,160,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9813,Pokemon,sv8a-jp-161-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Technical Machine Devolution,ワザマシン デヴォリューション,,Japanese,,Nintendo,161,6/12/24,2024,,,Tool,Unlimited,Scarlet & Violet Era
+9814,Pokemon,sv8a-jp-162-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Larry's Efficiency,アオキの手際,,Japanese,,Nintendo,162,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9815,Pokemon,sv8a-jp-163-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Crispin,アカマツ,,Japanese,,Nintendo,163,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9816,Pokemon,sv8a-jp-164-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Colress's Persistence,アクロマの執念,,Japanese,,Nintendo,164,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9817,Pokemon,sv8a-jp-165-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Ciphermaniac's Codebreaking,暗号マニアの解読,,Japanese,,Nintendo,165,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9818,Pokemon,sv8a-jp-166-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Janine's Secret Technique,アンズの秘技,,Japanese,,Nintendo,166,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9819,Pokemon,sv8a-jp-167-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Professor Sada's Vitality,オーリム博士の気迫,,Japanese,,Nintendo,167,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9820,Pokemon,sv8a-jp-168-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Lana's Assistance,スイレンのお世話,,Japanese,,Nintendo,168,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9821,Pokemon,sv8a-jp-169-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Kieran,スグリ,,Japanese,,Nintendo,169,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9822,Pokemon,sv8a-jp-170-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Carmine,ゼイユ,,Japanese,,Nintendo,170,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9823,Pokemon,sv8a-jp-171-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Lacey,タロ,,Japanese,,Nintendo,171,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9824,Pokemon,sv8a-jp-172-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Explorer's Guidance,探検家の先導,,Japanese,,Nintendo,172,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9825,Pokemon,sv8a-jp-173-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Amarys,ネリネ,,Japanese,,Nintendo,173,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9826,Pokemon,sv8a-jp-174-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Friends in Paldea,パルデアの仲間たち,,Japanese,,Nintendo,174,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9827,Pokemon,sv8a-jp-175-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Professor Turo's Scenario,フトゥー博士のシナリオ,,Japanese,,Nintendo,175,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9828,Pokemon,sv8a-jp-176-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Briar,ブライア,,Japanese,,Nintendo,176,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9829,Pokemon,sv8a-jp-177-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Bianca's Devotion,ベルのまごころ,,Japanese,,Nintendo,177,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9830,Pokemon,sv8a-jp-178-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Morty's Confidence,マツバの確信,,Japanese,,Nintendo,178,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9831,Pokemon,sv8a-jp-179-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Mela,メロコ,,Japanese,,Nintendo,179,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9832,Pokemon,sv8a-jp-180-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Festival Plaza,お祭り会場,,Japanese,,Nintendo,180,6/12/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era
+9833,Pokemon,sv8a-jp-181-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Jamming Tower,ジャミングタワー,,Japanese,,Nintendo,181,6/12/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era
+9834,Pokemon,sv8a-jp-182-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Area Zero Underdepths,ゼロの大空洞,,Japanese,,Nintendo,182,6/12/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era
+9835,Pokemon,sv8a-jp-183-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Moonlight Hill,月明かりの丘,,Japanese,,Nintendo,183,6/12/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era
+9836,Pokemon,sv8a-jp-184-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Neutral Center,ニュートラルセンター,,Japanese,,Nintendo,184,6/12/24,2024,,,Stadium,Unlimited,Scarlet & Violet Era
+9837,Pokemon,sv8a-jp-185-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Jet Energy,ジェットエネルギー,,Japanese,,Nintendo,185,6/12/24,2024,,,Special Energy,Unlimited,Scarlet & Violet Era
+9838,Pokemon,sv8a-jp-186-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Mist Energy,ミストエネルギー,,Japanese,,Nintendo,186,6/12/24,2024,,,Special Energy,Unlimited,Scarlet & Violet Era
+9839,Pokemon,sv8a-jp-187-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Legacy Energy,レガシーエネルギー,,Japanese,,Nintendo,187,6/12/24,2024,,,Special Energy,Unlimited,Scarlet & Violet Era
+9840,Pokemon,sv8a-jp-188-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Larry's Efficiency,アオキの手際,Secret Rare,Japanese,,Nintendo,188,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9841,Pokemon,sv8a-jp-189-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Ortega,オルティガ,Secret Rare,Japanese,,Nintendo,189,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9842,Pokemon,sv8a-jp-190-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Brassius,コルサ,Secret Rare,Japanese,,Nintendo,190,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9843,Pokemon,sv8a-jp-191-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Atticus,シュウメイ,Secret Rare,Japanese,,Nintendo,191,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9844,Pokemon,sv8a-jp-192-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Atticus,シュウメイ,Secret Rare,Japanese,,Nintendo,192,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9845,Pokemon,sv8a-jp-193-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Tyme,タイム,Secret Rare,Japanese,,Nintendo,193,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9846,Pokemon,sv8a-jp-194-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Amarys,ネリネ,Secret Rare,Japanese,,Nintendo,194,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9847,Pokemon,sv8a-jp-195-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Friends in Paldea,パルデアの仲間たち,Secret Rare,Japanese,,Nintendo,195,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9848,Pokemon,sv8a-jp-196-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Giacomo,ピーニャ,Secret Rare,Japanese,,Nintendo,196,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9849,Pokemon,sv8a-jp-197-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Eri,ビワ,Secret Rare,Japanese,,Nintendo,197,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9850,Pokemon,sv8a-jp-198-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Mela,メロコ,Secret Rare,Japanese,,Nintendo,198,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9851,Pokemon,sv8a-jp-199-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Raifort,レホール,Secret Rare,Japanese,,Nintendo,199,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9852,Pokemon,sv8a-jp-200-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Leafeon ex,リーフィアex,Special Art Rare,Japanese,,Nintendo,200,6/12/24,2024,Grass,270,,Unlimited,Scarlet & Violet Era
+9853,Pokemon,sv8a-jp-201-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Teal Mask Ogerpon ex,オーガポン みどりのめんex,Special Art Rare,Japanese,,Nintendo,201,6/12/24,2024,Grass,210,,Unlimited,Scarlet & Violet Era
+9854,Pokemon,sv8a-jp-202-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Flareon ex,ブースターex,Special Art Rare,Japanese,,Nintendo,202,6/12/24,2024,Fire,270,,Unlimited,Scarlet & Violet Era
+9855,Pokemon,sv8a-jp-203-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Ceruledge ex,ソウブレイズex,Special Art Rare,Japanese,,Nintendo,203,6/12/24,2024,Fire,270,,Unlimited,Scarlet & Violet Era
+9856,Pokemon,sv8a-jp-204-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Hearthflame Mask Ogerpon ex,オーガポン かまどのめんex,Special Art Rare,Japanese,,Nintendo,204,6/12/24,2024,R „Åü„Å≠,210,,Unlimited,Scarlet & Violet Era
+9857,Pokemon,sv8a-jp-205-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Vaporeon ex,シャワーズex,Special Art Rare,Japanese,,Nintendo,205,6/12/24,2024,Water,280,,Unlimited,Scarlet & Violet Era
+9858,Pokemon,sv8a-jp-206-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Glaceon ex,グレイシアex,Special Art Rare,Japanese,,Nintendo,206,6/12/24,2024,Water,270,,Unlimited,Scarlet & Violet Era
+9859,Pokemon,sv8a-jp-207-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Palafin ex,イルカマンex,Special Art Rare,Japanese,,Nintendo,207,6/12/24,2024,Water,340,,Unlimited,Scarlet & Violet Era
+9860,Pokemon,sv8a-jp-208-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Wellspring Mask Ogerpon ex,オーガポン いどのめんex,Special Art Rare,Japanese,,Nintendo,208,6/12/24,2024,Water,210,,Unlimited,Scarlet & Violet Era
+9861,Pokemon,sv8a-jp-209-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Jolteon ex,サンダースex,Special Art Rare,Japanese,,Nintendo,209,6/12/24,2024,Lightning,260,,Unlimited,Scarlet & Violet Era
+9862,Pokemon,sv8a-jp-210-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Hands ex,テツノカイナex,Special Art Rare,Japanese,,Nintendo,210,6/12/24,2024,Lightning,230,,Unlimited,Scarlet & Violet Era
+9863,Pokemon,sv8a-jp-211-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Espeon ex,エーフィex,Special Art Rare,Japanese,,Nintendo,211,6/12/24,2024,Psychic,270,,Unlimited,Scarlet & Violet Era
+9864,Pokemon,sv8a-jp-212-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sylveon ex,ニンフィアex,Special Art Rare,Japanese,,Nintendo,212,6/12/24,2024,Psychic,270,,Unlimited,Scarlet & Violet Era
+9865,Pokemon,sv8a-jp-213-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Valiant ex,テツノブジンex,Special Art Rare,Japanese,,Nintendo,213,6/12/24,2024,Psychic,220,,Unlimited,Scarlet & Violet Era
+9866,Pokemon,sv8a-jp-214-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Crown ex,テツノカシラex,Special Art Rare,Japanese,,Nintendo,214,6/12/24,2024,Psychic,220,,Unlimited,Scarlet & Violet Era
+9867,Pokemon,sv8a-jp-215-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Sandy Shocks ex,スナノケガワex,Special Art Rare,Japanese,,Nintendo,215,6/12/24,2024,Fire,220,,Unlimited,Scarlet & Violet Era
+9868,Pokemon,sv8a-jp-216-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Cornerstone Mask Ogerpon ex,オーガポン いしずえのめんex,Special Art Rare,Japanese,,Nintendo,216,6/12/24,2024,Fire,210,,Unlimited,Scarlet & Violet Era
+9869,Pokemon,sv8a-jp-217-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Umbreon ex,ブラッキーex,Special Art Rare,Japanese,,Nintendo,217,6/12/24,2024,Darkness,280,,Unlimited,Scarlet & Violet Era
+9870,Pokemon,sv8a-jp-218-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Roaring Moon ex,トドロクツキex,Special Art Rare,Japanese,,Nintendo,218,6/12/24,2024,Darkness,230,,Unlimited,Scarlet & Violet Era
+9871,Pokemon,sv8a-jp-219-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Pecharunt ex,モモワロウex,Special Art Rare,Japanese,,Nintendo,219,6/12/24,2024,Darkness,190,,Unlimited,Scarlet & Violet Era
+9872,Pokemon,sv8a-jp-220-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Gholdengo ex,サーフゴーex,Special Art Rare,Japanese,,Nintendo,220,6/12/24,2024,Metal,260,,Unlimited,Scarlet & Violet Era
+9873,Pokemon,sv8a-jp-221-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Dragapult ex,ドラパルトex,Special Art Rare,Japanese,,Nintendo,221,6/12/24,2024,Dragon,320,,Unlimited,Scarlet & Violet Era
+9874,Pokemon,sv8a-jp-222-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Raging Bolt ex,タケルライコex,Special Art Rare,Japanese,,Nintendo,222,6/12/24,2024,Dragon,240,,Unlimited,Scarlet & Violet Era
+9875,Pokemon,sv8a-jp-223-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Eevee ex,イーブイex,Special Art Rare,Japanese,,Nintendo,223,6/12/24,2024,Colorless,200,,Unlimited,Scarlet & Violet Era
+9876,Pokemon,sv8a-jp-224-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Eevee ex,イーブイex,Special Art Rare,Japanese,,Nintendo,224,6/12/24,2024,Colorless,200,,Unlimited,Scarlet & Violet Era
+9877,Pokemon,sv8a-jp-225-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Bloodmoon Ursaluna ex,ガチグマ アカツキex,Special Art Rare,Japanese,,Nintendo,225,6/12/24,2024,Colorless,260,,Unlimited,Scarlet & Violet Era
+9878,Pokemon,sv8a-jp-226-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Terapagos ex,テラパゴスex,Special Art Rare,Japanese,,Nintendo,226,6/12/24,2024,Colorless,230,,Unlimited,Scarlet & Violet Era
+9879,Pokemon,sv8a-jp-227-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Crispin,アカマツ,Special Art Rare,Japanese,,Nintendo,227,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9880,Pokemon,sv8a-jp-228-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Janine's Secret Technique,アンズの秘技,Special Art Rare,Japanese,,Nintendo,228,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9881,Pokemon,sv8a-jp-229-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Drayton,カキツバタ,Special Art Rare,Japanese,,Nintendo,229,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9882,Pokemon,sv8a-jp-230-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Kieran,スグリ,Special Art Rare,Japanese,,Nintendo,230,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9883,Pokemon,sv8a-jp-231-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Lacey,タロ,Special Art Rare,Japanese,,Nintendo,231,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9884,Pokemon,sv8a-jp-232-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Amarys,ネリネ,Special Art Rare,Japanese,,Nintendo,232,6/12/24,2024,,,Supporter,Unlimited,Scarlet & Violet Era
+9885,Pokemon,sv8a-jp-233-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Iron Leaves ex,テツノイサハex,Ultra Rare,Japanese,,Nintendo,233,6/12/24,2024,Grass,220,,Unlimited,Scarlet & Violet Era
+9886,Pokemon,sv8a-jp-234-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Teal Mask Ogerpon ex,オーガポン みどりのめんex,Ultra Rare,Japanese,,Nintendo,234,6/12/24,2024,Grass,210,,Unlimited,Scarlet & Violet Era
+9887,Pokemon,sv8a-jp-235-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Walking Wake ex,ウネルミナモex,Ultra Rare,Japanese,,Nintendo,235,6/12/24,2024,Water,220,,Unlimited,Scarlet & Violet Era
+9888,Pokemon,sv8a-jp-236-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Pikachu ex,ピカチュウex,Ultra Rare,Japanese,,Nintendo,236,6/12/24,2024,Lightning,220,,Unlimited,Scarlet & Violet Era
+9889,Pokemon,sv8a-jp-237-187.jpeg,Terastal Festival ex,テラスタルフェスex,SV8a,Terapagos ex,テラパゴスex,Ultra Rare,Japanese,,Nintendo,237,6/12/24,2024,Colorless,230,,Unlimited,Scarlet & Violet Era

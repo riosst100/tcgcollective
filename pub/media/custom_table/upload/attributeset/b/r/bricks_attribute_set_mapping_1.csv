@@ -1,0 +1,26 @@
+﻿group,category,attribute_code,attribute_option,priority,target_attribute_set
+Bricks,Bricks,,,,Bricks
+Bricks | Brands,,toys_brand,Brands,1,Bricks | Brands
+Bricks | Bricks,,toys_categories,Bricks,2,Bricks | Brands | Bricks
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,3,Bricks | Brands | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,3,Bricks | Brands | Minifigures
+Bricks | Parts,,bricks_categories,Parts,3,Bricks | Brands | Parts
+Bricks | Accessories,,bricks_categories,Accessories,3,Bricks | Brands | Accessories
+Bricks | Accessories,,bricks_accessories_categories,Storage,4,Bricks | Brands | Accessories | Storage
+Bricks | Accessories,,bricks_accessories_categories,Display,4,Bricks | Brands | Accessories | Display
+Bricks | Accessories,,bricks_accessories_categories,Lighting,4,Bricks | Brands | Accessories | Lighting
+Bricks | Lego,,toys_brand,Lego,1,Bricks | Lego
+Bricks | Bricks,,toys_categories,Bricks,2,Bricks | Lego | Bricks
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,3,Bricks | Lego | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,3,Bricks | Lego | Minifigures
+Bricks | Parts,,bricks_categories,Parts,3,Bricks | Lego | Parts
+Bricks | Accessories,,bricks_categories,Accessories,3,Bricks | Lego | Accessories
+Bricks | Accessories,,bricks_accessories_categories,Storage,4,Bricks | Lego | Accessories | Storage
+Bricks | Accessories,,bricks_accessories_categories,Display,4,Bricks | Lego | Accessories | Display
+Bricks | Accessories,,bricks_accessories_categories,Lighting,4,Bricks | Lego | Accessories | Lighting
+Bricks | Mould King,,toys_brand,Mould King,1,Bricks | Mould King
+Bricks | Bricks,,toys_categories,Bricks,2,Bricks | Mould King | Bricks
+Bricks | Box Sets/Packs,,bricks_categories,Box Sets/Packs,3,Bricks | Mould King | Box Sets/Packs
+Bricks | Minifigures,,bricks_categories,Minifigures,3,Bricks | Mould King | Minifigures
+Bricks | Parts,,bricks_categories,Parts,3,Bricks | Mould King | Parts
+Bricks | Accessories,,bricks_categories,Accessories,3,Bricks | Mould King | Accessories
