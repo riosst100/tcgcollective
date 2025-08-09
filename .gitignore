@@ -35,7 +35,7 @@ atlassian*
 /.php-cs-fixer.php
 /.php-cs-fixer.cache
 /grunt-config.json
-/pub/media/*.*
+/pub/media/*
 !/pub/media/.htaccess
 /pub/media/attribute/*
 !/pub/media/attribute/.htaccess
