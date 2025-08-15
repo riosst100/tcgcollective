@@ -21790,7 +21790,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "2c7372925b59cfec284e1d9e96f88de2eedd727a"
+                "reference": "4a974bc3cfc0ec5782ee24a96687083590d5d1ec"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21805,6 +21805,7 @@
             "type": "magento2-module",
             "autoload": {
                 "files": [
+                    "src/module-marketplace-raja-ongkir/registration.php",
                     "src/module-seller-registration/registration.php",
                     "src/module-product-attributes-link/registration.php",
                     "src/module-category-importexport/registration.php",
@@ -21893,6 +21894,7 @@
                     "src/theme-frontend-tcg/registration.php"
                 ],
                 "psr-4": {
+                    "CoreMarketplace\\MarketplaceRajaOngkir\\": "src/module-marketplace-raja-ongkir",
                     "CoreMarketplace\\SellerRegistration\\": "src/module-seller-registration",
                     "CoreMarketplace\\ProductAttributesLink\\": "src/module-product-attributes-link",
                     "CoreMarketplace\\MarketPlace\\": "src/module-marketplace",
@@ -21997,7 +21999,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2025-08-09T10:42:02+00:00"
+            "time": "2025-08-15T03:10:13+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
