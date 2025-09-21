@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ef61bfc5fb46e0116d16ea129cd10532",
+    "content-hash": "9989cb00dba2533cca1a6e94891af36c",
     "packages": [
         {
             "name": "2tvenom/cborencode",
@@ -130,6 +130,43 @@
             },
             "type": "metapackage",
             "description": "Adobe IMS Integration"
+        },
+        {
+            "name": "airwallex/payments-plugin-magento",
+            "version": "1.15.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/airwallex/paymentacceptance-plugin-magento.git",
+                "reference": "3ddb426fa1618bfb4b8b96a683f8d1a3a0d9f182"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/airwallex/paymentacceptance-plugin-magento/zipball/3ddb426fa1618bfb4b8b96a683f8d1a3a0d9f182",
+                "reference": "3ddb426fa1618bfb4b8b96a683f8d1a3a0d9f182",
+                "shasum": ""
+            },
+            "require": {
+                "ext-json": "*",
+                "magento/module-re-captcha-webapi-api": "^1.0.0",
+                "magento/module-vault": "^100.1.0 || ^101.0.0",
+                "mobiledetect/mobiledetectlib": "^3.74 || ^4.8",
+                "php": "^7.4|^8.0"
+            },
+            "type": "magento2-module",
+            "autoload": {
+                "files": [
+                    "registration.php"
+                ],
+                "psr-4": {
+                    "Airwallex\\Payments\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "support": {
+                "issues": "https://github.com/airwallex/paymentacceptance-plugin-magento/issues",
+                "source": "https://github.com/airwallex/paymentacceptance-plugin-magento/tree/v1.15.0"
+            },
+            "time": "2025-07-11T03:12:26+00:00"
         },
         {
             "name": "astock/stock-api-libphp",
@@ -19259,6 +19296,71 @@
             "time": "2024-11-14T23:14:52+00:00"
         },
         {
+            "name": "mobiledetect/mobiledetectlib",
+            "version": "4.8.09",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/serbanghita/Mobile-Detect.git",
+                "reference": "a06fe2e546a06bb8c2639d6823d5250b2efb3209"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/serbanghita/Mobile-Detect/zipball/a06fe2e546a06bb8c2639d6823d5250b2efb3209",
+                "reference": "a06fe2e546a06bb8c2639d6823d5250b2efb3209",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0",
+                "psr/cache": "^3.0",
+                "psr/simple-cache": "^3"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^v3.65.0",
+                "phpbench/phpbench": "^1.2",
+                "phpstan/phpstan": "^1.12.x-dev",
+                "phpunit/phpunit": "^9.6.18",
+                "squizlabs/php_codesniffer": "^3.11.1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Detection\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Serban Ghita",
+                    "email": "serbanghita@gmail.com",
+                    "homepage": "http://mobiledetect.net",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices. It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.",
+            "homepage": "https://github.com/serbanghita/Mobile-Detect",
+            "keywords": [
+                "detect mobile devices",
+                "mobile",
+                "mobile detect",
+                "mobile detector",
+                "php mobile detect"
+            ],
+            "support": {
+                "issues": "https://github.com/serbanghita/Mobile-Detect/issues",
+                "source": "https://github.com/serbanghita/Mobile-Detect/tree/4.8.09"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/serbanghita",
+                    "type": "github"
+                }
+            ],
+            "time": "2024-12-10T15:32:06+00:00"
+        },
+        {
             "name": "monolog/monolog",
             "version": "2.10.0",
             "source": {
@@ -21514,6 +21616,57 @@
             "time": "2021-07-14T16:41:46+00:00"
         },
         {
+            "name": "psr/simple-cache",
+            "version": "3.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php-fig/simple-cache.git",
+                "reference": "764e0b3939f5ca87cb904f570ef9be2d78a07865"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/php-fig/simple-cache/zipball/764e0b3939f5ca87cb904f570ef9be2d78a07865",
+                "reference": "764e0b3939f5ca87cb904f570ef9be2d78a07865",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0.0"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "3.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Psr\\SimpleCache\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "PHP-FIG",
+                    "homepage": "https://www.php-fig.org/"
+                }
+            ],
+            "description": "Common interfaces for simple caching",
+            "keywords": [
+                "cache",
+                "caching",
+                "psr",
+                "psr-16",
+                "simple-cache"
+            ],
+            "support": {
+                "source": "https://github.com/php-fig/simple-cache/tree/3.0.0"
+            },
+            "time": "2021-10-29T13:26:27+00:00"
+        },
+        {
             "name": "ralouphie/getallheaders",
             "version": "3.0.3",
             "source": {
@@ -21790,7 +21943,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "7e0fd618755d69a34ec3c0954d9622878dc44228"
+                "reference": "1f36ae74349b085e8f278b2fa039c2f8401f5123"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -22009,7 +22162,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2025-09-10T05:51:41+00:00"
+            "time": "2025-09-21T16:39:00+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
