@@ -436,7 +436,6 @@ return [
         'Ves_All' => 1,
         'Ves_Brand' => 0,
         'Ves_Setup' => 1,
-        'Webcastle_CategoryImportExport' => 1,
         'Xendit_M2Invoice' => 1,
         'Yireo_DisableServiceWorkerInAdmin' => 1
     ],

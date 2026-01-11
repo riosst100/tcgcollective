@@ -21943,7 +21943,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "7d90cbade025496e7309ecfd524f718e5cac2d80"
+                "reference": "44b1900c26cfa65a40f6ab8238ab4e2a2f8e4010"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21970,7 +21970,6 @@
                     "src/module-marketplace-raja-ongkir/registration.php",
                     "src/module-seller-registration/registration.php",
                     "src/module-product-attributes-link/registration.php",
-                    "src/module-category-importexport/registration.php",
                     "src/module-geoip/registration.php",
                     "src/module-geoip-graphql/registration.php",
                     "src/module-marketplace/registration.php",
@@ -22083,7 +22082,6 @@
                     "CoreMarketplace\\MarketplaceGraphQl\\": "src/module-marketplace-graphql",
                     "CoreMarketplace\\SellerIdentificationApproval\\": "src/module-seller-identification-approval",
                     "CoreMarketplace\\SellerMembership\\": "src/module-seller-membership",
-                    "Webcastle\\CategoryImportExport\\": "src/module-category-importexport",
                     "Magefan\\GeoIp\\": "src/module-geoip",
                     "CoreMarketplace\\GeoIpGraphQl\\": "src/module-geoip-graphql",
                     "CoreMarketplace\\MarketTheme\\": "src/module-marketplace-theme",
@@ -22170,7 +22168,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2026-01-11T04:40:05+00:00"
+            "time": "2026-01-11T06:06:12+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",
