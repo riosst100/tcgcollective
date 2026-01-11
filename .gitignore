@@ -35,9 +35,10 @@ atlassian*
 /.php-cs-fixer.php
 /.php-cs-fixer.cache
 /grunt-config.json
-/pub/media/*
+/pub/media/*.*
 !/pub/media/.htaccess
 /pub/media/attribute/*
+/pub/media/singles/*
 !/pub/media/attribute/.htaccess
 /pub/media/analytics/*
 /pub/media/catalog/*
@@ -61,6 +62,9 @@ atlassian*
 !/pub/media/tmp/.htaccess
 /pub/media/captcha/*
 /pub/media/sitemap/*
+/pub/media/custom_table/*
+/pub/media/lof_seller/*
+/pub/media/singles/*
 !/pub/media/sitemap/.htaccess
 /pub/static/*
 !/pub/static/.htaccess
