@@ -1,1 +1,0 @@
-bin/magento c:f
