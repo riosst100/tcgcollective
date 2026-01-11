@@ -21943,7 +21943,7 @@
             "source": {
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
-                "reference": "d1ff41c76235ff95a89f9334b2b86247b2fee427"
+                "reference": "7d90cbade025496e7309ecfd524f718e5cac2d80"
             },
             "require": {
                 "abraham/twitteroauth": "*",
@@ -21958,6 +21958,10 @@
             "type": "magento2-module",
             "autoload": {
                 "files": [
+                    "src/module-lof-trackorder-graphql/registration.php",
+                    "src/module-lof-age-verification/registration.php",
+                    "src/module-ves-trackorder/registration.php",
+                    "src/module-platform-database/registration.php",
                     "src/module-marketplace-payment-airwallex/registration.php",
                     "src/module-marketplace-payment-xendit/registration.php",
                     "src/module-marketplace-payment-paypal/registration.php",
@@ -22052,6 +22056,10 @@
                     "src/theme-frontend-tcg/registration.php"
                 ],
                 "psr-4": {
+                    "Lof\\TrackorderGraphQl\\": "src/module-lof-trackorder-graphql",
+                    "Lof\\AgeVerification\\": "src/module-lof-age-verification",
+                    "Ves\\Trackorder\\": "src/module-ves-trackorder",
+                    "CoreMarketplace\\PlatformDatabase\\": "src/module-platform-database",
                     "CoreMarketplace\\MarketplacePaymentAirwallex\\": "src/module-marketplace-payment-airwallex",
                     "CoreMarketplace\\MarketplacePaymentXendit\\": "src/module-marketplace-payment-xendit",
                     "CoreMarketplace\\MarketplacePaymentPaypal\\": "src/module-marketplace-payment-paypal",
@@ -22162,7 +22170,7 @@
                 "magento",
                 "magento2"
             ],
-            "time": "2025-11-22T00:51:51+00:00"
+            "time": "2026-01-11T04:40:05+00:00"
         },
         {
             "name": "sabberworm/php-css-parser",

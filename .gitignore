@@ -1,3 +1,6 @@
+/pub/media/images/*
+/pub/media/lof/*
+/pub/media/seller/*
 /app/bootstrap.php
 /di.sh
 /flu.sh
