@@ -1,3 +1,7 @@
+/app/bootstrap.php
+/di.sh
+/flu.sh
+/staticdeploy.sh
 /.buildpath
 /.cache
 /.metadata
