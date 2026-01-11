@@ -1,3 +1,59 @@
+# pub root
+/pub/.htaccess
+/pub/.user.ini
+/pub/cron.php
+/pub/get.php
+/pub/health_check.php
+/pub/index.php
+/pub/static.php
+
+# pub/errors
+/pub/errors/.htaccess
+/pub/errors/404.php
+/pub/errors/503.php
+/pub/errors/design.xml
+/pub/errors/local.xml.sample
+/pub/errors/noCache.php
+/pub/errors/processor.php
+/pub/errors/processorFactory.php
+/pub/errors/report.php
+
+# pub/errors/default
+/pub/errors/default/404.phtml
+/pub/errors/default/503.phtml
+/pub/errors/default/nocache.phtml
+/pub/errors/default/page.phtml
+/pub/errors/default/report.phtml
+/pub/errors/default/css/styles.css
+/pub/errors/default/images/favicon.ico
+/pub/errors/default/images/i_msg-error.gif
+/pub/errors/default/images/i_msg-note.gif
+/pub/errors/default/images/i_msg-success.gif
+/pub/errors/default/images/logo.gif
+
+# pub/errors/custom
+/pub/errors/custom/css/styles.css
+
+# pub/media
+/pub/media/card_images/placeholder.jpg.avif
+/pub/media/custom_options/.htaccess
+/pub/media/customer/.htaccess
+/pub/media/customer_address/.htaccess
+/pub/media/downloadable/.htaccess
+/pub/media/import/.htaccess
+/pub/media/sitemap/.htaccess
+/pub/media/theme_customization/.htaccess
+/pub/media/wysiwyg/.htaccess
+
+# pub/static
+/pub/static/.htaccess
+
+# var
+/var/.htaccess
+
+# magento runtime
+/pub/opt/magento/var/resource_config.json
+
 /pub/media/images/*
 /pub/media/lof/*
 /pub/media/seller/*
