@@ -21944,7 +21944,11 @@
                 "type": "git",
                 "url": "https://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@github.com/riosst100/m2-core-marketplace.git",
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "reference": "5d24d88b84eaa76658b438fb192f3169ebc64632"
+=======
+                "reference": "7d90cbade025496e7309ecfd524f718e5cac2d80"
+>>>>>>> parent of b499bd15 (update)
 =======
                 "reference": "7d90cbade025496e7309ecfd524f718e5cac2d80"
 >>>>>>> parent of b499bd15 (update)
@@ -22175,7 +22179,11 @@
                 "magento2"
             ],
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2026-01-11T07:11:29+00:00"
+=======
+            "time": "2026-01-11T04:40:05+00:00"
+>>>>>>> parent of b499bd15 (update)
 =======
             "time": "2026-01-11T04:40:05+00:00"
 >>>>>>> parent of b499bd15 (update)
